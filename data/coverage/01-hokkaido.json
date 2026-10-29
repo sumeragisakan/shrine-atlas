@@ -1,0 +1,2977 @@
+{
+  "code": 1,
+  "name": "北海道",
+  "slug": "hokkaido",
+  "checked": "2026-10-30",
+  "scope": "北海道・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 829,
+  "records": 829,
+  "directory_indexes": 70,
+  "baseline_rows": 600,
+  "agency_rows": 598,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 369,
+  "historical_only_records": 231,
+  "with_deities": 820,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 829,
+  "municipalities": [
+    {
+      "municipality": "三石郡三石町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "三笠市",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "上川郡上川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "上川郡下川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "上川郡剣淵町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "上川郡和寒町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "上川郡当麻町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "上川郡愛別町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "上川郡新得町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "上川郡東川町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "上川郡東神楽町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "上川郡比布町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "上川郡清水町",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "上川郡美瑛町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "上川郡風連町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "上川郡鷹栖町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "上磯郡上磯町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "中川郡中川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "中川郡幕別町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "中川郡本別町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "中川郡池田町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "中川郡美深町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "中川郡豊頃町",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "久遠郡せたな町",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 13,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "久遠郡大成町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "亀田郡七飯町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "亀田郡椴法華村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "二海郡八雲町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "伊達市",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "余市郡仁木町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "余市郡余市町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "余市郡赤井川村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "函館市",
+      "area": "全域",
+      "records": 39,
+      "with_deities": 38,
+      "mapped_locations": 0,
+      "without_coordinates": 39
+    },
+    {
+      "municipality": "利尻郡利尻富士町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "利尻郡利尻町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "勇払郡むかわ町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "勇払郡占冠村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "勇払郡厚真町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "勇払郡安平町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "勇払郡早来町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "勇払郡穂別町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "勇払郡追分町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "勇払郡鵡川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "北広島市",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "北斗市",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "北見市",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "十勝郡浦幌町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "千歳市",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "厚岸郡厚岸町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "厚岸郡浜中町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "厚田郡厚田村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "古宇郡泊村",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "古宇郡神恵内村",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "古平郡古平町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "名寄市",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "増毛郡増毛町",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "士別市",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "夕張市",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "夕張郡栗山町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "夕張郡由仁町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "夕張郡長沼町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "天塩郡天塩町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "天塩郡幌延町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "天塩郡豊富町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "天塩郡遠別町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "奥尻郡奥尻町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "室蘭市",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "富良野市",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "寿都郡寿都町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 18,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "寿都郡黒松内町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "小樽市",
+      "area": "全域",
+      "records": 19,
+      "with_deities": 19,
+      "mapped_locations": 0,
+      "without_coordinates": 19
+    },
+    {
+      "municipality": "山越郡長万部町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "岩内郡共和町",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "岩内郡岩内町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "岩見沢市",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "島牧郡島牧村",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "川上郡弟子屈町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "川上郡標茶町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "帯広市",
+      "area": "全域",
+      "records": 16,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 16
+    },
+    {
+      "municipality": "常呂郡佐呂間町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "常呂郡常呂町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "常呂郡留辺蕊町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "常呂郡置戸町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "常呂郡訓子府町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "幌泉郡えりも町",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "広尾郡大樹町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "広尾郡広尾町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "広尾郡忠類村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "恵庭市",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "斜里郡小清水町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "斜里郡斜里町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "斜里郡清里町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "新冠郡新冠町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "日高郡新ひだか町",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "旭川市",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
+      "municipality": "有珠郡壮瞥町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "札幌市中央区",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "札幌市北区",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "札幌市南区",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "札幌市厚別区",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "札幌市手稲区",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "札幌市東区",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "札幌市清田区",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "札幌市白石区",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "札幌市西区",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "札幌市豊平区",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "札幌郡広島町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "松前郡松前町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 18,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "松前郡福島町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "枝幸郡中頓別町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "枝幸郡枝幸町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "枝幸郡歌登町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "枝幸郡浜頓別町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "根室市",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "桧山郡上ノ国町",
+      "area": "全域",
+      "records": 20,
+      "with_deities": 20,
+      "mapped_locations": 0,
+      "without_coordinates": 20
+    },
+    {
+      "municipality": "桧山郡厚沢部町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "桧山郡江差町",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "様似郡様似町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "標津郡中標津町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "標津郡標津町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "樺戸郡新十津川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "樺戸郡月形町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "樺戸郡浦臼町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "歌志内市",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "江別市",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "沙流郡平取町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "沙流郡日高町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "沙流郡門別町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "河東郡上士幌町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "河東郡士幌町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "河東郡音更町",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "河東郡鹿追町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "河西郡中札内村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "河西郡更別村",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "河西郡芽室町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "浜益郡浜益村",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "浦河郡浦河町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "深川市",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "滝川市",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "瀬棚郡今金町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "瀬棚郡北桧山町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "瀬棚郡瀬棚町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "爾志郡乙部町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "爾志郡熊石町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "留萌市",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "留萌郡小平町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "登別市",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "白糠郡白糠町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "白糠郡音別町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "白老郡白老町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "目梨郡羅臼町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "石狩市",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "石狩市厚田区",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "石狩市浜益区",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "石狩郡当別町",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "石狩郡新篠津村",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "石狩郡石狩町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "砂川市",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "磯谷郡寿都町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "磯谷郡蘭越町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "礼文郡礼文町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "稚内市",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "積丹郡積丹町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "空知郡上富良野町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "空知郡上砂川町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "空知郡中富良野町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "空知郡北村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "空知郡南富良野町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "空知郡南幌町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "空知郡奈井江町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "空知郡栗沢町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "紋別市",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "紋別郡上湧別町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "紋別郡丸瀬布町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "紋別郡湧別町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "紋別郡滝上町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "紋別郡興部町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "紋別郡西興部村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "紋別郡遠軽町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "紋別郡雄武町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "網走市",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "網走郡大空町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "網走郡女満別町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "網走郡東藻琴村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "網走郡津別町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "網走郡美幌町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "美唄市",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "芦別市",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "苫前郡初山別村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "苫前郡羽幌町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "苫前郡苫前町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "苫小牧市",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "茅部郡南茅部町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "茅部郡鹿部町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "虻田郡ニセコ町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "虻田郡京極町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "虻田郡倶知安町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "虻田郡喜茂別町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "虻田郡洞爺村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "虻田郡洞爺湖町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "虻田郡留寿都村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "虻田郡真狩村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "虻田郡虻田町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "虻田郡豊浦町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "赤平市",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "足寄郡足寄町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "足寄郡陸別町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "野付郡別海町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "釧路市",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "釧路郡釧路町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "阿寒郡阿寒町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "雨竜郡北竜町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "雨竜郡妹背牛町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "雨竜郡幌加内町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "雨竜郡沼田町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "雨竜郡秩父別町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "雨竜郡雨竜町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "静内郡静内町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    }
+  ],
+  "collections": [
+    "data/shrines/01-hokkaido/agency-001.json",
+    "data/shrines/01-hokkaido/agency-002.json",
+    "data/shrines/01-hokkaido/agency-003.json",
+    "data/shrines/01-hokkaido/agency-004.json",
+    "data/shrines/01-hokkaido/history-001.json",
+    "data/shrines/01-hokkaido/history-002.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 600,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "1"
+        }
+      }
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/hidaka/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/hiyama/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/iburi/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/abashiri/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/dounan/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/kamikawa/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sapporo/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/monbetsu/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/kushiro/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/nemuro/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/rumoi/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/shiribeshi/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/souya/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/tokachi/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sorachi/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/abashiri/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/dounan/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/dounan/page/4/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/hidaka/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/dounan/page/5/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/dounan/page/3/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/kamikawa/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/iburi/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/kamikawa/page/3/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/hiyama/page/4/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/hiyama/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/hiyama/page/3/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/rumoi/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sapporo/page/4/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sapporo/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/shiribeshi/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sapporo/page/3/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sapporo/page/5/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sorachi/page/3/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sorachi/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sorachi/page/4/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/shiribeshi/page/3/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/shiribeshi/page/5/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/shiribeshi/page/4/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/tokachi/page/4/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/tokachi/page/3/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/tokachi/page/2/",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/dounan/page/4/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/hidaka/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/dounan/page/5/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/abashiri/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/dounan/page/3/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/dounan/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/hiyama/page/3/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/kamikawa/page/3/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/kamikawa/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/iburi/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/hiyama/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/hiyama/page/4/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sapporo/page/3/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sapporo/page/4/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/shiribeshi/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sapporo/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sapporo/page/5/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/rumoi/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sorachi/page/4/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/shiribeshi/page/5/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sorachi/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/sorachi/page/3/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/shiribeshi/page/3/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/shiribeshi/page/4/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/tokachi/page/4/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/tokachi/page/2/#header",
+      "entries": null
+    },
+    {
+      "label": "北海道神社庁・15支部公开名录",
+      "url": "https://hokkaidojinjacho.jp/jinja-area/tokachi/page/3/#header",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "北海道神社庁",
+      "label": "北海道神社庁・15支部公开名录",
+      "scope_note": "覆盖网站公开链接的15支部名录及其全部可访问详情，不等于县内全部小祠或未列名设施。地址查询地图不转换为估算坐标。",
+      "expected_rows": 598,
+      "pagination_complete": true,
+      "failures": []
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "01-agency-d817547cef2cb2",
+        "01-history-3b122c3306ddd0"
+      ],
+      "name": "三嶋神社",
+      "municipality": "亀田郡七飯町"
+    },
+    {
+      "ids": [
+        "01-agency-31bc7e453599bb",
+        "01-history-71883ba8fe91bb"
+      ],
+      "name": "三川神社",
+      "municipality": "夕張郡由仁町"
+    },
+    {
+      "ids": [
+        "01-agency-2f2cf3ec94b49d",
+        "01-history-60d493d779a8ec"
+      ],
+      "name": "三笠神社",
+      "municipality": "三笠市"
+    },
+    {
+      "ids": [
+        "01-agency-411fd6db67fa2d",
+        "01-history-7627da5c53f0be"
+      ],
+      "name": "上川神社",
+      "municipality": "旭川市"
+    },
+    {
+      "ids": [
+        "01-agency-e4b92f69d594c6",
+        "01-history-8d7483aaa7f9c4"
+      ],
+      "name": "上更別神社",
+      "municipality": "河西郡更別村"
+    },
+    {
+      "ids": [
+        "01-agency-ca617bd337f18c",
+        "01-history-d3e59881ca3ce2"
+      ],
+      "name": "上砂川神社",
+      "municipality": "空知郡上砂川町"
+    },
+    {
+      "ids": [
+        "01-agency-0681c81bc37b49",
+        "01-history-965f26dbf1b0d4"
+      ],
+      "name": "中士別神社",
+      "municipality": "士別市"
+    },
+    {
+      "ids": [
+        "01-agency-13c5047a748970",
+        "01-history-c1e6071e798c4d"
+      ],
+      "name": "中小屋神社",
+      "municipality": "石狩郡当別町"
+    },
+    {
+      "ids": [
+        "01-agency-46a52b31ceb437",
+        "01-history-0043a86844ba78"
+      ],
+      "name": "仙美里八幡神社",
+      "municipality": "中川郡本別町"
+    },
+    {
+      "ids": [
+        "01-agency-50a868389b727d",
+        "01-history-abc517f36bd7a0"
+      ],
+      "name": "伊都岐島神社",
+      "municipality": "寿都郡寿都町"
+    },
+    {
+      "ids": [
+        "01-agency-034d036f095fbb",
+        "01-history-0f6f3913d01bc2"
+      ],
+      "name": "伏古神社",
+      "municipality": "帯広市"
+    },
+    {
+      "ids": [
+        "01-agency-2a7b2c203227e0",
+        "01-history-6325217583e384"
+      ],
+      "name": "倶知安神社",
+      "municipality": "虻田郡倶知安町"
+    },
+    {
+      "ids": [
+        "01-agency-9e72b723becd70",
+        "01-history-aed5a0e6d9f3ae"
+      ],
+      "name": "八幡神社",
+      "municipality": "紋別市"
+    },
+    {
+      "ids": [
+        "01-agency-1c909598db93dd",
+        "01-agency-f28be90d537ed5",
+        "01-agency-617797d77af2f0",
+        "01-history-6b9622c44365ce",
+        "01-history-9c5234401ebdd5"
+      ],
+      "name": "八幡神社",
+      "municipality": "松前郡福島町"
+    },
+    {
+      "ids": [
+        "01-agency-50f89bc40fb8fd",
+        "01-history-89e3ad8ab670b4"
+      ],
+      "name": "刈田神社",
+      "municipality": "登別市"
+    },
+    {
+      "ids": [
+        "01-agency-c5c8e3f09457ee",
+        "01-history-028a3340425ace"
+      ],
+      "name": "別保神社",
+      "municipality": "釧路郡釧路町"
+    },
+    {
+      "ids": [
+        "01-agency-57a1576336154c",
+        "01-history-b339bc8f0e4833"
+      ],
+      "name": "剣淵神社",
+      "municipality": "上川郡剣淵町"
+    },
+    {
+      "ids": [
+        "01-agency-8c9bee0b6172cf",
+        "01-history-f91720c15b48c1"
+      ],
+      "name": "北村神社",
+      "municipality": "岩見沢市"
+    },
+    {
+      "ids": [
+        "01-agency-4c2fcd46dc0f8d",
+        "01-history-37a9889c68f11d"
+      ],
+      "name": "北海道護国神社",
+      "municipality": "旭川市"
+    },
+    {
+      "ids": [
+        "01-agency-eec467e056e2f5",
+        "01-history-1a4de3b39e99a0"
+      ],
+      "name": "北野神社",
+      "municipality": "上川郡鷹栖町"
+    },
+    {
+      "ids": [
+        "01-agency-7edbb4efe3d713",
+        "01-history-95ab67b746e3f1"
+      ],
+      "name": "厚岸神社",
+      "municipality": "厚岸郡厚岸町"
+    },
+    {
+      "ids": [
+        "01-agency-8f8518c671a477",
+        "01-history-2d6f3a9efe1531"
+      ],
+      "name": "報徳二宮神社",
+      "municipality": "中川郡豊頃町"
+    },
+    {
+      "ids": [
+        "01-agency-f15b5cb5c0db5d",
+        "01-history-1a549e430d0722"
+      ],
+      "name": "士別神社",
+      "municipality": "士別市"
+    },
+    {
+      "ids": [
+        "01-agency-23fdf4e275934a",
+        "01-history-695561e623d2a5"
+      ],
+      "name": "大山神社",
+      "municipality": "爾志郡乙部町"
+    },
+    {
+      "ids": [
+        "01-agency-35b9174785ef0b",
+        "01-history-b2f45977b27bc5"
+      ],
+      "name": "大樹神社",
+      "municipality": "広尾郡大樹町"
+    },
+    {
+      "ids": [
+        "01-agency-6bacb90736b422",
+        "01-history-c23d0b89b8ebff"
+      ],
+      "name": "奈井江神社",
+      "municipality": "空知郡奈井江町"
+    },
+    {
+      "ids": [
+        "01-agency-a03ebd39bd2c49",
+        "01-history-f013756817905f"
+      ],
+      "name": "女代神社",
+      "municipality": "余市郡仁木町"
+    },
+    {
+      "ids": [
+        "01-agency-aecba7c7aec127",
+        "01-history-585be473657649"
+      ],
+      "name": "姥神大神宮",
+      "municipality": "桧山郡江差町"
+    },
+    {
+      "ids": [
+        "01-agency-30178c1eef3aa9",
+        "01-history-8328e12a0f68ec"
+      ],
+      "name": "定山渓神社",
+      "municipality": "札幌市南区"
+    },
+    {
+      "ids": [
+        "01-agency-c46a2c3d628d08",
+        "01-history-027d83aafbd8c7"
+      ],
+      "name": "対雁通相馬神社",
+      "municipality": "石狩郡当別町"
+    },
+    {
+      "ids": [
+        "01-agency-77f90e72cb7dc6",
+        "01-history-0e1ffcdd0d416b"
+      ],
+      "name": "寿都神社",
+      "municipality": "寿都郡寿都町"
+    },
+    {
+      "ids": [
+        "01-agency-ec4821c1104f4b",
+        "01-history-4942371d677d0d"
+      ],
+      "name": "小沢神社",
+      "municipality": "岩内郡共和町"
+    },
+    {
+      "ids": [
+        "01-agency-9141885b840a84",
+        "01-history-5ad831f9f0eea2"
+      ],
+      "name": "小清水神社",
+      "municipality": "斜里郡小清水町"
+    },
+    {
+      "ids": [
+        "01-agency-0487b50f9c8eef",
+        "01-history-457b5a49bb6917"
+      ],
+      "name": "山部神社",
+      "municipality": "富良野市"
+    },
+    {
+      "ids": [
+        "01-agency-8d46f66de2cf73",
+        "01-history-70492aefa4876b"
+      ],
+      "name": "川上神社",
+      "municipality": "川上郡標茶町"
+    },
+    {
+      "ids": [
+        "01-agency-161fc8daa3578e",
+        "01-history-2d9901135b912f"
+      ],
+      "name": "川湯神社",
+      "municipality": "川上郡弟子屈町"
+    },
+    {
+      "ids": [
+        "01-agency-e7dfd948555ef2",
+        "01-history-4fe75126832492"
+      ],
+      "name": "幌延神社",
+      "municipality": "天塩郡幌延町"
+    },
+    {
+      "ids": [
+        "01-agency-1064abc5a16b2a",
+        "01-history-e5bc92c233d967"
+      ],
+      "name": "弁華別神社",
+      "municipality": "石狩郡当別町"
+    },
+    {
+      "ids": [
+        "01-agency-0447afe3ce5fca",
+        "01-history-151593ff810be1"
+      ],
+      "name": "弟子屈神社",
+      "municipality": "川上郡弟子屈町"
+    },
+    {
+      "ids": [
+        "01-agency-e85adf567bc5ae",
+        "01-history-2d0034f87d2960"
+      ],
+      "name": "当別神社",
+      "municipality": "石狩郡当別町"
+    },
+    {
+      "ids": [
+        "01-agency-9ac70b857fb906",
+        "01-history-1cb7371408aa88"
+      ],
+      "name": "御影神社",
+      "municipality": "上川郡清水町"
+    },
+    {
+      "ids": [
+        "01-agency-3f9e3e9f1aa72e",
+        "01-history-99dc08a1defd59"
+      ],
+      "name": "恵比須神社",
+      "municipality": "増毛郡増毛町"
+    },
+    {
+      "ids": [
+        "01-agency-04e64ac20d68aa",
+        "01-history-c64018c0243ce9"
+      ],
+      "name": "恵比須神社",
+      "municipality": "古宇郡泊村"
+    },
+    {
+      "ids": [
+        "01-agency-c9990a73aecf6f",
+        "01-history-f80a3e65c50645"
+      ],
+      "name": "愛宕神社",
+      "municipality": "石狩郡新篠津村"
+    },
+    {
+      "ids": [
+        "01-agency-9d96f2fe9c3fad",
+        "01-history-5e8705362da414"
+      ],
+      "name": "本別神社",
+      "municipality": "中川郡本別町"
+    },
+    {
+      "ids": [
+        "01-agency-2edc6ffcf299a0",
+        "01-history-e8236a1589ab9e"
+      ],
+      "name": "本別稲荷神社",
+      "municipality": "茅部郡鹿部町"
+    },
+    {
+      "ids": [
+        "01-agency-a05c64aa028fdc",
+        "01-history-680a644cce3418"
+      ],
+      "name": "本輪西八幡神社",
+      "municipality": "室蘭市"
+    },
+    {
+      "ids": [
+        "01-agency-b08ee7e9a455f1",
+        "01-history-9cbed76afa3609"
+      ],
+      "name": "札幌村神社",
+      "municipality": "札幌市東区"
+    },
+    {
+      "ids": [
+        "01-agency-2c2a5f8190faf6",
+        "01-history-616b631e7b391a"
+      ],
+      "name": "東山神社",
+      "municipality": "富良野市"
+    },
+    {
+      "ids": [
+        "01-agency-ab322eaef20b25",
+        "01-history-aabd26287033a3"
+      ],
+      "name": "東川神社",
+      "municipality": "上川郡東川町"
+    },
+    {
+      "ids": [
+        "01-agency-845529404e92b4",
+        "01-history-75350d0dc85dd7"
+      ],
+      "name": "東裏神社",
+      "municipality": "石狩郡当別町"
+    },
+    {
+      "ids": [
+        "01-agency-75c5718fa54271",
+        "01-history-332338ab0dce9d"
+      ],
+      "name": "標津神社",
+      "municipality": "標津郡標津町"
+    },
+    {
+      "ids": [
+        "01-agency-6b3153ad68b45c",
+        "01-history-8526236751f051"
+      ],
+      "name": "比遅里神社",
+      "municipality": "函館市"
+    },
+    {
+      "ids": [
+        "01-agency-1afec483568b01",
+        "01-history-baccb9aa758823"
+      ],
+      "name": "水天宮",
+      "municipality": "札幌市中央区"
+    },
+    {
+      "ids": [
+        "01-agency-16c73c9b53510f",
+        "01-history-54342bb107628d"
+      ],
+      "name": "泊神社",
+      "municipality": "桧山郡江差町"
+    },
+    {
+      "ids": [
+        "01-agency-b74dba55fc6ee0",
+        "01-history-4f20ff2b708da8"
+      ],
+      "name": "泊稲荷神社",
+      "municipality": "古宇郡泊村"
+    },
+    {
+      "ids": [
+        "01-agency-fb6a0509b25147",
+        "01-history-58c9f1d0ac3e22"
+      ],
+      "name": "浜頓別神社",
+      "municipality": "枝幸郡浜頓別町"
+    },
+    {
+      "ids": [
+        "01-agency-4865ee7ee9fdf4",
+        "01-history-5a846f8ea57240"
+      ],
+      "name": "清水神社",
+      "municipality": "上川郡清水町"
+    },
+    {
+      "ids": [
+        "01-agency-0234fc60695abe",
+        "01-history-1cf36b9a2a64de"
+      ],
+      "name": "湯倉神社",
+      "municipality": "函館市"
+    },
+    {
+      "ids": [
+        "01-agency-8bfa2466fa3cf2",
+        "01-history-69bfbc5664be68"
+      ],
+      "name": "滝川神社",
+      "municipality": "滝川市"
+    },
+    {
+      "ids": [
+        "01-agency-5219cd0cf11a06",
+        "01-history-59071cb7bafd47"
+      ],
+      "name": "然別神社",
+      "municipality": "河東郡音更町"
+    },
+    {
+      "ids": [
+        "01-agency-cf5979595c1983",
+        "01-history-0139c3917d4ce9"
+      ],
+      "name": "熊野神社",
+      "municipality": "寿都郡黒松内町"
+    },
+    {
+      "ids": [
+        "01-agency-14574cbcf0763e",
+        "01-history-3ad4a77d46134e"
+      ],
+      "name": "狩太神社",
+      "municipality": "虻田郡ニセコ町"
+    },
+    {
+      "ids": [
+        "01-agency-2105d3971f9281",
+        "01-history-14f06f9b70d834"
+      ],
+      "name": "班渓神社",
+      "municipality": "芦別市"
+    },
+    {
+      "ids": [
+        "01-agency-37552ffd737559",
+        "01-history-4d541692e22c86"
+      ],
+      "name": "琴似神社",
+      "municipality": "札幌市西区"
+    },
+    {
+      "ids": [
+        "01-agency-bd04761a44b6b1",
+        "01-history-32ec879ce22a8c"
+      ],
+      "name": "琴平神社",
+      "municipality": "古平郡古平町"
+    },
+    {
+      "ids": [
+        "01-agency-d5140bcc7b9986",
+        "01-history-8a80aff8c0962e"
+      ],
+      "name": "生田原神社",
+      "municipality": "紋別郡遠軽町"
+    },
+    {
+      "ids": [
+        "01-agency-d355b23466742a",
+        "01-history-3e3e065507193c"
+      ],
+      "name": "留寿都神社",
+      "municipality": "虻田郡留寿都村"
+    },
+    {
+      "ids": [
+        "01-agency-00a31807971a3a",
+        "01-history-19ff1f43c7c259"
+      ],
+      "name": "石山神社",
+      "municipality": "札幌市南区"
+    },
+    {
+      "ids": [
+        "01-agency-f9934b6f1a06d8",
+        "01-history-b99a715728328c"
+      ],
+      "name": "礼文神社",
+      "municipality": "礼文郡礼文町"
+    },
+    {
+      "ids": [
+        "01-agency-481600e080e6e2",
+        "01-agency-a40ec7f8b42506",
+        "01-agency-511f2c19ae7004",
+        "01-agency-cc1486458bd8d3",
+        "01-agency-9f564018b5da39",
+        "01-history-11736416a1c01a"
+      ],
+      "name": "稲荷神社",
+      "municipality": "函館市"
+    },
+    {
+      "ids": [
+        "01-agency-e6774d8fa979fa",
+        "01-history-19272075d12267"
+      ],
+      "name": "稲荷神社",
+      "municipality": "島牧郡島牧村"
+    },
+    {
+      "ids": [
+        "01-agency-183856db27c536",
+        "01-agency-d48834fafed6a7",
+        "01-agency-e2b6ee521ad25e",
+        "01-history-45ccb0b86b0d1d",
+        "01-history-8199eca537e158",
+        "01-history-92e90232962b27",
+        "01-history-e84abefd44e261",
+        "01-history-2ab49b7650399c",
+        "01-history-b02fbc53a48cce"
+      ],
+      "name": "稲荷神社",
+      "municipality": "寿都郡寿都町"
+    },
+    {
+      "ids": [
+        "01-agency-743335c1fbebf6",
+        "01-agency-ac27a0693e5d67",
+        "01-agency-cfa643f714f498",
+        "01-agency-dd3a917bae392d",
+        "01-agency-6606b25246a687",
+        "01-agency-659031d435ce4b",
+        "01-agency-bd6c620e79b7c9",
+        "01-history-f93befc3056f75"
+      ],
+      "name": "稲荷神社",
+      "municipality": "桧山郡上ノ国町"
+    },
+    {
+      "ids": [
+        "01-agency-6a59b8b04a80ed",
+        "01-agency-7380c42a7c9943",
+        "01-agency-aa5503d0bce058",
+        "01-agency-194dde6c57a1e6",
+        "01-agency-01cc79b2b1ff91",
+        "01-agency-27d64422e1e040",
+        "01-agency-e2f29d1226cf22",
+        "01-history-8eb6b60788161a"
+      ],
+      "name": "稲荷神社",
+      "municipality": "幌泉郡えりも町"
+    },
+    {
+      "ids": [
+        "01-agency-07d07543ae8102",
+        "01-agency-6c0d5a60c3dc7d",
+        "01-history-10a5c1b2f62cfe"
+      ],
+      "name": "稲荷神社",
+      "municipality": "様似郡様似町"
+    },
+    {
+      "ids": [
+        "01-agency-fd11c68019a6db",
+        "01-history-a1217b47c287e2"
+      ],
+      "name": "稲荷神社",
+      "municipality": "増毛郡増毛町"
+    },
+    {
+      "ids": [
+        "01-agency-befc78b8f660ed",
+        "01-agency-bab6ac5c2ce2c1",
+        "01-history-5a99f89a0fd685"
+      ],
+      "name": "稲荷神社",
+      "municipality": "磯谷郡蘭越町"
+    },
+    {
+      "ids": [
+        "01-agency-c0dae215273731",
+        "01-history-c80434ce7f6d06"
+      ],
+      "name": "稲荷神社",
+      "municipality": "岩内郡共和町"
+    },
+    {
+      "ids": [
+        "01-agency-530be52e19a852",
+        "01-agency-7c606633009d29",
+        "01-history-9e40d5c75620bb"
+      ],
+      "name": "稲荷神社",
+      "municipality": "積丹郡積丹町"
+    },
+    {
+      "ids": [
+        "01-agency-02a11336a087bc",
+        "01-agency-2b7706b0cc5e08",
+        "01-history-88b83d25961973"
+      ],
+      "name": "稲荷神社",
+      "municipality": "小樽市"
+    },
+    {
+      "ids": [
+        "01-agency-5d8b690bd3d1a0",
+        "01-agency-74715caaf72b68",
+        "01-agency-635c3c1a9d7463",
+        "01-agency-90f001b300b668",
+        "01-history-ee81a41e8d54fb"
+      ],
+      "name": "稲荷神社",
+      "municipality": "亀田郡七飯町"
+    },
+    {
+      "ids": [
+        "01-agency-9fbb37bf219ce3",
+        "01-history-939a037ed46231"
+      ],
+      "name": "篠路神社",
+      "municipality": "札幌市北区"
+    },
+    {
+      "ids": [
+        "01-agency-c1e7f410bb1847",
+        "01-history-6287efa9f120ad"
+      ],
+      "name": "美深神社",
+      "municipality": "中川郡美深町"
+    },
+    {
+      "ids": [
+        "01-agency-45dc1d23c4d417",
+        "01-history-01837fb0ea137d"
+      ],
+      "name": "美瑛神社",
+      "municipality": "上川郡美瑛町"
+    },
+    {
+      "ids": [
+        "01-agency-9e0da723f25ca7",
+        "01-history-65594878d75c4a"
+      ],
+      "name": "羽幌神社",
+      "municipality": "苫前郡羽幌町"
+    },
+    {
+      "ids": [
+        "01-agency-d454ddc05cf4fb",
+        "01-history-78fd9293197ec2"
+      ],
+      "name": "興国神社",
+      "municipality": "旭川市"
+    },
+    {
+      "ids": [
+        "01-agency-1cf11e487f98c9",
+        "01-history-3d9fc2d93ea166"
+      ],
+      "name": "花岡神社",
+      "municipality": "札幌市南区"
+    },
+    {
+      "ids": [
+        "01-agency-fdd6aa868ee2a8",
+        "01-history-3aadedf1e59403"
+      ],
+      "name": "芽生神社",
+      "municipality": "深川市"
+    },
+    {
+      "ids": [
+        "01-agency-2c4f5418e95c2a",
+        "01-history-03853d040ebba3"
+      ],
+      "name": "苗穂神社",
+      "municipality": "札幌市東区"
+    },
+    {
+      "ids": [
+        "01-agency-88aabeb71217c7",
+        "01-history-f76b5e5ead4643"
+      ],
+      "name": "西興部神社",
+      "municipality": "紋別郡西興部村"
+    },
+    {
+      "ids": [
+        "01-agency-4b9dec303307e0",
+        "01-history-5fa4ffa7d5c23d"
+      ],
+      "name": "計根別神社",
+      "municipality": "標津郡中標津町"
+    },
+    {
+      "ids": [
+        "01-agency-9130a7ac956c16",
+        "01-history-e36ce7084ca6aa"
+      ],
+      "name": "諏訪神社",
+      "municipality": "札幌市東区"
+    },
+    {
+      "ids": [
+        "01-agency-32349b23b27955",
+        "01-history-6d63165091dfe5"
+      ],
+      "name": "豊栄神社",
+      "municipality": "恵庭市"
+    },
+    {
+      "ids": [
+        "01-agency-2098927cbd6c3f",
+        "01-history-1362633222a189"
+      ],
+      "name": "豊頃神社",
+      "municipality": "中川郡豊頃町"
+    },
+    {
+      "ids": [
+        "01-agency-e08c38212409c1",
+        "01-history-6d9f55ba9073a4"
+      ],
+      "name": "赤井川神社",
+      "municipality": "余市郡赤井川村"
+    },
+    {
+      "ids": [
+        "01-agency-2c18f5352df17c",
+        "01-history-7461657479e15b"
+      ],
+      "name": "錦山天満宮",
+      "municipality": "江別市"
+    },
+    {
+      "ids": [
+        "01-agency-8d63568605ec3f",
+        "01-history-0dbefdbd583dfa"
+      ],
+      "name": "霧多布神社",
+      "municipality": "厚岸郡浜中町"
+    },
+    {
+      "ids": [
+        "01-agency-616c2193c877f4",
+        "01-history-5e7c28a75e7660"
+      ],
+      "name": "音更神社",
+      "municipality": "河東郡音更町"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 9,
+    "unmapped_records": 829
+  }
+}

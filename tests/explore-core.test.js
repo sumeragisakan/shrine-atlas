@@ -6,7 +6,8 @@ const path = require('node:path');
 const E = require('../web/explore-core.js');
 const root = path.resolve(__dirname, '..');
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'data/catalog.json')));
-const rows = catalog.collections.flatMap(f => JSON.parse(fs.readFileSync(path.join(root, f))));
+const birdCollections = catalog.regions ? catalog.regions.find(r=>r.code===31).collections : catalog.collections;
+const rows = birdCollections.flatMap(f => JSON.parse(fs.readFileSync(path.join(root, f))));
 const prefs = JSON.parse(fs.readFileSync(path.join(root, catalog.map)));
 const base = {pref:31, city:'全部', area:'全部', quality:'all'};
 

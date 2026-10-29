@@ -67,7 +67,8 @@ def main():
     parse=helper['detail_fields'];Page=helper['Page'];Fetcher=helper['Fetcher']
     fetcher=Fetcher(cache)
     catalog=json.loads((ROOT/'data/catalog.json').read_text())
-    existing=[r for name in catalog['collections'] for r in json.loads((ROOT/name).read_text())]
+    bird_collections=next((r['collections']for r in catalog.get('regions',[])if r['code']==31),catalog['collections'])
+    existing=[r for name in bird_collections for r in json.loads((ROOT/name).read_text())]
     seed_path=Path(sys.argv[3]) if len(sys.argv)>3 else None
     if seed_path:existing=json.loads(seed_path.read_text())
     curated=[r for r in existing if r.get('record_status')=='research_enriched' or not r.get('directory')]
@@ -231,7 +232,10 @@ def main():
             'detail_status':r['directory']['detail_status']}for r in rows if not r['kami']or not any(l['map_status']=='mapped'for l in r['locations'])or r['directory']['detail_url']is None],
         'indexes':manifest['indexes']}
     (ROOT/'data/coverage-tottori.json').write_text(json.dumps(coverage,ensure_ascii=False,indent=2)+'\n')
-    catalog.update({'schema_version':2,'checked':DATE,'collections':collections,'coverage':'data/coverage-tottori.json',
+    if catalog.get('regions'):
+        region=next(r for r in catalog['regions']if r['code']==31);region['collections']=collections
+        collections=[c for r in catalog['regions']for c in r['collections']]
+    catalog.update({'schema_version':3 if catalog.get('regions')else 2,'checked':DATE,'collections':collections,'coverage':'data/coverage-tottori.json',
                     'coverage_note':coverage['scope']+'；原资料缺失或有差异的字段另行标注。'})
     (ROOT/'data/catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n')
     old=ROOT/'data/shrines/tottori.json'

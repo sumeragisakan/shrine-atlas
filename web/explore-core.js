@@ -24,6 +24,8 @@ const AtlasExplore = (() => {
         state.quality === 'kami' && !r.kami.length ||
         state.quality === 'unmapped' && !r.locations.some(mapped) ||
         state.quality === 'enriched' && r.record_status === 'research_enriched' ||
+        state.quality === 'agency' && r.record_status !== 'historical_directory' ||
+        state.quality === 'historical' && r.record_status === 'historical_directory' ||
         state.quality === 'closed' && r.entity_registry?.state === 'closed_by_merger'));
   }
   function facets(rows, kind) {

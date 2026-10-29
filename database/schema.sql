@@ -40,7 +40,7 @@ CREATE TABLE tags (
 
 CREATE TABLE sources (
     id TEXT PRIMARY KEY,
-    url TEXT NOT NULL UNIQUE CHECK (url LIKE 'https://%'),
+    url TEXT NOT NULL UNIQUE CHECK (url LIKE 'https://%' OR url LIKE 'http://%'),
     label TEXT NOT NULL,
     kind TEXT NOT NULL,
     covers TEXT NOT NULL,
@@ -67,7 +67,9 @@ CREATE TABLE locations (
     latitude REAL CHECK (latitude BETWEEN -90 AND 90),
     longitude REAL CHECK (longitude BETWEEN -180 AND 180),
     precision_note TEXT NOT NULL,
-    map_status TEXT NOT NULL CHECK (map_status IN ('mapped','not_published','outside_prefecture_needs_review')),
+    map_status TEXT NOT NULL CHECK (map_status IN ('mapped','not_published','outside_prefecture_needs_review','source_map_viewport')),
+    address_status TEXT NOT NULL,
+    legacy_address TEXT,
     CHECK ((latitude IS NULL) = (longitude IS NULL)),
     CHECK (map_status != 'mapped' OR latitude IS NOT NULL),
     UNIQUE (shrine_id, ordinal),
@@ -76,7 +78,7 @@ CREATE TABLE locations (
 
 CREATE TABLE directory_entries (
     shrine_id TEXT PRIMARY KEY REFERENCES shrines(id),
-    directory_number INTEGER NOT NULL UNIQUE,
+    directory_number TEXT NOT NULL UNIQUE,
     index_name TEXT NOT NULL,
     index_url TEXT NOT NULL,
     listed_address TEXT NOT NULL,
@@ -94,6 +96,16 @@ CREATE TABLE record_quality (
     history_availability TEXT NOT NULL,
     kami_verbatim TEXT NOT NULL,
     former_rank TEXT NOT NULL
+) STRICT;
+
+CREATE TABLE source_retrievals (
+    source_id TEXT PRIMARY KEY REFERENCES sources(id),
+    retrieval_json TEXT NOT NULL
+) STRICT;
+
+CREATE TABLE record_provenance (
+    shrine_id TEXT PRIMARY KEY REFERENCES shrines(id),
+    provenance_json TEXT NOT NULL
 ) STRICT;
 
 CREATE TABLE entity_registry (
