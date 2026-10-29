@@ -200,7 +200,7 @@ def import_prefecture(code,baseline_path,agency_paths,geo_path):
         'with_deities':sum(bool(r['kami'])for r in rows),'mapped_locations':sum(l['map_status']=='mapped'for r in rows for l in r['locations']),
         'enriched_records':0,'details_matched':0,'records_with_detail_links':sum(bool(r['directory']['detail_url'])for r in rows),'municipalities':municipalities,
         'collections':collections,'indexes':[{'label':'神社史研究会・地区检索（POST）','url':baseline['query_url'],'entries':len(old),'request':baseline['request']}]+[{'label':a['label'],'url':u,'entries':None}for a in agencies for u in a.get('index_urls',[])],
-        'agency_scopes':[{k:a.get(k)for k in['provider','label','scope_note','expected_rows','pagination_complete','failures']}for a in agencies],
+        'agency_scopes':[{k:a.get(k)for k in['provider','label','scope_note','expected_rows','pagination_complete','failures','profile_counts','detail_completion','source_vintage','historical_source','profile_publication_dates','profile_field_coverage','collection_interruption','supplemental_api_access','detail_pages_total','detail_pages_loaded','detail_pages_complete','detail_scope_note','collection_stopped_reason','warnings','potential_duplicate_profile_groups']}for a in agencies],
         'coordinate_quarantine':quarantine,'duplicate_candidates':dedup_candidates,'link_corrections':[],
         'missing_fields_summary':{'deities':sum(not r['kami']for r in rows),'unmapped_records':sum(not any(l['map_status']=='mapped'for l in r['locations'])for r in rows)}}
     path=ROOT/f'data/coverage/{code:02d}-{slug}.json';path.parent.mkdir(exist_ok=True);path.write_text(json.dumps(coverage,ensure_ascii=False,indent=2)+'\n')

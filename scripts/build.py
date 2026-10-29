@@ -235,6 +235,9 @@ def build_reports(catalog):
         c=read_json(r['coverage']);body=[f"# {r['name']} · 来源范围",'',f"查阅：{c['checked']}。来源记录 {r['records']} 条，机构记录 {r['agency_rows']} 条，未可靠对应的历史条目 {r['historical_only_records']} 条。",'',c['scope_note'],'',f"有祭神资料 {r['with_deities']} 条；可标示参考点 {r['mapped_locations']} 处。",'']
         for agency in c.get('agency_scopes',[]):
             body += ['## '+agency['provider'],'',agency.get('scope_note')or'以实际公开索引为准。','',f"已遍历公开索引：{agency.get('pagination_complete')}；来源异常项：{len(agency.get('failures')or[])}。",'']
+            detail=agency.get('profile_counts')or agency.get('detail_completion')
+            if detail:body += ['详情读取状态：`'+json.dumps(detail,ensure_ascii=False,separators=(',',':'))+'`。','']
+            if agency.get('source_vintage'):body += ['来源版本：'+str(agency['source_vintage'])+'。','']
         body += ['## 核对入口','',f"- [覆盖与异常完整报告](../../{r['coverage']})",f"- [离线页面](../../{r['offline']})",f"- [数据库](../../{r['database']})",'',f"坐标隔离 {len(c.get('coordinate_quarantine',[]))} 项；同名待核分组 {len(c.get('duplicate_candidates',[]))} 组；明确排除来源行 {len(c.get('excluded_source_rows',[]))} 项。",'', '这些数量是来源处理状态，不是全境实存神社统计。历史版本、来源字段错位、公开目录范围不足及未访问详情均按原资料状态保留。','']
         (reports/f"{r['code']:02d}-{r['slug']}.md").write_text('\n'.join(body))
     (ROOT/'docs/NATIONAL_PROGRESS.md').write_text('\n'.join(lines)+'\n')
