@@ -160,11 +160,13 @@ def build_offline(rows, prefectures, coverage):
     html=(ROOT/'index.html').read_text(encoding='utf-8')
     css=(ROOT/'web/atlas.css').read_text(encoding='utf-8')
     js=(ROOT/'web/atlas.js').read_text(encoding='utf-8')
+    core=(ROOT/'web/explore-core.js').read_text(encoding='utf-8')
     inline=json.dumps({'shrines':rows,'prefectures':prefectures,'coverage':coverage},ensure_ascii=False,separators=(',',':')).replace('</','<\\/')
     html=html.replace('<link rel="stylesheet" href="web/atlas.css">','<style>\n'+css+'\n</style>')
     html=html.replace('<script src="web/atlas.js" defer></script>',
                       '<script>window.ATLAS_INLINE_DATA='+inline+';</script>\n<script>\n'+js+'\n</script>')
-    html=html.replace('资料分离版 v0.3','单文件离线版 v0.3').replace(
+    html=html.replace('<script src="web/explore-core.js" defer></script>','<script>\n'+core+'\n</script>')
+    html=html.replace('资料分离版 v0.4','单文件离线版 v0.4').replace(
         '页面读取独立资料文件；另提供单文件离线版本。','资料与地图均已内嵌；打开外部来源页面时需要联网。')
     output=ROOT/'offline/tottori-shrine-atlas.html'
     output.write_text(html,encoding='utf-8')

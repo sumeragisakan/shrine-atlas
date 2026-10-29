@@ -13,36 +13,46 @@
   <nav class="header-actions" aria-label="资料操作"><button class="quiet" id="openMethod">资料说明</button><button class="quiet" id="exportData">导出资料 ↗</button></nav>
 </header>
 <section class="hero" aria-labelledby="pageTitle">
- <div><div class="eyebrow">JAPAN SHRINE ATLAS / TOTTORI DIRECTORY</div><h1 id="pageTitle">神社与祭神 <span>／ 鸟取县</span></h1><p>从地点走近神社，从出处考察祭神。按市町村浏览全县名录，点击地图聚合点放大，逐项核对祭神与出处。</p></div>
+ <div><div class="eyebrow">JAPAN SHRINE ATLAS / TOTTORI DIRECTORY</div><h1 id="pageTitle">神社与祭神 <span>／ 鸟取县</span></h1><p>从一个地方，或一位神祇开始。选择市町村，预览附近的神社，再从出处考察祭神与历史。</p></div>
  <div class="edition" aria-label="收录范围"><div><strong>824<small> 社</small></strong><small>22个地域名录</small></div><div class="divider"></div><div><strong>792<small> 处</small></strong><small>来源地图参考点</small></div><div class="divider date-stat"></div><div class="date-stat"><strong style="font-size:18px">2026.10.29</strong><small>资料查阅日期</small></div></div>
 </section>
 <main class="workspace">
  <section class="map-panel" aria-label="日本神社地图">
   <div class="map-toolbar"><div class="crumbs"><button id="nationalBtn">日本全国</button><span class="slash">/</span><b id="currentPref">鳥取県</b></div><label><span class="sr-only">选择都道府县</span><select id="prefSelect" class="pref-select" aria-label="选择都道府县"></select></label></div>
-  <div class="map-stage" id="mapStage">
+  <div class="map-stage" id="mapStage" tabindex="-1">
    <svg id="mapSvg" class="map-svg" preserveAspectRatio="none" role="group" aria-label="47个都道府县，可点击选择地区"><g id="prefLayer"></g><g id="gridLayer" class="geo-grid" aria-hidden="true"></g></svg>
    <svg id="lineLayer" class="lines" aria-hidden="true"></svg>
    <div id="contextLayer" class="map-overlay" aria-hidden="true"></div><div id="markerLayer" class="map-overlay" aria-label="已收录神社位置"></div>
    <div class="map-title"><div class="vertical" id="mapTitle">鳥取県</div><div class="roman" id="mapRoman">TOTTORI PREFECTURE</div><div class="caption" id="mapCaption">因幡与伯耆之间<br>824条名录，792处参考点</div></div>
    <div class="north" aria-label="北">N<svg viewBox="0 0 20 42"><path d="M10 1L18 31L10 25L2 31Z" fill="#506d54"/><path d="M10 1V39" stroke="#506d54"/></svg></div>
    <div class="map-tools" aria-label="地图控制"><button id="zoomIn" aria-label="放大地图" title="放大">+</button><button id="zoomOut" aria-label="缩小地图" title="缩小">−</button><button id="fitView" class="fit" aria-label="重置为当前地区范围" title="显示当前地区全貌">⌖</button></div>
-   <div class="legend"><span><i></i> 地点 · 数字表示聚合数</span><span><i class="land"></i> 已收录地区</span><span><i class="emptyland"></i> 待收录地区</span></div>
+   <div class="legend"><span><i></i> <span id="legendText">市町村入口 · 数字为名录条数</span></span><span><i class="land"></i> 已收录地区</span><span><i class="emptyland"></i> 待收录地区</span></div>
    <div class="tooltip" id="tooltip" role="tooltip"></div><div id="mapStatus" class="status" role="status" aria-live="polite"></div>
+   <section id="clusterPreview" class="cluster-preview" aria-labelledby="previewTitle" hidden>
+    <div class="preview-head"><div><h3 id="previewTitle" tabindex="-1"></h3><p id="previewPlaces"></p></div><button id="previewClose" aria-label="关闭聚合点预览">×</button></div>
+    <div id="previewList" class="preview-list"></div>
+    <div class="preview-actions"><button id="previewZoom">放大这个区域</button><button id="previewBrowse">浏览这组全部记录 →</button></div>
+   </section>
   </div>
+  <div class="map-browsebar"><div><span id="mapLevel">全县概览 · 市町村入口</span><small id="rangeMoved" class="hide">地图已移动，可更新侧栏范围</small></div><div class="browse-actions"><button id="countyBtn">全县入口</button><button id="browseRange">浏览当前地图范围</button></div></div>
   <div class="map-help"><span>区域分布图 · 位置为来源网页参考点 <span class="desktop-hint">· 拖动平移，滚轮缩放</span></span><button id="mapSources">地图来源与精度</button></div>
  </section>
  <aside class="sidebar" aria-label="神社目录">
-  <div class="directory-head"><div class="small">THE COLLECTION</div><h2><span id="listTitle" style="font:inherit;color:inherit">鸟取县神社</span><span id="resultCount">824 社</span></h2><p id="listHint">覆盖19个市町村 · 814条有祭神资料<br>未公布的字段明确标注。</p>
+  <div class="directory-head"><div class="small">THE COLLECTION</div><h2><span id="listTitle" tabindex="-1" style="font:inherit;color:inherit">鸟取县神社</span><span id="resultCount">824 社</span></h2><p id="listHint">覆盖19个市町村 · 814条有祭神资料<br>未公布的字段明确标注。</p>
+   <button id="openExplore" class="explore-entry"><span>不知道社名？从这里探索</span><small>按地点 · 祭神原文 · 旧社格 · 研究起点 ↗</small></button>
    <div class="searchbox"><svg viewBox="0 0 20 20" fill="none" stroke-width="1.5" aria-hidden="true"><circle cx="8" cy="8" r="5.5"/><path d="m12 12 5 5"/></svg><label class="sr-only" for="search">搜索神社、祭神或地点</label><input type="search" id="search" placeholder="神社名、祭神、地点…" autocomplete="off"><button class="clear-search hide" id="clearSearch" aria-label="清除搜索">×</button></div>
    <div id="directoryFilters"><div class="filter-row" id="filters" aria-label="按鸟取县地区筛选"><button data-area="全部" class="active" aria-pressed="true">全部</button><button data-area="东部" aria-pressed="false">东部</button><button data-area="中部" aria-pressed="false">中部</button><button data-area="西部" aria-pressed="false">西部</button></div>
-   <div class="select-filters"><label for="cityFilter" class="sr-only">市町村</label><select id="cityFilter"></select><label for="qualityFilter" class="sr-only">资料状态</label><select id="qualityFilter"><option value="all">全部资料</option><option value="review">待核对</option><option value="kami">祭神暂缺</option><option value="unmapped">未定位</option><option value="enriched">首批研究12社</option><option value="closed">法人登记已关闭</option></select></div><button id="groupFilter" class="group-filter hide">已限定同一参考点 · 取消 ×</button></div>
+   <div class="select-filters"><label for="cityFilter" class="sr-only">市町村</label><select id="cityFilter"></select><label for="qualityFilter" class="sr-only">资料状态</label><select id="qualityFilter"><option value="all">全部资料</option><option value="review">待核对</option><option value="kami">祭神暂缺</option><option value="unmapped">未定位</option><option value="enriched">首批研究12社</option><option value="closed">法人登记已关闭</option></select></div></div>
+   <div id="activeScopes" class="active-scopes hide" aria-label="当前探索条件"></div>
   </div><div class="list" id="shrineList" aria-live="polite"></div><div class="pagination"><button id="prevPage" aria-label="上一页">← 上一页</button><span id="pageInfo"></span><button id="nextPage" aria-label="下一页">下一页 →</button></div><div class="sidebar-foot">祭神、社传与历史说明分别注明出处。<br>原资料中的异名与不同记载予以保留。</div>
  </aside>
 </main>
-<footer class="page-foot"><span>日本47都道府县地图 · 当前收录鸟取县824条名录 · 资料分离版 v0.3</span><span>页面读取独立资料文件；另提供单文件离线版本。</span></footer>
+<footer class="page-foot"><span>日本47都道府县地图 · 当前收录鸟取县824条名录 · 资料分离版 v0.4</span><span>页面读取独立资料文件；另提供单文件离线版本。</span></footer>
 <noscript><div class="noscript">此交互地图需要浏览器启用 JavaScript。</div></noscript>
 <dialog class="detail-dialog" id="detailDialog" aria-labelledby="detailTitle"><div class="detail-layout"><div class="detail-top" id="detailTop"></div><div class="detail-scroll" id="detailBody"></div></div></dialog>
 <dialog class="method-dialog" id="methodDialog" aria-labelledby="methodTitle"><div class="method-top"><h2 id="methodTitle">关于这份研究地图</h2><button id="closeMethod" aria-label="关闭资料说明">×</button></div><div class="method-body" id="methodBody"></div></dialog>
+<dialog class="explore-dialog" id="exploreDialog" aria-labelledby="exploreTitle"><div class="explore-layout"><div class="method-top"><div><div class="eyebrow">START EXPLORING</div><h2 id="exploreTitle">从哪里开始？</h2></div><button id="closeExplore" aria-label="关闭探索入口">×</button></div><nav id="exploreTabs" class="explore-tabs" aria-label="探索方式"><button data-explore="cities" class="active" aria-pressed="true">按地点</button><button data-explore="kami" aria-pressed="false">祭神原文</button><button data-explore="rank" aria-pressed="false">旧社格</button><button data-explore="reading" aria-pressed="false">研究起点</button></nav><div id="exploreBody" class="explore-body"></div></div></dialog>
+<script src="web/explore-core.js" defer></script>
 <script src="web/atlas.js" defer></script>
 </body>
 </html>
