@@ -1,0 +1,6447 @@
+[
+  {
+    "id": "20-agency-a30142beae3c0e",
+    "no": 2401,
+    "prefecture_code": 20,
+    "name": "金毘羅社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 大物主命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜金毘羅社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52377",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52377",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "大物主命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-a30142beae3c0e:1",
+        "name": "金毘羅社",
+        "label": "金毘羅社",
+        "address": "長野県飯田市大字上久堅字本洞5862",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字上久堅字本洞5862"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》大物主命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字上久堅字本洞5862",
+      "source_address_historical": "長野県飯田市大字上久堅字本洞5862"
+    },
+    "directory": {
+      "number": "A-1abf0618d72c726b79f4",
+      "display_number": "20-02401",
+      "index_name": "金毘羅社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字上久堅字本洞5862",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "1abf0618d72c726b79f4",
+      "national_source_id": "52377",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》大物主命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字上久堅字本洞5862",
+        "source_address_historical": "長野県飯田市大字上久堅字本洞5862"
+      }
+    }
+  },
+  {
+    "id": "20-agency-37a6271e0d5749",
+    "no": 2402,
+    "prefecture_code": 20,
+    "name": "八幡神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 誉田別尊・建御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八幡神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52208",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52208",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別尊",
+          "建御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-37a6271e0d5749:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "長野県飯田市大字上川路368",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市上川路368"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別尊、建御名方命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字上川路368",
+      "source_address_historical": "長野県飯田市上川路368"
+    },
+    "directory": {
+      "number": "A-fa4ccbb4b195a48457ff",
+      "display_number": "20-02402",
+      "index_name": "八幡神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字上川路368",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "fa4ccbb4b195a48457ff",
+      "national_source_id": "52208",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別尊、建御名方命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字上川路368",
+        "source_address_historical": "長野県飯田市上川路368"
+      }
+    }
+  },
+  {
+    "id": "20-agency-298f61e47c2164",
+    "no": 2403,
+    "prefecture_code": 20,
+    "name": "諏訪社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 建御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜諏訪社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52346",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52346",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-298f61e47c2164:1",
+        "name": "諏訪社",
+        "label": "諏訪社",
+        "address": "長野県飯田市大字千栄字宮の沢3015-ﾛ",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字千栄字宮の沢3015-ﾛ"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》建御名方命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字千栄字宮の沢3015-ﾛ",
+      "source_address_historical": "長野県飯田市大字千栄字宮の沢3015-ﾛ"
+    },
+    "directory": {
+      "number": "A-fea5fc22bfc40f9c355c",
+      "display_number": "20-02403",
+      "index_name": "諏訪社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字千栄字宮の沢3015-ﾛ",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "fea5fc22bfc40f9c355c",
+      "national_source_id": "52346",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》建御名方命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字千栄字宮の沢3015-ﾛ",
+        "source_address_historical": "長野県飯田市大字千栄字宮の沢3015-ﾛ"
+      }
+    }
+  },
+  {
+    "id": "20-agency-aab99f8186e404",
+    "no": 2404,
+    "prefecture_code": 20,
+    "name": "伊雜皇社諏訪社 天伯社合殿",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 豊受比売命・建御名方命 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜伊雜皇社諏訪社 天伯社合殿",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52344",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52344",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "豊受比売命",
+          "建御名方命",
+          "天御中主尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-aab99f8186e404:1",
+        "name": "伊雜皇社諏訪社 天伯社合殿",
+        "label": "伊雜皇社諏訪社 天伯社合殿",
+        "address": "長野県飯田市大字千栄字城ｹ腰46",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字千栄字城ｹ腰46"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》豊受比売命、建御名方命、天御中主尊",
+      "former_rank": "",
+      "source_address_current": "飯田市大字千栄字城ｹ腰46",
+      "source_address_historical": "長野県飯田市大字千栄字城ｹ腰46"
+    },
+    "directory": {
+      "number": "A-5fd7b291b8310bd06d7d",
+      "display_number": "20-02404",
+      "index_name": "伊雜皇社諏訪社 天伯社合殿",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字千栄字城ｹ腰46",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "5fd7b291b8310bd06d7d",
+      "national_source_id": "52344",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》豊受比売命、建御名方命、天御中主尊",
+        "former_rank": "",
+        "source_address_current": "飯田市大字千栄字城ｹ腰46",
+        "source_address_historical": "長野県飯田市大字千栄字城ｹ腰46"
+      }
+    }
+  },
+  {
+    "id": "20-agency-aef6bd9a003bc1",
+    "no": 2405,
+    "prefecture_code": 20,
+    "name": "伊雜皇社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 豊受姫命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜伊雜皇社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52350",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52350",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "豊受姫命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "大山祇命",
+          "天之御中主命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-aef6bd9a003bc1:1",
+        "name": "伊雜皇社",
+        "label": "伊雜皇社",
+        "address": "長野県飯田市大字千栄字森3918",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字千栄字森3918"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》豊受姫命、《配》大山祇命、天之御中主命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字千栄字森3918",
+      "source_address_historical": "長野県飯田市大字千栄字森3918"
+    },
+    "directory": {
+      "number": "A-52a856ebe1f7dc4ee48f",
+      "display_number": "20-02405",
+      "index_name": "伊雜皇社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字千栄字森3918",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "52a856ebe1f7dc4ee48f",
+      "national_source_id": "52350",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》豊受姫命、《配》大山祇命、天之御中主命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字千栄字森3918",
+        "source_address_historical": "長野県飯田市大字千栄字森3918"
+      }
+    }
+  },
+  {
+    "id": "20-agency-8d48de9c8f8d5d",
+    "no": 2406,
+    "prefecture_code": 20,
+    "name": "山神社伊雜皇社 天伯社合殿",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 大山祇命・豊受比売命 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜山神社伊雜皇社 天伯社合殿",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52345",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52345",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "大山祇命",
+          "豊受比売命",
+          "天御中主命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-8d48de9c8f8d5d:1",
+        "name": "山神社伊雜皇社 天伯社合殿",
+        "label": "山神社伊雜皇社 天伯社合殿",
+        "address": "長野県飯田市大字千栄字大神宮2356",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字千栄字大神宮2356"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》大山祇命、豊受比売命、天御中主命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字千栄字大神宮2356",
+      "source_address_historical": "長野県飯田市大字千栄字大神宮2356"
+    },
+    "directory": {
+      "number": "A-b4a84c0d6cbecef563da",
+      "display_number": "20-02406",
+      "index_name": "山神社伊雜皇社 天伯社合殿",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字千栄字大神宮2356",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "b4a84c0d6cbecef563da",
+      "national_source_id": "52345",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》大山祇命、豊受比売命、天御中主命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字千栄字大神宮2356",
+        "source_address_historical": "長野県飯田市大字千栄字大神宮2356"
+      }
+    }
+  },
+  {
+    "id": "20-agency-89602046b60b93",
+    "no": 2407,
+    "prefecture_code": 20,
+    "name": "大山祇社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 大山祇命・木花咲耶姫命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜大山祇社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52343",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52343",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "大山祇命",
+          "木花咲耶姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-89602046b60b93:1",
+        "name": "大山祇社",
+        "label": "大山祇社",
+        "address": "長野県飯田市大字千代字大峰591",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字千代字大峰591"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》大山祇命、木花咲耶姫命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字千代字大峰591",
+      "source_address_historical": "長野県飯田市大字千代字大峰591"
+    },
+    "directory": {
+      "number": "A-c4b3d17de4064cb7f4d3",
+      "display_number": "20-02407",
+      "index_name": "大山祇社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字千代字大峰591",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "c4b3d17de4064cb7f4d3",
+      "national_source_id": "52343",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》大山祇命、木花咲耶姫命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字千代字大峰591",
+        "source_address_historical": "長野県飯田市大字千代字大峰591"
+      }
+    }
+  },
+  {
+    "id": "20-agency-fe86726cdc9596",
+    "no": 2408,
+    "prefecture_code": 20,
+    "name": "春日社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 天児屋根命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜春日社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52348",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52348",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "天児屋根命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "木花開耶姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-fe86726cdc9596:1",
+        "name": "春日社",
+        "label": "春日社",
+        "address": "長野県飯田市大字千代字中山3566",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字千代字中山3566"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》天児屋根命、《配》木花開耶姫命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字千代字中山3566",
+      "source_address_historical": "長野県飯田市大字千代字中山3566"
+    },
+    "directory": {
+      "number": "A-26d068d078201f41641b",
+      "display_number": "20-02408",
+      "index_name": "春日社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字千代字中山3566",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "26d068d078201f41641b",
+      "national_source_id": "52348",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》天児屋根命、《配》木花開耶姫命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字千代字中山3566",
+        "source_address_historical": "長野県飯田市大字千代字中山3566"
+      }
+    }
+  },
+  {
+    "id": "20-agency-7f722dedf26cdf",
+    "no": 2409,
+    "prefecture_code": 20,
+    "name": "八幡社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 誉田別尊",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八幡社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52352",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52352",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-7f722dedf26cdf:1",
+        "name": "八幡社",
+        "label": "八幡社",
+        "address": "長野県飯田市大字千代字天白林1020",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字千代字天白林1020"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別尊",
+      "former_rank": "",
+      "source_address_current": "飯田市大字千代字天白林1020",
+      "source_address_historical": "長野県飯田市大字千代字天白林1020"
+    },
+    "directory": {
+      "number": "A-5e8de549e82893d8d883",
+      "display_number": "20-02409",
+      "index_name": "八幡社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字千代字天白林1020",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "5e8de549e82893d8d883",
+      "national_source_id": "52352",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別尊",
+        "former_rank": "",
+        "source_address_current": "飯田市大字千代字天白林1020",
+        "source_address_historical": "長野県飯田市大字千代字天白林1020"
+      }
+    }
+  },
+  {
+    "id": "20-agency-f2c7e6d387b4dd",
+    "no": 2410,
+    "prefecture_code": 20,
+    "name": "野池社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 外安賀多命・御穂須須美命 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜野池社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52351",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52351",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "外安賀多命",
+          "御穂須須美命",
+          "伊豆早雄命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-f2c7e6d387b4dd:1",
+        "name": "野池社",
+        "label": "野池社",
+        "address": "長野県飯田市大字千代字野池1249",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字千代字野池1249"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》外安賀多命、御穂須須美命、伊豆早雄命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字千代字野池1249",
+      "source_address_historical": "長野県飯田市大字千代字野池1249"
+    },
+    "directory": {
+      "number": "A-020679d0695591da83c4",
+      "display_number": "20-02410",
+      "index_name": "野池社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字千代字野池1249",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "020679d0695591da83c4",
+      "national_source_id": "52351",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》外安賀多命、御穂須須美命、伊豆早雄命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字千代字野池1249",
+        "source_address_historical": "長野県飯田市大字千代字野池1249"
+      }
+    }
+  },
+  {
+    "id": "20-agency-134cb692f0d264",
+    "no": 2411,
+    "prefecture_code": 20,
+    "name": "諏訪社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 建御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜諏訪社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52210",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52210",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-134cb692f0d264:1",
+        "name": "諏訪社",
+        "label": "諏訪社",
+        "address": "長野県飯田市大字駄科字宮林1448",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字駄科字宮林1448"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》建御名方命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字駄科字宮林1448",
+      "source_address_historical": "長野県飯田市大字駄科字宮林1448"
+    },
+    "directory": {
+      "number": "A-297f182b9912e82323b0",
+      "display_number": "20-02411",
+      "index_name": "諏訪社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字駄科字宮林1448",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "297f182b9912e82323b0",
+      "national_source_id": "52210",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》建御名方命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字駄科字宮林1448",
+        "source_address_historical": "長野県飯田市大字駄科字宮林1448"
+      }
+    }
+  },
+  {
+    "id": "20-agency-d54fb3b53851d6",
+    "no": 2412,
+    "prefecture_code": 20,
+    "name": "日吉神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 大山咋命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜日吉神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52190",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52190",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "大山咋命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "別雷命",
+          "誉田別尊",
+          "天児屋根命",
+          "天照大日尊",
+          "日本武尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-d54fb3b53851d6:1",
+        "name": "日吉神社",
+        "label": "日吉神社",
+        "address": "長野県飯田市大字大島山814-1",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字大島山814-1"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》大山咋命、《配》別雷命、誉田別尊、天児屋根命、天照大日尊、日本武尊",
+      "former_rank": "",
+      "source_address_current": "飯田市大字大島山814-1",
+      "source_address_historical": "長野県飯田市大字大島山814-1"
+    },
+    "directory": {
+      "number": "A-e0c9063d5834c1b645b4",
+      "display_number": "20-02412",
+      "index_name": "日吉神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字大島山814-1",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "e0c9063d5834c1b645b4",
+      "national_source_id": "52190",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》大山咋命、《配》別雷命、誉田別尊、天児屋根命、天照大日尊、日本武尊",
+        "former_rank": "",
+        "source_address_current": "飯田市大字大島山814-1",
+        "source_address_historical": "長野県飯田市大字大島山814-1"
+      }
+    }
+  },
+  {
+    "id": "20-agency-79d3eeb2a72f87",
+    "no": 2413,
+    "prefecture_code": 20,
+    "name": "金山社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 金山彦命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜金山社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52211",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52211",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "金山彦命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-79d3eeb2a72f87:1",
+        "name": "金山社",
+        "label": "金山社",
+        "address": "長野県飯田市大字長野原382",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字長野原382"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》金山彦命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字長野原382",
+      "source_address_historical": "長野県飯田市大字長野原382"
+    },
+    "directory": {
+      "number": "A-fbcd23413909ec3834c2",
+      "display_number": "20-02413",
+      "index_name": "金山社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字長野原382",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "fbcd23413909ec3834c2",
+      "national_source_id": "52211",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》金山彦命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字長野原382",
+        "source_address_historical": "長野県飯田市大字長野原382"
+      }
+    }
+  },
+  {
+    "id": "20-agency-5d4bde26fa8fa8",
+    "no": 2414,
+    "prefecture_code": 20,
+    "name": "稲荷神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 宇気母智神",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜稲荷神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52202",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52202",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "宇気母智神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-5d4bde26fa8fa8:1",
+        "name": "稲荷神社",
+        "label": "稲荷神社",
+        "address": "長野県飯田市大字毛賀845",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字毛賀845"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》宇気母智神",
+      "former_rank": "",
+      "source_address_current": "飯田市大字毛賀845",
+      "source_address_historical": "長野県飯田市大字毛賀845"
+    },
+    "directory": {
+      "number": "A-9e5ea638bce429e7e096",
+      "display_number": "20-02414",
+      "index_name": "稲荷神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字毛賀845",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "9e5ea638bce429e7e096",
+      "national_source_id": "52202",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》宇気母智神",
+        "former_rank": "",
+        "source_address_current": "飯田市大字毛賀845",
+        "source_address_historical": "長野県飯田市大字毛賀845"
+      }
+    }
+  },
+  {
+    "id": "20-agency-71b1b2c3a8d6ce",
+    "no": 2415,
+    "prefecture_code": 20,
+    "name": "諏訪神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 建御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜諏訪神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52200",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52200",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-71b1b2c3a8d6ce:1",
+        "name": "諏訪神社",
+        "label": "諏訪神社",
+        "address": "長野県飯田市大字毛賀885",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字毛賀885"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》建御名方命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字毛賀885",
+      "source_address_historical": "長野県飯田市大字毛賀885"
+    },
+    "directory": {
+      "number": "A-b39c7032403975015bc4",
+      "display_number": "20-02415",
+      "index_name": "諏訪神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字毛賀885",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "b39c7032403975015bc4",
+      "national_source_id": "52200",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》建御名方命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字毛賀885",
+        "source_address_historical": "長野県飯田市大字毛賀885"
+      }
+    }
+  },
+  {
+    "id": "20-agency-c87fdfa0f543dc",
+    "no": 2416,
+    "prefecture_code": 20,
+    "name": "倶梨迦羅神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "祭神未公布",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "祭神未公布"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜倶梨迦羅神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [],
+    "locations": [
+      {
+        "id": "20-agency-c87fdfa0f543dc:1",
+        "name": "倶梨迦羅神社",
+        "label": "倶梨迦羅神社",
+        "address": "長野県飯田市大字立石901",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "not_published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "",
+      "former_rank": "",
+      "source_address_current": "飯田市大字立石901",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-c9e4c4f28535bf77ac6f",
+      "display_number": "20-02416",
+      "index_name": "倶梨迦羅神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字立石901",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "c9e4c4f28535bf77ac6f",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "",
+        "former_rank": "",
+        "source_address_current": "飯田市大字立石901",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "20-agency-c75bf52e9e691d",
+    "no": 2417,
+    "prefecture_code": 20,
+    "name": "日枝神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 木花咲耶毘売神・大産霊命 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜日枝神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52220",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52220",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "木花咲耶毘売神",
+          "大産霊命",
+          "大物主神",
+          "倉稲魂神",
+          "罔象女命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-c75bf52e9e691d:1",
+        "name": "日枝神社",
+        "label": "日枝神社",
+        "address": "長野県飯田市大字立石字山王山177",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字立石字山王山177"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》木花咲耶毘売神、大産霊命、大物主神、倉稲魂神、罔象女命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字立石字山王山177",
+      "source_address_historical": "長野県飯田市大字立石字山王山177"
+    },
+    "directory": {
+      "number": "A-76523a21a34cbe11e338",
+      "display_number": "20-02417",
+      "index_name": "日枝神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字立石字山王山177",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "76523a21a34cbe11e338",
+      "national_source_id": "52220",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》木花咲耶毘売神、大産霊命、大物主神、倉稲魂神、罔象女命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字立石字山王山177",
+        "source_address_historical": "長野県飯田市大字立石字山王山177"
+      }
+    }
+  },
+  {
+    "id": "20-agency-59600e8447b3be",
+    "no": 2418,
+    "prefecture_code": 20,
+    "name": "神明社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 天照皇大神・誉田別尊 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜神明社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52353",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52353",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "天照皇大神",
+          "誉田別尊",
+          "天児屋根命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-59600e8447b3be:1",
+        "name": "神明社",
+        "label": "神明社",
+        "address": "長野県飯田市大字竜江宮ノ平7335",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字竜江宮ノ平7335"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》天照皇大神、誉田別尊、天児屋根命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字竜江宮ノ平7335",
+      "source_address_historical": "長野県飯田市大字竜江宮ノ平7335"
+    },
+    "directory": {
+      "number": "A-d305627dac8706ddae13",
+      "display_number": "20-02418",
+      "index_name": "神明社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字竜江宮ノ平7335",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "d305627dac8706ddae13",
+      "national_source_id": "52353",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》天照皇大神、誉田別尊、天児屋根命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字竜江宮ノ平7335",
+        "source_address_historical": "長野県飯田市大字竜江宮ノ平7335"
+      }
+    }
+  },
+  {
+    "id": "20-agency-53c22efec4c268",
+    "no": 2419,
+    "prefecture_code": 20,
+    "name": "冨士淺間神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 木花開耶姫・稲倉魂命 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜冨士淺間神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52358",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52358",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "木花開耶姫",
+          "稲倉魂命",
+          "天児屋根命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-53c22efec4c268:1",
+        "name": "冨士淺間神社",
+        "label": "冨士淺間神社",
+        "address": "長野県飯田市大字竜江字家ノ入9613",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字竜江字家ノ入9613"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》木花開耶姫、稲倉魂命、天児屋根命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字竜江字家ノ入9613",
+      "source_address_historical": "長野県飯田市大字竜江字家ノ入9613"
+    },
+    "directory": {
+      "number": "A-f79fff588dc17abb710d",
+      "display_number": "20-02419",
+      "index_name": "冨士淺間神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字竜江字家ノ入9613",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "f79fff588dc17abb710d",
+      "national_source_id": "52358",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》木花開耶姫、稲倉魂命、天児屋根命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字竜江字家ノ入9613",
+        "source_address_historical": "長野県飯田市大字竜江字家ノ入9613"
+      }
+    }
+  },
+  {
+    "id": "20-agency-be1888356246ac",
+    "no": 2420,
+    "prefecture_code": 20,
+    "name": "和世田社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 御穂須須美命・誉田別尊 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜和世田社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52362",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52362",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "御穂須須美命",
+          "誉田別尊",
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-be1888356246ac:1",
+        "name": "和世田社",
+        "label": "和世田社",
+        "address": "長野県飯田市大字竜江字外山8782",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字竜江字外山8782"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》御穂須須美命、誉田別尊、素盞嗚尊",
+      "former_rank": "",
+      "source_address_current": "飯田市大字竜江字外山8782",
+      "source_address_historical": "長野県飯田市大字竜江字外山8782"
+    },
+    "directory": {
+      "number": "A-0677b4bf290492e6d79d",
+      "display_number": "20-02420",
+      "index_name": "和世田社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字竜江字外山8782",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "0677b4bf290492e6d79d",
+      "national_source_id": "52362",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》御穂須須美命、誉田別尊、素盞嗚尊",
+        "former_rank": "",
+        "source_address_current": "飯田市大字竜江字外山8782",
+        "source_address_historical": "長野県飯田市大字竜江字外山8782"
+      }
+    }
+  },
+  {
+    "id": "20-agency-a841628747f21d",
+    "no": 2421,
+    "prefecture_code": 20,
+    "name": "淺間社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 木花開耶姫命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜淺間社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52360",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52360",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "木花開耶姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-a841628747f21d:1",
+        "name": "淺間社",
+        "label": "淺間社",
+        "address": "長野県飯田市大字竜江字高森9147",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字竜江字高森9147"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》木花開耶姫命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字竜江字高森9147",
+      "source_address_historical": "長野県飯田市大字竜江字高森9147"
+    },
+    "directory": {
+      "number": "A-fa930ecfcd20f372a017",
+      "display_number": "20-02421",
+      "index_name": "淺間社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字竜江字高森9147",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "fa930ecfcd20f372a017",
+      "national_source_id": "52360",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》木花開耶姫命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字竜江字高森9147",
+        "source_address_historical": "長野県飯田市大字竜江字高森9147"
+      }
+    }
+  },
+  {
+    "id": "20-agency-1da083161e3da4",
+    "no": 2422,
+    "prefecture_code": 20,
+    "name": "諏訪社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 健御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜諏訪社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52357",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52357",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "健御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-1da083161e3da4:1",
+        "name": "諏訪社",
+        "label": "諏訪社",
+        "address": "長野県飯田市大字竜江字今宮9508",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字竜江字今宮9508"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》健御名方命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字竜江字今宮9508",
+      "source_address_historical": "長野県飯田市大字竜江字今宮9508"
+    },
+    "directory": {
+      "number": "A-76805837b53edff1c723",
+      "display_number": "20-02422",
+      "index_name": "諏訪社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字竜江字今宮9508",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "76805837b53edff1c723",
+      "national_source_id": "52357",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》健御名方命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字竜江字今宮9508",
+        "source_address_historical": "長野県飯田市大字竜江字今宮9508"
+      }
+    }
+  },
+  {
+    "id": "20-agency-ccf509494e19ca",
+    "no": 2423,
+    "prefecture_code": 20,
+    "name": "八幡社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 誉田別尊・大国主命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八幡社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52356",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52356",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別尊",
+          "大国主命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-ccf509494e19ca:1",
+        "name": "八幡社",
+        "label": "八幡社",
+        "address": "長野県飯田市大字竜江字舟久保8324",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字竜江字舟久保8324"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別尊、大国主命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字竜江字舟久保8324",
+      "source_address_historical": "長野県飯田市大字竜江字舟久保8324"
+    },
+    "directory": {
+      "number": "A-6d8c776a0e7045eb5bed",
+      "display_number": "20-02423",
+      "index_name": "八幡社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字竜江字舟久保8324",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "6d8c776a0e7045eb5bed",
+      "national_source_id": "52356",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別尊、大国主命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字竜江字舟久保8324",
+        "source_address_historical": "長野県飯田市大字竜江字舟久保8324"
+      }
+    }
+  },
+  {
+    "id": "20-agency-d35ed201f16cfc",
+    "no": 2424,
+    "prefecture_code": 20,
+    "name": "白山社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 伊弉冊尊",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜白山社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52359",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52359",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "伊弉冊尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-d35ed201f16cfc:1",
+        "name": "白山社",
+        "label": "白山社",
+        "address": "長野県飯田市大字竜江字対座8753",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字竜江字対座8753"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》伊弉冊尊",
+      "former_rank": "",
+      "source_address_current": "飯田市大字竜江字対座8753",
+      "source_address_historical": "長野県飯田市大字竜江字対座8753"
+    },
+    "directory": {
+      "number": "A-a234f30f3d21d89ecf54",
+      "display_number": "20-02424",
+      "index_name": "白山社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字竜江字対座8753",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "a234f30f3d21d89ecf54",
+      "national_source_id": "52359",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》伊弉冊尊",
+        "former_rank": "",
+        "source_address_current": "飯田市大字竜江字対座8753",
+        "source_address_historical": "長野県飯田市大字竜江字対座8753"
+      }
+    }
+  },
+  {
+    "id": "20-agency-a658445895272d",
+    "no": 2425,
+    "prefecture_code": 20,
+    "name": "八王子社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 日枝神",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八王子社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52361",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52361",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "日枝神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-a658445895272d:1",
+        "name": "八王子社",
+        "label": "八王子社",
+        "address": "長野県飯田市大字竜江字辻7883",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字竜江字辻7883"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》日枝神",
+      "former_rank": "",
+      "source_address_current": "飯田市大字竜江字辻7883",
+      "source_address_historical": "長野県飯田市大字竜江字辻7883"
+    },
+    "directory": {
+      "number": "A-0e868142400a31536b33",
+      "display_number": "20-02425",
+      "index_name": "八王子社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字竜江字辻7883",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "0e868142400a31536b33",
+      "national_source_id": "52361",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》日枝神",
+        "former_rank": "",
+        "source_address_current": "飯田市大字竜江字辻7883",
+        "source_address_historical": "長野県飯田市大字竜江字辻7883"
+      }
+    }
+  },
+  {
+    "id": "20-agency-b61bf36eacc1ad",
+    "no": 2426,
+    "prefecture_code": 20,
+    "name": "八幡宮",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 誉田別命・熊野加牟呂神 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八幡宮",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52354",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52354",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別命",
+          "熊野加牟呂神",
+          "健御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-b61bf36eacc1ad:1",
+        "name": "八幡宮",
+        "label": "八幡宮",
+        "address": "長野県飯田市大字竜江大宮3459-ｲ",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字竜江大宮3459-ｲ"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別命、熊野加牟呂神、健御名方命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字竜江大宮3459-ｲ",
+      "source_address_historical": "長野県飯田市大字竜江大宮3459-ｲ"
+    },
+    "directory": {
+      "number": "A-f90b561b8214dfc23853",
+      "display_number": "20-02426",
+      "index_name": "八幡宮",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字竜江大宮3459-ｲ",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "f90b561b8214dfc23853",
+      "national_source_id": "52354",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別命、熊野加牟呂神、健御名方命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字竜江大宮3459-ｲ",
+        "source_address_historical": "長野県飯田市大字竜江大宮3459-ｲ"
+      }
+    }
+  },
+  {
+    "id": "20-agency-be73267443ee21",
+    "no": 2427,
+    "prefecture_code": 20,
+    "name": "春日神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 建御賀豆智神・天児屋根命 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜春日神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52355",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52355",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "建御賀豆智神",
+          "天児屋根命",
+          "比売神",
+          "伊波比主命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方富命",
+          "八坂刀売命",
+          "建速須佐之男命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-be73267443ee21:1",
+        "name": "春日神社",
+        "label": "春日神社",
+        "address": "長野県飯田市大字竜江大明神2096",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大字竜江大明神2096"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》建御賀豆智神、天児屋根命、比売神、伊波比主命、《配》建御名方富命、八坂刀売命、建速須佐之男命",
+      "former_rank": "",
+      "source_address_current": "飯田市大字竜江大明神2096",
+      "source_address_historical": "長野県飯田市大字竜江大明神2096"
+    },
+    "directory": {
+      "number": "A-9d391c9351a2dae0d84a",
+      "display_number": "20-02427",
+      "index_name": "春日神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大字竜江大明神2096",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "9d391c9351a2dae0d84a",
+      "national_source_id": "52355",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》建御賀豆智神、天児屋根命、比売神、伊波比主命、《配》建御名方富命、八坂刀売命、建速須佐之男命",
+        "former_rank": "",
+        "source_address_current": "飯田市大字竜江大明神2096",
+        "source_address_historical": "長野県飯田市大字竜江大明神2096"
+      }
+    }
+  },
+  {
+    "id": "20-agency-48d36c1ee834b0",
+    "no": 2428,
+    "prefecture_code": 20,
+    "name": "熊野社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 天照大御神・伊弉諾尊 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜熊野社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52228",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52228",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "天照大御神",
+          "伊弉諾尊",
+          "伊弉冊命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-48d36c1ee834b0:1",
+        "name": "熊野社",
+        "label": "熊野社",
+        "address": "長野県飯田市大瀬木1074-1",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大瀬木1074-1"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》天照大御神、伊弉諾尊、伊弉冊命",
+      "former_rank": "",
+      "source_address_current": "飯田市大瀬木1074-1",
+      "source_address_historical": "長野県飯田市大瀬木1074-1"
+    },
+    "directory": {
+      "number": "A-1d20cc1c23af47e01d71",
+      "display_number": "20-02428",
+      "index_name": "熊野社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大瀬木1074-1",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "1d20cc1c23af47e01d71",
+      "national_source_id": "52228",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》天照大御神、伊弉諾尊、伊弉冊命",
+        "former_rank": "",
+        "source_address_current": "飯田市大瀬木1074-1",
+        "source_address_historical": "長野県飯田市大瀬木1074-1"
+      }
+    }
+  },
+  {
+    "id": "20-agency-1538c68ead2fbe",
+    "no": 2429,
+    "prefecture_code": 20,
+    "name": "矢拔社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 建御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜矢拔社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6068.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52226",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52226",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-1538c68ead2fbe:1",
+        "name": "矢拔社",
+        "label": "矢拔社",
+        "address": "長野県飯田市大瀬木2819",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大瀬木2819"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》建御名方命",
+      "former_rank": "",
+      "source_address_current": "飯田市大瀬木2819",
+      "source_address_historical": "長野県飯田市大瀬木2819"
+    },
+    "directory": {
+      "number": "A-1d2b0acfb1cd0a23b628",
+      "display_number": "20-02429",
+      "index_name": "矢拔社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大瀬木2819",
+      "original_detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6068.htm",
+      "detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6068.htm",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "1d2b0acfb1cd0a23b628",
+      "national_source_id": "52226",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》建御名方命",
+        "former_rank": "",
+        "source_address_current": "飯田市大瀬木2819",
+        "source_address_historical": "長野県飯田市大瀬木2819"
+      }
+    }
+  },
+  {
+    "id": "20-agency-5fdf8fdfb7fb86",
+    "no": 2430,
+    "prefecture_code": 20,
+    "name": "山神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 大山祇神",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜山神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6067.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52225",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52225",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "大山祇神"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "伊佐奈岐神",
+          "豊受比売神",
+          "素山祇神",
+          "木花咲屋姫神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-5fdf8fdfb7fb86:1",
+        "name": "山神社",
+        "label": "山神社",
+        "address": "長野県飯田市大瀬木字牧平2553",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市大瀬木字牧平2553"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》大山祇神、《配》伊佐奈岐神、豊受比売神、素山祇神、木花咲屋姫神",
+      "former_rank": "",
+      "source_address_current": "飯田市大瀬木字牧平2553",
+      "source_address_historical": "長野県飯田市大瀬木字牧平2553"
+    },
+    "directory": {
+      "number": "A-be2bd9d861eaaceabce8",
+      "display_number": "20-02430",
+      "index_name": "山神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市大瀬木字牧平2553",
+      "original_detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6067.htm",
+      "detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6067.htm",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "be2bd9d861eaaceabce8",
+      "national_source_id": "52225",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》大山祇神、《配》伊佐奈岐神、豊受比売神、素山祇神、木花咲屋姫神",
+        "former_rank": "",
+        "source_address_current": "飯田市大瀬木字牧平2553",
+        "source_address_historical": "長野県飯田市大瀬木字牧平2553"
+      }
+    }
+  },
+  {
+    "id": "20-agency-78f70da2d4bc25",
+    "no": 2431,
+    "prefecture_code": 20,
+    "name": "伊奈神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 誉田別尊",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜伊奈神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6072.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52230",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52230",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方命",
+          "素盞嗚命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-78f70da2d4bc25:1",
+        "name": "伊奈神社",
+        "label": "伊奈神社",
+        "address": "長野県飯田市竹佐字白山862",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市竹佐字白山862"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別尊、《配》建御名方命、素盞嗚命",
+      "former_rank": "",
+      "source_address_current": "飯田市竹佐字白山862",
+      "source_address_historical": "長野県飯田市竹佐字白山862"
+    },
+    "directory": {
+      "number": "A-4a2af6a5b2f07ca918f4",
+      "display_number": "20-02431",
+      "index_name": "伊奈神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市竹佐字白山862",
+      "original_detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6072.htm",
+      "detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6072.htm",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "4a2af6a5b2f07ca918f4",
+      "national_source_id": "52230",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別尊、《配》建御名方命、素盞嗚命",
+        "former_rank": "",
+        "source_address_current": "飯田市竹佐字白山862",
+        "source_address_historical": "長野県飯田市竹佐字白山862"
+      }
+    }
+  },
+  {
+    "id": "20-agency-87e9672e0b664c",
+    "no": 2432,
+    "prefecture_code": 20,
+    "name": "愛宕社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 軻遇突智命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜愛宕社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6069.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52227",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52227",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "軻遇突智命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-87e9672e0b664c:1",
+        "name": "愛宕社",
+        "label": "愛宕社",
+        "address": "長野県飯田市中村643",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市中村643"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》軻遇突智命",
+      "former_rank": "",
+      "source_address_current": "飯田市中村643",
+      "source_address_historical": "長野県飯田市中村643"
+    },
+    "directory": {
+      "number": "A-345cefdd8eec852e1d4e",
+      "display_number": "20-02432",
+      "index_name": "愛宕社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市中村643",
+      "original_detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6069.htm",
+      "detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6069.htm",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "345cefdd8eec852e1d4e",
+      "national_source_id": "52227",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》軻遇突智命",
+        "former_rank": "",
+        "source_address_current": "飯田市中村643",
+        "source_address_historical": "長野県飯田市中村643"
+      }
+    }
+  },
+  {
+    "id": "20-agency-8775d102b52ecd",
+    "no": 2433,
+    "prefecture_code": 20,
+    "name": "八幡社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "祭神未公布",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "祭神未公布",
+      "同名条目待核"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八幡社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6064.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [],
+    "locations": [
+      {
+        "id": "20-agency-8775d102b52ecd:1",
+        "name": "八幡社",
+        "label": "八幡社",
+        "address": "長野県飯田市中村字宮原1850",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "not_published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "",
+      "former_rank": "",
+      "source_address_current": "飯田市中村字宮原1850",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-9da8ce1b2421606a671c",
+      "display_number": "20-02433",
+      "index_name": "八幡社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市中村字宮原1850",
+      "original_detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6064.htm",
+      "detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6064.htm",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "9da8ce1b2421606a671c",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "",
+        "former_rank": "",
+        "source_address_current": "飯田市中村字宮原1850",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "20-agency-7eef3f01c0f1d1",
+    "no": 2434,
+    "prefecture_code": 20,
+    "name": "天満天神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 菅原道真",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜天満天神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6106.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52264",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52264",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "菅原道真"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-7eef3f01c0f1d1:1",
+        "name": "天満天神社",
+        "label": "天満天神社",
+        "address": "長野県飯田市仲ノ町351-1",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市仲ノ町351-1"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》菅原道真",
+      "former_rank": "",
+      "source_address_current": "飯田市仲ノ町351-1",
+      "source_address_historical": "長野県飯田市仲ノ町351-1"
+    },
+    "directory": {
+      "number": "A-0e0798f026014334a269",
+      "display_number": "20-02434",
+      "index_name": "天満天神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市仲ノ町351-1",
+      "original_detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6106.html",
+      "detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6106.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "0e0798f026014334a269",
+      "national_source_id": "52264",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》菅原道真",
+        "former_rank": "",
+        "source_address_current": "飯田市仲ノ町351-1",
+        "source_address_historical": "長野県飯田市仲ノ町351-1"
+      }
+    }
+  },
+  {
+    "id": "20-agency-7f9bf005069c0b",
+    "no": 2435,
+    "prefecture_code": 20,
+    "name": "長姫神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 堀久太郎秀政・堀美作守親良 等",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜長姫神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6104.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52262",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52262",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "堀久太郎秀政",
+          "堀美作守親良",
+          "堀美作守親昌"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-7f9bf005069c0b:1",
+        "name": "長姫神社",
+        "label": "長姫神社",
+        "address": "長野県飯田市追手町2-641",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市追手町2-641"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》堀久太郎秀政、堀美作守親良、堀美作守親昌",
+      "former_rank": "",
+      "source_address_current": "飯田市追手町2-641",
+      "source_address_historical": "長野県飯田市追手町2-641"
+    },
+    "directory": {
+      "number": "A-509a0b53dc648edadd10",
+      "display_number": "20-02435",
+      "index_name": "長姫神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市追手町2-641",
+      "original_detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6104.html",
+      "detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6104.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "509a0b53dc648edadd10",
+      "national_source_id": "52262",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》堀久太郎秀政、堀美作守親良、堀美作守親昌",
+        "former_rank": "",
+        "source_address_current": "飯田市追手町2-641",
+        "source_address_historical": "長野県飯田市追手町2-641"
+      }
+    }
+  },
+  {
+    "id": "20-agency-8aa351077c312d",
+    "no": 2436,
+    "prefecture_code": 20,
+    "name": "諏訪神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 建御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜諏訪神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4031",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4031",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-8aa351077c312d:1",
+        "name": "諏訪神社",
+        "label": "諏訪神社",
+        "address": "長野県飯田市鼎一色483",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市鼎一色483"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》建御名方命",
+      "former_rank": "",
+      "source_address_current": "飯田市鼎一色483",
+      "source_address_historical": "長野県飯田市鼎一色483"
+    },
+    "directory": {
+      "number": "A-be83f4934188e99a2548",
+      "display_number": "20-02436",
+      "index_name": "諏訪神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市鼎一色483",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "be83f4934188e99a2548",
+      "national_source_id": "4031",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》建御名方命",
+        "former_rank": "",
+        "source_address_current": "飯田市鼎一色483",
+        "source_address_historical": "長野県飯田市鼎一色483"
+      }
+    }
+  },
+  {
+    "id": "20-agency-437c04570de27e",
+    "no": 2437,
+    "prefecture_code": 20,
+    "name": "諏訪神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 建御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜諏訪神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4027",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4027",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-437c04570de27e:1",
+        "name": "諏訪神社",
+        "label": "諏訪神社",
+        "address": "長野県飯田市鼎下山1449",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市鼎下山1449"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》建御名方命",
+      "former_rank": "",
+      "source_address_current": "飯田市鼎下山1449",
+      "source_address_historical": "長野県飯田市鼎下山1449"
+    },
+    "directory": {
+      "number": "A-195fa6b4e01ad2c361ef",
+      "display_number": "20-02437",
+      "index_name": "諏訪神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市鼎下山1449",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "195fa6b4e01ad2c361ef",
+      "national_source_id": "4027",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》建御名方命",
+        "former_rank": "",
+        "source_address_current": "飯田市鼎下山1449",
+        "source_address_historical": "長野県飯田市鼎下山1449"
+      }
+    }
+  },
+  {
+    "id": "20-agency-46407d08965371",
+    "no": 2438,
+    "prefecture_code": 20,
+    "name": "八幡神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 誉田別尊",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八幡神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4026",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4026",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "富士天伯",
+          "九頭竜大権現"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-46407d08965371:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "長野県飯田市鼎切石4876",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市鼎切石4876"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別尊、《配》富士天伯、九頭竜大権現",
+      "former_rank": "",
+      "source_address_current": "飯田市鼎切石4876",
+      "source_address_historical": "長野県飯田市鼎切石4876"
+    },
+    "directory": {
+      "number": "A-83744732ee56309d438b",
+      "display_number": "20-02438",
+      "index_name": "八幡神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市鼎切石4876",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "83744732ee56309d438b",
+      "national_source_id": "4026",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別尊、《配》富士天伯、九頭竜大権現",
+        "former_rank": "",
+        "source_address_current": "飯田市鼎切石4876",
+        "source_address_historical": "長野県飯田市鼎切石4876"
+      }
+    }
+  },
+  {
+    "id": "20-agency-9ec95101061a81",
+    "no": 2439,
+    "prefecture_code": 20,
+    "name": "稲荷神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 豊受比売命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜稲荷神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4030",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4030",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "豊受比売命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-9ec95101061a81:1",
+        "name": "稲荷神社",
+        "label": "稲荷神社",
+        "address": "長野県飯田市鼎名古熊1132",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市鼎名古熊1132"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》豊受比売命",
+      "former_rank": "",
+      "source_address_current": "飯田市鼎名古熊1132",
+      "source_address_historical": "長野県飯田市鼎名古熊1132"
+    },
+    "directory": {
+      "number": "A-841e3a82222934318eb7",
+      "display_number": "20-02439",
+      "index_name": "稲荷神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市鼎名古熊1132",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "841e3a82222934318eb7",
+      "national_source_id": "4030",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》豊受比売命",
+        "former_rank": "",
+        "source_address_current": "飯田市鼎名古熊1132",
+        "source_address_historical": "長野県飯田市鼎名古熊1132"
+      }
+    }
+  },
+  {
+    "id": "20-agency-c70455983389e7",
+    "no": 2440,
+    "prefecture_code": 20,
+    "name": "八幡神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 建御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八幡神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4028",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4028",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《合》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-c70455983389e7:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "長野県飯田市鼎名古熊1350",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市鼎名古熊1350"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《合》建御名方命、《主》誉田別尊",
+      "former_rank": "",
+      "source_address_current": "飯田市鼎名古熊1350",
+      "source_address_historical": "長野県飯田市鼎名古熊1350"
+    },
+    "directory": {
+      "number": "A-d0cef3120916f49dd2d9",
+      "display_number": "20-02440",
+      "index_name": "八幡神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市鼎名古熊1350",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "d0cef3120916f49dd2d9",
+      "national_source_id": "4028",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《合》建御名方命、《主》誉田別尊",
+        "former_rank": "",
+        "source_address_current": "飯田市鼎名古熊1350",
+        "source_address_historical": "長野県飯田市鼎名古熊1350"
+      }
+    }
+  },
+  {
+    "id": "20-agency-e0cad668913fa7",
+    "no": 2441,
+    "prefecture_code": 20,
+    "name": "八王子神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 建速須佐之男尊",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八王子神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4029",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4029",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "建速須佐之男尊"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "猿田彦命",
+          "稲田姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-e0cad668913fa7:1",
+        "name": "八王子神社",
+        "label": "八王子神社",
+        "address": "長野県飯田市鼎名古熊1668-ｲ",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市鼎名古熊1668-ｲ"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》建速須佐之男尊、《配》猿田彦命、稲田姫命",
+      "former_rank": "",
+      "source_address_current": "飯田市鼎名古熊1668-ｲ",
+      "source_address_historical": "長野県飯田市鼎名古熊1668-ｲ"
+    },
+    "directory": {
+      "number": "A-d6edaf60399234ad61fc",
+      "display_number": "20-02441",
+      "index_name": "八王子神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市鼎名古熊1668-ｲ",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "d6edaf60399234ad61fc",
+      "national_source_id": "4029",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》建速須佐之男尊、《配》猿田彦命、稲田姫命",
+        "former_rank": "",
+        "source_address_current": "飯田市鼎名古熊1668-ｲ",
+        "source_address_historical": "長野県飯田市鼎名古熊1668-ｲ"
+      }
+    }
+  },
+  {
+    "id": "20-agency-d9f08bf81e2afb",
+    "no": 2442,
+    "prefecture_code": 20,
+    "name": "八幡社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 須佐之男命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八幡社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4058",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4058",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《合》 · 历史检索表，非现况确认",
+        "names": [
+          "須佐之男命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-d9f08bf81e2afb:1",
+        "name": "八幡社",
+        "label": "八幡社",
+        "address": "長野県飯田市南信濃大字八重河内字下和田251-1",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市南信濃八重河内字下和田251-1"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《合》須佐之男命、《主》誉田別尊",
+      "former_rank": "",
+      "source_address_current": "飯田市南信濃大字八重河内字下和田251-1",
+      "source_address_historical": "長野県飯田市南信濃八重河内字下和田251-1"
+    },
+    "directory": {
+      "number": "A-ee7857e566871e43d3e9",
+      "display_number": "20-02442",
+      "index_name": "八幡社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市南信濃大字八重河内字下和田251-1",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "ee7857e566871e43d3e9",
+      "national_source_id": "4058",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《合》須佐之男命、《主》誉田別尊",
+        "former_rank": "",
+        "source_address_current": "飯田市南信濃大字八重河内字下和田251-1",
+        "source_address_historical": "長野県飯田市南信濃八重河内字下和田251-1"
+      }
+    }
+  },
+  {
+    "id": "20-agency-bb6e42ecf6d0f2",
+    "no": 2443,
+    "prefecture_code": 20,
+    "name": "八幡神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 誉田別尊",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八幡神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4057",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4057",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-bb6e42ecf6d0f2:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "長野県飯田市南信濃大字木沢788",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市南信濃木沢788"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別尊",
+      "former_rank": "",
+      "source_address_current": "飯田市南信濃大字木沢788",
+      "source_address_historical": "長野県飯田市南信濃木沢788"
+    },
+    "directory": {
+      "number": "A-782ea008f1140b6a258d",
+      "display_number": "20-02443",
+      "index_name": "八幡神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市南信濃大字木沢788",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "782ea008f1140b6a258d",
+      "national_source_id": "4057",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別尊",
+        "former_rank": "",
+        "source_address_current": "飯田市南信濃大字木沢788",
+        "source_address_historical": "長野県飯田市南信濃木沢788"
+      }
+    }
+  },
+  {
+    "id": "20-agency-2d0db46fbd67ca",
+    "no": 2444,
+    "prefecture_code": 20,
+    "name": "諏訪社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 健御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜諏訪社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4059",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4059",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "健御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "健速須佐之男尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-2d0db46fbd67ca:1",
+        "name": "諏訪社",
+        "label": "諏訪社",
+        "address": "長野県飯田市南信濃大字和田字下市場1597",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市南信濃和田字下市場1597"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》健御名方命、《配》健速須佐之男尊",
+      "former_rank": "",
+      "source_address_current": "飯田市南信濃大字和田字下市場1597",
+      "source_address_historical": "長野県飯田市南信濃和田字下市場1597"
+    },
+    "directory": {
+      "number": "A-7f22bc99bcbcaf262b28",
+      "display_number": "20-02444",
+      "index_name": "諏訪社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市南信濃大字和田字下市場1597",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "7f22bc99bcbcaf262b28",
+      "national_source_id": "4059",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》健御名方命、《配》健速須佐之男尊",
+        "former_rank": "",
+        "source_address_current": "飯田市南信濃大字和田字下市場1597",
+        "source_address_historical": "長野県飯田市南信濃和田字下市場1597"
+      }
+    }
+  },
+  {
+    "id": "20-agency-a01bbeabcff1c7",
+    "no": 2445,
+    "prefecture_code": 20,
+    "name": "八幡社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 健御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜八幡社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52231",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52231",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "健御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別命",
+          "須佐之男尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-a01bbeabcff1c7:1",
+        "name": "八幡社",
+        "label": "八幡社",
+        "address": "長野県飯田市箱川ミヤシロ573",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市箱川ミヤシロ573"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》健御名方命、《配》誉田別命、須佐之男尊",
+      "former_rank": "",
+      "source_address_current": "飯田市箱川ミヤシロ573",
+      "source_address_historical": "長野県飯田市箱川ミヤシロ573"
+    },
+    "directory": {
+      "number": "A-2c865d89872f654952d2",
+      "display_number": "20-02445",
+      "index_name": "八幡社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市箱川ミヤシロ573",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "2c865d89872f654952d2",
+      "national_source_id": "52231",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》健御名方命、《配》誉田別命、須佐之男尊",
+        "former_rank": "",
+        "source_address_current": "飯田市箱川ミヤシロ573",
+        "source_address_historical": "長野県飯田市箱川ミヤシロ573"
+      }
+    }
+  },
+  {
+    "id": "20-agency-75c66e2d0b00a8",
+    "no": 2446,
+    "prefecture_code": 20,
+    "name": "鳩ｹ嶺八幡宮",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 誉田別尊",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜鳩ｹ嶺八幡宮",
+        "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4035",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4035",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "息長足姫尊",
+          "武内宿禰命",
+          "武内宿禰命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-75c66e2d0b00a8:1",
+        "name": "鳩ｹ嶺八幡宮",
+        "label": "鳩ｹ嶺八幡宮",
+        "address": "長野県飯田市八幡町1999",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市八幡町1999"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別尊、《配》息長足姫尊、武内宿禰命、武内宿禰命",
+      "former_rank": "",
+      "source_address_current": "飯田市八幡町1999",
+      "source_address_historical": "長野県飯田市八幡町1999"
+    },
+    "directory": {
+      "number": "A-0f5ce062330a7a298ab7",
+      "display_number": "20-02446",
+      "index_name": "鳩ｹ嶺八幡宮",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市八幡町1999",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "0f5ce062330a7a298ab7",
+      "national_source_id": "4035",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別尊、《配》息長足姫尊、武内宿禰命、武内宿禰命",
+        "former_rank": "",
+        "source_address_current": "飯田市八幡町1999",
+        "source_address_historical": "長野県飯田市八幡町1999"
+      }
+    }
+  },
+  {
+    "id": "20-agency-3ad6c1dbb8299f",
+    "no": 2447,
+    "prefecture_code": 20,
+    "name": "冨士山稲荷神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 倉稲魂大神",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜冨士山稲荷神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6102.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目4044",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=4044",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "倉稲魂大神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-3ad6c1dbb8299f:1",
+        "name": "冨士山稲荷神社",
+        "label": "冨士山稲荷神社",
+        "address": "長野県飯田市浜井町3363",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市浜井町3363"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《主》倉稲魂大神",
+      "former_rank": "",
+      "source_address_current": "飯田市浜井町3363",
+      "source_address_historical": "長野県飯田市浜井町3363"
+    },
+    "directory": {
+      "number": "A-450d4b487d35e12e9a6e",
+      "display_number": "20-02447",
+      "index_name": "冨士山稲荷神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市浜井町3363",
+      "original_detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6102.html",
+      "detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6102.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "450d4b487d35e12e9a6e",
+      "national_source_id": "4044",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《主》倉稲魂大神",
+        "former_rank": "",
+        "source_address_current": "飯田市浜井町3363",
+        "source_address_historical": "長野県飯田市浜井町3363"
+      }
+    }
+  },
+  {
+    "id": "20-agency-47a8ddc7c8e067",
+    "no": 2448,
+    "prefecture_code": 20,
+    "name": "育良神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "历史表 · 誉田別命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜育良神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6063.htm",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目52221",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=52221",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "20"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《合》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "宇賀御魂命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "20-agency-47a8ddc7c8e067:1",
+        "name": "育良神社",
+        "label": "育良神社",
+        "address": "長野県飯田市北方131",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長野県飯田市北方131"
+      }
+    ],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "《合》誉田別命、《主》建御名方命、《配》宇賀御魂命",
+      "former_rank": "",
+      "source_address_current": "飯田市北方131",
+      "source_address_historical": "長野県飯田市北方131"
+    },
+    "directory": {
+      "number": "A-b0a2acfd5b51e8a9ffe5",
+      "display_number": "20-02448",
+      "index_name": "育良神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市北方131",
+      "original_detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6063.htm",
+      "detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6063.htm",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "b0a2acfd5b51e8a9ffe5",
+      "national_source_id": "52221",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "《合》誉田別命、《主》建御名方命、《配》宇賀御魂命",
+        "former_rank": "",
+        "source_address_current": "飯田市北方131",
+        "source_address_historical": "長野県飯田市北方131"
+      }
+    }
+  },
+  {
+    "id": "20-agency-2a2bfda0ca3011",
+    "no": 2449,
+    "prefecture_code": 20,
+    "name": "烏山稲荷神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "飯田市",
+    "aliases": [],
+    "headline": "祭神未公布",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "祭神未公布",
+      "同名条目待核"
+    ],
+    "intro": "長野県飯田市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長野県神社庁｜烏山稲荷神社",
+        "url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6105.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [],
+    "locations": [
+      {
+        "id": "20-agency-2a2bfda0ca3011:1",
+        "name": "烏山稲荷神社",
+        "label": "烏山稲荷神社",
+        "address": "長野県飯田市本町4-1310-8",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "not_published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "historical_kami_verbatim": "",
+      "former_rank": "",
+      "source_address_current": "飯田市本町4-1310-8",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-4defe2c12a2b87b68caa",
+      "display_number": "20-02449",
+      "index_name": "烏山稲荷神社",
+      "index_url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "listed_address": "長野県飯田市本町4-1310-8",
+      "original_detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6105.html",
+      "detail_url": "https://www.nagano-jinjacho.jp/shibu/04nansin/03hani/6105.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "617cdaa1ece0a57c15cd186de7b28ea05936cc4c41aa1f595bf3f706ded21a8e"
+    },
+    "provenance": {
+      "agency_source_id": "4defe2c12a2b87b68caa",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "",
+        "historical_kami_verbatim": "",
+        "former_rank": "",
+        "source_address_current": "飯田市本町4-1310-8",
+        "source_address_historical": ""
+      }
+    }
+  }
+]

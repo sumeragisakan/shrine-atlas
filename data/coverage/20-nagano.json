@@ -1,0 +1,2962 @@
+{
+  "code": 20,
+  "name": "長野県",
+  "slug": "nagano",
+  "checked": "2026-10-30",
+  "scope": "長野県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 2896,
+  "records": 2896,
+  "directory_indexes": 19,
+  "baseline_rows": 2466,
+  "agency_rows": 2449,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 2019,
+  "historical_only_records": 447,
+  "with_deities": 2420,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 985,
+  "municipalities": [
+    {
+      "municipality": "上伊那郡中川村",
+      "area": "全域",
+      "records": 15,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 15
+    },
+    {
+      "municipality": "上伊那郡南箕輪村",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "上伊那郡宮田村",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "上伊那郡箕輪町",
+      "area": "全域",
+      "records": 15,
+      "with_deities": 13,
+      "mapped_locations": 0,
+      "without_coordinates": 15
+    },
+    {
+      "municipality": "上伊那郡辰野町",
+      "area": "全域",
+      "records": 25,
+      "with_deities": 25,
+      "mapped_locations": 0,
+      "without_coordinates": 25
+    },
+    {
+      "municipality": "上伊那郡長谷村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "上伊那郡飯島町",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
+      "municipality": "上水内郡三水村",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "上水内郡中条村",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "上水内郡信州新町",
+      "area": "全域",
+      "records": 37,
+      "with_deities": 37,
+      "mapped_locations": 0,
+      "without_coordinates": 37
+    },
+    {
+      "municipality": "上水内郡信濃町",
+      "area": "全域",
+      "records": 28,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 28
+    },
+    {
+      "municipality": "上水内郡小川村",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
+      "municipality": "上水内郡飯綱町",
+      "area": "全域",
+      "records": 19,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 19
+    },
+    {
+      "municipality": "上水内郡鬼無里村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "上田市",
+      "area": "全域",
+      "records": 199,
+      "with_deities": 174,
+      "mapped_locations": 0,
+      "without_coordinates": 199
+    },
+    {
+      "municipality": "上田市殿城字深区",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "上高井郡小布施町",
+      "area": "全域",
+      "records": 20,
+      "with_deities": 18,
+      "mapped_locations": 0,
+      "without_coordinates": 20
+    },
+    {
+      "municipality": "上高井郡高山村",
+      "area": "全域",
+      "records": 13,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 13
+    },
+    {
+      "municipality": "下伊那郡上村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "下伊那郡上郷町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "下伊那郡下条村",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "下伊那郡下條村",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "下伊那郡喬木村",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "下伊那郡売木村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "下伊那郡大鹿村",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "下伊那郡天竜村",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "下伊那郡天龍村",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "下伊那郡平谷村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "下伊那郡松川町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "下伊那郡根羽村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "下伊那郡泰阜村",
+      "area": "全域",
+      "records": 23,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 23
+    },
+    {
+      "municipality": "下伊那郡浪合村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "下伊那郡清内路村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "下伊那郡豊丘村",
+      "area": "全域",
+      "records": 13,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 13
+    },
+    {
+      "municipality": "下伊那郡阿南町",
+      "area": "全域",
+      "records": 31,
+      "with_deities": 31,
+      "mapped_locations": 0,
+      "without_coordinates": 31
+    },
+    {
+      "municipality": "下伊那郡阿智村",
+      "area": "全域",
+      "records": 21,
+      "with_deities": 19,
+      "mapped_locations": 0,
+      "without_coordinates": 21
+    },
+    {
+      "municipality": "下伊那郡高森町",
+      "area": "全域",
+      "records": 15,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 15
+    },
+    {
+      "municipality": "下水内郡栄村",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 24,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "下高井郡山ノ内町",
+      "area": "全域",
+      "records": 36,
+      "with_deities": 24,
+      "mapped_locations": 0,
+      "without_coordinates": 36
+    },
+    {
+      "municipality": "下高井郡木島平村",
+      "area": "全域",
+      "records": 25,
+      "with_deities": 20,
+      "mapped_locations": 0,
+      "without_coordinates": 25
+    },
+    {
+      "municipality": "下高井郡野沢温泉村",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "中津川市",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "中野市",
+      "area": "全域",
+      "records": 59,
+      "with_deities": 56,
+      "mapped_locations": 0,
+      "without_coordinates": 59
+    },
+    {
+      "municipality": "伊那市",
+      "area": "全域",
+      "records": 135,
+      "with_deities": 100,
+      "mapped_locations": 0,
+      "without_coordinates": 135
+    },
+    {
+      "municipality": "佐久市",
+      "area": "全域",
+      "records": 139,
+      "with_deities": 127,
+      "mapped_locations": 0,
+      "without_coordinates": 139
+    },
+    {
+      "municipality": "北佐久郡北御牧村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "北佐久郡御代田町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 13,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "北佐久郡望月町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "北佐久郡浅科村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "北佐久郡立科町",
+      "area": "全域",
+      "records": 17,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 17
+    },
+    {
+      "municipality": "北佐久郡軽井沢町",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
+      "municipality": "北安曇郡八坂村",
+      "area": "全域",
+      "records": 19,
+      "with_deities": 19,
+      "mapped_locations": 0,
+      "without_coordinates": 19
+    },
+    {
+      "municipality": "北安曇郡小谷村",
+      "area": "全域",
+      "records": 17,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 17
+    },
+    {
+      "municipality": "北安曇郡松川村",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "北安曇郡池田町",
+      "area": "全域",
+      "records": 29,
+      "with_deities": 26,
+      "mapped_locations": 0,
+      "without_coordinates": 29
+    },
+    {
+      "municipality": "北安曇郡白馬村",
+      "area": "全域",
+      "records": 19,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 19
+    },
+    {
+      "municipality": "千曲市",
+      "area": "全域",
+      "records": 49,
+      "with_deities": 46,
+      "mapped_locations": 0,
+      "without_coordinates": 49
+    },
+    {
+      "municipality": "南佐久郡佐久穂町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "南佐久郡八千穂村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "南佐久郡北相木村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "南佐久郡南牧村",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "南佐久郡南相木村",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 13,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "南佐久郡小海町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "南佐久郡川上村",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "南安曇郡安曇村",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "南安曇郡穂高町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "南安曇郡豊科町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "埴科郡坂城町",
+      "area": "全域",
+      "records": 15,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 15
+    },
+    {
+      "municipality": "埴科郡戸倉町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "塩尻市",
+      "area": "全域",
+      "records": 51,
+      "with_deities": 46,
+      "mapped_locations": 0,
+      "without_coordinates": 51
+    },
+    {
+      "municipality": "大町市",
+      "area": "全域",
+      "records": 63,
+      "with_deities": 36,
+      "mapped_locations": 0,
+      "without_coordinates": 63
+    },
+    {
+      "municipality": "安曇野市",
+      "area": "全域",
+      "records": 109,
+      "with_deities": 89,
+      "mapped_locations": 0,
+      "without_coordinates": 109
+    },
+    {
+      "municipality": "小県郡東部町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "小県郡武石村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "小県郡長和町",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 25,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "小県郡青木村",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "小諸市",
+      "area": "全域",
+      "records": 39,
+      "with_deities": 37,
+      "mapped_locations": 0,
+      "without_coordinates": 39
+    },
+    {
+      "municipality": "岐阜県中津川市",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "岡谷市",
+      "area": "全域",
+      "records": 37,
+      "with_deities": 24,
+      "mapped_locations": 0,
+      "without_coordinates": 37
+    },
+    {
+      "municipality": "所在地未详",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "更級郡大岡村",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "木曽郡上松町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "木曽郡南木曽町",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "木曽郡大桑村",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "木曽郡山口村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "木曽郡木曽町",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "木曽郡木祖村",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "木曽郡王滝村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "東御市",
+      "area": "全域",
+      "records": 51,
+      "with_deities": 44,
+      "mapped_locations": 0,
+      "without_coordinates": 51
+    },
+    {
+      "municipality": "東筑摩郡四賀村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "東筑摩郡山形村",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "東筑摩郡明科町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "東筑摩郡朝日村",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "東筑摩郡波田町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "東筑摩郡生坂村",
+      "area": "全域",
+      "records": 19,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 19
+    },
+    {
+      "municipality": "東筑摩郡筑北村",
+      "area": "全域",
+      "records": 21,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 21
+    },
+    {
+      "municipality": "東筑摩郡麻績村",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "松本市",
+      "area": "全域",
+      "records": 197,
+      "with_deities": 151,
+      "mapped_locations": 0,
+      "without_coordinates": 197
+    },
+    {
+      "municipality": "茅野市",
+      "area": "全域",
+      "records": 57,
+      "with_deities": 50,
+      "mapped_locations": 0,
+      "without_coordinates": 57
+    },
+    {
+      "municipality": "諏訪市",
+      "area": "全域",
+      "records": 39,
+      "with_deities": 35,
+      "mapped_locations": 0,
+      "without_coordinates": 39
+    },
+    {
+      "municipality": "諏訪郡下諏訪町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "諏訪郡原村",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "諏訪郡富士見町",
+      "area": "全域",
+      "records": 37,
+      "with_deities": 32,
+      "mapped_locations": 0,
+      "without_coordinates": 37
+    },
+    {
+      "municipality": "長野市",
+      "area": "全域",
+      "records": 436,
+      "with_deities": 347,
+      "mapped_locations": 0,
+      "without_coordinates": 436
+    },
+    {
+      "municipality": "須坂市",
+      "area": "全域",
+      "records": 33,
+      "with_deities": 33,
+      "mapped_locations": 0,
+      "without_coordinates": 33
+    },
+    {
+      "municipality": "飯山市",
+      "area": "全域",
+      "records": 67,
+      "with_deities": 66,
+      "mapped_locations": 0,
+      "without_coordinates": 67
+    },
+    {
+      "municipality": "飯田市",
+      "area": "全域",
+      "records": 107,
+      "with_deities": 93,
+      "mapped_locations": 0,
+      "without_coordinates": 107
+    },
+    {
+      "municipality": "駒ケ根市",
+      "area": "全域",
+      "records": 19,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 19
+    },
+    {
+      "municipality": "駒ヶ根市",
+      "area": "全域",
+      "records": 19,
+      "with_deities": 19,
+      "mapped_locations": 0,
+      "without_coordinates": 19
+    }
+  ],
+  "collections": [
+    "data/shrines/20-nagano/agency-001.json",
+    "data/shrines/20-nagano/agency-002.json",
+    "data/shrines/20-nagano/agency-003.json",
+    "data/shrines/20-nagano/agency-004.json",
+    "data/shrines/20-nagano/agency-005.json",
+    "data/shrines/20-nagano/agency-006.json",
+    "data/shrines/20-nagano/agency-007.json",
+    "data/shrines/20-nagano/agency-008.json",
+    "data/shrines/20-nagano/agency-009.json",
+    "data/shrines/20-nagano/agency-010.json",
+    "data/shrines/20-nagano/agency-011.json",
+    "data/shrines/20-nagano/agency-012.json",
+    "data/shrines/20-nagano/agency-013.json",
+    "data/shrines/20-nagano/agency-014.json",
+    "data/shrines/20-nagano/agency-015.json",
+    "data/shrines/20-nagano/agency-016.json",
+    "data/shrines/20-nagano/agency-017.json",
+    "data/shrines/20-nagano/history-001.json",
+    "data/shrines/20-nagano/history-002.json",
+    "data/shrines/20-nagano/history-003.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 2466,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "20"
+        }
+      }
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/jinjya-syoukai/j-syoukai.html",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/hansui.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/kamitakai.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/shimotakai.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/nagano.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/kamiminochi.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/kousyoku.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/sarashina.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/10daihoku/10daihoku.html",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/09minamiazumi/09minamiazumi.html",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/syouenchiku.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/kiso.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/jousyou.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/kitasaku.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/minamisaku.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/kamiina.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/suwa.htm",
+      "entries": null
+    },
+    {
+      "label": "長野県神社庁 公開神社一覧",
+      "url": "https://www.nagano-jinjacho.jp/shibu/hani.htm",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "長野県神社庁",
+      "label": "長野県神社庁 公開神社一覧",
+      "scope_note": "公式17支部の公開名簿を全行収録。トップページの包括総数2459社と公開掲載数は異なるので全実在神社の網羅とは扱わない。住所空欄の4社も名称のみ保持。掲載された郵便番号を鎮座地に補っていない。",
+      "expected_rows": null,
+      "pagination_complete": true,
+      "failures": [],
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "20-agency-bc2c833c0aee5d",
+        "20-agency-cfae8829d4e4cd",
+        "20-agency-28517212a766b9",
+        "20-agency-114ab27fa77a38",
+        "20-agency-2574598c42ce3d",
+        "20-agency-2a3e5d94ebf61a",
+        "20-agency-0adc4aae5ae038",
+        "20-agency-3aefd2c3281a0f",
+        "20-history-ad0f17be77d687",
+        "20-history-b9e65716276f6a",
+        "20-history-3c28ae722f9aaa",
+        "20-history-fc1c918b91bee2"
+      ],
+      "name": "十二社",
+      "municipality": "下水内郡栄村"
+    },
+    {
+      "ids": [
+        "20-agency-81814250cf1905",
+        "20-agency-10a42d34ef2e21",
+        "20-history-ea129b1e0ccb3d"
+      ],
+      "name": "稲荷社",
+      "municipality": "上高井郡小布施町"
+    },
+    {
+      "ids": [
+        "20-agency-ddc32119669f0e",
+        "20-history-d03d1979685d11"
+      ],
+      "name": "清水神社",
+      "municipality": "上高井郡小布施町"
+    },
+    {
+      "ids": [
+        "20-agency-1776cdfb1296ff",
+        "20-history-8ff14d6f1cccce"
+      ],
+      "name": "小内神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-2fd9b78a91e5fd",
+        "20-history-0297fab6e93280"
+      ],
+      "name": "高野神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-8f68e603c1adb6",
+        "20-history-10e3cfecc5f493"
+      ],
+      "name": "宮王神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-8aa1b1fca1a29a",
+        "20-agency-027fe64947ef29",
+        "20-agency-f20d4b82d84269",
+        "20-agency-02a3f889d53eaf",
+        "20-agency-69bfe75004ca83",
+        "20-agency-ab9bb132ebdec5",
+        "20-agency-7621de91bf90a1",
+        "20-agency-1ede4fc3d62f3c",
+        "20-agency-ea2c1c7cb451ad",
+        "20-history-f76be2541b97a9",
+        "20-history-f93c93881526a5"
+      ],
+      "name": "諏訪社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-4919234aa63ced",
+        "20-history-6051675a35ecc1"
+      ],
+      "name": "蟹原神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-24bfeab7a21c18",
+        "20-history-e3f6a715323a29"
+      ],
+      "name": "萬年嶋神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-820357ab9c5c6b",
+        "20-history-c034e83a4bd2e4"
+      ],
+      "name": "和田中神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-a29777e412686a",
+        "20-agency-d8ff0e1e8a3b10",
+        "20-history-29895134a0f292"
+      ],
+      "name": "山神社",
+      "municipality": "上高井郡高山村"
+    },
+    {
+      "ids": [
+        "20-agency-777bbd7339939f",
+        "20-history-5d3e0a3ca8eecf"
+      ],
+      "name": "三柱神社",
+      "municipality": "下高井郡木島平村"
+    },
+    {
+      "ids": [
+        "20-agency-b28368e4f4a70a",
+        "20-agency-052091218ac2bc",
+        "20-history-8425893a9007b0"
+      ],
+      "name": "伊勢神社",
+      "municipality": "下高井郡木島平村"
+    },
+    {
+      "ids": [
+        "20-agency-d2a7ecdc3093e5",
+        "20-history-3d4193d4c37737"
+      ],
+      "name": "四柱社",
+      "municipality": "下高井郡木島平村"
+    },
+    {
+      "ids": [
+        "20-agency-d132ea92c22f8e",
+        "20-history-c046453f366864"
+      ],
+      "name": "八幡神社",
+      "municipality": "下高井郡木島平村"
+    },
+    {
+      "ids": [
+        "20-agency-8bd27e46372244",
+        "20-history-9a81e80b975906"
+      ],
+      "name": "澁湯神社",
+      "municipality": "下高井郡山ノ内町"
+    },
+    {
+      "ids": [
+        "20-agency-778aef6c69076f",
+        "20-history-4f91ca704a3113"
+      ],
+      "name": "上條神社",
+      "municipality": "下高井郡山ノ内町"
+    },
+    {
+      "ids": [
+        "20-agency-b7b76f82aa4b1b",
+        "20-history-5364dd849c7413"
+      ],
+      "name": "豊受社",
+      "municipality": "下高井郡山ノ内町"
+    },
+    {
+      "ids": [
+        "20-agency-f442dc813234af",
+        "20-agency-dce49d5c5da65e",
+        "20-history-fe1ad737332ea1"
+      ],
+      "name": "山神社",
+      "municipality": "下高井郡山ノ内町"
+    },
+    {
+      "ids": [
+        "20-agency-dadb32b5090020",
+        "20-history-676e186b457130"
+      ],
+      "name": "天王社",
+      "municipality": "下高井郡山ノ内町"
+    },
+    {
+      "ids": [
+        "20-agency-98dd3e199c9242",
+        "20-agency-4b3865916bf658",
+        "20-agency-7097a61d663a00",
+        "20-history-c07261037eb830",
+        "20-history-993111a952a741"
+      ],
+      "name": "伊勢社",
+      "municipality": "下高井郡山ノ内町"
+    },
+    {
+      "ids": [
+        "20-agency-02095ac8819f7d",
+        "20-agency-f200553a7d26ae",
+        "20-agency-5ae9d27535cc79",
+        "20-agency-fb792b1998b2e2",
+        "20-history-2366dadb492eef",
+        "20-history-0f8f8e2a8fb3c5",
+        "20-history-9041834a85307a",
+        "20-history-905332c194536f"
+      ],
+      "name": "諏訪社",
+      "municipality": "下高井郡山ノ内町"
+    },
+    {
+      "ids": [
+        "20-agency-c03e9b645da93b",
+        "20-history-dd622e282798de"
+      ],
+      "name": "八幡社",
+      "municipality": "下高井郡山ノ内町"
+    },
+    {
+      "ids": [
+        "20-agency-5021345f855548",
+        "20-agency-98d3956c139eab",
+        "20-history-e55592d615c006"
+      ],
+      "name": "諏訪社",
+      "municipality": "下高井郡野沢温泉村"
+    },
+    {
+      "ids": [
+        "20-agency-1fdadc6ab87a9c",
+        "20-history-f145e296f0fb91"
+      ],
+      "name": "深澤神社",
+      "municipality": "中野市"
+    },
+    {
+      "ids": [
+        "20-agency-8e19cfd707d79a",
+        "20-agency-e6aee3dcaf2e87",
+        "20-agency-cb5c2536c04aa7",
+        "20-agency-e2027169c5f2fa",
+        "20-agency-80ddaa71fff1d4",
+        "20-agency-0a17f141c9ea78",
+        "20-agency-27f6dc973ac223",
+        "20-agency-4c0923b29587d5",
+        "20-agency-268d3dffc2a4dc",
+        "20-agency-e7322a4313b015",
+        "20-agency-de5c664bdbdc3b",
+        "20-agency-f7776b7617f644",
+        "20-agency-44a36a6bd5aac9",
+        "20-agency-6c35ffc6f25ab9",
+        "20-agency-287d672bafbafa",
+        "20-agency-50e7ae89d5ddb5",
+        "20-agency-47f8a63f1f5ef0",
+        "20-agency-5c4c4a72d6fd36",
+        "20-agency-73be05d42158ce",
+        "20-agency-140f60983eb791",
+        "20-agency-3f1092115247c2",
+        "20-agency-5875863e40ea8e",
+        "20-history-d807a92b701ac1",
+        "20-history-5355398f3c7986",
+        "20-history-1a22ccc3511c97"
+      ],
+      "name": "伊勢社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-72a5d891486bc4",
+        "20-history-bfd3c41ff0a04d"
+      ],
+      "name": "松岡神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-a0fc7ab40d35b4",
+        "20-history-3caf18e426d6a1"
+      ],
+      "name": "伊勢神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-b3afd5f9ddfb24",
+        "20-history-dfb5f56fbbe52b"
+      ],
+      "name": "風間神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-87f410bf002704",
+        "20-history-607abcb638c8f8"
+      ],
+      "name": "更級神明大神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-cf19b7babeb336",
+        "20-agency-b9deb31fa4294f",
+        "20-agency-4441f5662358bc",
+        "20-history-a969c308ea8c41"
+      ],
+      "name": "白山神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-107b710fb0e476",
+        "20-history-33843e02e6659e"
+      ],
+      "name": "桐原牧神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-9c2cd5d029f8f0",
+        "20-agency-282e253d548cf3",
+        "20-agency-f23875c9a9f5c9",
+        "20-agency-cb8a63b52b6b80",
+        "20-agency-014e76b62ac309",
+        "20-agency-3e7fef06afe39d",
+        "20-history-1567dd64e3acf8",
+        "20-history-a5763c8ec58b44"
+      ],
+      "name": "八幡社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-948803faf9142d",
+        "20-history-3cdf07c8d52755"
+      ],
+      "name": "柳原神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-c6fd90013ff4c6",
+        "20-agency-792c9607f53518",
+        "20-history-e9cb87750e3ccf"
+      ],
+      "name": "加茂神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-775aecf31a1593",
+        "20-agency-ed687d7b08f4aa",
+        "20-agency-490fa05ce101a6",
+        "20-agency-edb1d509ad51eb",
+        "20-agency-2d181513b020ef",
+        "20-agency-2691cd560aaf3b",
+        "20-agency-02bd3a4b4d59f1",
+        "20-agency-737d95b19b880d",
+        "20-agency-fc2df64f5daad7",
+        "20-agency-05a844851905ad",
+        "20-agency-ad9fbfa64c1755",
+        "20-agency-226cd8cd568bea",
+        "20-agency-6171952b29ffef",
+        "20-agency-32c9efbdec1f9e",
+        "20-agency-f6b3d8b8b86f6c",
+        "20-agency-b682b9a3dcc078",
+        "20-agency-aa10bf3df2dc07",
+        "20-agency-cedb9b84410613",
+        "20-agency-e36db419833483",
+        "20-agency-cc298c16a2144e",
+        "20-agency-c2fa04a0c2601e",
+        "20-history-69ae15063451c5"
+      ],
+      "name": "諏訪神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-bd4cf9a429aa2d",
+        "20-history-9216854cdc51e0"
+      ],
+      "name": "目神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-0f1383ddda509e",
+        "20-history-d4b1eaf8f54b58"
+      ],
+      "name": "川合墾田神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-5d2b15dadf668e",
+        "20-history-ff67fa94a9fc03"
+      ],
+      "name": "長沼神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-ceb46e448f0600",
+        "20-history-2b8f0cd7a2ce57"
+      ],
+      "name": "普光峻徳神社",
+      "municipality": "上水内郡飯綱町"
+    },
+    {
+      "ids": [
+        "20-agency-23421109a96278",
+        "20-history-603cde3738d79a"
+      ],
+      "name": "仁之倉神社",
+      "municipality": "上水内郡信濃町"
+    },
+    {
+      "ids": [
+        "20-agency-9cea08d7e1e940",
+        "20-history-15f785ae9b3734"
+      ],
+      "name": "瑞穂神社",
+      "municipality": "上水内郡信濃町"
+    },
+    {
+      "ids": [
+        "20-agency-2f2bea4eecd53d",
+        "20-history-cf8216bc8bacf0"
+      ],
+      "name": "中島神社",
+      "municipality": "上水内郡信濃町"
+    },
+    {
+      "ids": [
+        "20-agency-dd3d2f24f6badb",
+        "20-history-cbce864ffaee82"
+      ],
+      "name": "諏訪社",
+      "municipality": "上水内郡信濃町"
+    },
+    {
+      "ids": [
+        "20-agency-88ff24cfa55676",
+        "20-history-c3a80324e14a33"
+      ],
+      "name": "上楠川神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-417f37945ae50e",
+        "20-history-81a23c7937db6c"
+      ],
+      "name": "日之御子神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-7ab9292685c23a",
+        "20-history-aa264f9d497fc1",
+        "20-history-542811fc39fee9"
+      ],
+      "name": "金刀比羅神社",
+      "municipality": "長野市"
+    },
+    {
+      "ids": [
+        "20-agency-9472a9d0967466",
+        "20-agency-19aa97d9abc16d",
+        "20-agency-22a715d08e99b6",
+        "20-history-f6e2b92dc16a34"
+      ],
+      "name": "伊勢社",
+      "municipality": "千曲市"
+    },
+    {
+      "ids": [
+        "20-agency-a7a6a0f2c4abe2",
+        "20-agency-06a9c0b0bd31b5",
+        "20-history-f8a55bfd45db15"
+      ],
+      "name": "治田神社",
+      "municipality": "千曲市"
+    },
+    {
+      "ids": [
+        "20-agency-17a519df609965",
+        "20-history-ce7a5bb1cf6737"
+      ],
+      "name": "安部神社",
+      "municipality": "大町市"
+    },
+    {
+      "ids": [
+        "20-agency-c4c0e5876cbb9b",
+        "20-history-7034fffb817690"
+      ],
+      "name": "仁科神社",
+      "municipality": "大町市"
+    },
+    {
+      "ids": [
+        "20-agency-5f689e7dc0f55c",
+        "20-history-82da4c48ccd782"
+      ],
+      "name": "大宮神明宮",
+      "municipality": "大町市"
+    },
+    {
+      "ids": [
+        "20-agency-6e470a9204feba",
+        "20-history-6d7ac9a4c47ad5"
+      ],
+      "name": "白山神社",
+      "municipality": "大町市"
+    },
+    {
+      "ids": [
+        "20-agency-946a6eda22e238",
+        "20-agency-7ca0f449e65c24",
+        "20-agency-0116b41a190bab",
+        "20-agency-10a6a1b4260057",
+        "20-history-0ab372900b3f9d"
+      ],
+      "name": "神明社",
+      "municipality": "大町市"
+    },
+    {
+      "ids": [
+        "20-agency-fb3db8d4f3ebe8",
+        "20-history-7078c8c8d23598"
+      ],
+      "name": "鹿嶋神社",
+      "municipality": "大町市"
+    },
+    {
+      "ids": [
+        "20-agency-07bfa8f57ea33d",
+        "20-agency-7cdc7f787b455d",
+        "20-history-4a471333efe07f"
+      ],
+      "name": "高根神社",
+      "municipality": "大町市"
+    },
+    {
+      "ids": [
+        "20-agency-f1dd199a84862c",
+        "20-history-fef3c175b8cd15"
+      ],
+      "name": "大和田神社",
+      "municipality": "北安曇郡松川村"
+    },
+    {
+      "ids": [
+        "20-agency-fcb5e4026ea5c1",
+        "20-history-bbbe6d6b52ec6b"
+      ],
+      "name": "松川神社",
+      "municipality": "北安曇郡松川村"
+    },
+    {
+      "ids": [
+        "20-agency-b11403b993f657",
+        "20-history-f3905bb7450263"
+      ],
+      "name": "鈿女神社",
+      "municipality": "北安曇郡松川村"
+    },
+    {
+      "ids": [
+        "20-agency-0f3eaf1ccd675a",
+        "20-history-559ef7a4c7afd8"
+      ],
+      "name": "細野神社",
+      "municipality": "北安曇郡松川村"
+    },
+    {
+      "ids": [
+        "20-agency-fec3d81972c010",
+        "20-history-5fe9d9feb583cd"
+      ],
+      "name": "川會神社",
+      "municipality": "北安曇郡池田町"
+    },
+    {
+      "ids": [
+        "20-agency-edbf3928a03f14",
+        "20-history-f6a63ea87085cc"
+      ],
+      "name": "諏訪社",
+      "municipality": "北安曇郡池田町"
+    },
+    {
+      "ids": [
+        "20-agency-303ca23d4cb9f7",
+        "20-history-641ed501c99dc1"
+      ],
+      "name": "城嶺神社",
+      "municipality": "北安曇郡白馬村"
+    },
+    {
+      "ids": [
+        "20-agency-ad7b69c95faa01",
+        "20-history-47ce257683cb33"
+      ],
+      "name": "菅神社",
+      "municipality": "北安曇郡白馬村"
+    },
+    {
+      "ids": [
+        "20-agency-d23afdf6a7d8a1",
+        "20-agency-26c81db383dbd8",
+        "20-history-f08b1039769541"
+      ],
+      "name": "諏訪社",
+      "municipality": "北安曇郡小谷村"
+    },
+    {
+      "ids": [
+        "20-agency-a1dba8a63ee2b0",
+        "20-agency-ed446099680a68",
+        "20-agency-b0e8343860ab82",
+        "20-agency-7a6a1733793941",
+        "20-history-b3b6e43ae0b13e",
+        "20-history-66bf382c63b40f",
+        "20-history-2390a7b4b67455",
+        "20-history-cbcf6eadaa5da9"
+      ],
+      "name": "諏訪神社",
+      "municipality": "北安曇郡小谷村"
+    },
+    {
+      "ids": [
+        "20-agency-7afd1fc2194e55",
+        "20-history-1c563e32ff6621"
+      ],
+      "name": "黒川諏訪神社",
+      "municipality": "北安曇郡小谷村"
+    },
+    {
+      "ids": [
+        "20-agency-3cbbde39ce7de3",
+        "20-history-3b6b6f12cffb59"
+      ],
+      "name": "川内神社",
+      "municipality": "北安曇郡小谷村"
+    },
+    {
+      "ids": [
+        "20-agency-cf0f7284016233",
+        "20-agency-e6b4e8f5dd2286",
+        "20-agency-20fe59012b0cbc",
+        "20-agency-fb7d4da0e8b281",
+        "20-agency-14af22ec5f2c68",
+        "20-agency-e017011abe7bfb",
+        "20-agency-02393297cd8f55",
+        "20-agency-27c19d2a91c30d",
+        "20-agency-77a67fe05e1ae7",
+        "20-agency-d52f7de7c480ec",
+        "20-history-f5c33602a6b1d9",
+        "20-history-e28d38401fa5a6"
+      ],
+      "name": "諏訪神社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-14040c5db985a2",
+        "20-agency-3ee4722082ceca",
+        "20-agency-05af21aeddfd0b",
+        "20-history-64a9077ccc916e"
+      ],
+      "name": "神明社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-0fbcf9d3f0b515",
+        "20-agency-b37d00c3449d56",
+        "20-agency-b809fc1dbb7411",
+        "20-agency-a6aaf0981e1682",
+        "20-agency-df68cfed0eb712",
+        "20-agency-ff7f181efda67a",
+        "20-agency-0e2ad52a16f07e",
+        "20-history-668a3bad935b3b"
+      ],
+      "name": "山神社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-b2cfbea4cbf7d6",
+        "20-agency-d6cf50e21e50e8",
+        "20-agency-ff8127863b9a19",
+        "20-agency-4d583b8fc586df",
+        "20-agency-bd42103d4a357e",
+        "20-history-db7ddfc4dec6e9"
+      ],
+      "name": "諏訪社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-f8ed17d5cd847e",
+        "20-history-3e604926b9e1d7"
+      ],
+      "name": "諏訪社上下二座",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-8d8b3f0ec21280",
+        "20-agency-b2118293b25f6a",
+        "20-history-2baea936cba03f"
+      ],
+      "name": "八幡社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-f2436c52fad285",
+        "20-history-90aeabd9f02eb1"
+      ],
+      "name": "八幡神社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-a6ca4aef6d826d",
+        "20-history-be66386440f85c"
+      ],
+      "name": "賀茂神社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-b804749afbc148",
+        "20-history-75259769a853c8"
+      ],
+      "name": "小岩神社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-810c7182a430d5",
+        "20-history-0a93d2441610f9"
+      ],
+      "name": "穂高神社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-d045ad683d3669",
+        "20-history-2d0ff3fab31deb"
+      ],
+      "name": "厳島社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-2983b8c7f2dc68",
+        "20-agency-7558e848155099",
+        "20-history-0e18e797804957"
+      ],
+      "name": "白山社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-01caa32010f049",
+        "20-agency-49d4a1edd1079b",
+        "20-agency-0c057054e107fe",
+        "20-agency-2fff5fe42df2c2",
+        "20-agency-4ec8270727a476",
+        "20-agency-1c09741dbc09a2",
+        "20-agency-8e339776cbb45a",
+        "20-agency-0528ff910fc2f3",
+        "20-agency-d3ab1f12816518",
+        "20-agency-b9ffac5029c921",
+        "20-history-cd69d51686a9f4",
+        "20-history-c14647ffe33225",
+        "20-history-d7e55cb465a1df"
+      ],
+      "name": "諏訪神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-fe1f9b0bddf25b",
+        "20-history-aa8c459c09f0f0"
+      ],
+      "name": "子安諏訪合殿神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-f8d8de520dbc20",
+        "20-agency-ccd5606b0fa8b3",
+        "20-agency-b7fe743162652c",
+        "20-agency-4812cc7a12b50c",
+        "20-agency-649fdff3cefc37",
+        "20-agency-cf70e03da30212",
+        "20-agency-b5bc002b5406ad",
+        "20-agency-5826438f93361f",
+        "20-agency-24ce9bd2d7c10d",
+        "20-history-78f28d4caafeef",
+        "20-history-88728e0c6c694b"
+      ],
+      "name": "諏訪社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-1c4446759b649c",
+        "20-history-15ef1c3bf34f46"
+      ],
+      "name": "秋葉社山神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-13c6e948431512",
+        "20-agency-b303f12f4e20d2",
+        "20-history-e47a2f2ba469a1"
+      ],
+      "name": "熊野神社",
+      "municipality": "塩尻市"
+    },
+    {
+      "ids": [
+        "20-agency-910471aa566c7d",
+        "20-history-e5e85d830e2a77"
+      ],
+      "name": "白山神社",
+      "municipality": "塩尻市"
+    },
+    {
+      "ids": [
+        "20-agency-fd342a651ab737",
+        "20-agency-f05b38137f476f",
+        "20-history-412c557ebf9312"
+      ],
+      "name": "若宮八幡社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-2a0271f1071b3d",
+        "20-history-4d65deda4519db"
+      ],
+      "name": "塩竃神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-8462ca9bc3165f",
+        "20-history-dbcd22b54bcfd2"
+      ],
+      "name": "飛龍社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-5f5c0c4fff9e30",
+        "20-history-ca6b1ef78ae9e9"
+      ],
+      "name": "子安社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-6b6e40f770bed3",
+        "20-agency-2f7bed4837e9dc",
+        "20-agency-0406fe2dd034ab",
+        "20-history-8dc49035ba9907",
+        "20-history-bcc2cde458dbad"
+      ],
+      "name": "八幡社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-055a02def3376b",
+        "20-history-7f5e7ec385a99e"
+      ],
+      "name": "錦織神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-28210e1fff2851",
+        "20-history-91d255a12745ac"
+      ],
+      "name": "渚大神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-e39044c393d9ef",
+        "20-history-80cb197b3168cf"
+      ],
+      "name": "千鹿頭神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-016b4372d7ae89",
+        "20-history-aef99a227436d4"
+      ],
+      "name": "野々宮社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-4034bf340116c3",
+        "20-history-b4a8427001d388"
+      ],
+      "name": "鎮守社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-0dbb4858b8d499",
+        "20-history-11eeb7b853a1ac"
+      ],
+      "name": "八幡神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-aee6b2632585e2",
+        "20-history-9607c3072c9492"
+      ],
+      "name": "古宮社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-5a0e40e9dd1fad",
+        "20-history-5ec57f3efd1b41"
+      ],
+      "name": "八幡宮",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-c82589428dd958",
+        "20-history-9fe6b9091fcf08"
+      ],
+      "name": "大神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-a8bd6285037ce7",
+        "20-history-f5b84fc1149f25"
+      ],
+      "name": "津嶋社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-b46115e0baf18e",
+        "20-history-d34e11db9899ee"
+      ],
+      "name": "亘理神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-f9392195f57b98",
+        "20-history-407ef59063e28d"
+      ],
+      "name": "岩屋社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-6916658ba121ab",
+        "20-history-43b77bed8900e7"
+      ],
+      "name": "大洞秋葉社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-5019be0b644885",
+        "20-history-fca8d5fd42a258"
+      ],
+      "name": "小岩井諏訪社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-3369f2d8b9b138",
+        "20-history-2f142f5cef8236"
+      ],
+      "name": "天道社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-671f786741f3a2",
+        "20-history-bf889c9b4cf7b3"
+      ],
+      "name": "曾吉天白社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-89fc15d041a115",
+        "20-history-678fecc88490be"
+      ],
+      "name": "横川天白社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-15d67eae970d91",
+        "20-history-55d9237bf6675a"
+      ],
+      "name": "板場諏訪社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-8405e66c43651d",
+        "20-history-b3d77823ed1d1d"
+      ],
+      "name": "平田神社",
+      "municipality": "松本市"
+    },
+    {
+      "ids": [
+        "20-agency-9530015ec52f32",
+        "20-history-2b899261444786"
+      ],
+      "name": "和泉神社",
+      "municipality": "安曇野市"
+    },
+    {
+      "ids": [
+        "20-agency-dacbe4fafceb10",
+        "20-agency-a8fb76ba0ed741",
+        "20-history-7fe51d78410318"
+      ],
+      "name": "日置神社",
+      "municipality": "東筑摩郡生坂村"
+    },
+    {
+      "ids": [
+        "20-agency-11fb427d919cd2",
+        "20-history-e9518c03d9cf2e"
+      ],
+      "name": "本村神明社諏訪社合殿",
+      "municipality": "東筑摩郡生坂村"
+    },
+    {
+      "ids": [
+        "20-agency-dd89f3994d7d2c",
+        "20-agency-14aa60656f79ab",
+        "20-history-904feaa2fb5e3e"
+      ],
+      "name": "神明宮",
+      "municipality": "東筑摩郡生坂村"
+    },
+    {
+      "ids": [
+        "20-agency-94a0bfad124ea7",
+        "20-history-0c290c4091f093"
+      ],
+      "name": "手塚神社",
+      "municipality": "東筑摩郡筑北村"
+    },
+    {
+      "ids": [
+        "20-agency-77e56d46e1167e",
+        "20-history-5d028c8977fddf"
+      ],
+      "name": "白山神社",
+      "municipality": "東筑摩郡筑北村"
+    },
+    {
+      "ids": [
+        "20-agency-c6370c6ef965c1",
+        "20-history-567ef151a3f5ca"
+      ],
+      "name": "三神社",
+      "municipality": "東筑摩郡波田町"
+    },
+    {
+      "ids": [
+        "20-agency-d68f075050000d",
+        "20-history-f7d50f4bca0d12"
+      ],
+      "name": "旗挙八幡宮",
+      "municipality": "木曽郡木曽町"
+    },
+    {
+      "ids": [
+        "20-agency-031b1cfae75447",
+        "20-history-37bde8b36ba1ea"
+      ],
+      "name": "荒神社",
+      "municipality": "木曽郡木曽町"
+    },
+    {
+      "ids": [
+        "20-agency-572fa0e17c9a0c",
+        "20-history-369d62c353eb1f"
+      ],
+      "name": "白山神社",
+      "municipality": "木曽郡木曽町"
+    },
+    {
+      "ids": [
+        "20-agency-c0913453327092",
+        "20-agency-051dcd3af573cd",
+        "20-history-c8d4c166b7c86a"
+      ],
+      "name": "八幡宮",
+      "municipality": "木曽郡木曽町"
+    },
+    {
+      "ids": [
+        "20-agency-5672eaa4de9d57",
+        "20-history-dff76a15d31f4b"
+      ],
+      "name": "日前神社",
+      "municipality": "木曽郡大桑村"
+    },
+    {
+      "ids": [
+        "20-agency-3fd994d9dd37d0",
+        "20-agency-0b4eae00074370",
+        "20-agency-e22ed5026bb029",
+        "20-history-0a57cc63fbb65b"
+      ],
+      "name": "愛宕神社",
+      "municipality": "上田市"
+    },
+    {
+      "ids": [
+        "20-agency-8693666536ac57",
+        "20-agency-04e156f373de00",
+        "20-history-fc3ec8129b7355"
+      ],
+      "name": "秋葉神社",
+      "municipality": "上田市"
+    },
+    {
+      "ids": [
+        "20-agency-86578bccf9e1d5",
+        "20-agency-8a3a0e31ab43be",
+        "20-agency-76c253c45e3056",
+        "20-agency-53a20efd44c90b",
+        "20-agency-2de414433ef96f",
+        "20-agency-1008a072cc56e6",
+        "20-history-2939840b3773e9",
+        "20-history-34028f9ed0eab6"
+      ],
+      "name": "山神社",
+      "municipality": "上田市"
+    },
+    {
+      "ids": [
+        "20-agency-023a002f482fcc",
+        "20-history-dd86874895c156"
+      ],
+      "name": "伊勢神社",
+      "municipality": "上田市"
+    },
+    {
+      "ids": [
+        "20-agency-844841dd8d3aee",
+        "20-history-265323c55e4bff"
+      ],
+      "name": "山家神社",
+      "municipality": "上田市"
+    },
+    {
+      "ids": [
+        "20-agency-70df1593132f5b",
+        "20-history-7fc60e4bf4b237"
+      ],
+      "name": "真田神社",
+      "municipality": "上田市"
+    },
+    {
+      "ids": [
+        "20-agency-7b057936aa37ef",
+        "20-history-24cdad045d70c7"
+      ],
+      "name": "皇大神社",
+      "municipality": "上田市"
+    },
+    {
+      "ids": [
+        "20-agency-7936a5adeb55cc",
+        "20-history-73210e6c2a7b20"
+      ],
+      "name": "加美畑神社",
+      "municipality": "上田市"
+    },
+    {
+      "ids": [
+        "20-agency-0bdd980a9e64e3",
+        "20-history-c4352d59421e9d"
+      ],
+      "name": "道光神社",
+      "municipality": "上田市"
+    },
+    {
+      "ids": [
+        "20-agency-1c3aca57172d87",
+        "20-history-26bbcc6f1c720d"
+      ],
+      "name": "大星社",
+      "municipality": "上田市"
+    },
+    {
+      "ids": [
+        "20-agency-7052148577a6dc",
+        "20-history-8797efe29dfd84",
+        "20-history-fa8589afc30a6f"
+      ],
+      "name": "伊勢社",
+      "municipality": "東御市"
+    },
+    {
+      "ids": [
+        "20-agency-bbc0f8f944a7fa",
+        "20-agency-8b830ccabc85d5",
+        "20-agency-b8dfe2cd2cd0c0",
+        "20-agency-f1f678c08c79c2",
+        "20-history-81a13576d34261",
+        "20-history-ad620a172e7b03"
+      ],
+      "name": "諏訪神社",
+      "municipality": "東御市"
+    },
+    {
+      "ids": [
+        "20-agency-d7f2490de7cf7d",
+        "20-agency-19da3bba6a3ddc",
+        "20-agency-33b9dcac600b77",
+        "20-agency-52f4a38a72cb15",
+        "20-history-82fcf7cb8f6ee6"
+      ],
+      "name": "白山神社",
+      "municipality": "佐久市"
+    },
+    {
+      "ids": [
+        "20-agency-61c5cba34764f0",
+        "20-agency-53e841ad2a09f6",
+        "20-agency-fdde10051ab4b6",
+        "20-agency-51f75eb370b54a",
+        "20-agency-1cb046002a5bf8",
+        "20-agency-07fdcf84c25f8c",
+        "20-agency-4988a66c9a330c",
+        "20-agency-1ddee3a6fafa9f",
+        "20-agency-110c2299285349",
+        "20-agency-8832fe1c76c67d",
+        "20-agency-1bab842511a24b",
+        "20-agency-509ebc616baf2a",
+        "20-agency-d368d9797ed370",
+        "20-agency-36be29aad892a0",
+        "20-agency-96156a4188cdb2",
+        "20-agency-04e1320cee8194",
+        "20-agency-d245bae065e775",
+        "20-agency-6df3f3899ac3fe",
+        "20-agency-2a8fd306e44838",
+        "20-agency-22fc2788b9e56b",
+        "20-agency-23b8eb87b1b52d",
+        "20-agency-b3b6451b846143",
+        "20-history-988157229fbc9e",
+        "20-history-0afc5fd30bbffe",
+        "20-history-d15a731d7b27dc",
+        "20-history-805fdbed6cb6ac"
+      ],
+      "name": "諏訪神社",
+      "municipality": "佐久市"
+    },
+    {
+      "ids": [
+        "20-agency-ae79281f417629",
+        "20-history-3be0170aa61f33"
+      ],
+      "name": "伊邪那美神社",
+      "municipality": "佐久市"
+    },
+    {
+      "ids": [
+        "20-agency-6152f95b90793e",
+        "20-history-2d3a001710f903"
+      ],
+      "name": "近津神社",
+      "municipality": "佐久市"
+    },
+    {
+      "ids": [
+        "20-agency-6be37c59de19f6",
+        "20-agency-3380109c823b74",
+        "20-agency-c2e86dabfbf326",
+        "20-agency-ced26a71804c11",
+        "20-agency-3ce6c4e2511962",
+        "20-agency-1d0a549aa48ae5",
+        "20-agency-97875fda525fad",
+        "20-agency-83e1a5349d5f49",
+        "20-agency-16b1c09042e102",
+        "20-history-4b7d85f44e5c7f",
+        "20-history-37a170588bd1bf",
+        "20-history-25dae148a0b2dd"
+      ],
+      "name": "諏訪神社",
+      "municipality": "小諸市"
+    },
+    {
+      "ids": [
+        "20-agency-38a4cb48f601e6",
+        "20-history-2c15ca20c5331c"
+      ],
+      "name": "猿田彦神社",
+      "municipality": "東御市"
+    },
+    {
+      "ids": [
+        "20-agency-bcd11203b1e9cd",
+        "20-agency-f4df6b858e2e30",
+        "20-agency-fd3e36f90fc6dd",
+        "20-history-e8164188f3df89"
+      ],
+      "name": "諏訪社",
+      "municipality": "東御市"
+    },
+    {
+      "ids": [
+        "20-agency-d01c6d2c6550cf",
+        "20-history-e5bf407273fd85"
+      ],
+      "name": "愛宕神社",
+      "municipality": "北佐久郡軽井沢町"
+    },
+    {
+      "ids": [
+        "20-agency-907902b26d1081",
+        "20-history-7d42e4ca509292"
+      ],
+      "name": "長倉神社・諏訪神社合殿",
+      "municipality": "北佐久郡御代田町"
+    },
+    {
+      "ids": [
+        "20-agency-1aca7254cd83e8",
+        "20-history-3005cc016c9262"
+      ],
+      "name": "淺間神社",
+      "municipality": "北佐久郡御代田町"
+    },
+    {
+      "ids": [
+        "20-agency-22caad191182db",
+        "20-history-a77c596600011c"
+      ],
+      "name": "八加倉神社",
+      "municipality": "北佐久郡御代田町"
+    },
+    {
+      "ids": [
+        "20-agency-37f4b016145d31",
+        "20-history-68cef467026099"
+      ],
+      "name": "柵口神社",
+      "municipality": "北佐久郡御代田町"
+    },
+    {
+      "ids": [
+        "20-agency-d4c733b9b5a18e",
+        "20-history-e1dcee87e2b23e"
+      ],
+      "name": "大星神社",
+      "municipality": "北佐久郡御代田町"
+    },
+    {
+      "ids": [
+        "20-agency-ee1e93c5a23068",
+        "20-agency-1bed0636191cfc",
+        "20-history-db31afb148c201"
+      ],
+      "name": "諏訪神社",
+      "municipality": "北佐久郡立科町"
+    },
+    {
+      "ids": [
+        "20-agency-c3dbf3931e3032",
+        "20-history-bb5d0b252cd955"
+      ],
+      "name": "山田神社",
+      "municipality": "佐久市"
+    },
+    {
+      "ids": [
+        "20-agency-6b91dcb624ea6b",
+        "20-history-dbfeae812404cf"
+      ],
+      "name": "白髭神社",
+      "municipality": "佐久市"
+    },
+    {
+      "ids": [
+        "20-agency-f11fcf1daaa85e",
+        "20-agency-848a584021b5a8",
+        "20-agency-21dbcfbb50ec32",
+        "20-agency-f2f18058892627",
+        "20-agency-e13eeb1d7649d7",
+        "20-agency-289aa3865c4510",
+        "20-agency-54e8409dad1da6",
+        "20-agency-4980bcadb13698",
+        "20-agency-4a0dc369ac09cb",
+        "20-agency-f2f4e061065063",
+        "20-history-928bf6c40e4627",
+        "20-history-6e79b8cf838716"
+      ],
+      "name": "諏訪社",
+      "municipality": "南佐久郡佐久穂町"
+    },
+    {
+      "ids": [
+        "20-agency-a360f5630004cf",
+        "20-history-284848dd2fd49a"
+      ],
+      "name": "十二神社",
+      "municipality": "南佐久郡小海町"
+    },
+    {
+      "ids": [
+        "20-agency-d1043df21830ec",
+        "20-history-d9d1858e83e299"
+      ],
+      "name": "諏訪社",
+      "municipality": "南佐久郡南牧村"
+    },
+    {
+      "ids": [
+        "20-agency-97121767f1adee",
+        "20-history-1672bc738553eb"
+      ],
+      "name": "御射山三社",
+      "municipality": "上伊那郡箕輪町"
+    },
+    {
+      "ids": [
+        "20-agency-4712f64c0848b1",
+        "20-history-f4820111532768"
+      ],
+      "name": "神明宮",
+      "municipality": "上伊那郡南箕輪村"
+    },
+    {
+      "ids": [
+        "20-agency-b159f6260b5671",
+        "20-agency-da80470c9ad6c9",
+        "20-agency-5c67429bff9b9f",
+        "20-agency-33e55ad7d809f5",
+        "20-history-a3be550591b9c0"
+      ],
+      "name": "白山社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-6136f03ece7c19",
+        "20-history-dac25329e7610c"
+      ],
+      "name": "白山社八幡社合殿",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-fb27e91dc2a30b",
+        "20-history-d7e8f4decb26d9"
+      ],
+      "name": "坂下神社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-3bf1373ca1a157",
+        "20-agency-653f4868416bb4",
+        "20-history-27b7380e826562"
+      ],
+      "name": "春日社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-7fd72a466adbad",
+        "20-history-04ba9afae936e2"
+      ],
+      "name": "白髭社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-c3bffc7468a58e",
+        "20-history-aeffe0d17cda3c"
+      ],
+      "name": "五社神社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-25832b7419418d",
+        "20-agency-a83d439e1b9d5a",
+        "20-agency-373f806731daee",
+        "20-agency-302b8a153cd5be",
+        "20-agency-5b8d9bac41fe77",
+        "20-agency-068b4528000827",
+        "20-agency-428ba7618c64f6",
+        "20-agency-b779936f408316",
+        "20-agency-cdb78c220ace3c",
+        "20-agency-cd47fb5025e68b",
+        "20-agency-a3e789da08740a",
+        "20-agency-9b62239ce948a4",
+        "20-agency-e9ff2bcd5960bf",
+        "20-agency-d43201901f69d9",
+        "20-history-b6e2b076375a48",
+        "20-history-702137d8d989ac",
+        "20-history-5e4c96a16433e6",
+        "20-history-3ee02bfccde707",
+        "20-history-43a60b26852b89"
+      ],
+      "name": "諏訪社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-ac6384ece1d57f",
+        "20-history-b1a9e4ddb87e6d"
+      ],
+      "name": "八幡社諏訪社合殿",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-c62b8ef51d6df8",
+        "20-history-999d54434ffda4"
+      ],
+      "name": "荒井神社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-1393339503bf76",
+        "20-history-76aa46d2ddc6fd"
+      ],
+      "name": "春日神社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-06d04962bcd9c6",
+        "20-history-095f96286443c0"
+      ],
+      "name": "浅間神社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-b7092d392a8259",
+        "20-agency-67ad568a8b9b11",
+        "20-history-9835f32c3bb093"
+      ],
+      "name": "八幡宮",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-5667973b87185e",
+        "20-history-563501eae3bacb"
+      ],
+      "name": "伊那東大社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-ecf82fe488991d",
+        "20-history-493c270c185f45"
+      ],
+      "name": "神明社荒神社合殿",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-9c51aa26bd7cfc",
+        "20-history-8f756a9f09995f"
+      ],
+      "name": "原山社山王崎社合殿",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-7a61cd36a17c19",
+        "20-history-5b0b66f86f8291"
+      ],
+      "name": "上伊那招魂社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-360fca3c827304",
+        "20-agency-bdc96cafea9579",
+        "20-agency-a13d506d4a7399",
+        "20-agency-37843c9a148454",
+        "20-history-85388e09f375d3"
+      ],
+      "name": "熊野社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-78f029883527f8",
+        "20-agency-1e813f1b2fe4e8",
+        "20-agency-46238273827e1a",
+        "20-agency-83f3bece4b2da7",
+        "20-agency-7df75b8ee80e38",
+        "20-history-840d4492196258"
+      ],
+      "name": "諏訪神社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-b4cd7c7c2b7608",
+        "20-agency-6a47e2e7cf0a45",
+        "20-agency-b8aff33b1b0843",
+        "20-agency-981e5d8dfad321",
+        "20-agency-ba0c934f097859",
+        "20-agency-ed7b9d11af7258",
+        "20-agency-fa7509522c2d5a",
+        "20-agency-03b47fcaa1b0b2",
+        "20-agency-9d32ac0977b4c1",
+        "20-agency-746fb41ac9a4ab",
+        "20-agency-687b75d75bb6ec",
+        "20-agency-f0aff4a0e71706",
+        "20-history-b0ea2971615b96"
+      ],
+      "name": "八幡社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-fc8bd7caef10e2",
+        "20-agency-7bb5bc3792e7d5",
+        "20-agency-7f6b679f413652",
+        "20-history-6578bad658276c"
+      ],
+      "name": "天白社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-129f047a47330e",
+        "20-history-d2d4004930beac"
+      ],
+      "name": "子安神社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-1c614e6e148073",
+        "20-history-7998bb1e41f953"
+      ],
+      "name": "御射山社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-ec863f2fff9ced",
+        "20-history-9444865186f726"
+      ],
+      "name": "天満社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-67681eec44a24a",
+        "20-history-5f10907aee2923"
+      ],
+      "name": "末広神社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-185bfe23bc125b",
+        "20-agency-14defbe910967a",
+        "20-history-4fffe913b45800",
+        "20-history-f7b3d3e4773b2c"
+      ],
+      "name": "天伯社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-8f179263c6768c",
+        "20-agency-6a41512e371456",
+        "20-history-f24c72a644752a",
+        "20-history-d8cd6d4dbf266c"
+      ],
+      "name": "御社宮司社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-25bc88fee3ae0d",
+        "20-history-4f60e1e2070884"
+      ],
+      "name": "青木社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-efee02efc71253",
+        "20-history-0873e967db3805"
+      ],
+      "name": "大六天社",
+      "municipality": "伊那市"
+    },
+    {
+      "ids": [
+        "20-agency-76b05f105b1894",
+        "20-history-c7edccd351402b"
+      ],
+      "name": "山祇社",
+      "municipality": "上伊那郡飯島町"
+    },
+    {
+      "ids": [
+        "20-agency-95fece3bec48d7",
+        "20-history-51f6289aa9a903"
+      ],
+      "name": "横山神社",
+      "municipality": "上伊那郡中川村"
+    },
+    {
+      "ids": [
+        "20-agency-c1c73d8647cd47",
+        "20-history-194f89847129fa"
+      ],
+      "name": "賀茂神社",
+      "municipality": "岡谷市"
+    },
+    {
+      "ids": [
+        "20-agency-b63618bff40c46",
+        "20-history-1fc431cc2f5df9"
+      ],
+      "name": "洩矢神社",
+      "municipality": "岡谷市"
+    },
+    {
+      "ids": [
+        "20-agency-890511533e93cd",
+        "20-agency-6004092c5e7409",
+        "20-agency-6161810f642af2",
+        "20-history-41aad4d7cae5dc"
+      ],
+      "name": "八幡神社",
+      "municipality": "諏訪郡富士見町"
+    },
+    {
+      "ids": [
+        "20-agency-32042146c8507d",
+        "20-history-f68af3e0404c83"
+      ],
+      "name": "尾片瀬神社",
+      "municipality": "諏訪郡富士見町"
+    },
+    {
+      "ids": [
+        "20-agency-11fdc845b32778",
+        "20-history-6b19b76fb7215d"
+      ],
+      "name": "蚕養稲荷社",
+      "municipality": "諏訪郡富士見町"
+    },
+    {
+      "ids": [
+        "20-agency-7d4e13ad394b10",
+        "20-history-f12bc7b129f126"
+      ],
+      "name": "霧ケ峯本御射山神社",
+      "municipality": "諏訪市"
+    },
+    {
+      "ids": [
+        "20-agency-4b647324b5cf53",
+        "20-history-1ebd68108e983f"
+      ],
+      "name": "御曽儀神社",
+      "municipality": "諏訪市"
+    },
+    {
+      "ids": [
+        "20-agency-d1b6e58c0c47c9",
+        "20-history-5520cd677bf461"
+      ],
+      "name": "伏谷社",
+      "municipality": "下伊那郡阿智村"
+    },
+    {
+      "ids": [
+        "20-agency-fe297f48298010",
+        "20-history-b6a367eafc368d"
+      ],
+      "name": "大和社",
+      "municipality": "下伊那郡喬木村"
+    },
+    {
+      "ids": [
+        "20-agency-829c6579e0477a",
+        "20-history-5f8b10887365c2"
+      ],
+      "name": "大洲七椙神社",
+      "municipality": "下伊那郡松川町"
+    },
+    {
+      "ids": [
+        "20-agency-b07f755061f700",
+        "20-history-1c983d13d2d379"
+      ],
+      "name": "諏訪形神社",
+      "municipality": "下伊那郡松川町"
+    },
+    {
+      "ids": [
+        "20-agency-77071b4e99d092",
+        "20-history-4496ba2d0f47d7"
+      ],
+      "name": "白諏神社",
+      "municipality": "下伊那郡大鹿村"
+    },
+    {
+      "ids": [
+        "20-agency-51e1f8abc0d39a",
+        "20-agency-89aee9b0c627e0",
+        "20-history-bd9cc52062ee43"
+      ],
+      "name": "諏訪神社",
+      "municipality": "下伊那郡豊丘村"
+    },
+    {
+      "ids": [
+        "20-agency-bfe35bb96bc5ad",
+        "20-history-80c4f30b3873e2"
+      ],
+      "name": "稲荷社",
+      "municipality": "下伊那郡豊丘村"
+    },
+    {
+      "ids": [
+        "20-agency-680176c473322b",
+        "20-agency-4c0963619698a0",
+        "20-agency-03ebefc7535286",
+        "20-agency-2f42caa1c82cd7",
+        "20-agency-ed60fc55f4d7f7",
+        "20-agency-7f722dedf26cdf",
+        "20-agency-ccf509494e19ca",
+        "20-agency-8775d102b52ecd",
+        "20-agency-d9f08bf81e2afb",
+        "20-agency-a01bbeabcff1c7",
+        "20-history-2a4df7860f2f67",
+        "20-history-dd600406b35ab7"
+      ],
+      "name": "八幡社",
+      "municipality": "飯田市"
+    },
+    {
+      "ids": [
+        "20-agency-46ac991cb62c90",
+        "20-history-827f7734c03c8b"
+      ],
+      "name": "大宮諏訪神社",
+      "municipality": "飯田市"
+    },
+    {
+      "ids": [
+        "20-agency-e5dd90bb7c6ec2",
+        "20-history-99b0032eb1e8fd"
+      ],
+      "name": "琴平社",
+      "municipality": "飯田市"
+    },
+    {
+      "ids": [
+        "20-agency-41eb72c573b42c",
+        "20-agency-a658445895272d",
+        "20-history-b40ec24aed8e3c"
+      ],
+      "name": "八王子社",
+      "municipality": "飯田市"
+    },
+    {
+      "ids": [
+        "20-agency-2a2bfda0ca3011",
+        "20-history-ce492797eb0848"
+      ],
+      "name": "烏山稲荷神社",
+      "municipality": "飯田市"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 476,
+    "unmapped_records": 2896
+  }
+}
