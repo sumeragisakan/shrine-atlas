@@ -1,0 +1,674 @@
+{
+  "code": 24,
+  "name": "三重県",
+  "slug": "mie",
+  "checked": "2026-10-30",
+  "scope": "三重県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 860,
+  "records": 860,
+  "directory_indexes": 27,
+  "baseline_rows": 823,
+  "agency_rows": 822,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 785,
+  "historical_only_records": 38,
+  "with_deities": 859,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 860,
+  "municipalities": [
+    {
+      "municipality": "いなべ市",
+      "area": "全域",
+      "records": 66,
+      "with_deities": 66,
+      "mapped_locations": 0,
+      "without_coordinates": 66
+    },
+    {
+      "municipality": "三重郡川越町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "三重郡朝日町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "三重郡菰野町",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "亀山市",
+      "area": "全域",
+      "records": 21,
+      "with_deities": 21,
+      "mapped_locations": 0,
+      "without_coordinates": 21
+    },
+    {
+      "municipality": "伊勢市",
+      "area": "全域",
+      "records": 42,
+      "with_deities": 42,
+      "mapped_locations": 0,
+      "without_coordinates": 42
+    },
+    {
+      "municipality": "伊賀市",
+      "area": "全域",
+      "records": 61,
+      "with_deities": 61,
+      "mapped_locations": 0,
+      "without_coordinates": 61
+    },
+    {
+      "municipality": "北牟婁郡紀北町",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "南牟婁郡御浜町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "南牟婁郡紀宝町",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
+      "municipality": "名張市",
+      "area": "全域",
+      "records": 32,
+      "with_deities": 32,
+      "mapped_locations": 0,
+      "without_coordinates": 32
+    },
+    {
+      "municipality": "員弁郡東員町",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "四日市",
+      "area": "全域",
+      "records": 81,
+      "with_deities": 81,
+      "mapped_locations": 0,
+      "without_coordinates": 81
+    },
+    {
+      "municipality": "多気郡多気町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "多気郡大台町",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "多気郡明和町",
+      "area": "全域",
+      "records": 16,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 16
+    },
+    {
+      "municipality": "尾鷲市",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
+      "municipality": "度会郡南伊勢町",
+      "area": "全域",
+      "records": 17,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 17
+    },
+    {
+      "municipality": "度会郡大紀町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "度会郡度会町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "度会郡玉城町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "志摩市",
+      "area": "全域",
+      "records": 25,
+      "with_deities": 24,
+      "mapped_locations": 0,
+      "without_coordinates": 25
+    },
+    {
+      "municipality": "所在地未详",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "松阪市",
+      "area": "全域",
+      "records": 61,
+      "with_deities": 61,
+      "mapped_locations": 0,
+      "without_coordinates": 61
+    },
+    {
+      "municipality": "桑名市",
+      "area": "全域",
+      "records": 107,
+      "with_deities": 107,
+      "mapped_locations": 0,
+      "without_coordinates": 107
+    },
+    {
+      "municipality": "桑名郡木曽岬町",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "津市",
+      "area": "全域",
+      "records": 100,
+      "with_deities": 100,
+      "mapped_locations": 0,
+      "without_coordinates": 100
+    },
+    {
+      "municipality": "熊野市",
+      "area": "全域",
+      "records": 22,
+      "with_deities": 22,
+      "mapped_locations": 0,
+      "without_coordinates": 22
+    },
+    {
+      "municipality": "鈴鹿市",
+      "area": "全域",
+      "records": 67,
+      "with_deities": 67,
+      "mapped_locations": 0,
+      "without_coordinates": 67
+    },
+    {
+      "municipality": "鈴鹿市郡山町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "鳥羽市",
+      "area": "全域",
+      "records": 20,
+      "with_deities": 20,
+      "mapped_locations": 0,
+      "without_coordinates": 20
+    }
+  ],
+  "collections": [
+    "data/shrines/24-mie/agency-001.json",
+    "data/shrines/24-mie/agency-002.json",
+    "data/shrines/24-mie/agency-003.json",
+    "data/shrines/24-mie/agency-004.json",
+    "data/shrines/24-mie/agency-005.json",
+    "data/shrines/24-mie/agency-006.json",
+    "data/shrines/24-mie/history-001.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 823,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "24"
+        }
+      }
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://www.mie-jinjachou.page/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/11_kuwana/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/12_inabe/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/13_mie/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/14_yokkaichi/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/15_suzuka/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/16_kameyama_seki/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/17_age/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/18_ichishi/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/19_tsu/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/20_hisai/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/21_ayama/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/22_naga/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/23_ueno/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/24_nabari/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/03_matsusaka/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/09_iinan/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/04_taki/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/08_ise/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/05_toba/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/10_shima/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/02_watarai/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/07_kitamuro/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/06_owase/",
+      "entries": null
+    },
+    {
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "url": "https://kyoka.mie-jinjacho.or.jp/shrine/cat/01_nanki/",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "三重県神社庁教化委員会",
+      "label": "三重県神社庁教化委員会 公開神社一覧",
+      "scope_note": "公式サイトが案内する教化委員会の24支部公開神社プロフィール。公開支部別件数の合計と収録数を照合。Google埋込地図の表示中心は神社の精密位置と断定せず、座標として転記しない。長い由緒・写真・神職連絡先は未収録。",
+      "expected_rows": 822,
+      "pagination_complete": true,
+      "failures": [],
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "24-agency-849a2a1104f82d",
+        "24-history-fe840c1b01683a"
+      ],
+      "name": "八坂神社（大安町）",
+      "municipality": "いなべ市"
+    },
+    {
+      "ids": [
+        "24-agency-b518e1cd04fb3d",
+        "24-history-a0c511fc6cdc75"
+      ],
+      "name": "子良新田神明社",
+      "municipality": "いなべ市"
+    },
+    {
+      "ids": [
+        "24-agency-d1dbfaa7587cf7",
+        "24-agency-cf63a417cd53b5",
+        "24-agency-0c7714a2a95a4e",
+        "24-agency-ffd4d2f1130c2e",
+        "24-agency-c60b62c873a0e0",
+        "24-history-c0cfe268b5503d"
+      ],
+      "name": "川俣神社（西富田町）",
+      "municipality": "鈴鹿市"
+    },
+    {
+      "ids": [
+        "24-agency-60e94427d27428",
+        "24-history-74519798e22bfa"
+      ],
+      "name": "伊奈利社",
+      "municipality": "桑名市"
+    },
+    {
+      "ids": [
+        "24-agency-db5d641ab5d370",
+        "24-agency-16315fa3fb2d61",
+        "24-agency-3520750d632612",
+        "24-agency-4614267588113d",
+        "24-history-469d0c21a7c9f6"
+      ],
+      "name": "八幡社（築戸）",
+      "municipality": "桑名市"
+    },
+    {
+      "ids": [
+        "24-agency-227ae4a7818743",
+        "24-history-b8cfa2662f4f81"
+      ],
+      "name": "城南神社",
+      "municipality": "桑名市"
+    },
+    {
+      "ids": [
+        "24-agency-9b147b8d3ef964",
+        "24-history-a5f7285940be0b"
+      ],
+      "name": "天神社（西外面）",
+      "municipality": "桑名市"
+    },
+    {
+      "ids": [
+        "24-agency-a6751ad3a3fbd2",
+        "24-history-d692634d5ad2bd"
+      ],
+      "name": "廣見神社",
+      "municipality": "桑名市"
+    },
+    {
+      "ids": [
+        "24-agency-572015c30524fa",
+        "24-history-716fc0d5ac5b91"
+      ],
+      "name": "楠神社",
+      "municipality": "桑名市"
+    },
+    {
+      "ids": [
+        "24-agency-81983d6b222cda",
+        "24-agency-15b8ddd97932c7",
+        "24-agency-35306c1b45728f",
+        "24-agency-8e1159a2ea829d",
+        "24-agency-cb39349acb0d81",
+        "24-agency-cd2c5f554bf221",
+        "24-agency-b8caacedafe5e0",
+        "24-agency-87dfe88f61d9a1",
+        "24-agency-a9829941e99480",
+        "24-agency-5ac187ace3d744",
+        "24-agency-040ac408732b02",
+        "24-agency-dacca69560ba84",
+        "24-agency-62ae3db9ed110d",
+        "24-agency-6475d3c5b3e8ac",
+        "24-history-dd36988673d6e2"
+      ],
+      "name": "神明社（大島）",
+      "municipality": "桑名市"
+    },
+    {
+      "ids": [
+        "24-agency-7a7fc679162b9e",
+        "24-history-8c5c184bc0738e"
+      ],
+      "name": "野田神社",
+      "municipality": "四日市"
+    },
+    {
+      "ids": [
+        "24-agency-6c3ff58714828d",
+        "24-history-1275642d98634c"
+      ],
+      "name": "山分天満宮",
+      "municipality": "四日市"
+    },
+    {
+      "ids": [
+        "24-agency-5f7d1b3bef20d2",
+        "24-history-d467f0d0cfaae9"
+      ],
+      "name": "聖武天皇社",
+      "municipality": "四日市"
+    },
+    {
+      "ids": [
+        "24-agency-800b8f9b430586",
+        "24-history-9af2878c28ac21"
+      ],
+      "name": "飛鳥神社（一色町）",
+      "municipality": "四日市"
+    },
+    {
+      "ids": [
+        "24-agency-aa6c8eb1e33088",
+        "24-history-981839e43ac4ec"
+      ],
+      "name": "須佐之男神社",
+      "municipality": "亀山市"
+    },
+    {
+      "ids": [
+        "24-agency-2510a06b8d6fce",
+        "24-history-b12b24c636c9cb"
+      ],
+      "name": "宇気比神社（小舟）",
+      "municipality": "津市"
+    },
+    {
+      "ids": [
+        "24-agency-af1f91ea475f04",
+        "24-agency-2034a055bc1534",
+        "24-history-89c63c310c5266"
+      ],
+      "name": "事忌神社（林）",
+      "municipality": "津市"
+    },
+    {
+      "ids": [
+        "24-agency-1bcd1e589cc25c",
+        "24-agency-ee33d252637e23",
+        "24-history-bed5297d8afce8"
+      ],
+      "name": "八柱神社（奥鹿野）",
+      "municipality": "伊賀市"
+    },
+    {
+      "ids": [
+        "24-agency-330f4840880013",
+        "24-history-a2e2e53f765b55"
+      ],
+      "name": "日和神社",
+      "municipality": "伊勢市"
+    },
+    {
+      "ids": [
+        "24-agency-9f3f22313bb90f",
+        "24-history-8f59861837b604"
+      ],
+      "name": "北畠神社",
+      "municipality": "多気郡大台町"
+    },
+    {
+      "ids": [
+        "24-agency-48f83973cf3574",
+        "24-history-b007b9805ddc05"
+      ],
+      "name": "竹神社",
+      "municipality": "多気郡明和町"
+    },
+    {
+      "ids": [
+        "24-agency-2c6562debdc0d4",
+        "24-history-7e9c238675937b"
+      ],
+      "name": "大白神社",
+      "municipality": "北牟婁郡紀北町"
+    },
+    {
+      "ids": [
+        "24-agency-5e81dd690f8df3",
+        "24-history-325f115b1aff06"
+      ],
+      "name": "上宮神社",
+      "municipality": "熊野市"
+    },
+    {
+      "ids": [
+        "24-agency-13a269ecc88b2c",
+        "24-agency-7b8d6038caa57b",
+        "24-agency-282923f17bb05f",
+        "24-agency-3c920b79fe75e4",
+        "24-history-47e2d7ce0149bf"
+      ],
+      "name": "八柱神社（道方）",
+      "municipality": "度会郡南伊勢町"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 1,
+    "unmapped_records": 860
+  }
+}
