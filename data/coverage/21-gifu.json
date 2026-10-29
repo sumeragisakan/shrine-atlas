@@ -1,0 +1,767 @@
+{
+  "code": 21,
+  "name": "岐阜県",
+  "slug": "gifu",
+  "checked": "2026-10-30",
+  "scope": "岐阜県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 3229,
+  "records": 3229,
+  "directory_indexes": 2,
+  "baseline_rows": 3229,
+  "agency_rows": 0,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 0,
+  "historical_only_records": 3229,
+  "with_deities": 3212,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 3229,
+  "municipalities": [
+    {
+      "municipality": "下呂市",
+      "area": "全域",
+      "records": 51,
+      "with_deities": 50,
+      "mapped_locations": 0,
+      "without_coordinates": 51
+    },
+    {
+      "municipality": "不破郡垂井町",
+      "area": "全域",
+      "records": 43,
+      "with_deities": 43,
+      "mapped_locations": 0,
+      "without_coordinates": 43
+    },
+    {
+      "municipality": "不破郡関ケ原町",
+      "area": "全域",
+      "records": 28,
+      "with_deities": 28,
+      "mapped_locations": 0,
+      "without_coordinates": 28
+    },
+    {
+      "municipality": "中津川市",
+      "area": "全域",
+      "records": 73,
+      "with_deities": 72,
+      "mapped_locations": 0,
+      "without_coordinates": 73
+    },
+    {
+      "municipality": "加茂郡七宗町",
+      "area": "全域",
+      "records": 37,
+      "with_deities": 37,
+      "mapped_locations": 0,
+      "without_coordinates": 37
+    },
+    {
+      "municipality": "加茂郡八百津町",
+      "area": "全域",
+      "records": 48,
+      "with_deities": 48,
+      "mapped_locations": 0,
+      "without_coordinates": 48
+    },
+    {
+      "municipality": "加茂郡坂祝町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "加茂郡富加町",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "加茂郡川辺町",
+      "area": "全域",
+      "records": 36,
+      "with_deities": 36,
+      "mapped_locations": 0,
+      "without_coordinates": 36
+    },
+    {
+      "municipality": "加茂郡東白川村",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "加茂郡白川町",
+      "area": "全域",
+      "records": 39,
+      "with_deities": 39,
+      "mapped_locations": 0,
+      "without_coordinates": 39
+    },
+    {
+      "municipality": "可児市",
+      "area": "全域",
+      "records": 55,
+      "with_deities": 55,
+      "mapped_locations": 0,
+      "without_coordinates": 55
+    },
+    {
+      "municipality": "可児郡御嵩町",
+      "area": "全域",
+      "records": 34,
+      "with_deities": 34,
+      "mapped_locations": 0,
+      "without_coordinates": 34
+    },
+    {
+      "municipality": "各務原市",
+      "area": "全域",
+      "records": 102,
+      "with_deities": 101,
+      "mapped_locations": 0,
+      "without_coordinates": 102
+    },
+    {
+      "municipality": "吉城郡上宝村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "吉城郡古川町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "吉城郡国府町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "吉城郡宮川村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "吉城郡河合村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "吉城郡神岡町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "土岐市",
+      "area": "全域",
+      "records": 57,
+      "with_deities": 57,
+      "mapped_locations": 0,
+      "without_coordinates": 57
+    },
+    {
+      "municipality": "多治見市",
+      "area": "全域",
+      "records": 38,
+      "with_deities": 38,
+      "mapped_locations": 0,
+      "without_coordinates": 38
+    },
+    {
+      "municipality": "大垣市",
+      "area": "全域",
+      "records": 220,
+      "with_deities": 220,
+      "mapped_locations": 0,
+      "without_coordinates": 220
+    },
+    {
+      "municipality": "大野郡久-野町",
+      "area": "全域",
+      "records": 16,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 16
+    },
+    {
+      "municipality": "大野郡宮村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "大野郡清見村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "大野郡白川村",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
+      "municipality": "大野郡荘川村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大野郡高根村",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "安八郡墨俣町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "安八郡安八町",
+      "area": "全域",
+      "records": 40,
+      "with_deities": 37,
+      "mapped_locations": 0,
+      "without_coordinates": 40
+    },
+    {
+      "municipality": "安八郡神戸町",
+      "area": "全域",
+      "records": 43,
+      "with_deities": 43,
+      "mapped_locations": 0,
+      "without_coordinates": 43
+    },
+    {
+      "municipality": "安八郡輪之内町",
+      "area": "全域",
+      "records": 24,
+      "with_deities": 24,
+      "mapped_locations": 0,
+      "without_coordinates": 24
+    },
+    {
+      "municipality": "山県市",
+      "area": "全域",
+      "records": 97,
+      "with_deities": 97,
+      "mapped_locations": 0,
+      "without_coordinates": 97
+    },
+    {
+      "municipality": "山県郡美山町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "岐阜市",
+      "area": "全域",
+      "records": 292,
+      "with_deities": 291,
+      "mapped_locations": 0,
+      "without_coordinates": 292
+    },
+    {
+      "municipality": "恵那市",
+      "area": "全域",
+      "records": 98,
+      "with_deities": 98,
+      "mapped_locations": 0,
+      "without_coordinates": 98
+    },
+    {
+      "municipality": "恵那郡上矢作町",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "恵那郡串原村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "恵那郡付知町",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "恵那郡加子母村",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "恵那郡坂下町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "恵那郡山岡町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "恵那郡岩村",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "恵那郡明智町",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "揖斐郡大野町",
+      "area": "全域",
+      "records": 60,
+      "with_deities": 60,
+      "mapped_locations": 0,
+      "without_coordinates": 60
+    },
+    {
+      "municipality": "揖斐郡揖斐川町",
+      "area": "全域",
+      "records": 115,
+      "with_deities": 114,
+      "mapped_locations": 0,
+      "without_coordinates": 115
+    },
+    {
+      "municipality": "揖斐郡春日村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "揖斐郡池田町",
+      "area": "全域",
+      "records": 41,
+      "with_deities": 41,
+      "mapped_locations": 0,
+      "without_coordinates": 41
+    },
+    {
+      "municipality": "揖斐郡谷汲村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "本巣市",
+      "area": "全域",
+      "records": 122,
+      "with_deities": 122,
+      "mapped_locations": 0,
+      "without_coordinates": 122
+    },
+    {
+      "municipality": "本巣郡北方町",
+      "area": "全域",
+      "records": 17,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 17
+    },
+    {
+      "municipality": "本巣郡巣南町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "本巣郡本巣町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "本巣郡根尾村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "本巣郡真正町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "本巣郡糸貫町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "武儀郡上之保村",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "武儀郡板取村",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
+      "municipality": "海津市",
+      "area": "全域",
+      "records": 128,
+      "with_deities": 128,
+      "mapped_locations": 0,
+      "without_coordinates": 128
+    },
+    {
+      "municipality": "海津郡海津町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "瑞浪市",
+      "area": "全域",
+      "records": 72,
+      "with_deities": 72,
+      "mapped_locations": 0,
+      "without_coordinates": 72
+    },
+    {
+      "municipality": "瑞穂市",
+      "area": "全域",
+      "records": 57,
+      "with_deities": 56,
+      "mapped_locations": 0,
+      "without_coordinates": 57
+    },
+    {
+      "municipality": "益田郡小坂町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "益田郡萩原町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "益田郡馬瀬村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "美濃加茂市",
+      "area": "全域",
+      "records": 86,
+      "with_deities": 83,
+      "mapped_locations": 0,
+      "without_coordinates": 86
+    },
+    {
+      "municipality": "美濃市",
+      "area": "全域",
+      "records": 55,
+      "with_deities": 55,
+      "mapped_locations": 0,
+      "without_coordinates": 55
+    },
+    {
+      "municipality": "羽島市",
+      "area": "全域",
+      "records": 84,
+      "with_deities": 84,
+      "mapped_locations": 0,
+      "without_coordinates": 84
+    },
+    {
+      "municipality": "羽島郡岐南町",
+      "area": "全域",
+      "records": 23,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 23
+    },
+    {
+      "municipality": "羽島郡川島町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "羽島郡柳津町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "羽島郡笠松町",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 27,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "郡上市",
+      "area": "全域",
+      "records": 165,
+      "with_deities": 165,
+      "mapped_locations": 0,
+      "without_coordinates": 165
+    },
+    {
+      "municipality": "郡上郡八幡町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "郡上郡和良村",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "郡上郡大和町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "郡上郡白鳥町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "関市",
+      "area": "全域",
+      "records": 155,
+      "with_deities": 155,
+      "mapped_locations": 0,
+      "without_coordinates": 155
+    },
+    {
+      "municipality": "飛騨市",
+      "area": "全域",
+      "records": 96,
+      "with_deities": 96,
+      "mapped_locations": 0,
+      "without_coordinates": 96
+    },
+    {
+      "municipality": "養老郡上石津町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "養老郡養老町",
+      "area": "全域",
+      "records": 113,
+      "with_deities": 112,
+      "mapped_locations": 0,
+      "without_coordinates": 113
+    },
+    {
+      "municipality": "高山市",
+      "area": "全域",
+      "records": 166,
+      "with_deities": 165,
+      "mapped_locations": 0,
+      "without_coordinates": 166
+    }
+  ],
+  "collections": [
+    "data/shrines/21-gifu/history-001.json",
+    "data/shrines/21-gifu/history-002.json",
+    "data/shrines/21-gifu/history-003.json",
+    "data/shrines/21-gifu/history-004.json",
+    "data/shrines/21-gifu/history-005.json",
+    "data/shrines/21-gifu/history-006.json",
+    "data/shrines/21-gifu/history-007.json",
+    "data/shrines/21-gifu/history-008.json",
+    "data/shrines/21-gifu/history-009.json",
+    "data/shrines/21-gifu/history-010.json",
+    "data/shrines/21-gifu/history-011.json",
+    "data/shrines/21-gifu/history-012.json",
+    "data/shrines/21-gifu/history-013.json",
+    "data/shrines/21-gifu/history-014.json",
+    "data/shrines/21-gifu/history-015.json",
+    "data/shrines/21-gifu/history-016.json",
+    "data/shrines/21-gifu/history-017.json",
+    "data/shrines/21-gifu/history-018.json",
+    "data/shrines/21-gifu/history-019.json",
+    "data/shrines/21-gifu/history-020.json",
+    "data/shrines/21-gifu/history-021.json",
+    "data/shrines/21-gifu/history-022.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 3229,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "21"
+        }
+      }
+    },
+    {
+      "label": "岐阜県神社庁 公開神社一覧",
+      "url": "https://www.gifu-jinjacho.jp/jnjyalist.php",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "岐阜県神社庁",
+      "label": "岐阜県神社庁 公開神社一覧",
+      "scope_note": "公式神社名一覧への通常HTTP取得は2回とも503。検索エンジンでは828種類の神社名見出しが確認されるが、同名複数社があるため神社件数とは扱わない。",
+      "expected_rows": null,
+      "pagination_complete": false,
+      "failures": [
+        {
+          "url": "https://www.gifu-jinjacho.jp/jnjyalist.php",
+          "error": "HTTP 503 Service Unavailable; two ordinary requests"
+        }
+      ],
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 17,
+    "unmapped_records": 3229
+  }
+}
