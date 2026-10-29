@@ -1069,16 +1069,22 @@
       "code": 30,
       "name": "和歌山県",
       "slug": "wakayama",
-      "status": "pending",
-      "records": 0,
+      "status": "ready",
+      "records": 425,
       "mapped_locations": 0,
-      "with_deities": 0,
-      "collections": [],
-      "coverage": null,
-      "database": null,
-      "offline": null,
-      "historical_only_records": 0,
-      "agency_rows": 0
+      "with_deities": 413,
+      "collections": [
+        "data/shrines/30-wakayama/history-001.json",
+        "data/shrines/30-wakayama/history-002.json",
+        "data/shrines/30-wakayama/history-003.json"
+      ],
+      "coverage": "data/coverage/30-wakayama.json",
+      "database": "database/prefectures/30-wakayama.sqlite.gz",
+      "offline": "offline/prefectures/30-wakayama.html",
+      "historical_only_records": 425,
+      "agency_rows": 0,
+      "checked": "2026-10-30",
+      "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。"
     },
     {
       "code": 31,
@@ -1897,6 +1903,9 @@
     "data/shrines/29-nara/history-007.json",
     "data/shrines/29-nara/history-008.json",
     "data/shrines/29-nara/history-009.json",
+    "data/shrines/30-wakayama/history-001.json",
+    "data/shrines/30-wakayama/history-002.json",
+    "data/shrines/30-wakayama/history-003.json",
     "data/shrines/tottori/tottori-city.json",
     "data/shrines/tottori/yonago.json",
     "data/shrines/tottori/kurayoshi.json",
@@ -1919,10 +1928,10 @@
   ],
   "coverage_note": "机构公开名录与明确标记的研究会历史条目；不同来源的范围和缺失字段逐地区说明。",
   "totals": {
-    "regions": 30,
-    "records": 77816,
+    "regions": 31,
+    "records": 78241,
     "mapped_locations": 12759,
-    "with_deities": 61945,
-    "historical_only_records": 35917
+    "with_deities": 62358,
+    "historical_only_records": 36342
   }
 }
