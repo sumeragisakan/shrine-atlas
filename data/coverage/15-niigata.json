@@ -1,0 +1,6842 @@
+{
+  "code": 15,
+  "name": "新潟県",
+  "slug": "niigata",
+  "checked": "2026-10-30",
+  "scope": "新潟県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 5609,
+  "records": 5609,
+  "directory_indexes": 49,
+  "baseline_rows": 4782,
+  "agency_rows": 4619,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 3792,
+  "historical_only_records": 990,
+  "with_deities": 4757,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 990,
+  "municipalities": [
+    {
+      "municipality": "三島郡出雲崎町",
+      "area": "全域",
+      "records": 57,
+      "with_deities": 53,
+      "mapped_locations": 0,
+      "without_coordinates": 57
+    },
+    {
+      "municipality": "三条市",
+      "area": "全域",
+      "records": 192,
+      "with_deities": 168,
+      "mapped_locations": 0,
+      "without_coordinates": 192
+    },
+    {
+      "municipality": "上越市",
+      "area": "全域",
+      "records": 275,
+      "with_deities": 235,
+      "mapped_locations": 0,
+      "without_coordinates": 275
+    },
+    {
+      "municipality": "上越市三和区",
+      "area": "全域",
+      "records": 42,
+      "with_deities": 36,
+      "mapped_locations": 0,
+      "without_coordinates": 42
+    },
+    {
+      "municipality": "上越市中郷区",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "上越市吉川区",
+      "area": "全域",
+      "records": 62,
+      "with_deities": 56,
+      "mapped_locations": 0,
+      "without_coordinates": 62
+    },
+    {
+      "municipality": "上越市名立区",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 26,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "上越市大島区",
+      "area": "全域",
+      "records": 25,
+      "with_deities": 24,
+      "mapped_locations": 0,
+      "without_coordinates": 25
+    },
+    {
+      "municipality": "上越市大潟区",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "上越市安塚区",
+      "area": "全域",
+      "records": 34,
+      "with_deities": 33,
+      "mapped_locations": 0,
+      "without_coordinates": 34
+    },
+    {
+      "municipality": "上越市板倉区",
+      "area": "全域",
+      "records": 48,
+      "with_deities": 43,
+      "mapped_locations": 0,
+      "without_coordinates": 48
+    },
+    {
+      "municipality": "上越市柿崎区",
+      "area": "全域",
+      "records": 55,
+      "with_deities": 53,
+      "mapped_locations": 0,
+      "without_coordinates": 55
+    },
+    {
+      "municipality": "上越市浦川原区",
+      "area": "全域",
+      "records": 38,
+      "with_deities": 36,
+      "mapped_locations": 0,
+      "without_coordinates": 38
+    },
+    {
+      "municipality": "上越市清里区",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 21,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "上越市牧区",
+      "area": "全域",
+      "records": 45,
+      "with_deities": 41,
+      "mapped_locations": 0,
+      "without_coordinates": 45
+    },
+    {
+      "municipality": "上越市頸城区",
+      "area": "全域",
+      "records": 67,
+      "with_deities": 58,
+      "mapped_locations": 0,
+      "without_coordinates": 67
+    },
+    {
+      "municipality": "中蒲原郡横越村",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "中魚沼郡川西町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "中魚沼郡津南町",
+      "area": "全域",
+      "records": 72,
+      "with_deities": 69,
+      "mapped_locations": 0,
+      "without_coordinates": 72
+    },
+    {
+      "municipality": "五泉市",
+      "area": "全域",
+      "records": 117,
+      "with_deities": 106,
+      "mapped_locations": 0,
+      "without_coordinates": 117
+    },
+    {
+      "municipality": "佐渡市",
+      "area": "全域",
+      "records": 266,
+      "with_deities": 244,
+      "mapped_locations": 0,
+      "without_coordinates": 266
+    },
+    {
+      "municipality": "佐渡郡佐和田町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "佐渡郡相川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "刈羽郡刈羽村",
+      "area": "全域",
+      "records": 21,
+      "with_deities": 20,
+      "mapped_locations": 0,
+      "without_coordinates": 21
+    },
+    {
+      "municipality": "刈羽郡小国町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "加茂市",
+      "area": "全域",
+      "records": 50,
+      "with_deities": 44,
+      "mapped_locations": 0,
+      "without_coordinates": 50
+    },
+    {
+      "municipality": "北蒲原郡中条町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "北蒲原郡京ケ瀬村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "北蒲原郡聖篭町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "北蒲原郡聖籠町",
+      "area": "全域",
+      "records": 25,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 25
+    },
+    {
+      "municipality": "北蒲原郡黒川村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "北魚沼郡川口町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "北魚沼郡広神村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "北魚沼郡湯之谷村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "十日町市",
+      "area": "全域",
+      "records": 332,
+      "with_deities": 264,
+      "mapped_locations": 0,
+      "without_coordinates": 332
+    },
+    {
+      "municipality": "南蒲原郡中之島町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "南蒲原郡田上町",
+      "area": "全域",
+      "records": 21,
+      "with_deities": 19,
+      "mapped_locations": 0,
+      "without_coordinates": 21
+    },
+    {
+      "municipality": "南魚沼市",
+      "area": "全域",
+      "records": 180,
+      "with_deities": 164,
+      "mapped_locations": 0,
+      "without_coordinates": 180
+    },
+    {
+      "municipality": "南魚沼郡塩沢町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "南魚沼郡大和町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "南魚沼郡湯沢町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "妙高市",
+      "area": "全域",
+      "records": 108,
+      "with_deities": 89,
+      "mapped_locations": 0,
+      "without_coordinates": 108
+    },
+    {
+      "municipality": "小千谷市",
+      "area": "全域",
+      "records": 108,
+      "with_deities": 90,
+      "mapped_locations": 0,
+      "without_coordinates": 108
+    },
+    {
+      "municipality": "小千谷市北魚沼郡川口町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "岩船郡荒川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "岩船郡関川村",
+      "area": "全域",
+      "records": 48,
+      "with_deities": 47,
+      "mapped_locations": 0,
+      "without_coordinates": 48
+    },
+    {
+      "municipality": "新井市",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "新潟市",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "新潟市中央区",
+      "area": "全域",
+      "records": 69,
+      "with_deities": 46,
+      "mapped_locations": 0,
+      "without_coordinates": 69
+    },
+    {
+      "municipality": "新潟市北区",
+      "area": "全域",
+      "records": 98,
+      "with_deities": 82,
+      "mapped_locations": 0,
+      "without_coordinates": 98
+    },
+    {
+      "municipality": "新潟市南区",
+      "area": "全域",
+      "records": 108,
+      "with_deities": 88,
+      "mapped_locations": 0,
+      "without_coordinates": 108
+    },
+    {
+      "municipality": "新潟市東区",
+      "area": "全域",
+      "records": 43,
+      "with_deities": 34,
+      "mapped_locations": 0,
+      "without_coordinates": 43
+    },
+    {
+      "municipality": "新潟市江南区",
+      "area": "全域",
+      "records": 90,
+      "with_deities": 66,
+      "mapped_locations": 0,
+      "without_coordinates": 90
+    },
+    {
+      "municipality": "新潟市秋葉区",
+      "area": "全域",
+      "records": 96,
+      "with_deities": 76,
+      "mapped_locations": 0,
+      "without_coordinates": 96
+    },
+    {
+      "municipality": "新潟市西区",
+      "area": "全域",
+      "records": 90,
+      "with_deities": 66,
+      "mapped_locations": 0,
+      "without_coordinates": 90
+    },
+    {
+      "municipality": "新潟市西蒲区",
+      "area": "全域",
+      "records": 199,
+      "with_deities": 159,
+      "mapped_locations": 0,
+      "without_coordinates": 199
+    },
+    {
+      "municipality": "新発田市",
+      "area": "全域",
+      "records": 234,
+      "with_deities": 213,
+      "mapped_locations": 0,
+      "without_coordinates": 234
+    },
+    {
+      "municipality": "村上市",
+      "area": "全域",
+      "records": 223,
+      "with_deities": 200,
+      "mapped_locations": 0,
+      "without_coordinates": 223
+    },
+    {
+      "municipality": "東蒲原郡三川村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "東蒲原郡上川村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "東蒲原郡津川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "東蒲原郡阿賀町",
+      "area": "全域",
+      "records": 102,
+      "with_deities": 89,
+      "mapped_locations": 0,
+      "without_coordinates": 102
+    },
+    {
+      "municipality": "東蒲原郡鹿瀬町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "東頚城郡安塚町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "柏崎市",
+      "area": "全域",
+      "records": 275,
+      "with_deities": 210,
+      "mapped_locations": 0,
+      "without_coordinates": 275
+    },
+    {
+      "municipality": "柏崎市刈羽郡高柳町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "燕市",
+      "area": "全域",
+      "records": 135,
+      "with_deities": 113,
+      "mapped_locations": 0,
+      "without_coordinates": 135
+    },
+    {
+      "municipality": "糸魚川市",
+      "area": "全域",
+      "records": 178,
+      "with_deities": 162,
+      "mapped_locations": 0,
+      "without_coordinates": 178
+    },
+    {
+      "municipality": "胎内市",
+      "area": "全域",
+      "records": 122,
+      "with_deities": 94,
+      "mapped_locations": 0,
+      "without_coordinates": 122
+    },
+    {
+      "municipality": "西蒲原郡分水町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "西蒲原郡巻町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "西蒲原郡弥彦村",
+      "area": "全域",
+      "records": 22,
+      "with_deities": 20,
+      "mapped_locations": 0,
+      "without_coordinates": 22
+    },
+    {
+      "municipality": "西蒲原郡潟東村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "西蒲原郡西川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "見附市",
+      "area": "全域",
+      "records": 68,
+      "with_deities": 60,
+      "mapped_locations": 0,
+      "without_coordinates": 68
+    },
+    {
+      "municipality": "長岡市",
+      "area": "全域",
+      "records": 691,
+      "with_deities": 530,
+      "mapped_locations": 0,
+      "without_coordinates": 691
+    },
+    {
+      "municipality": "阿賀野市",
+      "area": "全域",
+      "records": 187,
+      "with_deities": 165,
+      "mapped_locations": 0,
+      "without_coordinates": 187
+    },
+    {
+      "municipality": "魚沼市",
+      "area": "全域",
+      "records": 147,
+      "with_deities": 133,
+      "mapped_locations": 0,
+      "without_coordinates": 147
+    }
+  ],
+  "collections": [
+    "data/shrines/15-niigata/agency-001.json",
+    "data/shrines/15-niigata/agency-002.json",
+    "data/shrines/15-niigata/agency-003.json",
+    "data/shrines/15-niigata/agency-004.json",
+    "data/shrines/15-niigata/agency-005.json",
+    "data/shrines/15-niigata/agency-006.json",
+    "data/shrines/15-niigata/agency-007.json",
+    "data/shrines/15-niigata/agency-008.json",
+    "data/shrines/15-niigata/agency-009.json",
+    "data/shrines/15-niigata/agency-010.json",
+    "data/shrines/15-niigata/agency-011.json",
+    "data/shrines/15-niigata/agency-012.json",
+    "data/shrines/15-niigata/agency-013.json",
+    "data/shrines/15-niigata/agency-014.json",
+    "data/shrines/15-niigata/agency-015.json",
+    "data/shrines/15-niigata/agency-016.json",
+    "data/shrines/15-niigata/agency-017.json",
+    "data/shrines/15-niigata/agency-018.json",
+    "data/shrines/15-niigata/agency-019.json",
+    "data/shrines/15-niigata/agency-020.json",
+    "data/shrines/15-niigata/agency-021.json",
+    "data/shrines/15-niigata/agency-022.json",
+    "data/shrines/15-niigata/agency-023.json",
+    "data/shrines/15-niigata/agency-024.json",
+    "data/shrines/15-niigata/agency-025.json",
+    "data/shrines/15-niigata/agency-026.json",
+    "data/shrines/15-niigata/agency-027.json",
+    "data/shrines/15-niigata/agency-028.json",
+    "data/shrines/15-niigata/agency-029.json",
+    "data/shrines/15-niigata/agency-030.json",
+    "data/shrines/15-niigata/agency-031.json",
+    "data/shrines/15-niigata/history-001.json",
+    "data/shrines/15-niigata/history-002.json",
+    "data/shrines/15-niigata/history-003.json",
+    "data/shrines/15-niigata/history-004.json",
+    "data/shrines/15-niigata/history-005.json",
+    "data/shrines/15-niigata/history-006.json",
+    "data/shrines/15-niigata/history-007.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 4782,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "15"
+        }
+      }
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=1&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=10&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=11&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=12&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=13&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=14&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=15&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=16&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=17&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=18&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=19&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=2&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=20&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=21&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=22&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=23&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=24&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=25&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=26&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=27&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=28&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=29&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=3&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=30&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=31&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=32&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=33&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=34&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=35&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=36&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=37&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=38&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=39&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=4&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=40&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=41&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=42&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=43&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=44&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=45&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=46&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=47&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=5&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=6&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=7&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=8&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?area=&keyword=&page=9&num=100",
+      "entries": null
+    },
+    {
+      "label": "新潟県神社庁 公開神社一覧",
+      "url": "https://niigata-jinjacho.jp/shrine_niigata/search.php?num=100&area=&keyword=",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "新潟県神社庁",
+      "label": "新潟県神社庁 公開神社一覧",
+      "scope_note": "公式「すべての神社」の検索結果。公表総件数4619件と照合。住所をGoogle Mapsに渡すリンクは位置座標ではないため緯度経度を収録しない。",
+      "expected_rows": 4619,
+      "pagination_complete": true,
+      "failures": [],
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "15-agency-d29226ed209646",
+        "15-history-06b1cd138da66c"
+      ],
+      "name": "赤井神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-22d47a970d58c8",
+        "15-agency-fccd1a08a8732f",
+        "15-agency-5f5062efb66eed",
+        "15-history-2329c2969c0e11"
+      ],
+      "name": "赤城社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-8a5d26af0df748",
+        "15-agency-aab69a70252329",
+        "15-history-a57c85bcbf1e6b",
+        "15-history-173442726278c6"
+      ],
+      "name": "赤城神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-3e280e5463fb76",
+        "15-agency-c6f80ce84292f4",
+        "15-history-690cbdfa3a2b65"
+      ],
+      "name": "秋葉神社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-909efa1c61ac6e",
+        "15-agency-dfbb2eccbfac79",
+        "15-history-abaa6571ff1b40"
+      ],
+      "name": "秋葉神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-6f840e9cc0dbc9",
+        "15-history-342588bd4987b8"
+      ],
+      "name": "愛宕神社",
+      "municipality": "新潟市中央区"
+    },
+    {
+      "ids": [
+        "15-agency-0b0cc627e6474f",
+        "15-agency-5ee30b96942a4b",
+        "15-agency-4565647a4edff6",
+        "15-history-ee98ffe63814ca",
+        "15-history-a0dc4244cb0674"
+      ],
+      "name": "愛宕神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-67d156cc62d7dc",
+        "15-history-d8350af82b029c"
+      ],
+      "name": "熱田社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-b1dfb9feba5ed7",
+        "15-history-0a73e1cb3b8f41"
+      ],
+      "name": "阿比多神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-b5263c1598a523",
+        "15-history-0bd7d0db38df1c"
+      ],
+      "name": "天津神社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-1113a1bf005196",
+        "15-history-f5dd4be7821754"
+      ],
+      "name": "顯見前神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-4bc495fe81c562",
+        "15-history-c31b9240c9021f"
+      ],
+      "name": "淡島神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-84e2f736119154",
+        "15-history-a8aba2044b2d26"
+      ],
+      "name": "伊久礼神社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-5c6516445bacd5",
+        "15-agency-f5554c228a919a",
+        "15-agency-71257b504813f2",
+        "15-history-656e5b3e80947f"
+      ],
+      "name": "石井神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-598d1d096b8ef5",
+        "15-history-b6ad577e2d0316"
+      ],
+      "name": "稲荷金比羅神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-a940f733f42d3c",
+        "15-history-0736e0f522f695"
+      ],
+      "name": "稲荷社",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-73ace40575349d",
+        "15-agency-215800b9267bc3",
+        "15-agency-7486f3ec04e7ea",
+        "15-agency-25f36b8c6cecb6",
+        "15-agency-c032953d424561",
+        "15-history-2c15c8504bd651"
+      ],
+      "name": "稲荷社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-7196d796fec0cc",
+        "15-agency-1f37890a03c291",
+        "15-agency-f86be45bad867d",
+        "15-agency-a849e511a36968",
+        "15-agency-806b11428b5c11",
+        "15-agency-1c9e138a47aa94",
+        "15-agency-3aad6bf48d9bdf",
+        "15-history-9873ca2dd7117e",
+        "15-history-da283236def9c9"
+      ],
+      "name": "稲荷社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-e8bc6e2610be0e",
+        "15-agency-06fad62727b71a",
+        "15-agency-9e8a23238e964e",
+        "15-agency-c0a7229ea60735",
+        "15-history-ecd40aac37f164"
+      ],
+      "name": "稲荷社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-d7fe646d1da044",
+        "15-history-5b6f65ee69f165",
+        "15-history-3c30017f625046"
+      ],
+      "name": "稲荷社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-80ed0b2ca3a8b9",
+        "15-agency-da6e37c9dd0d30",
+        "15-history-83634f9d32cefe"
+      ],
+      "name": "稲荷社",
+      "municipality": "上越市清里区"
+    },
+    {
+      "ids": [
+        "15-agency-6ea210771256f4",
+        "15-agency-06a718346ce175",
+        "15-history-a24f77ac8b8302"
+      ],
+      "name": "稲荷社",
+      "municipality": "上越市三和区"
+    },
+    {
+      "ids": [
+        "15-agency-961f246351e0ae",
+        "15-agency-3557652230cf0a",
+        "15-agency-659a5e10d7c0c4",
+        "15-history-f2e53e41aaafb8"
+      ],
+      "name": "稲荷社",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-9cc7eccaf33ecd",
+        "15-agency-7c02ea72162cbe",
+        "15-agency-fd01e46499e370",
+        "15-agency-998fa30599f6cf",
+        "15-agency-735805e0387a67",
+        "15-agency-518b3caadd123c",
+        "15-history-7183ae3405ba75"
+      ],
+      "name": "稲荷神社",
+      "municipality": "新潟市北区"
+    },
+    {
+      "ids": [
+        "15-agency-c92e63c1d73c69",
+        "15-agency-2be4c72073be65",
+        "15-history-e1ab6e3e68f3a8"
+      ],
+      "name": "稲荷神社",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-af6cd6920730ea",
+        "15-agency-0e6453d1547471",
+        "15-agency-cf26b628a2d917",
+        "15-agency-e74e73db59c5c2",
+        "15-agency-416c7118e99ae7",
+        "15-agency-a377e45cbd1e72",
+        "15-agency-5790fe0fcdbe46",
+        "15-agency-05609ed3840089",
+        "15-agency-b0bc4e6b40c446",
+        "15-history-41693669ca3a87"
+      ],
+      "name": "稲荷神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-269c3bdde6f890",
+        "15-agency-bdf243a3b06c44",
+        "15-agency-c6ada15f43d419",
+        "15-history-258b84c6458001"
+      ],
+      "name": "稲荷神社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-0ea25aa76cfc10",
+        "15-agency-b97d3c334807ce",
+        "15-history-eadc62138ace00"
+      ],
+      "name": "稲荷神社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-2a5d2d868150bf",
+        "15-agency-f394e65173f68d",
+        "15-agency-86f7f61818427f",
+        "15-agency-91cf92399c9f1a",
+        "15-agency-6aa5bd6ae76119",
+        "15-history-7db3eae68118f9"
+      ],
+      "name": "稲荷神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-2c5bd8c9eb84ae",
+        "15-agency-dd93d03c6a6408",
+        "15-agency-f8836c5615594f",
+        "15-agency-e02b9335e1f7c3",
+        "15-agency-340ec5bad6085e",
+        "15-agency-c733010064f725",
+        "15-history-c4f4603c44d02d",
+        "15-history-eeac41c9a3cdaf"
+      ],
+      "name": "稲荷神社",
+      "municipality": "五泉市"
+    },
+    {
+      "ids": [
+        "15-agency-cad6edb83cd306",
+        "15-agency-16c9a7ce7627be",
+        "15-agency-514e29a518d848",
+        "15-agency-dc4ff2cc301ceb",
+        "15-agency-0cc1081da90bf3",
+        "15-history-948bd7176ee1bd",
+        "15-history-61ed63dddbfc67"
+      ],
+      "name": "黒姫神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-3ef77958438027",
+        "15-history-b95b101d228e5b",
+        "15-history-7c70b631bdac4a",
+        "15-history-dd9f514429cf4d"
+      ],
+      "name": "黒姫神社",
+      "municipality": "上越市大島区"
+    },
+    {
+      "ids": [
+        "15-agency-357e5a21896601",
+        "15-history-7c1f8077d6123e"
+      ],
+      "name": "下条神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-1a2085ad758b2e",
+        "15-history-197bf5beab40ff"
+      ],
+      "name": "光兎神社",
+      "municipality": "岩船郡関川村"
+    },
+    {
+      "ids": [
+        "15-agency-f149ebf14c6469",
+        "15-history-c978d09a42ad6f"
+      ],
+      "name": "皇神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-255cf575098aba",
+        "15-history-9596b4a7f068f3"
+      ],
+      "name": "皇太子神社",
+      "municipality": "新潟市中央区"
+    },
+    {
+      "ids": [
+        "15-agency-b3f522cb2762bd",
+        "15-history-523a63b438bac3"
+      ],
+      "name": "皇大神宮",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-4e01efa6c5761d",
+        "15-agency-b32c7b1055b35b",
+        "15-history-7d28c377e8f713"
+      ],
+      "name": "皇大神社",
+      "municipality": "南魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-582b4cec79162f",
+        "15-history-176a70fe8d0069"
+      ],
+      "name": "髙龍神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-8ab185a5458d06",
+        "15-history-18c40ff3e16b88"
+      ],
+      "name": "小菅神社",
+      "municipality": "上越市清里区"
+    },
+    {
+      "ids": [
+        "15-agency-9422627cb97236",
+        "15-agency-79c90b2e760f57",
+        "15-agency-3fab498fa05060",
+        "15-history-1bed58b8bd94d1"
+      ],
+      "name": "金刀比羅神社",
+      "municipality": "新潟市中央区"
+    },
+    {
+      "ids": [
+        "15-agency-b964e9dd124c2c",
+        "15-history-b817f08bdb29a8"
+      ],
+      "name": "金刀比羅神社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-b9099550e8a0f5",
+        "15-agency-aec503a53d3c2d",
+        "15-history-0c7482e06f9d87",
+        "15-history-d085d780490012"
+      ],
+      "name": "金毘羅社",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-d55e7ba74c48cc",
+        "15-history-6acf9f7c6a53e4"
+      ],
+      "name": "五社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-06b752947accb5",
+        "15-history-cc144f08cfbe7d"
+      ],
+      "name": "五社神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-a6aabaaa888b51",
+        "15-history-03d7e02c2efa7f"
+      ],
+      "name": "五社神社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-de6a07f9e5bb2b",
+        "15-history-feccd0e72c4407"
+      ],
+      "name": "歌代神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-bc2274b121e849",
+        "15-agency-6f5d34d8b0ebbe",
+        "15-history-8f9bc7c71ddac1"
+      ],
+      "name": "宇都宮神社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-9f9ca4aef747c6",
+        "15-history-f315592c603a43"
+      ],
+      "name": "浦柄神社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-357e2b8908cca6",
+        "15-history-4bba948e598dbd"
+      ],
+      "name": "應神社",
+      "municipality": "上越市頸城区"
+    },
+    {
+      "ids": [
+        "15-agency-126c9cf3a746bb",
+        "15-history-5c2bf98f29e6ba"
+      ],
+      "name": "於保久知神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-a6395831259b6b",
+        "15-history-a19c87d9a3f12f"
+      ],
+      "name": "大藏神社",
+      "municipality": "新潟市江南区"
+    },
+    {
+      "ids": [
+        "15-agency-099068fa649be9",
+        "15-history-a6d92d3a33f65a"
+      ],
+      "name": "大藏神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-5a49039232fd58",
+        "15-history-7fdf743803471a"
+      ],
+      "name": "大﨑神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-db888b408fab70",
+        "15-history-da2748d9501baa"
+      ],
+      "name": "大諏神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-a70da235852b11",
+        "15-history-25169504624baf"
+      ],
+      "name": "大坪神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-d84a8686a5e5ed",
+        "15-history-54b963091bc821"
+      ],
+      "name": "大津神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-cc5b78d847f898",
+        "15-agency-64556bef3f1a10",
+        "15-agency-acd51da86303bf",
+        "15-agency-860d61b1cfcf91",
+        "15-agency-80f9dce56904e0",
+        "15-agency-26e294c842572d",
+        "15-agency-32f6758fa69633",
+        "15-agency-4b63ab1dc7278e",
+        "15-agency-cb1ea2d0b98c3c",
+        "15-agency-caed84ba2586dd",
+        "15-agency-b76a8d7ec0fa38",
+        "15-agency-6eb9ba1ca8e654",
+        "15-agency-21e70ec635939a",
+        "15-agency-3b83f44c6b118b",
+        "15-agency-9cb2ca5dd01cfc",
+        "15-agency-dd3410a5206e09",
+        "15-agency-d9a934d1c87c6b",
+        "15-agency-86dbf31a1f9bd4",
+        "15-agency-8bbd3daec4d8c5",
+        "15-agency-0ebedbe68b5194",
+        "15-agency-2027d2b5e645ff",
+        "15-agency-300c120dded003",
+        "15-history-f35e547533fe39"
+      ],
+      "name": "大山祇神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-cc455588df4dde",
+        "15-agency-61076c588a2af3",
+        "15-agency-770ada3d4c030e",
+        "15-agency-e4921ea996009c",
+        "15-agency-709afebcea9d50",
+        "15-agency-35df012b67a40b",
+        "15-agency-82e0030a02c681",
+        "15-agency-f06dc9282397f4",
+        "15-agency-b8657b7cb44787",
+        "15-agency-869742675ee515",
+        "15-agency-1925f10cf8ab3b",
+        "15-agency-eba29a36beb17c",
+        "15-history-a3f7228b725e98",
+        "15-history-9e16bec7669173"
+      ],
+      "name": "稲荷神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-dfc0d806708bd1",
+        "15-agency-756e8ee7be5415",
+        "15-agency-db07f14fa05b36",
+        "15-agency-c6b58980ff60ca",
+        "15-agency-2e4cd606f0dd9c",
+        "15-agency-8a8fcc425abc45",
+        "15-agency-57fd7cd597f8f5",
+        "15-history-5bfe3cffeee7c9"
+      ],
+      "name": "稲荷神社",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-155a472ed0c4f9",
+        "15-agency-bfb64d174b3f54",
+        "15-agency-ef6eafe25e8333",
+        "15-agency-c39d8f21751f69",
+        "15-agency-76ca9aaa1f5165",
+        "15-agency-9f4dc82a609c43",
+        "15-agency-8a62cd604baad0",
+        "15-agency-0456f1a265b607",
+        "15-history-20e927eabf6032",
+        "15-history-22c20c435da89a"
+      ],
+      "name": "稲荷神社",
+      "municipality": "魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-c49bb4148f4575",
+        "15-agency-681ccd149f3cf4",
+        "15-agency-ea861783690cdf",
+        "15-agency-38e6f82e76d168",
+        "15-history-f2cc6b0eb3b9b6"
+      ],
+      "name": "鵜川神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-9f59276d895ad5",
+        "15-history-d45b2ae0dc41d9"
+      ],
+      "name": "石塚神社",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-cbab35c83ac681",
+        "15-history-4eceabad38f951"
+      ],
+      "name": "石動社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-c504f01bec3318",
+        "15-agency-b25be367dc842c",
+        "15-agency-160615f8d41070",
+        "15-history-5c98a643d54ff0",
+        "15-history-da42b0e3f574d1"
+      ],
+      "name": "石動神社",
+      "municipality": "新潟市北区"
+    },
+    {
+      "ids": [
+        "15-agency-8a36fea933250e",
+        "15-agency-f732f2ef824854",
+        "15-agency-01cd09ed88f453",
+        "15-agency-6472be98e50ec5",
+        "15-agency-21ecc14fd31a5b",
+        "15-agency-c46f5263b40e59",
+        "15-agency-7c51e75c5a9787",
+        "15-agency-d2cc743054a6a0",
+        "15-agency-12cebb4e1b55d1",
+        "15-history-6e24cb75ac23f3",
+        "15-history-42c8fc83fe4a04",
+        "15-history-25db769ff3b568",
+        "15-history-f920b75bdbf346"
+      ],
+      "name": "石動神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-0204512e81514b",
+        "15-history-c61b4e6c118927"
+      ],
+      "name": "石動神社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-a80e10b5b745c0",
+        "15-history-24e45b910d4c02"
+      ],
+      "name": "石動神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-c89558b97fda08",
+        "15-history-2c5b1d3f774185"
+      ],
+      "name": "石動神社",
+      "municipality": "三島郡出雲崎町"
+    },
+    {
+      "ids": [
+        "15-agency-3606d76d77f03d",
+        "15-history-a627527c97ac4b"
+      ],
+      "name": "井随神社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-3a93f13c9dd86a",
+        "15-history-9701a2636d8e75"
+      ],
+      "name": "伊豆神社",
+      "municipality": "新潟市秋葉区"
+    },
+    {
+      "ids": [
+        "15-agency-02123aea77e62e",
+        "15-history-095c1d983e365b"
+      ],
+      "name": "伊勢社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-8cab06a6a4a57c",
+        "15-history-bec798404a4b90"
+      ],
+      "name": "一王神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-ee469a701be045",
+        "15-history-6a48f3f0c999cd"
+      ],
+      "name": "一之宮社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-7859c2807a4236",
+        "15-history-38c2cd24880719"
+      ],
+      "name": "伊豆神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-df2dbc4dc331d6",
+        "15-agency-8f1ad48e274e5d",
+        "15-agency-c71c9e588ee05d",
+        "15-history-59a64a5680223d"
+      ],
+      "name": "春日神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-f232a0ae71e4d7",
+        "15-agency-de0f0ce329a1af",
+        "15-agency-5ec9a5398436c2",
+        "15-history-4be38fc649e98b",
+        "15-history-d03a7846f8cfa6"
+      ],
+      "name": "春日神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-96988e2acaa5ac",
+        "15-history-de536359b81f00"
+      ],
+      "name": "金山神社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-085aaed7dd92b6",
+        "15-history-5d4f86e17d27f3"
+      ],
+      "name": "釜石神社",
+      "municipality": "三島郡出雲崎町"
+    },
+    {
+      "ids": [
+        "15-agency-8994525e300ae4",
+        "15-history-86018c458683c7"
+      ],
+      "name": "亀貝神社",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-33cfaeb3868153",
+        "15-history-e6e8d79c3205b6"
+      ],
+      "name": "雁田神社",
+      "municipality": "上越市名立区"
+    },
+    {
+      "ids": [
+        "15-agency-66949559015829",
+        "15-history-d781d7bffc1247"
+      ],
+      "name": "河内神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-6b606a5695626e",
+        "15-history-2ed6196432b1cf"
+      ],
+      "name": "神田山神社",
+      "municipality": "上越市頸城区"
+    },
+    {
+      "ids": [
+        "15-agency-237e9c3a749d3d",
+        "15-agency-24d91617d16748",
+        "15-agency-30527cebe90894",
+        "15-history-1e809da8a8135b",
+        "15-history-258eaaf3dddb6c",
+        "15-history-771cb9e9b9aa51"
+      ],
+      "name": "大山祇神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-68743eefcd6e53",
+        "15-history-41e588513b0ba8"
+      ],
+      "name": "乙子神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-17153f8e29d104",
+        "15-history-d13b0e24ab6eca"
+      ],
+      "name": "乙吉稲荷神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-b9f4ccf04f5882",
+        "15-history-ef64548a9e9b60"
+      ],
+      "name": "乙子社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-26d5f0aa1a9879",
+        "15-history-19f92b0285c115"
+      ],
+      "name": "乙吉神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-5d1fd18cfa92e2",
+        "15-history-a443a5ce033c1e"
+      ],
+      "name": "小布施神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-c65d2c2305e00c",
+        "15-agency-f59a925f24d32f",
+        "15-history-3b488f9c706519"
+      ],
+      "name": "鹿島社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-9d7b6d1c6ebb14",
+        "15-history-a6b38ecaab012f"
+      ],
+      "name": "鹿島神社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-605480b5355d34",
+        "15-agency-6017f30f506b35",
+        "15-agency-cd54749cd1c2db",
+        "15-history-936610be8ea671"
+      ],
+      "name": "春日神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-4c955493c2a6df",
+        "15-history-0be738e4526dfa"
+      ],
+      "name": "春日神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-20c57669e6677c",
+        "15-agency-fd1a375d946d44",
+        "15-agency-51580f85ebbfa9",
+        "15-agency-bc2b4fcc00aa2f",
+        "15-agency-a083e6f5b9c301",
+        "15-agency-8c735ce632d8b3",
+        "15-history-0f934c6e0012b7"
+      ],
+      "name": "熊野神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-5adf02b46f88bb",
+        "15-agency-e9e6c10b1fd8a2",
+        "15-agency-34fa9052cbca22",
+        "15-agency-e3e2a55525e3b0",
+        "15-agency-d971be3b15da67",
+        "15-agency-17b9e667390bb2",
+        "15-history-c6b4e853b3c04b"
+      ],
+      "name": "熊野神社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-1ba1fc10470dc7",
+        "15-agency-2b9d0ffae0d7a9",
+        "15-agency-5cf4794188ee9e",
+        "15-agency-f38819bb8aa9f0",
+        "15-history-1985152d50657d",
+        "15-history-a81581bbc130ea"
+      ],
+      "name": "熊野神社",
+      "municipality": "上越市浦川原区"
+    },
+    {
+      "ids": [
+        "15-agency-593187a9d0fbcf",
+        "15-agency-1bf8c6d324c1d8",
+        "15-agency-0d7b744f62c066",
+        "15-agency-b3da566f731e9b",
+        "15-agency-100a0cc79ca512",
+        "15-agency-e577c6ded121c7",
+        "15-agency-075dc8642dac14",
+        "15-agency-a0d4a763085f3e",
+        "15-agency-370fc3cca39138",
+        "15-agency-8cc3458bfc1fc3",
+        "15-agency-cc86d84fe63725",
+        "15-agency-a3b62ee76fcace",
+        "15-agency-c81cc70f9466f2",
+        "15-agency-433827c065b1bf",
+        "15-agency-d470a8b3d29ad5",
+        "15-agency-d360d7b69b063d",
+        "15-agency-2edc374d0ff564",
+        "15-agency-9d725c7927eef7",
+        "15-agency-7c70bcfd957146",
+        "15-agency-571562cd3ef1bb",
+        "15-agency-f59ca21cf0b237",
+        "15-agency-023d0dc814d6b5",
+        "15-agency-20913fbdb8c3c8",
+        "15-agency-154be59955dc28",
+        "15-agency-84df8f53851f4a",
+        "15-history-46c8f8e649d48a",
+        "15-history-199f44dc5d973e",
+        "15-history-73f7854113301d"
+      ],
+      "name": "熊野神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-bb00f92c29a3b2",
+        "15-history-baf4fd22425592"
+      ],
+      "name": "熊野若宮神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-963d915f69ef49",
+        "15-history-311f5533697725"
+      ],
+      "name": "北土橋稲荷神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-a262cbff1ff31b",
+        "15-agency-5589972fd95f83",
+        "15-agency-8198f1bd122af7",
+        "15-agency-0f383d0a11cb4c",
+        "15-agency-6eb17cfeeba2f9",
+        "15-history-074c1009072a51"
+      ],
+      "name": "北野神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-fc7ee79a913386",
+        "15-agency-a5db2d67670321",
+        "15-history-0cd6c6f1aa3cba"
+      ],
+      "name": "北山神社",
+      "municipality": "新潟市秋葉区"
+    },
+    {
+      "ids": [
+        "15-agency-a8c82b80e834de",
+        "15-history-8421566d0aa591"
+      ],
+      "name": "北山神社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-ab646ba0f232fd",
+        "15-agency-f36d11b04961b4",
+        "15-history-f5997c8b12c1e4"
+      ],
+      "name": "桐原石部神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-7f71d3e0901bc1",
+        "15-history-17d91d82eec1db"
+      ],
+      "name": "金峯神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-f18c1e9888a8b4",
+        "15-history-2c26db06e88b56"
+      ],
+      "name": "金峰神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-28fb2b89f32c1a",
+        "15-history-7aae5d34919e25"
+      ],
+      "name": "金峯神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-322ecb7063fa59",
+        "15-history-7a6eb3328a6b36"
+      ],
+      "name": "熊野三社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-004f2cc1a7a041",
+        "15-history-bd33b51c5fd56a"
+      ],
+      "name": "熊野三社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-e52d8cdbd9fa0b",
+        "15-history-ccd5550428b838"
+      ],
+      "name": "熊野社",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-79632280985069",
+        "15-agency-75d47a33ad7278",
+        "15-history-5b7ce47d26abec"
+      ],
+      "name": "熊野社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-d12b2ac8121865",
+        "15-agency-769507dbfea1c8",
+        "15-agency-bf4f587fbd5385",
+        "15-history-4ab679bd4e839b"
+      ],
+      "name": "熊野社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-9e45780c7f3e80",
+        "15-history-d060534eb9e62f"
+      ],
+      "name": "熊野社",
+      "municipality": "南魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-d4eb95bcfc045e",
+        "15-agency-cd1011f9326858",
+        "15-agency-da001861c9feed",
+        "15-agency-59035f8f7aa350",
+        "15-agency-ce442ad7a5bafa",
+        "15-agency-0ec533055b6f47",
+        "15-agency-47d7bc9ab10af3",
+        "15-agency-f9638a0668bc58",
+        "15-agency-0efcd8006d2b94",
+        "15-agency-4313ed4252bcb7",
+        "15-agency-db9c569e07d57e",
+        "15-agency-7c63c3a1e864c2",
+        "15-agency-edd75fd2bf81e0",
+        "15-agency-6570b9d94fd248",
+        "15-history-e416f8df2f9c0d",
+        "15-history-46bd4190b379aa",
+        "15-history-6a1b52513bcb25"
+      ],
+      "name": "神明宮",
+      "municipality": "五泉市"
+    },
+    {
+      "ids": [
+        "15-agency-bc72fb6d26c2c1",
+        "15-agency-0dcecb074baff0",
+        "15-agency-f566e060dc7745",
+        "15-agency-5861b6f57a4dbc",
+        "15-agency-f8cb73579c093e",
+        "15-agency-79b7f2b559e7fa",
+        "15-agency-29ce644e64d608",
+        "15-agency-835697e4be7f2d",
+        "15-agency-1d6a59536cec27",
+        "15-agency-bc44a5edc70f85",
+        "15-agency-1735589ba9a3dd",
+        "15-agency-eb26ca7600e48c",
+        "15-agency-d06d12c40c6fc0",
+        "15-agency-a3b53a8c34c522",
+        "15-history-eff57135be3aa4",
+        "15-history-f3011fa2a226c6",
+        "15-history-83c59b7e09cd49",
+        "15-history-8740a8c429810a"
+      ],
+      "name": "神明宮",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-796f35bda13367",
+        "15-agency-f4ddb9950c6980",
+        "15-agency-fbac76b6979edb",
+        "15-agency-21077a278b7dfb",
+        "15-history-083f9e0f1e75bf"
+      ],
+      "name": "神明宮",
+      "municipality": "上越市大潟区"
+    },
+    {
+      "ids": [
+        "15-agency-a0fdfbf2338198",
+        "15-agency-bef1d76586ece4",
+        "15-agency-7e402a0d6c5e02",
+        "15-agency-cb2bb54318e6cc",
+        "15-agency-0d32649f1c1a9a",
+        "15-agency-d1e81c8d558aef",
+        "15-agency-308c673dc710cc",
+        "15-agency-f863818c468e9e",
+        "15-agency-b132c2a4f38dfe",
+        "15-agency-293a0a5e03441f",
+        "15-agency-d757b615ff6d40",
+        "15-agency-3d5bb80eead50b",
+        "15-agency-13f6080502ddc6",
+        "15-agency-3d7e5404a8a0f8",
+        "15-agency-fcda1c7942a10b",
+        "15-agency-2e4912652af212",
+        "15-agency-81083c88f702b6",
+        "15-agency-3b23f470360e13",
+        "15-agency-27018b99ff7cc9",
+        "15-agency-780b2d7a042572",
+        "15-agency-130b723c34533a",
+        "15-history-aad20ec39fd164"
+      ],
+      "name": "神明宮",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-6fe38673ac8a90",
+        "15-history-d2beb4797769f8"
+      ],
+      "name": "神明宮",
+      "municipality": "南蒲原郡田上町"
+    },
+    {
+      "ids": [
+        "15-agency-105f09d1b9ec31",
+        "15-agency-4dd7e58788aa9b",
+        "15-agency-321f0efbd461b9",
+        "15-agency-f04431674ecdb1",
+        "15-agency-306d8e47eecd5f",
+        "15-agency-4760d60e467327",
+        "15-agency-fceffc8d111832",
+        "15-agency-60b1737a9bbf6c",
+        "15-history-afef19a8092a55",
+        "15-history-0ece3ea679be9a"
+      ],
+      "name": "神明社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-fe8472275e7fca",
+        "15-agency-355b129a2378b9",
+        "15-agency-af19501b596ece",
+        "15-agency-24b278fe7c9d32",
+        "15-agency-d7ab37d99db874",
+        "15-agency-ef311a96383179",
+        "15-agency-33bba64f525a97",
+        "15-agency-7938078308529c",
+        "15-agency-e4fa7ac1e84c09",
+        "15-agency-23dbb3fdf4a52c",
+        "15-agency-c42256f90e6c1a",
+        "15-agency-d6dc28a2aca6a1",
+        "15-agency-3a495872f8c2a7",
+        "15-agency-0fbdf75ec1736c",
+        "15-agency-938f122352eb87",
+        "15-agency-ecf4666ac438b8",
+        "15-agency-69e86e8f551f28",
+        "15-agency-26d5107697ea4c",
+        "15-agency-6a8c9ce955a642",
+        "15-agency-1b288902997a8f",
+        "15-agency-a7ab6625d547f9",
+        "15-history-382ba1d7336c47"
+      ],
+      "name": "神明社",
+      "municipality": "新潟市北区"
+    },
+    {
+      "ids": [
+        "15-agency-e3de8d49eda321",
+        "15-history-57a185568fae13"
+      ],
+      "name": "神明社",
+      "municipality": "新潟市南区"
+    },
+    {
+      "ids": [
+        "15-agency-0242e8cf656a39",
+        "15-agency-33ee4407db6154",
+        "15-agency-8f637f60ec68c9",
+        "15-agency-da839ef717b669",
+        "15-agency-1eb0eac74a04f4",
+        "15-agency-de413171d87bbe",
+        "15-agency-937c6aae20fe5a",
+        "15-agency-16b2172f74985a",
+        "15-agency-113ba0dc80aafa",
+        "15-agency-a13016fb48ed42",
+        "15-agency-4336778f77cf07",
+        "15-history-6e06270790055b",
+        "15-history-8814d45cedf333",
+        "15-history-b70045ab2dba9b"
+      ],
+      "name": "神明社",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-ca3ab456c57f4b",
+        "15-history-d992b2a618ad55"
+      ],
+      "name": "庄川神社",
+      "municipality": "見附市"
+    },
+    {
+      "ids": [
+        "15-agency-aa8c57056bfa13",
+        "15-history-90a9c2e2c54e06"
+      ],
+      "name": "白山媛神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-a0efb79f61a682",
+        "15-agency-c436ac79fc87bf",
+        "15-agency-a60e9b2e8f17c4",
+        "15-history-1f87c6f9c9335c",
+        "15-history-5ca531f4e9cbfb"
+      ],
+      "name": "白山姫神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-04d818df3ef6a5",
+        "15-history-5ae9c9a3d67b83"
+      ],
+      "name": "新保神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-872fd0b668e21c",
+        "15-agency-d119d67fc2a3d7",
+        "15-agency-0d3dc575f9b926",
+        "15-agency-93a951748c4c8c",
+        "15-agency-dde7823364c7b5",
+        "15-agency-dd846d733c8e6c",
+        "15-history-cc7dac95dfe142"
+      ],
+      "name": "神明宮",
+      "municipality": "新潟市北区"
+    },
+    {
+      "ids": [
+        "15-agency-f74ad1409f496e",
+        "15-agency-216af11d5e3959",
+        "15-agency-cad9d3bd1374a4",
+        "15-agency-543f1f8d3bfbe6",
+        "15-history-9090eaed81d269",
+        "15-history-4ac0aec7c47ea7",
+        "15-history-8bb78f90251e87"
+      ],
+      "name": "神明宮",
+      "municipality": "新潟市東区"
+    },
+    {
+      "ids": [
+        "15-agency-a441a46c852841",
+        "15-agency-20c084bf72a9d8",
+        "15-agency-ca11e0e8a576d4",
+        "15-agency-adc93a1452ddb6",
+        "15-agency-cf8c2a1d862c4b",
+        "15-agency-9a55458d59dee5",
+        "15-agency-72694d89fbab23",
+        "15-agency-89dd5a544c096e",
+        "15-agency-fc7ba6df9aa1a0",
+        "15-history-294b021140d12d",
+        "15-history-325b14e7037969"
+      ],
+      "name": "神明宮",
+      "municipality": "新潟市中央区"
+    },
+    {
+      "ids": [
+        "15-agency-1a5e3c79c8a612",
+        "15-agency-e6d266ee5ef198",
+        "15-agency-040f21e4a03516",
+        "15-agency-2f5f1837b0eb8b",
+        "15-agency-0003172842b783",
+        "15-agency-ef5764ff083d4c",
+        "15-agency-5cb5f060d516cb",
+        "15-agency-afc1aaf9641a01",
+        "15-agency-bf0ee869c7a217",
+        "15-agency-74e2b6ac940931",
+        "15-agency-32867b23825cb6",
+        "15-agency-b8172021218256",
+        "15-agency-b88199ec19b226",
+        "15-agency-5f59845b880079",
+        "15-agency-a06613a7c24b32",
+        "15-agency-ea4780a6a0e317",
+        "15-agency-3bb61cd3abf6ea",
+        "15-agency-24cbe28fb6ea6b",
+        "15-agency-e1ee906502cf47",
+        "15-agency-cb48347114b476",
+        "15-history-8722f0ed2fb127",
+        "15-history-7c0a07eb5f6fe1",
+        "15-history-922010238902ba",
+        "15-history-917604070f6d2f"
+      ],
+      "name": "神明宮",
+      "municipality": "新潟市江南区"
+    },
+    {
+      "ids": [
+        "15-agency-4dd9c2a0679d9d",
+        "15-agency-201a3bc6ddabdf",
+        "15-agency-f33520db7fd4c7",
+        "15-agency-a5d68c8df7b943",
+        "15-agency-10b392de5cc50d",
+        "15-agency-c810581b268e74",
+        "15-agency-336449584e03f4",
+        "15-agency-4a58f0ba11e97c",
+        "15-agency-27df5bd4daf2f5",
+        "15-agency-7b89cdd9d26d10",
+        "15-agency-42d37c4a2fe358",
+        "15-agency-5ebd106a4e00d8",
+        "15-agency-1b9ddd9790c813",
+        "15-agency-cb02bb50d1bca2",
+        "15-agency-39f879ec049597",
+        "15-agency-7db3b197b1aaa7",
+        "15-agency-d27161ede3e8be",
+        "15-agency-4428037ac38b7e",
+        "15-agency-77cfa2104ddbb1",
+        "15-agency-20ef9f258be2c4",
+        "15-agency-37ddc1d9da1890",
+        "15-agency-38362a2bbb1bda",
+        "15-agency-89b8ef09f4ab44",
+        "15-agency-f455d560457971",
+        "15-agency-fb3d83447b1da1",
+        "15-agency-cf4a9465b8779a",
+        "15-history-5fbe5df4209697",
+        "15-history-55f3029fa826b3",
+        "15-history-40b929950e3f89",
+        "15-history-38dedad0d2f2f1",
+        "15-history-f2e41c37ef3fc2",
+        "15-history-56443ccc31e2f2",
+        "15-history-7df3b1ba04204f",
+        "15-history-7047b9fa70a608"
+      ],
+      "name": "神明宮",
+      "municipality": "新潟市秋葉区"
+    },
+    {
+      "ids": [
+        "15-agency-dff872ad1215be",
+        "15-history-b2f128f5867bfd"
+      ],
+      "name": "坂田神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-a4ed5d989da58f",
+        "15-history-418d904dcd5e36"
+      ],
+      "name": "三社神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-e17f72f44d8690",
+        "15-agency-4f13b4fa8abe92",
+        "15-agency-8f0438137cb678",
+        "15-agency-ef6bd9b31257a3",
+        "15-agency-46aea6ad339b05",
+        "15-agency-c21a00688ae2b0",
+        "15-agency-9e79d31211d362",
+        "15-history-cc7237194d5428",
+        "15-history-b7c4be8b39040d",
+        "15-history-6e80bac7f8cbd8"
+      ],
+      "name": "山神社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-25d05a03f61586",
+        "15-agency-8dbbde734fd6ea",
+        "15-agency-537a750f59c41a",
+        "15-agency-234ecb7ab6f1c5",
+        "15-agency-f4f9f155a0a33b",
+        "15-agency-102a3fe7125fb1",
+        "15-agency-c27fa000710606",
+        "15-agency-3e720426b2498f",
+        "15-agency-42dec012ce44bc",
+        "15-agency-286a705de8eb4f",
+        "15-agency-80644bcf5b804f",
+        "15-agency-d78de83e550a91",
+        "15-agency-ef2f3c99eaaba6",
+        "15-agency-f77cb863f124a4",
+        "15-agency-e4dfb876df8455",
+        "15-agency-9d3ac5f535fccc",
+        "15-agency-228e252ade14b0",
+        "15-agency-b5c1d40de044a3",
+        "15-agency-4ac90427a617f0",
+        "15-agency-9b482567d9af2a",
+        "15-agency-4e533fc244ef7c",
+        "15-agency-dae879fb1ee3d2",
+        "15-agency-16f71ed715eb7c",
+        "15-agency-1d86bd9c484fdb",
+        "15-agency-97287222acd793",
+        "15-agency-91f81685e42b19",
+        "15-agency-5c39e3fca54ffb",
+        "15-agency-8a2ff4a7a92b96",
+        "15-history-2bac079d8c849b",
+        "15-history-ad199272f308f9",
+        "15-history-b3969b37cefbc9"
+      ],
+      "name": "山神社",
+      "municipality": "東蒲原郡阿賀町"
+    },
+    {
+      "ids": [
+        "15-agency-feef57ad0da868",
+        "15-agency-a8945f55d4126b",
+        "15-history-b715d3f597353d"
+      ],
+      "name": "山王社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-a27ff3c79ea8a0",
+        "15-history-5fbcc04d15d38c"
+      ],
+      "name": "山王社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-3699117166b0c6",
+        "15-agency-55a7c5b920c6ff",
+        "15-agency-412cca5ae13c3b",
+        "15-agency-31c8849a3c27b1",
+        "15-history-521fe008b0df4f"
+      ],
+      "name": "山王神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-98fa6dccd55737",
+        "15-history-64f51eef95cabc"
+      ],
+      "name": "山王神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-0651ae755d0e37",
+        "15-history-c67d765bd7bb14"
+      ],
+      "name": "鹽竃神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-fab7efe5c833ac",
+        "15-agency-eec90d63d364b4",
+        "15-history-37996e5139bd4d"
+      ],
+      "name": "四社神社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-4f4709213deebe",
+        "15-history-2eef9d184255d0"
+      ],
+      "name": "清水川辺神社",
+      "municipality": "魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-9b17a60a3b6a08",
+        "15-history-f5057b3b3fab20"
+      ],
+      "name": "清水神社",
+      "municipality": "新潟市南区"
+    },
+    {
+      "ids": [
+        "15-agency-cfda866355cc1a",
+        "15-agency-58fe23f9b4d5ff",
+        "15-agency-891e67eec3da61",
+        "15-agency-ee5097642819a1",
+        "15-agency-913521493d3135",
+        "15-agency-8bc2ddf3470175",
+        "15-agency-b8a2e903a721c7",
+        "15-agency-eccef9f3a94f4c",
+        "15-agency-f34d1f0a4f4b7d",
+        "15-agency-483580b380738f",
+        "15-agency-0fdea570dd668d",
+        "15-agency-675ce3d29e4461",
+        "15-agency-9e139991345562",
+        "15-agency-226357fdea93f0",
+        "15-agency-8fc05d6ebd1a4c",
+        "15-agency-d7bebc9dd6acef",
+        "15-agency-291f409d677562",
+        "15-agency-16bda1beea04e8",
+        "15-agency-029f69e570e872",
+        "15-history-7f540d558af591",
+        "15-history-3d93664c5df847"
+      ],
+      "name": "神明宮",
+      "municipality": "新潟市南区"
+    },
+    {
+      "ids": [
+        "15-agency-9a97869984e2f7",
+        "15-agency-d5a888455482d9",
+        "15-agency-7487311125e957",
+        "15-agency-b86a8ecb8efc70",
+        "15-agency-fd30598b21688c",
+        "15-history-33cea708b97870",
+        "15-history-5f93ca4254b6ba"
+      ],
+      "name": "神明宮",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-83c0f3dab2e245",
+        "15-agency-0309e6b0db3512",
+        "15-agency-4b3a2ca4ecd8e6",
+        "15-agency-82ee07cad89353",
+        "15-agency-854e471706b09d",
+        "15-agency-4fa76a98ef409e",
+        "15-agency-4401247b2b1270",
+        "15-agency-fed059c157ce3a",
+        "15-agency-29a859c30d9b02",
+        "15-agency-c698bd1f5d1a6d",
+        "15-history-89f59195ca646a",
+        "15-history-298ecf24f8d38c",
+        "15-history-4b0d78c54f96c2",
+        "15-history-174211b1195cb3",
+        "15-history-c6e718c2b89e60",
+        "15-history-ba5756c1fc6b4f"
+      ],
+      "name": "神明宮",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-f47016bc396d70",
+        "15-agency-ad5d63f1061adc",
+        "15-agency-264ccd005b1845",
+        "15-agency-9df1e837033869",
+        "15-agency-251c6cc02c0492",
+        "15-history-8296befadc07fc",
+        "15-history-9e8c822a5d49ab"
+      ],
+      "name": "神明宮",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-6cb14c13f94773",
+        "15-agency-e9aef50b95a9a3",
+        "15-agency-ce897ef90ddf4c",
+        "15-agency-b5b5379eddec49",
+        "15-agency-8cf7ca81f94c4f",
+        "15-agency-e5a2ab7dedb9ad",
+        "15-agency-158fd53121c2ee",
+        "15-agency-04646f6d81a5f3",
+        "15-agency-7344a6d5d8a89a",
+        "15-agency-9527b71835b16d",
+        "15-agency-1cf372e40e8b69",
+        "15-agency-cc9ce771695d73",
+        "15-agency-18249a4af68162",
+        "15-agency-8aacc48849cde2",
+        "15-agency-12f7a0dd4b394f",
+        "15-agency-db648b296d9fa1",
+        "15-agency-13b2274358b720",
+        "15-agency-f338ef18c27378",
+        "15-agency-fcf62a5ca55b73",
+        "15-agency-1ec1e0f3e95bda",
+        "15-agency-b7dc0bbdc30272",
+        "15-agency-0fae281d15a7be",
+        "15-agency-4a9a73548007d1",
+        "15-agency-eb1d34fe52b706",
+        "15-agency-f0f7c5def5116f",
+        "15-agency-687334148876c7",
+        "15-agency-7d5cca2aace72d",
+        "15-agency-b918f146666571",
+        "15-agency-290c522b856434",
+        "15-history-09afa3936cac9a",
+        "15-history-39eebbace7f1fa",
+        "15-history-ac4066997fb54a",
+        "15-history-f7d90987868701",
+        "15-history-f056b091e0f73d"
+      ],
+      "name": "神明宮",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-4e986c297e7502",
+        "15-agency-45175491ba889e",
+        "15-agency-7dc4f90f47d2dc",
+        "15-history-e5b13f3bf3457c"
+      ],
+      "name": "神明宮",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-ac1953a4189842",
+        "15-agency-8360953b3a898b",
+        "15-agency-86e7d8cc2ce28c",
+        "15-agency-b993f472e1ed88",
+        "15-agency-2d2e3f40803f6c",
+        "15-agency-c77c4f29ea8e43",
+        "15-agency-f800500699b0c7",
+        "15-agency-fa616ac0edbfa3",
+        "15-agency-ac8af2bb421b4c",
+        "15-agency-87658803a4f914",
+        "15-agency-78fab64800ad3f",
+        "15-agency-a3dcef87cdab8d",
+        "15-agency-83a197a4113c1a",
+        "15-history-f19516bf367bcc"
+      ],
+      "name": "神明宮",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-227096f801daa2",
+        "15-agency-40c88821c493d7",
+        "15-agency-872160f442b6bb",
+        "15-agency-56fd4d9f44ace5",
+        "15-agency-62a9470fabf754",
+        "15-agency-ba9de518cb4e43",
+        "15-agency-7a97e8fc5d4039",
+        "15-agency-a5728892f15d8a",
+        "15-agency-a2b230c28d093a",
+        "15-agency-92775501cd0c75",
+        "15-agency-58fde593e3b4be",
+        "15-agency-e946adac36232b",
+        "15-agency-685e4d20d8937f",
+        "15-agency-5e4a49a52d5089",
+        "15-history-3fe46a3ca33adc",
+        "15-history-26173e401315fc",
+        "15-history-e935b681196c4c",
+        "15-history-1fd7b0d21269d4",
+        "15-history-550acb3dbede24",
+        "15-history-7cb68aa8bbee8b",
+        "15-history-0deb6108bd3312"
+      ],
+      "name": "神明社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-5b275cc6cfb950",
+        "15-agency-0b7b4d4a0ab430",
+        "15-agency-1715dbb09221dc",
+        "15-agency-d9740cd075659a",
+        "15-agency-b8b6aae3bdd5b3",
+        "15-agency-44f2449fbaf531",
+        "15-history-33076a6a009996"
+      ],
+      "name": "神明社",
+      "municipality": "西蒲原郡弥彦村"
+    },
+    {
+      "ids": [
+        "15-agency-086f2fd1f2041e",
+        "15-agency-3bbce0cde38685",
+        "15-agency-8873c481bc51d4",
+        "15-agency-763db64a6dab27",
+        "15-history-afd6a7731e892d",
+        "15-history-84666141afbf35"
+      ],
+      "name": "神明社",
+      "municipality": "三島郡出雲崎町"
+    },
+    {
+      "ids": [
+        "15-agency-8664e31dd644f7",
+        "15-agency-5b29b8cc53f6ca",
+        "15-agency-eb7e5ea6ed2b4d",
+        "15-agency-aec37940cd0f70",
+        "15-agency-44b18e0c601452",
+        "15-agency-f534f73977f240",
+        "15-agency-0395dd628ae929",
+        "15-agency-fc19915cd900f5",
+        "15-agency-1cca40ab5733a2",
+        "15-agency-e605fc8bcd3e81",
+        "15-agency-96f48612761e97",
+        "15-agency-f8e81db23e3101",
+        "15-history-55c69775570c1d",
+        "15-history-caa508b24e3daa",
+        "15-history-0f61b589537773",
+        "15-history-975919d0355e35",
+        "15-history-c12941ae13625a",
+        "15-history-30cf3c811fa555",
+        "15-history-deb2af74c363b7",
+        "15-history-e8f1e1f7b745e3"
+      ],
+      "name": "神明神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-4b35aeba461b28",
+        "15-agency-a92660560e68d0",
+        "15-agency-0acd5816eb2e0d",
+        "15-agency-0f632aed42cda2",
+        "15-agency-f451498318ba58",
+        "15-history-b07fcec9c0ef39"
+      ],
+      "name": "神明神社",
+      "municipality": "新潟市北区"
+    },
+    {
+      "ids": [
+        "15-agency-5726e36210d5c2",
+        "15-agency-96f40067b46bd9",
+        "15-agency-7e4dfe8107f818",
+        "15-agency-8546ed19601bda",
+        "15-agency-beff3d2bb78449",
+        "15-agency-5c2e0e5401ff9e",
+        "15-agency-701bedc157467a",
+        "15-agency-425c6c5f6def2c",
+        "15-agency-29562fdeef1903",
+        "15-agency-35fcef42a4c855",
+        "15-agency-372a4a4044e422",
+        "15-agency-c856d2ef53c472",
+        "15-history-eec063d0268c59",
+        "15-history-f734e6d974770c"
+      ],
+      "name": "神明神社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-8c47dcefacca4b",
+        "15-agency-6be3d3ec67d098",
+        "15-agency-d1f74af6924c55",
+        "15-agency-c1149ced7ac9ba",
+        "15-history-a1998b0210dcb0"
+      ],
+      "name": "神明神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-a5caaf1874e40c",
+        "15-agency-9564a38a07ecdb",
+        "15-agency-b91385c53bf90f",
+        "15-agency-52f9800a1bde60",
+        "15-history-315cda3b9e631e",
+        "15-history-3bf4394616781f"
+      ],
+      "name": "神明社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-bebd127e4e37d7",
+        "15-agency-b0c8de1d773bbc",
+        "15-agency-e20658308acc13",
+        "15-agency-9456d7fb7f58cf",
+        "15-agency-f60420e2fd4ce9",
+        "15-agency-ec7d3a78217d3a",
+        "15-agency-0da1025a98c97d",
+        "15-agency-53818a70cd829e",
+        "15-history-0d9ac8acef7471",
+        "15-history-eaa3534ee72a3a"
+      ],
+      "name": "神明社",
+      "municipality": "上越市柿崎区"
+    },
+    {
+      "ids": [
+        "15-agency-58033f9a404df8",
+        "15-agency-d7dcb022d515b0",
+        "15-agency-dbb233cbf3b635",
+        "15-agency-ac6b2c676e069f",
+        "15-agency-29421af635f876",
+        "15-agency-98752215f08b81",
+        "15-agency-b5395658343ee8",
+        "15-agency-f8917d976e8b24",
+        "15-agency-655dba8b811d7c",
+        "15-agency-fc10925de16fb2",
+        "15-agency-706974e4dc8a4a",
+        "15-agency-c689d772c4e7f9",
+        "15-agency-1d8ae42d871375",
+        "15-agency-8bdea22bf0311f",
+        "15-agency-b9e70929ec9d7a",
+        "15-history-be49014a9db79d",
+        "15-history-83803b39e467a8",
+        "15-history-80ab63197c5655"
+      ],
+      "name": "神明社",
+      "municipality": "上越市頸城区"
+    },
+    {
+      "ids": [
+        "15-agency-cd7553d0cacf65",
+        "15-agency-2f840aa5e254be",
+        "15-agency-1da19521ec6669",
+        "15-agency-35a0546ba68542",
+        "15-agency-e4717b5c059825",
+        "15-history-482545148748b4",
+        "15-history-29514b9e2e22d6",
+        "15-history-1a540fa5a61427"
+      ],
+      "name": "神明社",
+      "municipality": "上越市吉川区"
+    },
+    {
+      "ids": [
+        "15-agency-92fae9305a48a0",
+        "15-agency-a882288999109d",
+        "15-history-0b6e78a513a0a6"
+      ],
+      "name": "神明社",
+      "municipality": "上越市板倉区"
+    },
+    {
+      "ids": [
+        "15-agency-dbe9f0f9034959",
+        "15-history-92b8502ed9f74c"
+      ],
+      "name": "神明社",
+      "municipality": "上越市牧区"
+    },
+    {
+      "ids": [
+        "15-agency-5c132a397e5225",
+        "15-agency-8769c8740968af",
+        "15-agency-b288933d604e9c",
+        "15-agency-26f1a59e8816f9",
+        "15-agency-573306db6c3a80",
+        "15-agency-926c3089f9013a",
+        "15-agency-679a7d5677f6b2",
+        "15-agency-65c792ddea0f6b",
+        "15-agency-bf5ff030ca512b",
+        "15-agency-8020be682609f4",
+        "15-agency-628c6204b9b01e",
+        "15-agency-14964e532f4cd4",
+        "15-agency-15829103617d71",
+        "15-agency-4d83071fb58749",
+        "15-agency-d19dc70f5362b5",
+        "15-agency-17832646cae0f8",
+        "15-agency-1d99e825543e28",
+        "15-agency-5c198ec39df284",
+        "15-agency-e483eab0b8ab78",
+        "15-agency-94de00ad76b095",
+        "15-agency-46a21e5df30a71",
+        "15-agency-f7cbe7f4a51987",
+        "15-history-f1c5a4141000ac",
+        "15-history-a195785aed21a6"
+      ],
+      "name": "神明社",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-34a82fcb7d4a45",
+        "15-agency-37d92c1d93f902",
+        "15-agency-855cd54a8bc380",
+        "15-agency-92435b1fa6a839",
+        "15-agency-5ab415744521dc",
+        "15-agency-8f56e2ca3284e2",
+        "15-agency-a9340d36f9dc03",
+        "15-agency-6bdfd335b83aed",
+        "15-agency-8522788b65d389",
+        "15-agency-2591e5ac96d2a1",
+        "15-agency-e435883004ba33",
+        "15-agency-8aff4874eefb3a",
+        "15-agency-bbf876558800b9",
+        "15-agency-9291c71b12fc7e",
+        "15-history-9a0e4d81953344",
+        "15-history-3fd62e5b8ccd70",
+        "15-history-dbb0e3fe026480",
+        "15-history-69fb28291b07bd",
+        "15-history-ff94ef152e25ca",
+        "15-history-a139ab3f315c0c",
+        "15-history-6456e1ae91cc4f"
+      ],
+      "name": "神明社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-5dd38a35597618",
+        "15-agency-dd84a7b51a8f9c",
+        "15-agency-572bc9d1456347",
+        "15-agency-03e82399300187",
+        "15-agency-c37d00f1615fb9",
+        "15-agency-9dd71ac3d326e1",
+        "15-agency-d5dc2425f0db9f",
+        "15-agency-4876435ab11d2d",
+        "15-agency-4481d676708db6",
+        "15-agency-160e2524b63b5e",
+        "15-agency-4a1f946578e638",
+        "15-agency-8169086c1a1f4e",
+        "15-agency-683063ebc6a2d7",
+        "15-agency-ffcc752fd292f5",
+        "15-agency-38fa3a63770864",
+        "15-agency-c92dbbc987d07c",
+        "15-agency-4e4ec79fda4e60",
+        "15-agency-24526e22637f59",
+        "15-agency-88bdf65d2551ca",
+        "15-agency-0c940e50d70d52",
+        "15-agency-e1e9f974ad79fc",
+        "15-agency-ef26d18127043e",
+        "15-agency-a738e676cf575c",
+        "15-agency-e60678ca33d557",
+        "15-agency-51f3ab70d5ba99",
+        "15-agency-da084e3cc9ca8f",
+        "15-agency-c32ea575d3043d",
+        "15-agency-42cf5a049b66eb",
+        "15-agency-09b7fdf1716f5d",
+        "15-agency-a5e96fdc3e1bcc",
+        "15-agency-198f0e988c2e5c",
+        "15-agency-c397139fafff8f",
+        "15-agency-ff22642ecc8b20",
+        "15-agency-8b116b3cdac5a6",
+        "15-agency-fef208d04e9025",
+        "15-agency-62878660533c34",
+        "15-agency-b4f589545fc239",
+        "15-agency-8f4a00a1c95170",
+        "15-agency-07bb29f51455b4",
+        "15-agency-6151b21b894b85",
+        "15-agency-8013ad4923d534",
+        "15-agency-0c3a35a08f05ff",
+        "15-agency-dec32032ce85c8",
+        "15-agency-0d6b41979426ed",
+        "15-agency-e1cfc35dde9b0e",
+        "15-agency-fdf65a5c88813f",
+        "15-agency-6b7dc75a7e8493",
+        "15-agency-57371d86f260db",
+        "15-agency-fe5bfb31608987",
+        "15-agency-b832a5a6ddeecd",
+        "15-agency-a35673a84baad5",
+        "15-history-8c80f230e78ccf",
+        "15-history-c9dcaed44b563f",
+        "15-history-1e517e6288ba71",
+        "15-history-c83d6c997c210f"
+      ],
+      "name": "神明社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-fc6750754c683e",
+        "15-agency-1c6f04147be035",
+        "15-agency-c8b95e2cb5a150",
+        "15-agency-a825b74c90e50e",
+        "15-agency-7210a9c18d1545",
+        "15-agency-9fd4c0d4b11b7c",
+        "15-history-9a1daecd730a97"
+      ],
+      "name": "神明社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-61edc0c50515a1",
+        "15-agency-ff1a3c374e5f6f",
+        "15-agency-b5c4906d3af2db",
+        "15-history-6fbdda571caaf2"
+      ],
+      "name": "神明社",
+      "municipality": "見附市"
+    },
+    {
+      "ids": [
+        "15-agency-8b698e5b9b2a09",
+        "15-agency-2e8e8518632333",
+        "15-agency-59a3317ca59172",
+        "15-agency-7ac112c55fa914",
+        "15-agency-bbe71f9f95a1ec",
+        "15-agency-4ff4a6df2e395e",
+        "15-agency-b3d9fa177458a0",
+        "15-agency-82be6249357b41",
+        "15-agency-5d040e80270fae",
+        "15-history-0411d14eaa488c",
+        "15-history-606cc03988ff44",
+        "15-history-2bf73d3a5bbc14"
+      ],
+      "name": "神明社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-3e0c2d135f6203",
+        "15-agency-701bb01100543f",
+        "15-agency-c1e3d4dc3d90a6",
+        "15-agency-af4ceb947c1019",
+        "15-agency-6bee641ade89a8",
+        "15-agency-4163487652f067",
+        "15-agency-228fc7b13e3910",
+        "15-agency-59afb0966729e1",
+        "15-history-930e5a9b09e582",
+        "15-history-5b79f56430a0de"
+      ],
+      "name": "神明社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-93418efa83c302",
+        "15-agency-a97556ae065527",
+        "15-agency-90d0bd0b0acb0e",
+        "15-agency-e0bcf118d221fa",
+        "15-history-a6c60a2626d9c3"
+      ],
+      "name": "神明神社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-646020f87d0ba8",
+        "15-agency-606ba36122f4e7",
+        "15-agency-fcba8f53e5881b",
+        "15-agency-e6ebd1a18c5425",
+        "15-agency-40cd51597f04c5",
+        "15-agency-50008222344789",
+        "15-agency-d50927d1a84064",
+        "15-agency-ec530a95c41d7b",
+        "15-agency-5875114415afb3",
+        "15-agency-d247dc7f40293a",
+        "15-agency-b479ce1877f44f",
+        "15-agency-941124eacfcccc",
+        "15-agency-4b226afa1ed771",
+        "15-agency-848bd14af37906",
+        "15-agency-1d2eb016697571",
+        "15-agency-92222bb33afbf2",
+        "15-agency-835b1846498e29",
+        "15-agency-196fa938fd3483",
+        "15-agency-4c796893a74e15",
+        "15-agency-48d227ae3b62c3",
+        "15-agency-6e3f6ab440b2e8",
+        "15-agency-dd9f0a1aab2f1c",
+        "15-agency-2f8ea362bcc95d",
+        "15-agency-812ca42e1a799e",
+        "15-agency-b6616e493462be",
+        "15-agency-6c45c3dd96904c",
+        "15-agency-8a878c6ab549b3",
+        "15-history-acd6217ac7333e",
+        "15-history-3731a447425ba0",
+        "15-history-a1fc0d24af439a",
+        "15-history-2a4d8db4779109"
+      ],
+      "name": "神明社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-c7036f301a85ec",
+        "15-agency-a4e512372fd5b2",
+        "15-agency-9a3a04f7572495",
+        "15-agency-1fff1a97d0f989",
+        "15-agency-b7fcac608eeb65",
+        "15-agency-f40c90920180ca",
+        "15-agency-9ca18552ee01b2",
+        "15-agency-f89a8e5cf2cffe",
+        "15-agency-4f6888fa1e4936",
+        "15-agency-e968d380782726",
+        "15-agency-93ba4b2f5eaa39",
+        "15-agency-b4406669551c98",
+        "15-agency-df34bc71cd3491",
+        "15-agency-d7861415fc05cf",
+        "15-agency-21c569ebbccb0a",
+        "15-agency-d11becd3c341d0",
+        "15-agency-6ddb98f3237934",
+        "15-agency-03a7312152b0f7",
+        "15-agency-f49af8dace903c",
+        "15-agency-edb5bdf05b6765",
+        "15-agency-95764e9c55da71",
+        "15-agency-0e8e985589775e",
+        "15-agency-5de88ee9cf19f3",
+        "15-agency-da2b0cb34005ff",
+        "15-agency-8494f99abaf77c",
+        "15-agency-5989e6bce65b04",
+        "15-agency-c14a47d59290c0",
+        "15-agency-4de554572df5f3",
+        "15-agency-5b464f0860c036",
+        "15-agency-81171e6eaec54f",
+        "15-agency-201ffe66fb4764",
+        "15-agency-57f05a41d7ad9f",
+        "15-agency-d92dab19ff3ca3",
+        "15-agency-52fc55f374a9f5",
+        "15-agency-95ae666f8b1f40",
+        "15-agency-1157e6e876cd57",
+        "15-agency-6044e823529f67",
+        "15-agency-e9e983f250692e",
+        "15-agency-21307b307dd5be",
+        "15-history-314c6c1acd4588",
+        "15-history-ccf91469da0b49",
+        "15-history-74305c206d6a6a",
+        "15-history-c3a278848c030a",
+        "15-history-3dda73dbc1a927",
+        "15-history-95a97a505d6465",
+        "15-history-7dc511c7377380",
+        "15-history-026c8ecc242fa9",
+        "15-history-ff292e5c6d462b"
+      ],
+      "name": "神明社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-e77cc0dde7091b",
+        "15-agency-cb85c4aa5d9248",
+        "15-agency-d42b74af1a406d",
+        "15-agency-adde2ce389d0e8",
+        "15-agency-8f55166dc82d06",
+        "15-agency-3db41249a4f45d",
+        "15-agency-5ab663f1e726d9",
+        "15-agency-3c021b3af7eecf",
+        "15-agency-3590407334b110",
+        "15-agency-c78ae2086d47bd",
+        "15-agency-dc7519fc30dfa3",
+        "15-agency-9a520d7f507f3c",
+        "15-agency-22c8470fb5ebf2",
+        "15-agency-1b58c9f4f4a5e0",
+        "15-agency-3b4a080c072a91",
+        "15-agency-4b54bfd1f0b9c2",
+        "15-agency-1f0b1f616f9e92",
+        "15-history-dcb6824e469d94",
+        "15-history-ba16ee71a8620c",
+        "15-history-3da345d8bbaee7",
+        "15-history-f43bea23c1ad47"
+      ],
+      "name": "神明社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-d2a1f46873bc6c",
+        "15-agency-bcf326235cb2a6",
+        "15-agency-99fe001143f715",
+        "15-agency-26b3029136fff1",
+        "15-agency-3c758a6caf4c72",
+        "15-agency-94409a6f6b1fd3",
+        "15-agency-e74806fe4bb3b3",
+        "15-agency-7aa51446d9595c",
+        "15-agency-e86c67cc73d65e",
+        "15-agency-cc3f09f9eabdcd",
+        "15-agency-0b1defeaec58a4",
+        "15-agency-71aba7e25df1b6",
+        "15-agency-8bfe8fd4c2b233",
+        "15-agency-3e375aa362fb3e",
+        "15-agency-ac71e97acefbab",
+        "15-agency-5ac5bd762b10ef",
+        "15-agency-aae01556cf8291",
+        "15-agency-e0b07502276393",
+        "15-agency-8e58b91e78ad73",
+        "15-agency-85466809677c16",
+        "15-agency-bff78e1ca6d848",
+        "15-agency-54e3b72a789c02",
+        "15-agency-3e54288d27defb",
+        "15-agency-6614a40f10dc70",
+        "15-agency-c764eb25cdd5f7",
+        "15-agency-d88b6640345f1f",
+        "15-agency-3ca8e493fdf9b9",
+        "15-agency-f14e55ea355197",
+        "15-agency-b2b2f4027ea7e6",
+        "15-agency-8fd9f2db660adf",
+        "15-agency-d3b43ac6b9ac8b",
+        "15-agency-ae27c366ecd3a5",
+        "15-agency-33b4e3c07e8293",
+        "15-agency-563fb4890fc1a9",
+        "15-agency-43a9b749288431",
+        "15-agency-df67ae4e1ff7c5",
+        "15-agency-1ae7969eaa1c1d",
+        "15-agency-974ac5b544bcb7",
+        "15-agency-744a4931efe296",
+        "15-agency-53d95b5d9d2840",
+        "15-agency-4fb4793a771cdb",
+        "15-agency-f1734fd51559e7",
+        "15-agency-97b3b8a03e115b",
+        "15-agency-de11a692c8f903",
+        "15-agency-019167ecf96d55",
+        "15-agency-5be59ba72e8dd7",
+        "15-agency-76bd73aa8bf6c7",
+        "15-agency-8bcd5144d0db33",
+        "15-agency-868bf427690a9d",
+        "15-agency-0486938d4b1585",
+        "15-agency-e2634a416bc995",
+        "15-agency-6d1e57862d7590",
+        "15-agency-1a8f293004af19",
+        "15-agency-ef2371bf5d1a0b",
+        "15-agency-795e087f872e30",
+        "15-agency-4ebee35974ac94",
+        "15-agency-2204a1bd0ab972",
+        "15-agency-4816c079cdc1f1",
+        "15-agency-ca65d3f006be79",
+        "15-agency-aae1af5b01abf0",
+        "15-agency-303f925394cb58",
+        "15-agency-5e56702f490873",
+        "15-agency-2fb2874920a455",
+        "15-agency-eb5bf3b10effb9",
+        "15-agency-ee321c540c413b",
+        "15-agency-d1f6050715f8c3",
+        "15-agency-cfefce12b71adc",
+        "15-agency-4ff1536db1fe8d",
+        "15-agency-32dd4dfc0c0718",
+        "15-agency-fe5b1bb75942f4",
+        "15-agency-699a79275ca674",
+        "15-agency-1b529152790712",
+        "15-agency-0a558b119d18ee",
+        "15-agency-34760be676dc84",
+        "15-agency-6296bd98eab362",
+        "15-agency-7f057d64cb7977",
+        "15-agency-406433c968a3b1",
+        "15-agency-8340267f3f38e7",
+        "15-agency-f21f572ba3e2ed",
+        "15-agency-dc1c7d548789a5",
+        "15-agency-b4aeaff131e397",
+        "15-history-265d347a619a70",
+        "15-history-8a35da82d08d2d",
+        "15-history-c8d8fd754bc404",
+        "15-history-591c3482b634ca",
+        "15-history-7392d1bf3d2083",
+        "15-history-1f4915c50638f7",
+        "15-history-21af990f3b3200",
+        "15-history-625fcc607f3f2a",
+        "15-history-e635938b662f34",
+        "15-history-4bd34bfde8221f",
+        "15-history-744434d88ce1f0",
+        "15-history-ec8b41bb8d66e3",
+        "15-history-1f01e6b68c037e",
+        "15-history-a5a995744f3e88",
+        "15-history-0562ad800e9151",
+        "15-history-9c5889a80b51c9",
+        "15-history-4159034ed00425",
+        "15-history-1f3ea8ed949ad2",
+        "15-history-501bcecaa4ccd9",
+        "15-history-1d2a989f7f4d3b",
+        "15-history-79dc3d003478e3",
+        "15-history-9625bbd6f679e1",
+        "15-history-83f7ad1025e862",
+        "15-history-f440542c94ab0d",
+        "15-history-4a1ee78717788a",
+        "15-history-3db324e54b4349",
+        "15-history-61fc1af113b037",
+        "15-history-53fd96b229637e",
+        "15-history-1ced4452224636",
+        "15-history-e8353f17f1b96b",
+        "15-history-7e41a32ae56fbf",
+        "15-history-494e3c26ac556e"
+      ],
+      "name": "十二社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-a06f49d0f5b691",
+        "15-agency-d8309fd1f491dd",
+        "15-agency-5feaaf713d0c27",
+        "15-history-77805ae05d0151"
+      ],
+      "name": "十二社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-25778905759389",
+        "15-history-619ea4b64942f5"
+      ],
+      "name": "十二社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-a8e4d235110dfd",
+        "15-agency-ba2c0dad90132d",
+        "15-agency-50354e77fd6c3b",
+        "15-agency-f71f199d241a8e",
+        "15-agency-d161c78b8240ee",
+        "15-agency-8ce70429c99a05",
+        "15-agency-73400d08827195",
+        "15-agency-845b66f0982ab4",
+        "15-agency-968ef4ef877c25",
+        "15-agency-363807a66c384d",
+        "15-agency-e37737630432c2",
+        "15-agency-01435caeadc71d",
+        "15-agency-232cdb159467ca",
+        "15-agency-696ffe0a0d1ddb",
+        "15-history-1b8f50c97e0edd",
+        "15-history-2e9b70eb57a98a"
+      ],
+      "name": "十二社",
+      "municipality": "魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-84224d9dfd529d",
+        "15-agency-044b7ec670a238",
+        "15-agency-2bb348aa86fa4b",
+        "15-agency-fb677f0a06bceb",
+        "15-agency-fd04d6d431da1b",
+        "15-agency-6fea74af567fe1",
+        "15-agency-1546d3a2201e6e",
+        "15-agency-5ddd84b324b5eb",
+        "15-agency-25a9840a5ddc48",
+        "15-agency-1b94d451172bd6",
+        "15-agency-29bb70a1f5ad96",
+        "15-agency-03844bac7a4f28",
+        "15-agency-54ce43e541139d",
+        "15-agency-f5f24ad2145e75",
+        "15-agency-99501d435bb535",
+        "15-agency-f252223b587d7f",
+        "15-agency-c75b86e27c9145",
+        "15-agency-d47f0841139279",
+        "15-agency-2edb91b9e793a1",
+        "15-agency-b1bc5467216013",
+        "15-agency-7e71c3feaf35d5",
+        "15-agency-91129e7746943c",
+        "15-agency-b78a5ea761b9dc",
+        "15-agency-c148214df9dd2f",
+        "15-agency-812ea33c6c2c90",
+        "15-agency-c1bae33a1ee8dd",
+        "15-agency-70e2275ad92181",
+        "15-history-8d2a686f4ae5da"
+      ],
+      "name": "十二社",
+      "municipality": "中魚沼郡津南町"
+    },
+    {
+      "ids": [
+        "15-agency-0f9f7a92155bfc",
+        "15-agency-8988a276dcfb23",
+        "15-agency-ffd5406f5172c7",
+        "15-agency-863d6c780b2ddc",
+        "15-agency-1ca925a54b802f",
+        "15-agency-a2dee184f2f690",
+        "15-agency-444d3df6798999",
+        "15-agency-0f1d0edaeccffb",
+        "15-agency-3c116c0646043f",
+        "15-history-684928873aa45e"
+      ],
+      "name": "神明神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-8626cfc8dafcac",
+        "15-history-63443ca22aecd9"
+      ],
+      "name": "神明諏訪社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-ae5dc768a7ed89",
+        "15-history-1dbea6b753f052"
+      ],
+      "name": "十王社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-11c36c73163be4",
+        "15-agency-d71f4212a46708",
+        "15-history-02cca11b892cf9"
+      ],
+      "name": "十二山神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-3b6de1c876782d",
+        "15-agency-554245734fb903",
+        "15-agency-4f8fd2863472b8",
+        "15-agency-8a6584348aff3c",
+        "15-agency-ed37dfe370c1dd",
+        "15-agency-789ba1727a85b8",
+        "15-agency-82c90c8c3ca5e0",
+        "15-history-5ae665a8e5d1ae",
+        "15-history-63d8640972860e",
+        "15-history-5a36e105430645"
+      ],
+      "name": "十二社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-0c294983214fca",
+        "15-agency-71d578802213a2",
+        "15-agency-334a59fa00c0ab",
+        "15-agency-1b5732a88e28ce",
+        "15-agency-f213e4f3a28097",
+        "15-agency-ece03a22f655d7",
+        "15-agency-4453437771285b",
+        "15-history-c472ff1270c691"
+      ],
+      "name": "十二社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-51157d096f8fad",
+        "15-agency-6146e8333b4b4f",
+        "15-agency-9cec07c3ce9d39",
+        "15-agency-90b750f601f1af",
+        "15-agency-73b8b2d7396331",
+        "15-agency-13615fcc8844b8",
+        "15-history-a111077314e5b1",
+        "15-history-97e1960b1dd741"
+      ],
+      "name": "十二社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-52553ac4ddb0b2",
+        "15-agency-bbf198454e914f",
+        "15-history-0634b732069086",
+        "15-history-7058637a7f2e63"
+      ],
+      "name": "十二社神社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-1d37d722f8e4e1",
+        "15-agency-5be9e1ec73f3dc",
+        "15-agency-c9334797185427",
+        "15-agency-c9734d43709392",
+        "15-history-2dcd4412935516"
+      ],
+      "name": "十二所神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-1c4c1f4c51618f",
+        "15-agency-22fc0f3d68ea61",
+        "15-agency-b42f9cda889e51",
+        "15-agency-0d0068125aa3ba",
+        "15-agency-65a6dbbc697883",
+        "15-agency-42cf017d36632d",
+        "15-agency-6a294d1caec366",
+        "15-agency-cc4c7de4b3a017",
+        "15-agency-16eff938b7dc0a",
+        "15-agency-d00771e84fccb3",
+        "15-agency-0c90ae78e4f573",
+        "15-history-92e77b0bea290c",
+        "15-history-3c17e317b24241",
+        "15-history-023087a4210fa6",
+        "15-history-9d04ebf4e93af5"
+      ],
+      "name": "十二神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-a50fcdce930598",
+        "15-history-4634cbe5299ca3"
+      ],
+      "name": "十二神社",
+      "municipality": "新潟市北区"
+    },
+    {
+      "ids": [
+        "15-agency-da8eb41b5bc70f",
+        "15-agency-a3141752b8d974",
+        "15-agency-1a1eab8a7e8f8d",
+        "15-agency-85acc41ca1a178",
+        "15-agency-b4feaeed56cd8d",
+        "15-agency-271f89d5647b01",
+        "15-agency-41e67cf8e993c5",
+        "15-agency-7d0f0cf9fb14f1",
+        "15-agency-c9623a173c52f4",
+        "15-agency-8aca35a9391eff",
+        "15-agency-388f994977c89f",
+        "15-agency-21a718e41c5eaa",
+        "15-agency-186a0620ef3ee6",
+        "15-agency-ea6088bc4458f5",
+        "15-agency-f6d7d9a5e8eb51",
+        "15-agency-8f6a68a73e0235",
+        "15-agency-3f1449a8ca677f",
+        "15-agency-38b67e3cecb3d7",
+        "15-agency-60ea4068024d59",
+        "15-agency-7eae45a663a9fc",
+        "15-agency-eb5d0bfe2c406f",
+        "15-agency-0a324c18f30b38",
+        "15-agency-d259052e37619f",
+        "15-agency-8f9a101336c568",
+        "15-history-70e4350db5c5a6",
+        "15-history-9ccf3c3ea0e627",
+        "15-history-d02d8065cbe890",
+        "15-history-f7c87f98ef4a34",
+        "15-history-4bdd648847b008",
+        "15-history-52c40aaa644b9d",
+        "15-history-c8566f8b88abb0"
+      ],
+      "name": "十二神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-a7ceb9de73bd70",
+        "15-agency-3171a21d64fae5",
+        "15-agency-c1ddcba4ee9698",
+        "15-agency-64d3d32c14435f",
+        "15-agency-ab4c0c18033bfb",
+        "15-agency-e006c00f642ca1",
+        "15-agency-f1b2520a200201",
+        "15-history-60ed421891db6c",
+        "15-history-b29936b0e86407",
+        "15-history-110f9a90d9b1c7"
+      ],
+      "name": "十二神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-287787db3d8ad0",
+        "15-agency-8e14ebf9d166f8",
+        "15-agency-db6c0aaa1d3614",
+        "15-agency-5ad7fee26a0d77",
+        "15-agency-a1e4135ab817f5",
+        "15-agency-070cb58df725fc",
+        "15-history-07e4b320be4214",
+        "15-history-e08e9378330fb9",
+        "15-history-2c1094878d5867",
+        "15-history-1c05c747e6db1d",
+        "15-history-845acc01441ffa",
+        "15-history-acb6976475de54"
+      ],
+      "name": "十二神社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-7cf0f3ac85e619",
+        "15-agency-b01a9f0e419942",
+        "15-agency-3f5b9963b3f1f7",
+        "15-agency-1343358dc78439",
+        "15-agency-eaa6a948325853",
+        "15-agency-1fd12565226211",
+        "15-agency-029d7de0c370fd",
+        "15-agency-b7848f5a4793b1",
+        "15-agency-0c64ace09a019f",
+        "15-agency-f7eda1c0f247bb",
+        "15-agency-ba9e34981a4b61",
+        "15-agency-720a08bee187c6",
+        "15-agency-c95299e887be8a",
+        "15-agency-b59b4595b53693",
+        "15-agency-c4002464571d58",
+        "15-agency-f94623439fe661",
+        "15-agency-7f7ed51ed8a1d7",
+        "15-agency-edf21b6acbdc12",
+        "15-agency-918ab6b5ac6e37",
+        "15-agency-47c613d4d0ea8b",
+        "15-agency-885ef0f8268a67",
+        "15-history-d4d112f5a5f1cc",
+        "15-history-ec78b64a0283d9",
+        "15-history-4582e61a79539f",
+        "15-history-07f133568953e5",
+        "15-history-b60c4e29b9046d",
+        "15-history-ef5ff502b1bae5"
+      ],
+      "name": "十二神社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-53c298b6bd42b3",
+        "15-history-e37318e27f8a69"
+      ],
+      "name": "十二神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-78150229a0a904",
+        "15-agency-1d6fbea56a0293",
+        "15-agency-b6ea17fa34b59d",
+        "15-agency-6ee5899dd8f3b2",
+        "15-agency-5700fe5c45f019",
+        "15-agency-ed2d9ae8f655cb",
+        "15-agency-d29bf019439f24",
+        "15-history-a04bd47663eeac"
+      ],
+      "name": "十二神社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-859135f0839c90",
+        "15-agency-297eade8ed8dbb",
+        "15-history-f5048fd7617eb6",
+        "15-history-b4ff5fe6c156cb"
+      ],
+      "name": "十二神社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-c3adde26cc9ab9",
+        "15-agency-ced4777a80c4a3",
+        "15-agency-c663452081e4f4",
+        "15-agency-ef8b8a489fc830",
+        "15-agency-bc1997da201c4e",
+        "15-agency-72e24692e0f351",
+        "15-history-5fe25b54a86770",
+        "15-history-6f7f9ccc38ee40"
+      ],
+      "name": "十二神社",
+      "municipality": "五泉市"
+    },
+    {
+      "ids": [
+        "15-agency-ec86eb05466de1",
+        "15-agency-d42df1701223b4",
+        "15-history-ee6f3e022fbbfc"
+      ],
+      "name": "十二神社",
+      "municipality": "上越市吉川区"
+    },
+    {
+      "ids": [
+        "15-agency-f3ee820a55b301",
+        "15-agency-0c68089cc30656",
+        "15-agency-35fcbc38d120ce",
+        "15-history-48ca8a57812ccc"
+      ],
+      "name": "十二神社",
+      "municipality": "上越市板倉区"
+    },
+    {
+      "ids": [
+        "15-agency-697027de75d413",
+        "15-agency-1817fedd861cbc",
+        "15-agency-d9ffd302736e11",
+        "15-agency-fcf7b3120b3def",
+        "15-history-b70e7f248ac92b"
+      ],
+      "name": "十二神社",
+      "municipality": "上越市安塚区"
+    },
+    {
+      "ids": [
+        "15-agency-0cc277cf2d287e",
+        "15-agency-eb082fc8dbb737",
+        "15-agency-5c93fbb0b1dddc",
+        "15-agency-5be529d85e6c34",
+        "15-agency-c9770633c9bf3f",
+        "15-history-6f1c8a9d0be9d8"
+      ],
+      "name": "十二神社",
+      "municipality": "上越市大島区"
+    },
+    {
+      "ids": [
+        "15-agency-3b04e6dc8d7631",
+        "15-agency-c06b228500c8d6",
+        "15-agency-a921b72fb4e49f",
+        "15-agency-e631702cf1c4bd",
+        "15-agency-15e29c21827a6e",
+        "15-agency-c495765a40c2c8",
+        "15-history-3532ebc29376c3",
+        "15-history-1260544ce00c70"
+      ],
+      "name": "十二神社",
+      "municipality": "上越市牧区"
+    },
+    {
+      "ids": [
+        "15-agency-f9f1f124ea0455",
+        "15-agency-3eaf4f0cad88c5",
+        "15-agency-240f0c45cd528e",
+        "15-agency-2240c9b33572a8",
+        "15-agency-5e714902b84838",
+        "15-agency-48470e38b73634",
+        "15-agency-02cd70dfac9510",
+        "15-agency-b314298469bd04",
+        "15-agency-3a9453592f838b",
+        "15-agency-030ea8e8370ae6",
+        "15-agency-7c20a8b6f0d9f4",
+        "15-agency-e2ed9070716f6b",
+        "15-agency-deecb1b9836811",
+        "15-agency-444bd49217f412",
+        "15-agency-32a031a7f955b2",
+        "15-agency-07899e212c06fa",
+        "15-agency-b3da9c7b74f5bb",
+        "15-agency-5cfd2f386de800",
+        "15-agency-33b090d7619986",
+        "15-agency-98ce5519e6e858",
+        "15-agency-c3287422674d2c",
+        "15-agency-526247d0cf2e89",
+        "15-agency-0271567f7eac21",
+        "15-agency-82cd762ecb8ac9",
+        "15-agency-feea1e6bf33d15",
+        "15-agency-bf8cd721ebfc7a",
+        "15-agency-5473dbfe655833",
+        "15-history-714ca34a7cb523",
+        "15-history-082bdbf1499547",
+        "15-history-75960799b12308"
+      ],
+      "name": "十二神社",
+      "municipality": "魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-78a913851fc69d",
+        "15-agency-33801c8974cc44",
+        "15-agency-7b067ae8540aa4",
+        "15-agency-d3d789ac1df4f1",
+        "15-agency-6e3065fc05948b",
+        "15-agency-5fb4780f705d01",
+        "15-agency-459d94c09aab37",
+        "15-agency-14fca2728b9641",
+        "15-agency-dd3563aab39e5e",
+        "15-agency-3d933d1f0eedae",
+        "15-agency-adfae49f04e2ab",
+        "15-agency-b7d1ad219d9a85",
+        "15-agency-17c14710c4d974",
+        "15-agency-d139505cb353ac",
+        "15-agency-629be167fd2b3d",
+        "15-agency-78d9ae9dc7af52",
+        "15-agency-2b3ac53930bfdb",
+        "15-agency-06fe40346a29f0",
+        "15-agency-34bc111ac046fb",
+        "15-agency-d540e7b96ebc86",
+        "15-history-79f23c65a15ca2",
+        "15-history-9aa3873d8a5f12",
+        "15-history-4e90778bfdf1e3"
+      ],
+      "name": "十二神社",
+      "municipality": "南魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-ef21caf42cc1fb",
+        "15-agency-6b892a5958d8c3",
+        "15-agency-c0369a66b8e45d",
+        "15-agency-a587e89c94bc02",
+        "15-agency-2f2bec561f5a34",
+        "15-agency-c14eb61afd8cc3",
+        "15-agency-fe46b32feb7519",
+        "15-agency-cb72108aa4276f",
+        "15-agency-fe107cb4f80aa0",
+        "15-agency-5bfa56267b03aa",
+        "15-agency-6cdbc02da28a3f",
+        "15-agency-3a34a59e76234a",
+        "15-agency-ba92bd4c965422",
+        "15-agency-b205d507879384",
+        "15-agency-8f05f2ae1c48d1",
+        "15-agency-ed493af593a00d",
+        "15-agency-3088fd3d75c719",
+        "15-agency-216612e79a39ee",
+        "15-agency-d308f2ce9272b0",
+        "15-agency-211bb7c672d13a",
+        "15-history-081cc628cf6ebb",
+        "15-history-6d7ada5cc540db",
+        "15-history-830b69122cce34",
+        "15-history-c5b1a58a093176",
+        "15-history-7e18aaa9095a8c",
+        "15-history-429f181f096b36",
+        "15-history-cb95725f24583d"
+      ],
+      "name": "諏訪社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-b2a28c414e5f43",
+        "15-agency-4337cd2bd1a76b",
+        "15-agency-c5bffe43a35ea3",
+        "15-agency-97dd930e5fc81e",
+        "15-agency-786745ffab36ef",
+        "15-agency-67264d7d429b07",
+        "15-agency-c93cc5824085db",
+        "15-agency-1c55419b3cf516",
+        "15-agency-4fcd2d74fc4a7d",
+        "15-agency-89c93ada992127",
+        "15-agency-f787378995ef04",
+        "15-agency-3ebb8d735b8935",
+        "15-history-232fa0bbaf44b2"
+      ],
+      "name": "諏訪社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-acc7ace096e68e",
+        "15-agency-c5a31bbb26eff8",
+        "15-agency-5cbdda2454d58b",
+        "15-agency-5658e1a2752ef8",
+        "15-agency-ae6b36fc216240",
+        "15-agency-2c8dc0b9c642cc",
+        "15-agency-4ffb4b43274215",
+        "15-agency-86676e6c98965f",
+        "15-agency-b6ead13eccf84e",
+        "15-agency-e6ee7a7a0d9ccd",
+        "15-agency-8d1a7fdec1beba",
+        "15-agency-4907c1b00365f4",
+        "15-agency-acbe3b73c14a34",
+        "15-history-ac7cf4d7de81a4",
+        "15-history-1d7a94cdd5d1be"
+      ],
+      "name": "諏訪社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-22c4680319b3a4",
+        "15-agency-1e14a749864c06",
+        "15-agency-d2560efdf5552a",
+        "15-agency-6b041b9a434cdb",
+        "15-agency-006eb8a7f0a1b1",
+        "15-agency-2b274dc8b4266d",
+        "15-agency-d4bc645d1ff1d3",
+        "15-agency-ace5302ef6270f",
+        "15-agency-fc9b6cfa78790a",
+        "15-agency-6f0506f16e3f86",
+        "15-agency-65b8e8f86fba42",
+        "15-agency-df11a453abee14",
+        "15-agency-8d07ab4a7436d2",
+        "15-agency-fad624ee2bb944",
+        "15-agency-83646a91a51f52",
+        "15-agency-76fede7a490556",
+        "15-agency-75d17efa21c896",
+        "15-agency-48f6115f45a727",
+        "15-agency-704dbb15cae3fa",
+        "15-agency-78c41dd59f668c",
+        "15-agency-9d0a23886b9da5",
+        "15-agency-9186b8a5cae206",
+        "15-agency-25ecc8d62789b5",
+        "15-history-369fffffba60da",
+        "15-history-aa27195ed408f4",
+        "15-history-731c66f80fada4",
+        "15-history-6873efff8268b7",
+        "15-history-f29e5d23ec6509",
+        "15-history-012040b0227867",
+        "15-history-b8a32b81c2ba3f"
+      ],
+      "name": "諏訪社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-86b1aebdacab05",
+        "15-agency-776221d28d7fa6",
+        "15-agency-8c7dfe0227e27b",
+        "15-agency-70d5172a90af71",
+        "15-history-2665c97d5e775f",
+        "15-history-956feb09626876"
+      ],
+      "name": "諏訪社",
+      "municipality": "上越市吉川区"
+    },
+    {
+      "ids": [
+        "15-agency-1b72dad8dd8bb6",
+        "15-agency-adeecad2c23c98",
+        "15-history-672fce730fcfe8",
+        "15-history-567d6d3d2410e8"
+      ],
+      "name": "諏訪社",
+      "municipality": "上越市清里区"
+    },
+    {
+      "ids": [
+        "15-agency-f61ab4e1bb5783",
+        "15-history-3a0e29693a8c42"
+      ],
+      "name": "城山神社",
+      "municipality": "南魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-82ddefc93e5102",
+        "15-history-601c9d5e953d5d"
+      ],
+      "name": "水神社",
+      "municipality": "新潟市中央区"
+    },
+    {
+      "ids": [
+        "15-agency-6b01e1285a0b6d",
+        "15-history-36aa0669c5fd18"
+      ],
+      "name": "水神社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-f8e29d37578bd5",
+        "15-agency-c1418cb830c2a5",
+        "15-history-34575ceeca80c4"
+      ],
+      "name": "須賀神社",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-21ba05c88f96a7",
+        "15-history-eaffedd8931299"
+      ],
+      "name": "菅原社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-404024e5c04678",
+        "15-agency-ea9a2552687bf5",
+        "15-agency-86d0203c8d1970",
+        "15-agency-aee0038bc42f11",
+        "15-agency-340b62094075c5",
+        "15-history-367bb35b4c9eb5"
+      ],
+      "name": "菅原神社",
+      "municipality": "新潟市中央区"
+    },
+    {
+      "ids": [
+        "15-agency-3b6c7e5e623409",
+        "15-history-90126db12bed99"
+      ],
+      "name": "菅原神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-9971e7399833dd",
+        "15-agency-72a258ee9ea252",
+        "15-history-1cf5d7fc7f8089",
+        "15-history-dd15a4812bb2c2"
+      ],
+      "name": "少彦名神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-d3b3cfc75fe876",
+        "15-history-f38a555e214db1"
+      ],
+      "name": "住吉社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-421056805ee2a1",
+        "15-history-26a0657b1515cc"
+      ],
+      "name": "住吉社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-ef26d3d4434549",
+        "15-history-c73723a4ec7546"
+      ],
+      "name": "住吉神社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-6bf46134a3b712",
+        "15-agency-e257272656f21a",
+        "15-history-0ae29d7c5c335a"
+      ],
+      "name": "住吉神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-436a23e47f504d",
+        "15-agency-97245b4fd9cbcf",
+        "15-history-75e994de7e104e"
+      ],
+      "name": "住吉神社",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-e2392c8bf06c98",
+        "15-history-971996380cabfa"
+      ],
+      "name": "住吉神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-fc279f1d3241a0",
+        "15-agency-6bcfd11e05d7e5",
+        "15-agency-86544a09d31945",
+        "15-agency-e9934354314c1e",
+        "15-agency-61074e9b56bada",
+        "15-agency-0c8d3ee7508d8a",
+        "15-agency-7c74856c6a1b99",
+        "15-agency-a224d19de6998d",
+        "15-agency-5a705a24c03e79",
+        "15-agency-7c02fbfe8bfb5b",
+        "15-agency-81b36a75e28d6d",
+        "15-agency-3c9e2f9590c6d8",
+        "15-history-392bd2deec0363"
+      ],
+      "name": "巣守神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-dd4798d85cf1a4",
+        "15-history-7a05ceec70ee10"
+      ],
+      "name": "諏訪赤坂神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-8cae1f4d7e0dca",
+        "15-agency-bf75e71668da01",
+        "15-agency-21f2ff0ea11ea6",
+        "15-history-2b38376f20984e",
+        "15-history-1e5c889063a81b"
+      ],
+      "name": "諏訪社",
+      "municipality": "新潟市北区"
+    },
+    {
+      "ids": [
+        "15-agency-e2a819b0318e35",
+        "15-agency-8e82d2f92cf590",
+        "15-agency-7cb11b1c238b04",
+        "15-agency-bdc3639c788ae3",
+        "15-agency-a66234683bf574",
+        "15-agency-8c5925a9a1b427",
+        "15-history-6bded99a88763a",
+        "15-history-192d0f6b7cae70"
+      ],
+      "name": "諏訪社",
+      "municipality": "新潟市中央区"
+    },
+    {
+      "ids": [
+        "15-agency-48e95a29b041c8",
+        "15-agency-b1c29f6a6dc86c",
+        "15-agency-2c2e998b9fc036",
+        "15-agency-f53efac046649a",
+        "15-agency-055f2cd62529e0",
+        "15-agency-5eab12b5dc9d3e",
+        "15-agency-a4309b4eec99cf",
+        "15-agency-58e8a2b16c7530",
+        "15-agency-04a7c405079c77",
+        "15-agency-311e8eb835389d",
+        "15-agency-150667cb485023",
+        "15-agency-894af3548be52e",
+        "15-agency-3ce8ade71db5ee",
+        "15-history-a9c960ef9e59a5",
+        "15-history-28ca041b855e16",
+        "15-history-cd6226c9db587e",
+        "15-history-32a8c2f78bd878",
+        "15-history-f21daa799f0807",
+        "15-history-f4e01396a90f1d"
+      ],
+      "name": "諏訪社",
+      "municipality": "新潟市江南区"
+    },
+    {
+      "ids": [
+        "15-agency-8c4d489e181d87",
+        "15-agency-d5be6a4dd87bea",
+        "15-agency-7cb95640211b7c",
+        "15-agency-4eb157266e9bb8",
+        "15-history-952f3afd046883",
+        "15-history-c478476abfd796",
+        "15-history-525ba33d6eef1f",
+        "15-history-2b9b8e7f6a3f52",
+        "15-history-f9ab4d93ba1e5c",
+        "15-history-b104fe1fd4d202"
+      ],
+      "name": "諏訪社",
+      "municipality": "新潟市秋葉区"
+    },
+    {
+      "ids": [
+        "15-agency-0b8db078387630",
+        "15-agency-0cdf8722ed60eb",
+        "15-agency-08e1d4cd317c37",
+        "15-agency-6afa30abc43b2e",
+        "15-agency-b0698fc603e354",
+        "15-agency-2703820b6b5e3e",
+        "15-agency-1def155541b0a7",
+        "15-agency-8751fe8702ed28",
+        "15-history-ae085dc8ec8a59"
+      ],
+      "name": "諏訪社",
+      "municipality": "新潟市南区"
+    },
+    {
+      "ids": [
+        "15-agency-1999c0321e88d3",
+        "15-agency-3b0036e68f7e8f",
+        "15-agency-30c87294104a44",
+        "15-agency-955c4bc07cc804",
+        "15-agency-7aa8a8e7e45a1a",
+        "15-agency-d361bf01198760",
+        "15-agency-b620465c081eb8",
+        "15-agency-e70e1abe9b6de5",
+        "15-agency-0cb27d98b7555b",
+        "15-agency-247455d39b1c88",
+        "15-agency-2fe4372309f3d1",
+        "15-agency-612d80cd282cc2",
+        "15-agency-b06da5a2738a9b",
+        "15-agency-4331584ba55aa9",
+        "15-agency-5b730adac4c206",
+        "15-agency-dee9afba9f2837",
+        "15-agency-11b961b3bda393",
+        "15-agency-16367223f2044a",
+        "15-agency-9e3f631b74309c",
+        "15-agency-d7804580b6cc85",
+        "15-agency-420e2794a5fe39",
+        "15-agency-b846bba9a0fd5a",
+        "15-agency-79949bcf48a6d7",
+        "15-agency-6b394244e0d87d",
+        "15-agency-49f66043d38489",
+        "15-agency-b70f2444f9e51b",
+        "15-agency-7b08b434b0c0bd",
+        "15-agency-fd3cca4d0f5f16",
+        "15-agency-b28f2cfef0a4f3",
+        "15-agency-2fa38d92b49ee9",
+        "15-agency-a767186385a77c",
+        "15-agency-93ae5054c4878d",
+        "15-agency-a0208c42eaf67b",
+        "15-agency-7b733d33956da2",
+        "15-agency-0bcf17e3895732",
+        "15-agency-6e3c59e74123d0",
+        "15-agency-b0df5d7e32b9ca",
+        "15-agency-21879044d78c47",
+        "15-history-ef108e447e96d7",
+        "15-history-c9ae90c292cb47",
+        "15-history-7d50539a7508ba",
+        "15-history-fa3902eb9bd509",
+        "15-history-c5af413ff8a11c",
+        "15-history-22599e9c5bafbe",
+        "15-history-ccb16d0f58d81d",
+        "15-history-83df25a0eac720",
+        "15-history-0838c8ee70fc55"
+      ],
+      "name": "諏訪社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-9e58a1ecb59f3c",
+        "15-agency-ef40e3c16ff645",
+        "15-agency-1de40ded2d493b",
+        "15-agency-349980f2c0d868",
+        "15-agency-20e050b3005af1",
+        "15-agency-4bdef664fc9332",
+        "15-agency-3a3b602f34c7c5",
+        "15-agency-66e25f674a5713",
+        "15-agency-7735b7da6b96ce",
+        "15-agency-2d7a7de1cfdf30",
+        "15-agency-5e7fe707f8da62",
+        "15-agency-e72b590875a6e6",
+        "15-agency-323d877e601ca5",
+        "15-agency-deb4b550ef0ea3",
+        "15-agency-a4248fbb32adeb",
+        "15-agency-d95d5f39d8f4f6",
+        "15-agency-3eb1b3d3a07486",
+        "15-agency-116a73ef722809",
+        "15-agency-185205726f73ae",
+        "15-agency-2f71351fda7718",
+        "15-agency-f9f63d116dea0e",
+        "15-agency-ff02dca4a25ce5",
+        "15-agency-1616d3370663e7",
+        "15-agency-69572b5aa15667",
+        "15-agency-054cec2095fe8e",
+        "15-agency-7252f81b0bf127",
+        "15-agency-fd90f2884c79c5",
+        "15-agency-b5f02d4b033925",
+        "15-agency-5d157998b8beed",
+        "15-agency-5b4fd76c9cd0e0",
+        "15-agency-16aea96d83f0eb",
+        "15-agency-ee02d92b208b42",
+        "15-agency-98b4b04fb6001e",
+        "15-agency-295d7189aa08ad",
+        "15-agency-cea41b67660773",
+        "15-agency-5b4bbe7dd30eb9",
+        "15-agency-c2673a262dd21f",
+        "15-agency-376ef576ca15fc",
+        "15-agency-79b229ba00984f",
+        "15-agency-d89ead19904f9a",
+        "15-agency-ab7ef8fb40ea74",
+        "15-agency-85d24b1f72b99e",
+        "15-agency-f15c2558f61b12",
+        "15-agency-961ee635abbfe1",
+        "15-agency-03393ff1d9c4b0",
+        "15-history-36e83874df4938",
+        "15-history-f7662384d4adb0",
+        "15-history-1a79b23f0f4490",
+        "15-history-279a69fdbd8561",
+        "15-history-354b6c883295a0",
+        "15-history-3d30f1f9b7e7f1",
+        "15-history-6adf6e7b9111df",
+        "15-history-ec9cf0bec79ae1",
+        "15-history-90d5c061a96ee1",
+        "15-history-bc4aba2dab4b6e",
+        "15-history-aaa721dd92e4b2",
+        "15-history-6178aa6f5b82d2",
+        "15-history-a833aae61f222b",
+        "15-history-72e229b1818e78"
+      ],
+      "name": "諏訪社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-9f10930d79f263",
+        "15-agency-ed7b17c382ec9d",
+        "15-agency-cff533a8241722",
+        "15-agency-da6eaed82477e5",
+        "15-agency-38c67cf1bc61f8",
+        "15-agency-5de60186b19c69",
+        "15-agency-b1d13f8334438e",
+        "15-agency-bc58b3b6575e32",
+        "15-agency-2136d0866d7488",
+        "15-agency-828c121fca901e",
+        "15-agency-35c1dcff0b90af",
+        "15-agency-8811fc6feaade0",
+        "15-agency-7b60dd099ad65d",
+        "15-agency-ad1655181e68af",
+        "15-agency-e4b9a2eb1898ec",
+        "15-agency-782279dee554cb",
+        "15-agency-cdad38d5e0e407",
+        "15-agency-ab4790a2100982",
+        "15-agency-efb3059d54b6ca",
+        "15-agency-073aad429f9d39",
+        "15-agency-2f7f58f4b93466",
+        "15-agency-50f3b39c54faee",
+        "15-agency-e74173b9bbd2e7",
+        "15-agency-896327529e9097",
+        "15-history-8a68c9ba8ee140",
+        "15-history-f254f448bfb190",
+        "15-history-250f40e8afeaa4",
+        "15-history-d7e9628d5a7f3e",
+        "15-history-f6c492b700a552"
+      ],
+      "name": "諏訪社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-a2738f66a09277",
+        "15-agency-074cd6af676ee8",
+        "15-agency-d6a7ec76563b7c",
+        "15-agency-6d11bd40d884d6",
+        "15-agency-6b802de0fa17b2",
+        "15-agency-9a8d3a747528e1",
+        "15-agency-01127c1dba5a53",
+        "15-agency-66d91adc3def97",
+        "15-agency-932b7c2ccc97ab",
+        "15-history-2ff58aa1aeb9d3",
+        "15-history-04a507bd65ff3b"
+      ],
+      "name": "諏訪社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-e4755a0325e07a",
+        "15-agency-d11a4825b7960a",
+        "15-agency-cf237b5d8e9622",
+        "15-agency-058b926d837966",
+        "15-agency-0eae33dd9eb1bf",
+        "15-agency-e866911599eb66",
+        "15-agency-1c173ad2b236d2",
+        "15-history-3cc0ca59afb99a"
+      ],
+      "name": "諏訪社",
+      "municipality": "上越市牧区"
+    },
+    {
+      "ids": [
+        "15-agency-3b458373f1eb4a",
+        "15-agency-6cc68431e5885c",
+        "15-agency-64dd24a44d1b46",
+        "15-agency-fc702c2d9aaac3",
+        "15-agency-c2fc6bfb6c1209",
+        "15-agency-cad1878ab53f96",
+        "15-agency-dfedf210ee9f24",
+        "15-agency-0e697c33ada86a",
+        "15-agency-f3a7f74f9e8a44",
+        "15-agency-c4f7bc35f413c2",
+        "15-agency-cf600b488a033a",
+        "15-history-315f971d8c6b20"
+      ],
+      "name": "諏訪社",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-820b58bc3f8587",
+        "15-agency-3891f790e639b2",
+        "15-agency-ec0e000a2a5cd5",
+        "15-agency-9d7747316669c1",
+        "15-history-42b4b09a23bbc7"
+      ],
+      "name": "諏訪社",
+      "municipality": "南魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-bc4754ebbca5b1",
+        "15-agency-5b99335ab3cc9e",
+        "15-agency-5e02cb4895b34c",
+        "15-agency-d29b92dfe9cd2b",
+        "15-agency-fc3bdc4fdaaa1d",
+        "15-agency-c66416b4e1e370",
+        "15-history-44da9f6fc096e2"
+      ],
+      "name": "諏訪社",
+      "municipality": "南蒲原郡田上町"
+    },
+    {
+      "ids": [
+        "15-agency-420d406e13a09c",
+        "15-agency-fcf051fbe44f53",
+        "15-agency-083949697b1f1d",
+        "15-agency-af0a3481868a6c",
+        "15-agency-251d353a2750ee",
+        "15-agency-f170e18fd04458",
+        "15-agency-d4d97bb2ad9f6d",
+        "15-agency-491969bf5ef86f",
+        "15-agency-8154ab2e80fb58",
+        "15-agency-a42a8a1ac79543",
+        "15-agency-db58de857e12f7",
+        "15-agency-655c1d2a0985a9",
+        "15-agency-6c3578ce19a019",
+        "15-agency-49a2b56f943107",
+        "15-agency-7921be048d7b3d",
+        "15-agency-62170a7b225aff",
+        "15-agency-a874ab02adb08d",
+        "15-agency-6fbf5b490e82eb",
+        "15-agency-9234cebe5dd175",
+        "15-agency-7c2fed74f5f9c7",
+        "15-agency-941722705e1d33",
+        "15-agency-f1be85bbfa7297",
+        "15-agency-e91b6a35b30232",
+        "15-agency-34cfc36ce2ffaa",
+        "15-agency-772c0e9b32ab7e",
+        "15-agency-d7e15b0c843862",
+        "15-agency-91c260e835cf90",
+        "15-agency-facefd74b37553",
+        "15-agency-dc506d4592b397",
+        "15-agency-84210d7ecafaa2",
+        "15-agency-4f7b75d96d1c19",
+        "15-agency-4084be628d44b7",
+        "15-agency-c0f483e59fb9df",
+        "15-agency-b3b91135873013",
+        "15-agency-ad68025fc50bc9",
+        "15-agency-58d04b55aa5656",
+        "15-agency-8b1cf23ef43330",
+        "15-agency-a6c357718911f6",
+        "15-agency-5ee169ec0ee52d",
+        "15-history-21a81d8116cbc8",
+        "15-history-6da03ba395770c",
+        "15-history-5bda66ddd361cd",
+        "15-history-d4d0297cf55e03",
+        "15-history-276ed1b92e9c82",
+        "15-history-3f4fc57874fa15",
+        "15-history-934bdd9ea34b14",
+        "15-history-e59a0482b63d23",
+        "15-history-49423707f99413",
+        "15-history-577d3700d41c73",
+        "15-history-ab64f0ec066e07",
+        "15-history-bc15eb11b79e79",
+        "15-history-4a4b4e9d49bc50"
+      ],
+      "name": "諏訪神社",
+      "municipality": "新潟市南区"
+    },
+    {
+      "ids": [
+        "15-agency-f86854a294d0c0",
+        "15-agency-cb581d4dcc724c",
+        "15-agency-a7960d1527c065",
+        "15-agency-ecbc60e14e0e63",
+        "15-agency-6c28a307578a5a",
+        "15-agency-0ccd79cb45a31a",
+        "15-agency-a1ebe575b14254",
+        "15-agency-fd9aca0b929342",
+        "15-agency-9aa63f5a3d2701",
+        "15-agency-b7c3a5babcca12",
+        "15-agency-003bfae421b1b7",
+        "15-agency-d755881dc8d78b",
+        "15-agency-a29ae3399a60c9",
+        "15-agency-db289c5ef3d18d",
+        "15-agency-1e2a91ee731e1e",
+        "15-agency-0634fee41a759d",
+        "15-agency-38de4d5fb109cf",
+        "15-agency-32f274c52a5d8e",
+        "15-history-ec6b4b0fa9c149",
+        "15-history-cb3fe9becbab89",
+        "15-history-8efc46838c8453"
+      ],
+      "name": "諏訪神社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-f72c638ee43297",
+        "15-agency-b32de09eae81c1",
+        "15-agency-d68b0eb5844d8d",
+        "15-agency-fc6baa97423d4f",
+        "15-agency-4b155338d9f70c",
+        "15-agency-fb487bdd268312",
+        "15-agency-ea59779a3c9009",
+        "15-history-90049919cf0cf0",
+        "15-history-a9b5a2fd9a7810",
+        "15-history-a6bfad9c94221f"
+      ],
+      "name": "諏訪神社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-13084ea73852aa",
+        "15-agency-c4a57a5ffed5bb",
+        "15-agency-90fb30c1002099",
+        "15-agency-e15d5f08ded4bb",
+        "15-agency-6d357d7ecec90b",
+        "15-agency-97f2a8a660f2fa",
+        "15-agency-0932a61cb2c5f4",
+        "15-agency-bafd7c1b0284d8",
+        "15-agency-dedc53969e23ab",
+        "15-agency-ab222fce35b3e3",
+        "15-agency-239b6335ac2d40",
+        "15-agency-0246503b98cc63",
+        "15-agency-64c1cc3e439851",
+        "15-agency-4a06aacf7e66a2",
+        "15-agency-774bf5029f5658",
+        "15-history-e4a1fec1a5f7fb"
+      ],
+      "name": "諏訪神社",
+      "municipality": "五泉市"
+    },
+    {
+      "ids": [
+        "15-agency-737d4a526db4b8",
+        "15-agency-0c5f9c01a0d073",
+        "15-agency-748e73428c2135",
+        "15-agency-31bd5cb09bb55c",
+        "15-agency-6131f639f7e8ef",
+        "15-history-ad54f179924db1",
+        "15-history-7c62e4bb464683"
+      ],
+      "name": "諏訪神社",
+      "municipality": "東蒲原郡阿賀町"
+    },
+    {
+      "ids": [
+        "15-agency-520f6ca8b0b34b",
+        "15-agency-9106aa694f2887",
+        "15-agency-3a11da51828a43",
+        "15-agency-9d9b001f8aaef3",
+        "15-history-44f3c13d1212b3",
+        "15-history-0bf2d61103dfb9",
+        "15-history-e7638e23035779"
+      ],
+      "name": "諏訪神社",
+      "municipality": "新潟市北区"
+    },
+    {
+      "ids": [
+        "15-agency-e2ae5df314114d",
+        "15-agency-e66471f432f5bb",
+        "15-agency-000a3647bd4acd",
+        "15-agency-786d53136dc5b7",
+        "15-agency-885ea9579d63bb",
+        "15-agency-ec3ca3f7996362",
+        "15-agency-d4943d939eb01e",
+        "15-agency-bbc4592807d299",
+        "15-agency-37999dd2932737",
+        "15-agency-5533a3b59e6c39",
+        "15-agency-f22f5cd9412f13",
+        "15-agency-89eda2a0cdfeea",
+        "15-agency-1c80e6153d9afd",
+        "15-history-7c7d093b1603fe",
+        "15-history-baf6b0653cb985",
+        "15-history-10e295a274ad1d",
+        "15-history-2e12f65614d515"
+      ],
+      "name": "諏訪神社",
+      "municipality": "新潟市東区"
+    },
+    {
+      "ids": [
+        "15-agency-57865ef3be15db",
+        "15-agency-f6f2022bdf2ab9",
+        "15-agency-4913714941e039",
+        "15-agency-513223e715bdd2",
+        "15-agency-a9bc7eee5ff4f8",
+        "15-history-18e30c471aab0c",
+        "15-history-282ac38a1cf66c"
+      ],
+      "name": "諏訪神社",
+      "municipality": "新潟市中央区"
+    },
+    {
+      "ids": [
+        "15-agency-40ecb0564369c0",
+        "15-agency-ead11d22aa9694",
+        "15-agency-7155be0c13c134",
+        "15-agency-37f571811a9c09",
+        "15-agency-64678ca4031939",
+        "15-agency-3cff59651e4f9a",
+        "15-agency-4c84da713af3af",
+        "15-agency-83098da444032e",
+        "15-agency-01817f46b17e15",
+        "15-agency-f9ad0be6bf223a",
+        "15-agency-dedbfa20b58565",
+        "15-history-a3dc0e013bb056",
+        "15-history-4460cc9c550711",
+        "15-history-f978281e48ba01",
+        "15-history-eb9efcc9e78c01",
+        "15-history-ad985e98210586",
+        "15-history-80c9c3ae500326"
+      ],
+      "name": "諏訪神社",
+      "municipality": "新潟市江南区"
+    },
+    {
+      "ids": [
+        "15-agency-549c89a4b090fb",
+        "15-agency-f5b1f026bc957b",
+        "15-agency-e2a4182fa3ced2",
+        "15-agency-6a6f5921e3a182",
+        "15-agency-2a00b33730795e",
+        "15-agency-ad993bf896542e",
+        "15-agency-9d7309c2e41467",
+        "15-agency-7f11873ad31ba5",
+        "15-agency-3ddb65e341a525",
+        "15-agency-9a852340925061",
+        "15-agency-7d2e22abff18ac",
+        "15-agency-fd0e145d0de330",
+        "15-agency-b1b1dc73d65760",
+        "15-history-943b8f9f90051a"
+      ],
+      "name": "諏訪神社",
+      "municipality": "新潟市秋葉区"
+    },
+    {
+      "ids": [
+        "15-agency-b187c02fe11e9f",
+        "15-agency-4848c6818e62b6",
+        "15-agency-bc5270cb7e85e5",
+        "15-agency-a1d9d99a73a840",
+        "15-agency-f08e02a5c51c85",
+        "15-agency-e899c9a0ed1f22",
+        "15-agency-ef86c98adc1520",
+        "15-agency-d2e2b4fc380cb2",
+        "15-history-069e98af3cfb87",
+        "15-history-da9c0b59662a20",
+        "15-history-8de1b6694b77d0",
+        "15-history-6db0c1e55647b3",
+        "15-history-d55d4932c97d8d"
+      ],
+      "name": "諏訪神社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-556cdc469fda3a",
+        "15-agency-6ec124a5710677",
+        "15-agency-c8b4286407f49c",
+        "15-agency-ddee15cba44dd8",
+        "15-agency-fe05cfb5de2f75",
+        "15-agency-85b780306b1a73",
+        "15-agency-11f431779aa3e4",
+        "15-agency-b118602f8a6f5b",
+        "15-agency-de981b6aee8825",
+        "15-agency-58aee87605c848",
+        "15-agency-e3ba707698682b",
+        "15-agency-c9a0844e426e98",
+        "15-agency-38ffe4546af035",
+        "15-agency-d1aea8c28f0969",
+        "15-agency-087999f9d05be1",
+        "15-agency-b3d237e5222342",
+        "15-agency-f30f66b5f3815c",
+        "15-agency-4f27cd31a1c894",
+        "15-agency-80c1db7f04b195",
+        "15-agency-eaac0abcee99a7",
+        "15-history-0aac2baf97bd88",
+        "15-history-011b140e862b9a",
+        "15-history-d99943fd897923"
+      ],
+      "name": "諏訪神社",
+      "municipality": "見附市"
+    },
+    {
+      "ids": [
+        "15-agency-f28c97e71bdcdb",
+        "15-agency-bf4edc2725eadc",
+        "15-agency-cd192eea7d7034",
+        "15-agency-60435cd4e3427d",
+        "15-agency-a67dbf7b95efb4",
+        "15-agency-d3ef099bf1caf3",
+        "15-agency-9981833588bd4a",
+        "15-agency-9ab18ca5eb2e5e",
+        "15-agency-db970b52db83f9",
+        "15-history-79462ce3b20952"
+      ],
+      "name": "諏訪神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-56349755634640",
+        "15-agency-b763e1bcb655d7",
+        "15-agency-f32762b3cd5bef",
+        "15-agency-f645574b72b57c",
+        "15-agency-6aab79122a89ba",
+        "15-agency-23fc9ed9d06c8c",
+        "15-agency-097d39eab33c1d",
+        "15-agency-8988d362956d9f",
+        "15-agency-e3221322188fc4",
+        "15-agency-305632df03e015",
+        "15-agency-265f03a0984160",
+        "15-agency-4c6f5244b09d0d",
+        "15-agency-5563082a527c6f",
+        "15-agency-3692f79d906340",
+        "15-agency-001c758a9e5350",
+        "15-agency-99c7f4cfbc7176",
+        "15-history-9d9d7e9555009d",
+        "15-history-53a14cbb1e1a7e",
+        "15-history-d7fd12bd9ef552",
+        "15-history-da8c62f51b7817",
+        "15-history-bc2b242aa3d2e1"
+      ],
+      "name": "諏訪神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-40473a78a693c6",
+        "15-agency-ff0f0191267835",
+        "15-agency-d1bb25c8077876",
+        "15-agency-a6c4afa8c5f863",
+        "15-agency-2c7e5ee6b71cb0",
+        "15-agency-871be2b029f416",
+        "15-agency-3098486d2070e2",
+        "15-agency-59a2f8d06abd40",
+        "15-agency-1d922ee304c10e",
+        "15-agency-6319ec4be89d34",
+        "15-agency-9dd4c22387785b",
+        "15-agency-54e3880b05bf81",
+        "15-agency-52e83a3360351b",
+        "15-agency-7710e6b77a1c2c",
+        "15-agency-339bd625e26d4e",
+        "15-agency-25053f5a818c92",
+        "15-agency-d9b82c40490897",
+        "15-agency-66cb7030171c8e",
+        "15-agency-4aa2a34ec7ac66",
+        "15-agency-9c4867745a3565",
+        "15-agency-c997921c3e566a",
+        "15-agency-12080b335141ac",
+        "15-agency-369749124a4651",
+        "15-agency-e7fb8bc43017b5",
+        "15-agency-5a5f75137ba2e5",
+        "15-agency-3091646282fc90",
+        "15-agency-315646834d0165",
+        "15-agency-4058d2b4bdae39",
+        "15-agency-2650cecb104d74",
+        "15-agency-42cc975768c7d4",
+        "15-agency-9a600b478b1373",
+        "15-agency-55f2b58b5a78c6",
+        "15-agency-90d06e09e242b5",
+        "15-agency-4d4b56a8f77bce",
+        "15-agency-89097343a7527a",
+        "15-agency-bc20bb5d9c36c8",
+        "15-history-d5d1d25a16a3d1",
+        "15-history-cff4153caca7a6",
+        "15-history-c3161e88032e8f",
+        "15-history-466179d10560cc",
+        "15-history-9f4167f747414d"
+      ],
+      "name": "諏訪神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-4d4560cec79ad2",
+        "15-agency-5d9a177ebb311d",
+        "15-agency-e6f92b36573a75",
+        "15-agency-116aeb75d9072e",
+        "15-agency-f43d1b45d74d68",
+        "15-agency-983742652725de",
+        "15-agency-89f34ed1676c02",
+        "15-agency-2102adf60361bc",
+        "15-agency-73cdef90638965",
+        "15-history-99dfb0abd6fd48"
+      ],
+      "name": "諏訪神社",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-e8fe673afb6dbd",
+        "15-agency-c018d872b2c4d2",
+        "15-agency-5743875d3e16d3",
+        "15-agency-5857f95e589115",
+        "15-agency-498a7bdcd94f50",
+        "15-agency-b3e97bf595041c",
+        "15-history-e8c7c54dd9bf98",
+        "15-history-d9841cbf782feb",
+        "15-history-92afd0b9fe84dd",
+        "15-history-a1ef01c4a37fed",
+        "15-history-bba805d1044c4e",
+        "15-history-e568994fb08067",
+        "15-history-adadffb631aa9d"
+      ],
+      "name": "諏訪神社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-b989750dac8022",
+        "15-agency-32ddf62ca01ec9",
+        "15-agency-de8efa44cb2ec0",
+        "15-agency-7483666573211c",
+        "15-agency-68c97156650f73",
+        "15-agency-6459c35481a5ad",
+        "15-agency-9f9c978c8c757c",
+        "15-agency-b1ac518f15d4c0",
+        "15-agency-e3add32ed7fefa",
+        "15-agency-42043253c0956b",
+        "15-agency-daadbd3f73ccab",
+        "15-agency-b639623bb22dc0",
+        "15-agency-b0980b9ac3f6a6",
+        "15-agency-ac6a7aef18e54b",
+        "15-agency-846cc2e35bfb72",
+        "15-agency-116113f1697e1f",
+        "15-agency-a8281bf2484bfb",
+        "15-agency-b97f34e3253d45",
+        "15-agency-cb84e24af93861",
+        "15-agency-f9ce299225e68f",
+        "15-agency-6839d68903e010",
+        "15-agency-50ab2e802cdc8f",
+        "15-agency-7d3eacfa77fd6a",
+        "15-agency-e63ee7dffcc2cd",
+        "15-agency-1ed5acdea6565a",
+        "15-agency-9388d0069a418f",
+        "15-agency-4b77f8d185df31",
+        "15-agency-287b34c599de19",
+        "15-agency-b728db6a0751dd",
+        "15-agency-51561e8961c419",
+        "15-agency-b41682f5f92855",
+        "15-agency-546d37e12e9724",
+        "15-agency-0371b10cf38c61",
+        "15-agency-582af1d7300879",
+        "15-agency-834744247adc17",
+        "15-agency-dcf849b66c02e0",
+        "15-agency-f557d23bab972c",
+        "15-agency-ed05f3272df6de",
+        "15-agency-6897b62b793838",
+        "15-agency-67aae8166b2791",
+        "15-agency-b6f33566cbad7e",
+        "15-agency-83bcd0503e4689",
+        "15-agency-ed55eaef096118",
+        "15-agency-04e1b2b60cbc2f",
+        "15-agency-07e0b5e09242ff",
+        "15-agency-2e01df0b07f73d",
+        "15-agency-0b760d65c55fbe",
+        "15-agency-d06a29e0c3d4a2",
+        "15-agency-5ec481ceda07c4",
+        "15-agency-ee51e1e7302c35",
+        "15-agency-f049d9ca82b9a0",
+        "15-agency-02d2f48a2842b4",
+        "15-agency-d128bae2201b28",
+        "15-agency-94e6d40edd38b2",
+        "15-agency-750e5dd144241c",
+        "15-agency-a0084a2dc79a51",
+        "15-agency-4de90d574216b2",
+        "15-agency-737e6a498e278d",
+        "15-agency-0d4dfd4e81bb6b",
+        "15-agency-2bbdcfc59ec0b1",
+        "15-agency-d9d791cf7b4123",
+        "15-agency-3f6136613c5a88",
+        "15-agency-fa175847c8b57a",
+        "15-agency-5b3545dd283e26",
+        "15-agency-f1e34225f9f892",
+        "15-agency-27b05d51b9cde6",
+        "15-agency-012611a98c9b76",
+        "15-agency-71f3564bb6d893",
+        "15-agency-575a3b4ed7102b",
+        "15-agency-921dbbebb4d429",
+        "15-agency-fb4f1b32fb400b",
+        "15-agency-513990c8cb2355",
+        "15-agency-1dbd492bb5708a",
+        "15-agency-627e5a828b2756",
+        "15-agency-f6044df6d9e682",
+        "15-agency-5740df148c6d78",
+        "15-agency-63f5a600f0092a",
+        "15-agency-b0c31d0f5daafd",
+        "15-agency-5ed40157f5c704",
+        "15-agency-e4491ca47a63fb",
+        "15-agency-e87aba5c121793",
+        "15-agency-8ae8ddefdd56c6",
+        "15-agency-800a8c32359b44",
+        "15-agency-7bdeab805e13fd",
+        "15-agency-9de609291fae7c",
+        "15-agency-8c5d6b9882131f",
+        "15-agency-278aae73eaa558",
+        "15-agency-567305d975406f",
+        "15-history-bc2468b428d795",
+        "15-history-5498ce4f8ef7e1",
+        "15-history-d52705510aac32",
+        "15-history-199aa8036792a3",
+        "15-history-47d4abbf1a5ef9",
+        "15-history-1396ceaff7675a",
+        "15-history-8064fe17063c47",
+        "15-history-722b3b799b9dc6",
+        "15-history-80164c12b407c2",
+        "15-history-c4264e8f56dac0",
+        "15-history-66eb7a8286b391",
+        "15-history-e467c2ea5aa3c1",
+        "15-history-7b804b575ab6f2",
+        "15-history-619eab1aa6894d",
+        "15-history-a98221488db026",
+        "15-history-04f34eedc42cda",
+        "15-history-3636981e358d01",
+        "15-history-a7a28f27a401ac",
+        "15-history-20df2b6ce01250",
+        "15-history-55cbf305d74d82",
+        "15-history-3e5fe0d3b38fb7",
+        "15-history-40d50fef1a2807",
+        "15-history-a6d54f339c7f2d",
+        "15-history-a9729910fca03b",
+        "15-history-73243814e1572a",
+        "15-history-4c2a5767481e31",
+        "15-history-43f4eb3f9f6068",
+        "15-history-a982388e6b1704",
+        "15-history-6996dfb8ab21bd",
+        "15-history-0261a41644fc1e",
+        "15-history-91b430db1604e2",
+        "15-history-04f8b72a4f20d5",
+        "15-history-15c7b41976296a",
+        "15-history-d9d945930b5586",
+        "15-history-a614b245c709ce",
+        "15-history-9e81dbed8770fb",
+        "15-history-b842fd4d8bf846",
+        "15-history-f1e3385c8f71b4",
+        "15-history-527da88f26840f",
+        "15-history-067def042b7bf9",
+        "15-history-1a29b56e1f6340",
+        "15-history-075e666b63aeef",
+        "15-history-6eb49685b24c87",
+        "15-history-9617e5300202f2"
+      ],
+      "name": "諏訪神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-070ce51736b00a",
+        "15-agency-fccfc49ae23034",
+        "15-agency-625d252b66eff2",
+        "15-agency-fc5eef1da0a3e7",
+        "15-agency-7ecfc8ba624d48",
+        "15-agency-fa9caf2bddf12b",
+        "15-agency-f5b413e74bca0d",
+        "15-agency-577041b06552d9",
+        "15-agency-125745341a75ab",
+        "15-agency-cb0860e94d99e7",
+        "15-agency-9847a3e0bcc95e",
+        "15-agency-7a46f142bd5ba9",
+        "15-agency-57343fc640430a",
+        "15-agency-ffa4728ea9b94f",
+        "15-agency-59c970f266087f",
+        "15-agency-adf0589df2cdd8",
+        "15-agency-c7ddc61f431884",
+        "15-agency-db2d8deda37ab2",
+        "15-history-fd5cefec663343",
+        "15-history-0a5ff422611187",
+        "15-history-f1622e84f28c81",
+        "15-history-34a873e427d11b"
+      ],
+      "name": "諏訪神社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-564d795a27a8b3",
+        "15-agency-8d6193402dc735",
+        "15-agency-690493be4692d3",
+        "15-agency-cbe9f4762b5209",
+        "15-agency-1e92e9dc927ff8",
+        "15-agency-6c07c5845b7339",
+        "15-agency-e4312b0cde094c",
+        "15-agency-cb74fd7c4d3760",
+        "15-agency-f008f245a0c8ea",
+        "15-agency-c307054bb5b9a5",
+        "15-agency-445df7d3a79999",
+        "15-agency-37ea6394bac2f9",
+        "15-agency-c7b7d185466da8",
+        "15-agency-c90d898cc92deb",
+        "15-agency-d09ac42d03451c",
+        "15-agency-71507a76607d33",
+        "15-agency-3dd89a0fc02151",
+        "15-agency-623bdefef1138c",
+        "15-agency-4f49009ca19134",
+        "15-agency-181b8b41214152",
+        "15-history-5d5e57be725a22",
+        "15-history-eedb4da4af5a6c",
+        "15-history-affe849bd4862a",
+        "15-history-a0f6f9267802b1",
+        "15-history-5cddd6dbea1200",
+        "15-history-761e884145579d",
+        "15-history-33f3ca1ea29a33",
+        "15-history-975c17473ecfa9"
+      ],
+      "name": "諏訪神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-1bb4fdf5d2e0f9",
+        "15-agency-2c3bffefc3f749",
+        "15-agency-fa0d751c5c95cf",
+        "15-agency-be6ca8ce4c5563",
+        "15-agency-cc2d5be39ed4e4",
+        "15-agency-70d39b705b174f",
+        "15-agency-c48f1c8de0d059",
+        "15-agency-7d1201ad47bea1",
+        "15-agency-f5f88aa237176a",
+        "15-history-0e4e06975a3416"
+      ],
+      "name": "諏訪神社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-9526843b3f16aa",
+        "15-agency-25231c0bd4fc40",
+        "15-agency-3b1a5384e3d275",
+        "15-history-d68e8cdcae8009"
+      ],
+      "name": "諏訪神社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-5b5764ca71cc0b",
+        "15-history-9731123fb6cae2"
+      ],
+      "name": "仙龍社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-988bea570489e0",
+        "15-history-5577d5f9bb75bf"
+      ],
+      "name": "高彦根神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-9ca96a063f1052",
+        "15-history-841cb476a00ffc"
+      ],
+      "name": "瀧神社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-b102cf2596ede1",
+        "15-history-a112ba35e3e9e1"
+      ],
+      "name": "多岐神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-aea5708c02388c",
+        "15-agency-6324cec1934db3",
+        "15-history-d2ba14af1d59f5"
+      ],
+      "name": "多岐神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-0fa3413a870dff",
+        "15-history-d2c99e545773a7"
+      ],
+      "name": "瀧谷神社",
+      "municipality": "南魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-6e91420eafa74f",
+        "15-history-c687e085073a2a"
+      ],
+      "name": "田開稲荷神社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-8b05f7d5dfb1cc",
+        "15-history-c4f4f8b62789dd"
+      ],
+      "name": "兒木神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-129128acfe396e",
+        "15-history-b7fbf75dd1908e"
+      ],
+      "name": "津神神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-a3235d114422b5",
+        "15-agency-a3613e97af1866",
+        "15-history-ac2ab1e0d48a37"
+      ],
+      "name": "槻田神社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-69c29aee394141",
+        "15-agency-9f9a62879ee12d",
+        "15-agency-cb9c7921b26161",
+        "15-agency-b6ae1c6d7d6646",
+        "15-agency-972f52a6993d50",
+        "15-agency-1d5caba9e5d8dc",
+        "15-agency-aceb831b2d9c97",
+        "15-agency-8e46b2bb094cda",
+        "15-agency-e3146f88e78ed8",
+        "15-agency-85703bdba4846b",
+        "15-agency-d69f0945c294cf",
+        "15-agency-e7a9244680a2df",
+        "15-agency-450b69d23974d5",
+        "15-agency-c0620d67271c36",
+        "15-agency-d7a016a5dd3ba0",
+        "15-agency-0e9c1f36502eed",
+        "15-agency-9084d1fadfe24f",
+        "15-agency-025c0b1218e7c8",
+        "15-agency-4b1660dc90ae80",
+        "15-agency-eff717a438c352",
+        "15-agency-eee39c03a4bbf4",
+        "15-agency-ff0fabd1fe4508",
+        "15-agency-44f7b418cabc63",
+        "15-agency-5a3562dfe5fed1",
+        "15-agency-0e001736edb1a7",
+        "15-agency-61fbcf395614f9",
+        "15-agency-99c7250eb910c9",
+        "15-agency-7b7f995b1d3dcd",
+        "15-history-052eb50b47d5e5",
+        "15-history-5ded007e4d1167",
+        "15-history-c03d356a71c6e7",
+        "15-history-e41e5c1302767e",
+        "15-history-fdce6f94d3e7ee",
+        "15-history-31d2d7e29a73db"
+      ],
+      "name": "諏訪神社",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-53e390148a8b55",
+        "15-agency-c211b46de25739",
+        "15-agency-a8354c71d6f850",
+        "15-agency-d03b089e519dde",
+        "15-agency-eabd76a1ef79d7",
+        "15-agency-c9bf8cb0d3d32d",
+        "15-agency-7279e075b7c001",
+        "15-agency-9f75e444d71da3",
+        "15-agency-353b6021fb22e1",
+        "15-agency-28c29e63c57919",
+        "15-agency-a49fd8d5bf51d1",
+        "15-agency-0b4a6e773a192d",
+        "15-agency-9cc0e430c46419",
+        "15-agency-a779ca5301d742",
+        "15-history-c9d6abc16ff4a1",
+        "15-history-452292c769c475"
+      ],
+      "name": "諏訪神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-c64f15b51dd8b5",
+        "15-agency-f14f05988f6150",
+        "15-agency-c82771d36862f6",
+        "15-agency-fdc44f89e610fb",
+        "15-agency-b5e13dc0b5d637",
+        "15-agency-9bc4fd970305a5",
+        "15-agency-f0924787acf85e",
+        "15-agency-e509740292e5f4",
+        "15-history-faaad11ad10df3",
+        "15-history-218fdc30595a5a"
+      ],
+      "name": "諏訪神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-d41a8eb804e6ea",
+        "15-agency-60a8374b2261a2",
+        "15-agency-745fc0090e235a",
+        "15-agency-571663d1a46b42",
+        "15-agency-ddfc005e8e6775",
+        "15-agency-fce91b591cd9dd",
+        "15-agency-5c3c6cd3052164",
+        "15-agency-eb66459e317bbf",
+        "15-history-cc8e8a99335f1e",
+        "15-history-8badc173028bdf",
+        "15-history-2e092025bbfedd"
+      ],
+      "name": "諏訪神社",
+      "municipality": "三島郡出雲崎町"
+    },
+    {
+      "ids": [
+        "15-agency-af921aeea8775a",
+        "15-agency-9381080b49e035",
+        "15-agency-f7da29bd44b838",
+        "15-agency-c83775f2417b47",
+        "15-history-fb7f0f03f04062"
+      ],
+      "name": "諏訪神社",
+      "municipality": "中魚沼郡津南町"
+    },
+    {
+      "ids": [
+        "15-agency-b689cfaf3377a4",
+        "15-history-bfb45a2f445161"
+      ],
+      "name": "諏訪八幡社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-2a0788b40ddc9b",
+        "15-agency-16221fd09fa2b4",
+        "15-agency-05cee6dd786d4d",
+        "15-agency-fda0dd1c58bdd8",
+        "15-agency-f784fc5b0ab1f9",
+        "15-agency-41ce73e3ab7018",
+        "15-agency-e024c64d7db6ca",
+        "15-agency-af438a8cd23445",
+        "15-agency-fc6a46a56efce6",
+        "15-history-817f6d0d65d103"
+      ],
+      "name": "諏訪神社",
+      "municipality": "上越市柿崎区"
+    },
+    {
+      "ids": [
+        "15-agency-d5164c6eda61f3",
+        "15-agency-563887e225860e",
+        "15-agency-5cb8ae330f23b1",
+        "15-agency-86cdd328bcadb7",
+        "15-history-7b2ddac9c4f89d"
+      ],
+      "name": "諏訪神社",
+      "municipality": "上越市頸城区"
+    },
+    {
+      "ids": [
+        "15-agency-73bdd2be04af61",
+        "15-history-92613688664878"
+      ],
+      "name": "諏訪神社",
+      "municipality": "上越市吉川区"
+    },
+    {
+      "ids": [
+        "15-agency-a79d40eea1b75e",
+        "15-agency-1611faf7f8a42d",
+        "15-agency-27117b1f34009c",
+        "15-agency-0f298e6cab97b3",
+        "15-agency-1aea0e711291d0",
+        "15-agency-c101cec85521b9",
+        "15-agency-e0bf6122b399e5",
+        "15-agency-9f612f7c12f431",
+        "15-agency-d1cf15c65b1651",
+        "15-history-a0ea3ba83e2c43",
+        "15-history-6d774cd96f56f0"
+      ],
+      "name": "諏訪神社",
+      "municipality": "上越市安塚区"
+    },
+    {
+      "ids": [
+        "15-agency-454406de2d9077",
+        "15-agency-0df5aab54a1554",
+        "15-agency-457bfe2edc5800",
+        "15-agency-da53f2c30ce090",
+        "15-history-e8b92a04a0dc0e"
+      ],
+      "name": "諏訪神社",
+      "municipality": "上越市浦川原区"
+    },
+    {
+      "ids": [
+        "15-agency-39638fcfe0de3a",
+        "15-agency-eee25c23435824",
+        "15-agency-937d11e2e6100c",
+        "15-agency-9dd17eb77f36ca",
+        "15-agency-78ae6fe76a52da",
+        "15-agency-2c748c9550d29b",
+        "15-history-f9f506af89f9c6"
+      ],
+      "name": "諏訪神社",
+      "municipality": "上越市牧区"
+    },
+    {
+      "ids": [
+        "15-agency-5c1623f056a8bf",
+        "15-history-29ded9c9711dbd"
+      ],
+      "name": "天神社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-2f189724c157c5",
+        "15-history-6b7d810ef1c62a"
+      ],
+      "name": "天神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-4c083971dc5ba7",
+        "15-history-89e720dec9241f",
+        "15-history-56da68be11497f"
+      ],
+      "name": "天神社",
+      "municipality": "上越市吉川区"
+    },
+    {
+      "ids": [
+        "15-agency-37c4377159f873",
+        "15-history-be4d2f15b6ca56"
+      ],
+      "name": "天神神社",
+      "municipality": "上越市板倉区"
+    },
+    {
+      "ids": [
+        "15-agency-335609327e5b35",
+        "15-history-02dcf15f0291d8"
+      ],
+      "name": "天満宮",
+      "municipality": "新潟市秋葉区"
+    },
+    {
+      "ids": [
+        "15-agency-83ab0b636b2ff3",
+        "15-agency-07ae6f9763120b",
+        "15-history-9b1780a43875af",
+        "15-history-6a3f7ddd2380d3",
+        "15-history-11bc420e651b52"
+      ],
+      "name": "天満宮",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-253691c266d953",
+        "15-agency-e2c354d63e5a81",
+        "15-agency-6bd2ef49e88982",
+        "15-agency-8c2efcbb8453f0",
+        "15-history-492c99e4b3be9d"
+      ],
+      "name": "天満宮",
+      "municipality": "魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-3aefbc03052ef9",
+        "15-history-28cb80dac4d95f"
+      ],
+      "name": "天満神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-13153f01993713",
+        "15-history-9171ad00f2d633"
+      ],
+      "name": "時之島神社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-087bc33008968e",
+        "15-history-45fa33c68cdc32"
+      ],
+      "name": "東奈彌久志神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-6eadea9c8832d2",
+        "15-history-86fc25877516f6"
+      ],
+      "name": "鳥屋神社",
+      "municipality": "新潟市北区"
+    },
+    {
+      "ids": [
+        "15-agency-b1de0991ec17c5",
+        "15-history-be146f34d16cff"
+      ],
+      "name": "鳥屋野神社",
+      "municipality": "新潟市中央区"
+    },
+    {
+      "ids": [
+        "15-agency-d210cec0f68b55",
+        "15-history-863303981157b0"
+      ],
+      "name": "豊受神社",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-601813f7febc3b",
+        "15-history-ca28d0586c83f5"
+      ],
+      "name": "豊照稻荷神社",
+      "municipality": "新潟市中央区"
+    },
+    {
+      "ids": [
+        "15-agency-94197d0286c935",
+        "15-history-487b31358882fd"
+      ],
+      "name": "鳥坂神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-dc17157da2e359",
+        "15-agency-4e49250ef75d2c",
+        "15-agency-aadc61285b6df1",
+        "15-agency-dd1cd2e2ec4bb0",
+        "15-agency-b05a5515ad02f6",
+        "15-history-3976db2615e6dd",
+        "15-history-90afcf47c7b05f"
+      ],
+      "name": "白山社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-9d4514b0cf0cdd",
+        "15-agency-4dee5799f70cbd",
+        "15-agency-3f0fdf4b71eff6",
+        "15-history-7b82f362f00c33",
+        "15-history-c79d894a8b4624"
+      ],
+      "name": "白山社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-b1c42bdce18c82",
+        "15-history-b2981880d2f834"
+      ],
+      "name": "白山社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-6c5050960f8ab0",
+        "15-agency-f40c1538c0ae7a",
+        "15-agency-70bc44c8e59ee0",
+        "15-agency-337b33b99fd6b7",
+        "15-history-b31805b60069db",
+        "15-history-fe8352a82f0576"
+      ],
+      "name": "白山社",
+      "municipality": "上越市頸城区"
+    },
+    {
+      "ids": [
+        "15-agency-b1fb97a1ea5c03",
+        "15-agency-c1ccf5c80b5df7",
+        "15-agency-6e61db8846b17d",
+        "15-agency-8d22403c7fb36c",
+        "15-agency-7893177ea14c3a",
+        "15-agency-75167fd31774d6",
+        "15-agency-a09dc45309c38e",
+        "15-agency-fac4eafaae57c1",
+        "15-agency-b7c49447cc80e6",
+        "15-agency-6e21f91e9205e4",
+        "15-agency-c5465e9832c62f",
+        "15-agency-6d8f39e319b021",
+        "15-agency-3facfc0d1aa73a",
+        "15-history-72262d8e46d8f1",
+        "15-history-1637690509a416",
+        "15-history-d919d8dc13104d"
+      ],
+      "name": "白山神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-60252861f831fe",
+        "15-agency-a9233abf8cdcbd",
+        "15-agency-7356049efd4445",
+        "15-agency-9354f3e26bf3a2",
+        "15-agency-36749429c7d5ee",
+        "15-agency-d04a85643b5c57",
+        "15-history-93cf02f3f30065"
+      ],
+      "name": "白山神社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-8eda9531f481d2",
+        "15-agency-cb74c4d47f011d",
+        "15-history-b5c5fdd63b06db"
+      ],
+      "name": "白山神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-12ce7829a90a5e",
+        "15-agency-311c7ec81adf08",
+        "15-history-852cf30e854484"
+      ],
+      "name": "白山神社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-47bc6dda7d2540",
+        "15-agency-42e863440f03b7",
+        "15-agency-7cfc5a74a346db",
+        "15-agency-ab24c0b2e6a321",
+        "15-agency-42b709453889ad",
+        "15-agency-09825b0dcea7df",
+        "15-agency-ee4f0da8fbe890",
+        "15-agency-f657b77bd4af04",
+        "15-agency-b6c1e436490597",
+        "15-agency-c275ce68eecfb0",
+        "15-agency-cfec8d4ce9bd0d",
+        "15-history-383738543d010b",
+        "15-history-6d8563a0272078"
+      ],
+      "name": "白山神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-4547e71208df6a",
+        "15-agency-cc0a0ae70d9408",
+        "15-agency-cef9dba0ffaf19",
+        "15-agency-5c95133ea541b2",
+        "15-agency-ace3040f0096d6",
+        "15-agency-43626c6d774cc8",
+        "15-agency-5bebb3f8ce1af0",
+        "15-agency-e02a555a87eac7",
+        "15-agency-81665529318836",
+        "15-agency-2a21eb90a6fd69",
+        "15-agency-02748110954ba3",
+        "15-history-3d975cb0ba9a99",
+        "15-history-c2fd1041c59bb5"
+      ],
+      "name": "白山神社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-5258c25c80806f",
+        "15-agency-897c2c2a02c3fb",
+        "15-agency-736f0b8eeb8760",
+        "15-agency-d8c7fb82efa388",
+        "15-agency-f33a900482bc1b",
+        "15-agency-9208497d21a9e1",
+        "15-agency-bd8db9b5c93e91",
+        "15-agency-521c4e1de63993",
+        "15-history-0abe71b2b370d8"
+      ],
+      "name": "白山神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-5529558cbedc39",
+        "15-agency-624896c41275c0",
+        "15-history-c83ba67572d669"
+      ],
+      "name": "中山神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-20bbb7aaeaf57e",
+        "15-history-0ebd2097e3bc11"
+      ],
+      "name": "中山神社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-df1aba688f1b7b",
+        "15-history-970eaef72e7e10"
+      ],
+      "name": "長瀬神社",
+      "municipality": "加茂市"
+    },
+    {
+      "ids": [
+        "15-agency-3ea3492e390b4d",
+        "15-history-5ab9ded69cce7e"
+      ],
+      "name": "七社宮",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-df684b30b17cf8",
+        "15-history-8020aea9d3af7a"
+      ],
+      "name": "新潟神社",
+      "municipality": "見附市"
+    },
+    {
+      "ids": [
+        "15-agency-563fa6ae18ef2f",
+        "15-history-5474c6f3f69666"
+      ],
+      "name": "二社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-e8a0e522ed4c6b",
+        "15-agency-165fbb8f4032df",
+        "15-history-369615896761a9"
+      ],
+      "name": "日光社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-953f4d7d6a0a72",
+        "15-history-5301136e61e4f2"
+      ],
+      "name": "仁禮原神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-7744158fddeb99",
+        "15-history-2c3160228c1c8b"
+      ],
+      "name": "白山社",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-b0e083be3c8cc7",
+        "15-agency-72eaed6f8f0f56",
+        "15-agency-2e11060c74b6f1",
+        "15-agency-7f9197b7eae645",
+        "15-agency-eca651270eb9a1",
+        "15-history-65a5d067ad11aa"
+      ],
+      "name": "白山社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-4c2c74d400058d",
+        "15-history-cfe9e836a95911"
+      ],
+      "name": "八王寺神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-6918445b1b79bc",
+        "15-agency-2ef766d965c7da",
+        "15-history-d758c4bac2dd65",
+        "15-history-a33d7f0929def8"
+      ],
+      "name": "八幡宮",
+      "municipality": "新潟市東区"
+    },
+    {
+      "ids": [
+        "15-agency-078fb2236215c1",
+        "15-agency-c6ef102be1076f",
+        "15-agency-0f02ee01362fa1",
+        "15-agency-469f1715daf7e7",
+        "15-agency-d96274e6060f64",
+        "15-history-d94bf8a928b22f"
+      ],
+      "name": "八幡宮",
+      "municipality": "新潟市江南区"
+    },
+    {
+      "ids": [
+        "15-agency-2502e15f938072",
+        "15-agency-7f3541f6a6719d",
+        "15-agency-5a7ba3b93aa5fc",
+        "15-agency-a3662f0f17e1e0",
+        "15-agency-67f1dac8c5a2b8",
+        "15-agency-227edbd7c3919d",
+        "15-agency-ad042d15fda516",
+        "15-agency-0d4684780e1b80",
+        "15-history-11e0b1494b5b30",
+        "15-history-542ab22b0a0aa6",
+        "15-history-54f94490d8c9a6"
+      ],
+      "name": "八幡宮",
+      "municipality": "新潟市秋葉区"
+    },
+    {
+      "ids": [
+        "15-agency-0152d06a1874e8",
+        "15-agency-dd15fb42839430",
+        "15-agency-cf2abf74f5fec9",
+        "15-history-e30daa5ff1d5fe",
+        "15-history-f231cd6a5a8d44"
+      ],
+      "name": "八幡宮",
+      "municipality": "新潟市南区"
+    },
+    {
+      "ids": [
+        "15-agency-e75de4f8c53d06",
+        "15-agency-a79fc74e943e17",
+        "15-agency-da459bcea7f8c1",
+        "15-agency-7d2682d71dcc54",
+        "15-history-b8b4f92b528d5d"
+      ],
+      "name": "八幡宮",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-bbb8d2e35203fb",
+        "15-agency-b322d1b25e1d99",
+        "15-agency-a985f35486c897",
+        "15-history-f616308a8890c2"
+      ],
+      "name": "八幡宮",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-ac168b4b5d0750",
+        "15-agency-bcc05d73a5866d",
+        "15-history-6fe3e512e68ab9"
+      ],
+      "name": "八幡宮",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-3cc0c59bba084e",
+        "15-agency-d0d36ded456072",
+        "15-agency-a4902ee7239e79",
+        "15-agency-a4de435ad21365",
+        "15-agency-6f6ea4e907151e",
+        "15-agency-93eafe9b580a2f",
+        "15-agency-d009e65499f269",
+        "15-agency-75d179c84a0e99",
+        "15-agency-92d807add320a2",
+        "15-agency-e597f2f0ea14df",
+        "15-history-91b777361d7bd2"
+      ],
+      "name": "八幡宮",
+      "municipality": "五泉市"
+    },
+    {
+      "ids": [
+        "15-agency-381fd2c01a3595",
+        "15-agency-6d1bde53c43c57",
+        "15-agency-af86b239dbef2b",
+        "15-agency-20d371a1c12cc7",
+        "15-agency-e22330b4b9cf59",
+        "15-history-d164d196dc5cbf",
+        "15-history-30b63c65a931a4"
+      ],
+      "name": "八幡宮",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-9b4e73cd395e60",
+        "15-agency-0f4035b1231cf6",
+        "15-agency-7add8cf165c0e8",
+        "15-agency-c15ff4acbf1137",
+        "15-agency-4b572a7a286f38",
+        "15-history-05afebea26a91c",
+        "15-history-bb45abc4f6003b"
+      ],
+      "name": "八幡社",
+      "municipality": "新潟市北区"
+    },
+    {
+      "ids": [
+        "15-agency-5a4efab0e56818",
+        "15-agency-2435ba4a062b21",
+        "15-agency-490c1bf60abb5d",
+        "15-history-5f42e9c8c2a2c4"
+      ],
+      "name": "八幡社",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-fdf6ef120a5e42",
+        "15-agency-8206a694ad7439",
+        "15-agency-98e1b77a27e9b7",
+        "15-agency-5aeab9e46d5360",
+        "15-history-d5d428b68a2c8e"
+      ],
+      "name": "八幡社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-d6961401b10b9a",
+        "15-agency-9f2816f3a27bd9",
+        "15-history-c4d831e9b481aa"
+      ],
+      "name": "白山神社",
+      "municipality": "上越市牧区"
+    },
+    {
+      "ids": [
+        "15-agency-eedb1dfbb99317",
+        "15-agency-c3804922137cea",
+        "15-agency-2818ce7939c2e1",
+        "15-agency-befae048841f2b",
+        "15-history-8141ed877a2ef5"
+      ],
+      "name": "白山神社",
+      "municipality": "上越市名立区"
+    },
+    {
+      "ids": [
+        "15-agency-645af52fc1b9ed",
+        "15-agency-a72c25d8cb087f",
+        "15-agency-6112c1c7ab3e0d",
+        "15-agency-19c88dfce9f665",
+        "15-agency-7f3d537aa0a13a",
+        "15-agency-fc5f920aaff224",
+        "15-agency-fae706a02d549b",
+        "15-agency-b9cb53adfd2373",
+        "15-agency-2122e1ff2dc322",
+        "15-agency-44260b8e247f73",
+        "15-agency-f9d181801f60e3",
+        "15-agency-4f409d6ddfc7e4",
+        "15-agency-6e37fe4e05f825",
+        "15-agency-23bc72fad209ed",
+        "15-agency-2f2ffc511049bb",
+        "15-agency-ec64d7e76a3274",
+        "15-agency-9d9d5180200f12",
+        "15-agency-76490c0cab1aa6",
+        "15-agency-d1d1593b0af67f",
+        "15-agency-32598265a1a65b",
+        "15-agency-6a2ff33c221e36",
+        "15-agency-99ac77c60ec449",
+        "15-agency-b549703702e503",
+        "15-agency-4904d2608df150",
+        "15-agency-2ddd3064b2ff42",
+        "15-history-27a44a295ac55d"
+      ],
+      "name": "白山神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-8b8787ea87fb68",
+        "15-agency-9ca60830a1a085",
+        "15-agency-9e54d6dc27acfd",
+        "15-history-aa8aadfce75521"
+      ],
+      "name": "羽黒神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-eeececea2c8baf",
+        "15-agency-2e1365f3b78518",
+        "15-history-3fda6d9b704c9f"
+      ],
+      "name": "羽黒神社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-f4cfc7a63ee917",
+        "15-agency-5aae5e113c98db",
+        "15-agency-d314e194797fec",
+        "15-agency-4903ac706ae571",
+        "15-agency-992bf12e8d3b28",
+        "15-agency-5d921f5d16a97f",
+        "15-agency-0478a27718fcfa",
+        "15-history-aeddb0dda087b4",
+        "15-history-a7f078bcfdbf78"
+      ],
+      "name": "羽黒神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-52abfee3ff4b55",
+        "15-agency-9b1a9d47615b75",
+        "15-agency-03a3ed003d832b",
+        "15-agency-f548304dce7b35",
+        "15-agency-f53c7a4af9778b",
+        "15-agency-05bff3892b357f",
+        "15-history-f738781e2b150d",
+        "15-history-13022a05a47a91"
+      ],
+      "name": "八幡社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-626b0be88ad101",
+        "15-agency-da1d8658138c70",
+        "15-agency-99213daa783d44",
+        "15-agency-83957b6c3c33a1",
+        "15-agency-e2d43f7ddd33f4",
+        "15-agency-2e2721c5e17f06",
+        "15-agency-7565e6efc615d3",
+        "15-agency-b328875f5c6167",
+        "15-agency-cfb8fb4593fa87",
+        "15-history-6c7fc154683ddf",
+        "15-history-c0d2ae734522a4",
+        "15-history-0feca494e61bab"
+      ],
+      "name": "八幡社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-ceec7936974bc1",
+        "15-agency-6dca13be78eb77",
+        "15-history-30e773c2196744"
+      ],
+      "name": "八幡社",
+      "municipality": "小千谷市"
+    },
+    {
+      "ids": [
+        "15-agency-419f4958454593",
+        "15-agency-7e6c6ee310ed20",
+        "15-agency-7fca464ae75f5e",
+        "15-agency-c616057558559d",
+        "15-agency-8d79569943e98a",
+        "15-agency-185ef4f6ee7fc1",
+        "15-agency-1af42eb1b939c8",
+        "15-agency-5aea9a1a76daac",
+        "15-history-2ba1dd168d4b15",
+        "15-history-1a628bd79b4579",
+        "15-history-c88c6b0926ba09"
+      ],
+      "name": "八幡社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-74987eadad92df",
+        "15-agency-c9014f9f79867d",
+        "15-agency-8902a1053cb9a8",
+        "15-agency-ff9379dadccf7a",
+        "15-agency-553d9d73dd7293",
+        "15-agency-e21b6b9df1ff76",
+        "15-agency-603d9f89d1832e",
+        "15-agency-7378115713ea65",
+        "15-agency-730e26530b1baf",
+        "15-agency-29628b81799f8f",
+        "15-agency-dd2aad970723ed",
+        "15-history-65db980132f4cc",
+        "15-history-7e0d53f3cc32ad"
+      ],
+      "name": "八幡社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-fc7688f92ead97",
+        "15-agency-df6e23b6837953",
+        "15-history-8d5159f682e234"
+      ],
+      "name": "八幡社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-961d3f936ad545",
+        "15-agency-952008c0f27387",
+        "15-agency-0a9768a0e0204e",
+        "15-agency-0d17a57e9e7add",
+        "15-agency-35183c4796543f",
+        "15-agency-ff3af75166d80d",
+        "15-agency-9935582cd67e3c",
+        "15-agency-225cb15502bfe4",
+        "15-agency-b22ee7dac04cf1",
+        "15-agency-c4a8d3cefc39bc",
+        "15-agency-8b350f68ff4bd0",
+        "15-agency-c285ed8b769123",
+        "15-history-41552961d80666",
+        "15-history-10d7d8caf00095",
+        "15-history-51b26510d724c6",
+        "15-history-1dad13fb549af4"
+      ],
+      "name": "八幡社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-a39b176d735d9d",
+        "15-agency-04b5c536a9b5b9",
+        "15-agency-67633e7eee2322",
+        "15-history-ad3994fa6da3b6"
+      ],
+      "name": "八幡社",
+      "municipality": "上越市柿崎区"
+    },
+    {
+      "ids": [
+        "15-agency-1afff3d68c20a6",
+        "15-agency-34311c99b7dea2",
+        "15-agency-327ca0c640dd4b",
+        "15-agency-7a27f78f97b7e6",
+        "15-agency-71cf111d11ca15",
+        "15-history-51752c8cb7af3b"
+      ],
+      "name": "八幡社",
+      "municipality": "上越市吉川区"
+    },
+    {
+      "ids": [
+        "15-agency-37dccbe8323a53",
+        "15-history-27f199b3d27e23"
+      ],
+      "name": "八幡社",
+      "municipality": "上越市板倉区"
+    },
+    {
+      "ids": [
+        "15-agency-cacd2e78d9c9b6",
+        "15-agency-b2abbf268e38ee",
+        "15-history-24e5c96bca128e"
+      ],
+      "name": "八幡社",
+      "municipality": "上越市三和区"
+    },
+    {
+      "ids": [
+        "15-agency-d11266bcc55ed2",
+        "15-agency-4ec766a1ab351b",
+        "15-history-c2fd2386867617",
+        "15-history-c3db49a960f0dd"
+      ],
+      "name": "八幡社",
+      "municipality": "上越市牧区"
+    },
+    {
+      "ids": [
+        "15-agency-04eb51eaa50045",
+        "15-history-304b6e26aa2b83"
+      ],
+      "name": "菱神社",
+      "municipality": "上越市牧区"
+    },
+    {
+      "ids": [
+        "15-agency-86699a3659b814",
+        "15-history-339175f4f50f7d"
+      ],
+      "name": "日出神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-a3f86d97a37a9b",
+        "15-history-3f65448e349fd8"
+      ],
+      "name": "日野宮神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-4e5dedfb21b770",
+        "15-history-6463d8c7bc9b4b"
+      ],
+      "name": "姫宮神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-841efc7c1e1abd",
+        "15-agency-fd39f56636e3b7",
+        "15-history-c63023bcf1a018"
+      ],
+      "name": "日吉社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-45621af933b02b",
+        "15-history-0ca0329084e32c"
+      ],
+      "name": "日吉社",
+      "municipality": "加茂市"
+    },
+    {
+      "ids": [
+        "15-agency-50823219bbaa55",
+        "15-history-4be0b799d18d18"
+      ],
+      "name": "日吉社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-8d9dbf7ede7770",
+        "15-history-f4bd9829b9f2f3"
+      ],
+      "name": "日吉神社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-979062002a2e68",
+        "15-agency-b5371b0d592ed4",
+        "15-agency-5644a1d2edd366",
+        "15-history-7305541abcfdcb"
+      ],
+      "name": "日吉神社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-ec4ffc8e06ba44",
+        "15-agency-e201ccfffd3308",
+        "15-agency-1e5317850dd85f",
+        "15-history-be9271b0bb1dae"
+      ],
+      "name": "日吉神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-6ee8dfd888d6c9",
+        "15-agency-c13e628292bb2b",
+        "15-history-43737bcdd14b92"
+      ],
+      "name": "日吉神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-e666ef489562c9",
+        "15-agency-7616f7e53c7c98",
+        "15-agency-1f88be1b3a5f10",
+        "15-agency-95f8124bd624da",
+        "15-agency-a904045b262b2a",
+        "15-agency-6031d846d577da",
+        "15-history-ac727beffea6e6",
+        "15-history-e44bcbf8ca2c2e"
+      ],
+      "name": "日吉神社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-92f57de08bd688",
+        "15-history-7c42240031850e"
+      ],
+      "name": "日吉神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-8c959918529517",
+        "15-history-fec787a1a278d9"
+      ],
+      "name": "日吉神社",
+      "municipality": "魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-1067b45802518c",
+        "15-history-8d827977e62f90"
+      ],
+      "name": "平田神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-06e1a57dc2ae89",
+        "15-history-abdbb87d43f3b9"
+      ],
+      "name": "福島神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-8e4de44b4f0506",
+        "15-agency-5f64b58a10dbd1",
+        "15-history-40a98da2c9d9a1"
+      ],
+      "name": "冨士神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-78cfe9113b6f98",
+        "15-agency-7df6eba2604520",
+        "15-history-3f0a32a54d60d3"
+      ],
+      "name": "八幡神社",
+      "municipality": "上越市清里区"
+    },
+    {
+      "ids": [
+        "15-agency-1574b21658a625",
+        "15-agency-bd4b2426db2377",
+        "15-agency-70b09d6c216ac3",
+        "15-agency-c964ebff76c881",
+        "15-history-ef70563a8b7b18"
+      ],
+      "name": "八幡神社",
+      "municipality": "阿賀野市"
+    },
+    {
+      "ids": [
+        "15-agency-04c82c725f4b09",
+        "15-agency-537e35f85d13ab",
+        "15-history-6a8de0d135c5f5"
+      ],
+      "name": "八幡神社",
+      "municipality": "東蒲原郡阿賀町"
+    },
+    {
+      "ids": [
+        "15-agency-999ce7f7e7bbfd",
+        "15-history-80b3c6b6628d01"
+      ],
+      "name": "八幡諏訪合殿神社",
+      "municipality": "上越市板倉区"
+    },
+    {
+      "ids": [
+        "15-agency-3587da6fb4701f",
+        "15-agency-9ed2d4ee0bffcf",
+        "15-agency-d093d98672abeb",
+        "15-agency-37dea712588992",
+        "15-history-abaf83a9cce4ca"
+      ],
+      "name": "八幡若宮神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-a5dcd904212cb5",
+        "15-history-f95615d3f46c46"
+      ],
+      "name": "八社宮",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-6e2e2e4e57bc67",
+        "15-history-2762972b9c59e3"
+      ],
+      "name": "濱忠神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-60e42d9ec6a7dd",
+        "15-history-1be4c2637aa726"
+      ],
+      "name": "半田神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-14b6b99f5b75f2",
+        "15-history-c4131481910a67"
+      ],
+      "name": "日枝社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-9b1cbfeb8d45b1",
+        "15-agency-72ba1e89e391d9",
+        "15-history-af274e0f6008af"
+      ],
+      "name": "日枝神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-acfaf92b7365d6",
+        "15-agency-e1c4f7c566c8f2",
+        "15-agency-1f2abe749ddaa4",
+        "15-agency-413c3d56779de9",
+        "15-history-68c643ea9c3c74"
+      ],
+      "name": "八幡神社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-6b1e77681ca719",
+        "15-agency-e26540f4c051f7",
+        "15-agency-93e42b24a3a1b1",
+        "15-agency-4d2dbe546f319b",
+        "15-agency-5e3987be9bb6cc",
+        "15-agency-21e232196b9bab",
+        "15-agency-e2e2c52babc8b9",
+        "15-agency-7295fd4457683b",
+        "15-agency-e8ca3a236af4c2",
+        "15-agency-370a643207dddc",
+        "15-agency-b3f191e1244fe2",
+        "15-agency-29dad90780d086",
+        "15-agency-dcbd44f9642a06",
+        "15-agency-3649c6588ea2b1",
+        "15-agency-e323a030d49290",
+        "15-agency-27445bdefe8773",
+        "15-agency-7b3700187aa02a",
+        "15-agency-06e2e4b57a6c87",
+        "15-agency-3ea40fa0ee0ae3",
+        "15-agency-11e339416caaeb",
+        "15-agency-b1d8a2d850c69e",
+        "15-agency-37451115397917",
+        "15-agency-7c723edfaf8e19",
+        "15-agency-3cd1e343bb9280",
+        "15-agency-1ec51658ba6307",
+        "15-agency-ade156d57fdb37",
+        "15-agency-aee2d88cb8a234",
+        "15-history-b8c578cb86125c",
+        "15-history-04efe86b6a5cd3",
+        "15-history-ac06b8a03c32a5",
+        "15-history-6cf01c8877c80f",
+        "15-history-6fed6f7e2843e2",
+        "15-history-fe839f0eea8095",
+        "15-history-00a43b9bdf3d23",
+        "15-history-01073e1ea506b2",
+        "15-history-d219965d4e724d",
+        "15-history-68b57d97d6ec4d"
+      ],
+      "name": "八幡神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-ed3399a3e40f14",
+        "15-agency-644c04455dab0d",
+        "15-agency-84f5b7730ef66b",
+        "15-agency-5d043d7a67061d",
+        "15-agency-ed67ab051c99c3",
+        "15-history-b537c381b21fe1"
+      ],
+      "name": "八幡神社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-d1dedfcda200b9",
+        "15-agency-328a63205539ba",
+        "15-agency-49d380ad1f7a37",
+        "15-history-e257f2735d3022",
+        "15-history-091672db75c098"
+      ],
+      "name": "八幡神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-946c81ae23552d",
+        "15-agency-ddaf99df57f3f1",
+        "15-agency-ae1b4f6e4b1457",
+        "15-agency-d6e6653e75edd6",
+        "15-agency-d43ee9f3cc715d",
+        "15-history-7332a56e10cb12"
+      ],
+      "name": "八幡神社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-bca1293d7d0df1",
+        "15-agency-17a844d145a3d4",
+        "15-agency-d2c46cb292192c",
+        "15-agency-4cda4acb801f73",
+        "15-agency-679a383b59a171",
+        "15-agency-410d0a8134dd80",
+        "15-agency-a9e09ab445928e",
+        "15-history-ff760a203f9e77"
+      ],
+      "name": "八幡神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-133465e82c82d8",
+        "15-agency-871a577eeb0846",
+        "15-agency-4da68bb31fa0ee",
+        "15-agency-d63db6de45de61",
+        "15-agency-eee522758f65a7",
+        "15-history-6b0c9f91f59eb7"
+      ],
+      "name": "八幡神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-c32b433eaa851c",
+        "15-agency-87b36a153ea2a6",
+        "15-agency-7fbed998bf72b6",
+        "15-agency-8f825c61326f00",
+        "15-agency-d65d4f5f1b334d",
+        "15-history-bdae0f63ae44db",
+        "15-history-63d79150c62962"
+      ],
+      "name": "八幡神社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-cbfb231d416e53",
+        "15-agency-0cf7106e88f440",
+        "15-agency-31e14ad41e351c",
+        "15-agency-9f653418f8a600",
+        "15-history-1f69dca071ba05"
+      ],
+      "name": "八幡神社",
+      "municipality": "上越市頸城区"
+    },
+    {
+      "ids": [
+        "15-agency-1c3ef55ab7e0b9",
+        "15-history-17ee0b406d73a2"
+      ],
+      "name": "藤戸神社",
+      "municipality": "新潟市東区"
+    },
+    {
+      "ids": [
+        "15-agency-a6c723649c483a",
+        "15-history-bd77d407677268"
+      ],
+      "name": "藤基神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-02b8ef46dd56fb",
+        "15-history-a64e9f73527736"
+      ],
+      "name": "二ツ山神社",
+      "municipality": "新発田市"
+    },
+    {
+      "ids": [
+        "15-agency-1ea99a289b8b31",
+        "15-history-ec3b21c6d6273c"
+      ],
+      "name": "船魂十二所神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-1e8a1f0918b3a1",
+        "15-history-15624ef21b7705"
+      ],
+      "name": "古峯神社",
+      "municipality": "新潟市西区"
+    },
+    {
+      "ids": [
+        "15-agency-3c12dcb540fcd6",
+        "15-history-fd258d70a607fb"
+      ],
+      "name": "火結神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-b4d3a1aff48eaa",
+        "15-history-f9050adefecbde"
+      ],
+      "name": "堀内神社",
+      "municipality": "佐渡市"
+    },
+    {
+      "ids": [
+        "15-agency-438b37dae23416",
+        "15-history-4542401bb2348b"
+      ],
+      "name": "本郷神社",
+      "municipality": "上越市三和区"
+    },
+    {
+      "ids": [
+        "15-agency-af14a2e6a74931",
+        "15-history-8df06f3859e4f3"
+      ],
+      "name": "牧ケ花神社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-452341f0385f2a",
+        "15-agency-d440ed2b86ac2d",
+        "15-history-3a170efc3e1b98"
+      ],
+      "name": "正倉社",
+      "municipality": "三条市"
+    },
+    {
+      "ids": [
+        "15-agency-cfa213bbb265a8",
+        "15-agency-78641a6bbaf1d3",
+        "15-agency-60e226b4622b6e",
+        "15-agency-5f86c331d693af",
+        "15-agency-e4640562624403",
+        "15-agency-a7cdcd79b2d8ec",
+        "15-history-0bd41a663239dd",
+        "15-history-2f649849eace50",
+        "15-history-4286a6b953de2e"
+      ],
+      "name": "松苧社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-dfe36999a053ca",
+        "15-agency-7611924a936f3a",
+        "15-agency-4b2d30036e0a0c",
+        "15-agency-7ce0416d7d62db",
+        "15-agency-7d3a542c204c57",
+        "15-agency-779bfbcb01902d",
+        "15-agency-73ccb8498fca88",
+        "15-agency-0c23bc593c42e4",
+        "15-agency-510dd63fc8e4b7",
+        "15-agency-e2fa77bd528099",
+        "15-history-1b4c9dff14571e"
+      ],
+      "name": "松苧神社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-96f9710a820a38",
+        "15-history-4cd5f7be45d89e"
+      ],
+      "name": "松尾神社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-b466feb93a5bcb",
+        "15-history-cb3952945db122"
+      ],
+      "name": "鎧八幡宮",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-79619df41f47ab",
+        "15-history-d61a600253759d"
+      ],
+      "name": "六座神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-697028a4b45ed6",
+        "15-history-b1bf92faf9d903"
+      ],
+      "name": "六所社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-f9489fd6d953f1",
+        "15-history-67d82f78940747"
+      ],
+      "name": "若宮社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-7bc6a145bcf9da",
+        "15-history-11c542b894d3ac"
+      ],
+      "name": "若宮社",
+      "municipality": "上越市"
+    },
+    {
+      "ids": [
+        "15-agency-c474cd5053e7e9",
+        "15-history-a572e753b338b0"
+      ],
+      "name": "若宮社",
+      "municipality": "上越市三和区"
+    },
+    {
+      "ids": [
+        "15-agency-4b204d4f50ebce",
+        "15-agency-f24498d2171fed",
+        "15-history-875be9e171c85f"
+      ],
+      "name": "若宮神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-b1338a37a00141",
+        "15-history-7fd0b2719b77b8"
+      ],
+      "name": "若宮神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-408677e88462bb",
+        "15-history-e0a4dabfaf0521"
+      ],
+      "name": "若宮八幡宮",
+      "municipality": "南魚沼市"
+    },
+    {
+      "ids": [
+        "15-agency-067f1ea7eeb017",
+        "15-agency-1beae37df435aa",
+        "15-history-cc28d8dba9a087"
+      ],
+      "name": "若宮八幡宮",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-0a33889ee14101",
+        "15-agency-0dfa55da16b67f",
+        "15-history-eac801eaf3459b",
+        "15-history-57a967067346e0"
+      ],
+      "name": "御島石部神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-3a1fc98db917ea",
+        "15-history-ac1ea2b70cd400"
+      ],
+      "name": "三島神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-e329db27ec8bbf",
+        "15-history-4cc22cb39b2293"
+      ],
+      "name": "水穴神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-1e6482a899d706",
+        "15-history-e9c53f65318e2a"
+      ],
+      "name": "瑞穂神社",
+      "municipality": "新潟市東区"
+    },
+    {
+      "ids": [
+        "15-agency-6739844c34f0e8",
+        "15-history-23980395a34161"
+      ],
+      "name": "水戸社",
+      "municipality": "燕市"
+    },
+    {
+      "ids": [
+        "15-agency-a183ab83d1307b",
+        "15-history-a096f37c0869b9"
+      ],
+      "name": "三柱神社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-2bbcaf9fafe757",
+        "15-history-d6e0531ed460f1"
+      ],
+      "name": "宮川神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-ac54680ac9e6a7",
+        "15-history-b572c25ab759f9"
+      ],
+      "name": "宮路神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-c30da9ff203ffc",
+        "15-history-51a78d02df1c7f"
+      ],
+      "name": "宮本神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-08eaea51d09668",
+        "15-history-358c264ef7fee8"
+      ],
+      "name": "結社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-92ad96def27dbb",
+        "15-history-13e69a97c9f9c1"
+      ],
+      "name": "宗像社",
+      "municipality": "新潟市西蒲区"
+    },
+    {
+      "ids": [
+        "15-agency-55f20cc370432f",
+        "15-agency-2462711a8dfabd",
+        "15-agency-702af1ab99b0a4",
+        "15-history-423fd66546df62"
+      ],
+      "name": "物部神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-8499fe03996c74",
+        "15-history-2fbebbea24513f"
+      ],
+      "name": "藥師神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-7582364767a644",
+        "15-history-5b851986f2910d"
+      ],
+      "name": "八坂社",
+      "municipality": "妙高市"
+    },
+    {
+      "ids": [
+        "15-agency-9a2b0400d1272f",
+        "15-agency-b17f4a7c2813c2",
+        "15-history-25ab7fe7942f16"
+      ],
+      "name": "八坂神社",
+      "municipality": "長岡市"
+    },
+    {
+      "ids": [
+        "15-agency-168b96b55f4978",
+        "15-agency-56b1d56523a351",
+        "15-history-4bea41a18945b4"
+      ],
+      "name": "八坂神社",
+      "municipality": "柏崎市"
+    },
+    {
+      "ids": [
+        "15-agency-28e4afc9f15957",
+        "15-history-26857023114684"
+      ],
+      "name": "八坂八幡神社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-9179c3f6d4d546",
+        "15-agency-04ef8297f3d01b",
+        "15-agency-f87a9578869970",
+        "15-agency-eedcb6e22dc565",
+        "15-history-32dc86aefc6253",
+        "15-history-e6e0c36756b12e",
+        "15-history-c3dee3edb9a070"
+      ],
+      "name": "矢放社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-32652be43e1035",
+        "15-agency-b123e0026db708",
+        "15-history-1ec7ad87c0334e",
+        "15-history-b31eb9eb276402",
+        "15-history-a17b4e78ac9d0e"
+      ],
+      "name": "矢放神社",
+      "municipality": "十日町市"
+    },
+    {
+      "ids": [
+        "15-agency-2c1cbfe24859e2",
+        "15-history-3753c16ed32e54"
+      ],
+      "name": "谷花神社",
+      "municipality": "東蒲原郡阿賀町"
+    },
+    {
+      "ids": [
+        "15-agency-8af0b31fb1336d",
+        "15-agency-ce5d50bd70d49d",
+        "15-history-779eaa8aaacdd5"
+      ],
+      "name": "弥彦神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-ba12a081e3eac2",
+        "15-history-b4cfc47357deda"
+      ],
+      "name": "彌彦神社",
+      "municipality": "西蒲原郡弥彦村"
+    },
+    {
+      "ids": [
+        "15-agency-24a5f5404b0130",
+        "15-history-460a2e7937a485"
+      ],
+      "name": "山添社",
+      "municipality": "糸魚川市"
+    },
+    {
+      "ids": [
+        "15-agency-34188035d36510",
+        "15-agency-8defa83837534e",
+        "15-agency-0eb1f50fd0aed9",
+        "15-agency-1b06bc87c3a1b8",
+        "15-agency-85e15e85c62601",
+        "15-agency-a1e0dc2879c974",
+        "15-agency-a479fafb2c8fc8",
+        "15-agency-8567ea5b55423e",
+        "15-history-262207107904ed",
+        "15-history-2a9abf3c006fe1",
+        "15-history-11619f90c08307"
+      ],
+      "name": "若宮八幡神社",
+      "municipality": "東蒲原郡阿賀町"
+    },
+    {
+      "ids": [
+        "15-agency-2060f14f678a02",
+        "15-history-643231615cecb1"
+      ],
+      "name": "鷲神社",
+      "municipality": "東蒲原郡阿賀町"
+    },
+    {
+      "ids": [
+        "15-agency-e21c4fb70cc549",
+        "15-agency-4ef04cf9a114a6",
+        "15-history-89d837fd8ace74",
+        "15-history-5f1dd7757da3ba"
+      ],
+      "name": "鷲麻神社",
+      "municipality": "胎内市"
+    },
+    {
+      "ids": [
+        "15-agency-175e9a0d4756a4",
+        "15-history-3b7b2ca12dca13"
+      ],
+      "name": "鷲麻神社",
+      "municipality": "村上市"
+    },
+    {
+      "ids": [
+        "15-agency-d7dd27bddc6b31",
+        "15-history-7edef676961727"
+      ],
+      "name": "和田神社",
+      "municipality": "柏崎市"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 852,
+    "unmapped_records": 5609
+  }
+}
