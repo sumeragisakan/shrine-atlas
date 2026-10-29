@@ -1,0 +1,985 @@
+{
+  "code": 34,
+  "name": "広島県",
+  "slug": "hiroshima",
+  "checked": "2026-10-30",
+  "scope": "広島県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 1929,
+  "records": 1929,
+  "directory_indexes": 2,
+  "baseline_rows": 1886,
+  "agency_rows": 99,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 56,
+  "historical_only_records": 1830,
+  "with_deities": 1824,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 1845,
+  "municipalities": [
+    {
+      "municipality": "三原市",
+      "area": "全域",
+      "records": 75,
+      "with_deities": 71,
+      "mapped_locations": 0,
+      "without_coordinates": 75
+    },
+    {
+      "municipality": "三次市",
+      "area": "全域",
+      "records": 75,
+      "with_deities": 75,
+      "mapped_locations": 0,
+      "without_coordinates": 75
+    },
+    {
+      "municipality": "世羅郡世羅町",
+      "area": "全域",
+      "records": 53,
+      "with_deities": 33,
+      "mapped_locations": 0,
+      "without_coordinates": 53
+    },
+    {
+      "municipality": "世羅郡甲山町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "佐伯郡佐伯区",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "佐伯郡佐伯町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "佐伯郡大野町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "佐伯郡宮島町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "佐伯郡湯来町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "加茂郡河内町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "加茂郡黒瀬町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "双三郡三和町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "双三郡三良坂町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "双三郡作木村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "双三郡吉舎町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "双三郡布野村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "呉市",
+      "area": "全域",
+      "records": 65,
+      "with_deities": 60,
+      "mapped_locations": 0,
+      "without_coordinates": 65
+    },
+    {
+      "municipality": "大竹市",
+      "area": "全域",
+      "records": 36,
+      "with_deities": 28,
+      "mapped_locations": 0,
+      "without_coordinates": 36
+    },
+    {
+      "municipality": "安芸郡下浦刈町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "安芸郡倉橋町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "安芸郡坂町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "安芸郡府中町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "安芸郡浦刈町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "安芸郡海田町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "安芸郡音戸町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "安芸高田市",
+      "area": "全域",
+      "records": 40,
+      "with_deities": 37,
+      "mapped_locations": 0,
+      "without_coordinates": 40
+    },
+    {
+      "municipality": "尾道市",
+      "area": "全域",
+      "records": 181,
+      "with_deities": 175,
+      "mapped_locations": 0,
+      "without_coordinates": 181
+    },
+    {
+      "municipality": "山県郡加計町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "山県郡北広島町",
+      "area": "全域",
+      "records": 62,
+      "with_deities": 60,
+      "mapped_locations": 0,
+      "without_coordinates": 62
+    },
+    {
+      "municipality": "山県郡千代田町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "山県郡大朝町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "山県郡安芸太田町",
+      "area": "全域",
+      "records": 29,
+      "with_deities": 29,
+      "mapped_locations": 0,
+      "without_coordinates": 29
+    },
+    {
+      "municipality": "山県郡戸河内町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "山県郡筒賀村",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "山県郡芸北町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "広島市中区",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
+      "municipality": "広島市佐伯区",
+      "area": "全域",
+      "records": 44,
+      "with_deities": 32,
+      "mapped_locations": 0,
+      "without_coordinates": 44
+    },
+    {
+      "municipality": "広島市南区",
+      "area": "全域",
+      "records": 15,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 15
+    },
+    {
+      "municipality": "広島市安佐北区",
+      "area": "全域",
+      "records": 35,
+      "with_deities": 32,
+      "mapped_locations": 0,
+      "without_coordinates": 35
+    },
+    {
+      "municipality": "広島市安佐南区",
+      "area": "全域",
+      "records": 28,
+      "with_deities": 28,
+      "mapped_locations": 0,
+      "without_coordinates": 28
+    },
+    {
+      "municipality": "広島市安芸区",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "広島市東区",
+      "area": "全域",
+      "records": 15,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 15
+    },
+    {
+      "municipality": "広島市西区",
+      "area": "全域",
+      "records": 13,
+      "with_deities": 13,
+      "mapped_locations": 0,
+      "without_coordinates": 13
+    },
+    {
+      "municipality": "庄原市",
+      "area": "全域",
+      "records": 170,
+      "with_deities": 169,
+      "mapped_locations": 0,
+      "without_coordinates": 170
+    },
+    {
+      "municipality": "府中市",
+      "area": "全域",
+      "records": 122,
+      "with_deities": 115,
+      "mapped_locations": 0,
+      "without_coordinates": 122
+    },
+    {
+      "municipality": "廿日市",
+      "area": "全域",
+      "records": 59,
+      "with_deities": 44,
+      "mapped_locations": 0,
+      "without_coordinates": 59
+    },
+    {
+      "municipality": "御調郡久井町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "御調郡向島町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "御調郡御調町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "東広島市",
+      "area": "全域",
+      "records": 85,
+      "with_deities": 83,
+      "mapped_locations": 0,
+      "without_coordinates": 85
+    },
+    {
+      "municipality": "比婆郡東城町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "江田島市",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "沼隅郡内海町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "沼隅郡沼隅町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "沼隈郡沼隅町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "沼隈郡沼隈町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "深安郡神辺町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "甲奴郡上下町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "甲奴郡総領町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "神石郡三和町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "神石郡神石高原町",
+      "area": "全域",
+      "records": 50,
+      "with_deities": 47,
+      "mapped_locations": 0,
+      "without_coordinates": 50
+    },
+    {
+      "municipality": "福山市",
+      "area": "全域",
+      "records": 472,
+      "with_deities": 464,
+      "mapped_locations": 0,
+      "without_coordinates": 472
+    },
+    {
+      "municipality": "竹原市",
+      "area": "全域",
+      "records": 20,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 20
+    },
+    {
+      "municipality": "芦品郡新市町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "豊田郡大崎上島町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "豊田郡大崎町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "豊田郡安浦町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "豊田郡安芸津町",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "豊田郡川尻町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "豊田郡木江町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "豊田郡本郷町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 18,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "豊田郡瀬戸田町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "豊田郡豊浜町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "豊田郡豊町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "賀茂郡大和町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "賀茂郡河内町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "賀茂郡黒瀬町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "高田郡八千代町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "高田郡甲田町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "高田郡美土里町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "高田郡高宮町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    }
+  ],
+  "collections": [
+    "data/shrines/34-hiroshima/agency-001.json",
+    "data/shrines/34-hiroshima/history-001.json",
+    "data/shrines/34-hiroshima/history-002.json",
+    "data/shrines/34-hiroshima/history-003.json",
+    "data/shrines/34-hiroshima/history-004.json",
+    "data/shrines/34-hiroshima/history-005.json",
+    "data/shrines/34-hiroshima/history-006.json",
+    "data/shrines/34-hiroshima/history-007.json",
+    "data/shrines/34-hiroshima/history-008.json",
+    "data/shrines/34-hiroshima/history-009.json",
+    "data/shrines/34-hiroshima/history-010.json",
+    "data/shrines/34-hiroshima/history-011.json",
+    "data/shrines/34-hiroshima/history-012.json",
+    "data/shrines/34-hiroshima/history-013.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 1886,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "34"
+        }
+      }
+    },
+    {
+      "label": "公式・佐伯大竹支部神社一覧",
+      "url": "https://www.hiroshima-jinjacho.jp/branch/saeki-otake/",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "広島県神社庁佐伯大竹支部",
+      "label": "公式・佐伯大竹支部神社一覧",
+      "scope_note": "佐伯大竹支部の一覧99社を全件収録。広島県全域ではない。県全域ディレクトリはデータベース接続エラーで取得不能。リンクのある公開詳細ページの御祭神欄のみ追加。",
+      "expected_rows": 99,
+      "pagination_complete": true,
+      "failures": [
+        {
+          "kind": "prefectural_index",
+          "url": "https://www.hiroshima-jinjacho.jp/hirosima_jinja/",
+          "error": "HTTP500 データベース接続確立エラー; no prefectural directory rows imported."
+        }
+      ],
+      "profile_counts": null,
+      "detail_completion": {
+        "listed_profiles": 15,
+        "fetched_profiles": 15,
+        "failed_profiles": 0,
+        "complete": true
+      },
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": 15,
+      "detail_pages_loaded": 15,
+      "detail_pages_complete": true,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "34-agency-ae8e7438b79880",
+        "34-history-f1f178aed96049"
+      ],
+      "name": "伊勢神社",
+      "municipality": "廿日市"
+    },
+    {
+      "ids": [
+        "34-agency-2d34f59d9b4578",
+        "34-agency-b92510286901a2",
+        "34-agency-71c6c6d632c1b1",
+        "34-history-6b91dabcf57db0",
+        "34-history-9c49ce27a16ae4"
+      ],
+      "name": "大歳神社",
+      "municipality": "廿日市"
+    },
+    {
+      "ids": [
+        "34-agency-be69655173ca99",
+        "34-agency-001e1944f83ef7",
+        "34-agency-86869cd9a97de8",
+        "34-agency-31830d72614c6d",
+        "34-agency-51f718b35da0c5",
+        "34-history-a064d5a813aa48"
+      ],
+      "name": "八幡神社",
+      "municipality": "廿日市"
+    },
+    {
+      "ids": [
+        "34-agency-d176c4f177234b",
+        "34-agency-0f1bf2c150a17d",
+        "34-agency-e12766f01a35ae",
+        "34-agency-410d55a2ccf66d",
+        "34-agency-5d55dc37e4642b",
+        "34-history-c9a3889b316646",
+        "34-history-cb1fd09d8c6215",
+        "34-history-303f0bc6b93e64"
+      ],
+      "name": "河内神社",
+      "municipality": "廿日市"
+    },
+    {
+      "ids": [
+        "34-agency-12b74bf25909c3",
+        "34-agency-3597c1da300ef0",
+        "34-agency-bc2869cc36dab6",
+        "34-agency-f78a6f35ae4f83",
+        "34-history-fd872609432ca3"
+      ],
+      "name": "新宮神社",
+      "municipality": "廿日市"
+    },
+    {
+      "ids": [
+        "34-agency-1d87f62cac4e60",
+        "34-history-8a225f2c37cb3d"
+      ],
+      "name": "宮内天王社",
+      "municipality": "廿日市"
+    },
+    {
+      "ids": [
+        "34-agency-7c74aee880fe3c",
+        "34-agency-1a599a0c4297ba",
+        "34-history-fd0d9900cbed88"
+      ],
+      "name": "住吉神社",
+      "municipality": "廿日市"
+    },
+    {
+      "ids": [
+        "34-agency-63e8afbb68dd44",
+        "34-history-af9aafd5d370ae"
+      ],
+      "name": "八面神社",
+      "municipality": "廿日市"
+    },
+    {
+      "ids": [
+        "34-agency-d4d92f712a1ae9",
+        "34-history-fe801724aced00"
+      ],
+      "name": "三島神社",
+      "municipality": "廿日市"
+    },
+    {
+      "ids": [
+        "34-agency-a561fe593e7938",
+        "34-history-f2b7f28759efc7"
+      ],
+      "name": "臼山八幡神社",
+      "municipality": "広島市佐伯区"
+    },
+    {
+      "ids": [
+        "34-agency-d2f059bbedfab5",
+        "34-agency-e366dd77a5f1b3",
+        "34-agency-e00281b21046ec",
+        "34-agency-d229eb8a5735e2",
+        "34-history-ecede9cd493f5e",
+        "34-history-21933027a69d7c",
+        "34-history-8fb8c19935b34f"
+      ],
+      "name": "河内神社",
+      "municipality": "広島市佐伯区"
+    },
+    {
+      "ids": [
+        "34-agency-52f73cc07a7a55",
+        "34-agency-fa2acdb025349e",
+        "34-agency-fbe6d4431b3209",
+        "34-agency-9c4c11317d14a1",
+        "34-agency-76a7ba38db5189",
+        "34-agency-1236609cd48d96",
+        "34-agency-eb769039c479b8",
+        "34-agency-bf5a2c52b4b0ba",
+        "34-agency-d96774eeac41d7",
+        "34-agency-2be8144c73d534",
+        "34-history-26f1c963c8161f",
+        "34-history-cb9860f6a708d5",
+        "34-history-7ee8f654a2048c"
+      ],
+      "name": "八幡神社",
+      "municipality": "広島市佐伯区"
+    },
+    {
+      "ids": [
+        "34-agency-ce00d5a985747a",
+        "34-agency-52a5937a6caae1",
+        "34-history-57d50631bbe61d"
+      ],
+      "name": "新宮神社",
+      "municipality": "広島市佐伯区"
+    },
+    {
+      "ids": [
+        "34-agency-16f6c9f24bcd75",
+        "34-history-a1058c34240668"
+      ],
+      "name": "大歳神社",
+      "municipality": "広島市西区"
+    },
+    {
+      "ids": [
+        "34-agency-e217fc6a83f431",
+        "34-history-4ab7cdf185a728"
+      ],
+      "name": "五神社",
+      "municipality": "広島市佐伯区"
+    },
+    {
+      "ids": [
+        "34-agency-b56507170c272c",
+        "34-agency-1c6a9bcc17f92f",
+        "34-history-f672fd52a1294a"
+      ],
+      "name": "大歳神社",
+      "municipality": "広島市佐伯区"
+    },
+    {
+      "ids": [
+        "34-agency-9fa800edad1cb7",
+        "34-agency-6350f2d13088c5",
+        "34-history-ce7cb72bb5b83e"
+      ],
+      "name": "大元神社",
+      "municipality": "広島市佐伯区"
+    },
+    {
+      "ids": [
+        "34-agency-aa03a39be585b1",
+        "34-agency-9622c19dc49cc8",
+        "34-history-ede7e622569257"
+      ],
+      "name": "客人神社",
+      "municipality": "広島市佐伯区"
+    },
+    {
+      "ids": [
+        "34-agency-fa40f823282133",
+        "34-history-faa309306ec014"
+      ],
+      "name": "原神社",
+      "municipality": "大竹市"
+    },
+    {
+      "ids": [
+        "34-agency-b2b33d60ed61c1",
+        "34-history-086bc12eab3926"
+      ],
+      "name": "広原神社",
+      "municipality": "大竹市"
+    },
+    {
+      "ids": [
+        "34-agency-65b0289265b203",
+        "34-history-acad80e85a7058"
+      ],
+      "name": "佐古田神社",
+      "municipality": "大竹市"
+    },
+    {
+      "ids": [
+        "34-agency-48b279a5ee8901",
+        "34-history-809938ac07e278"
+      ],
+      "name": "宮久保神社",
+      "municipality": "大竹市"
+    },
+    {
+      "ids": [
+        "34-agency-83cd00be3fe5bc",
+        "34-agency-5efda70af19e9b",
+        "34-agency-bc3eaeae867769",
+        "34-agency-68b8364e4fd2e3",
+        "34-agency-0743aecd3be5ea",
+        "34-agency-c6bbc1824a92fa",
+        "34-history-debfa52ae66a7a",
+        "34-history-66b9ffa2f4e843"
+      ],
+      "name": "大歳神社",
+      "municipality": "大竹市"
+    },
+    {
+      "ids": [
+        "34-agency-ed5a75394ad99b",
+        "34-history-136eb622aff441"
+      ],
+      "name": "大元神社",
+      "municipality": "大竹市"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 105,
+    "unmapped_records": 1929
+  }
+}
