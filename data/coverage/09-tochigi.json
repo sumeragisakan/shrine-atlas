@@ -1,0 +1,2656 @@
+{
+  "code": 9,
+  "name": "栃木県",
+  "slug": "tochigi",
+  "checked": "2026-10-30",
+  "scope": "栃木県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 2028,
+  "records": 2028,
+  "directory_indexes": 27,
+  "baseline_rows": 1924,
+  "agency_rows": 188,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 84,
+  "historical_only_records": 1840,
+  "with_deities": 1901,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 1939,
+  "municipalities": [
+    {
+      "municipality": "さくら市",
+      "area": "全域",
+      "records": 25,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 25
+    },
+    {
+      "municipality": "上都賀郡西方村",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "上都賀郡足尾町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "下都賀郡壬生町",
+      "area": "全域",
+      "records": 39,
+      "with_deities": 37,
+      "mapped_locations": 0,
+      "without_coordinates": 39
+    },
+    {
+      "municipality": "下都賀郡岩舟町",
+      "area": "全域",
+      "records": 32,
+      "with_deities": 32,
+      "mapped_locations": 0,
+      "without_coordinates": 32
+    },
+    {
+      "municipality": "下都賀郡藤岡町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "下都賀郡都賀町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "下都賀郡野木町",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "下野市",
+      "area": "全域",
+      "records": 48,
+      "with_deities": 44,
+      "mapped_locations": 0,
+      "without_coordinates": 48
+    },
+    {
+      "municipality": "今市",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "佐野市",
+      "area": "全域",
+      "records": 131,
+      "with_deities": 121,
+      "mapped_locations": 0,
+      "without_coordinates": 131
+    },
+    {
+      "municipality": "塩谷郡塩谷町",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 26,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "塩谷郡藤原町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "塩谷郡高根沢町",
+      "area": "全域",
+      "records": 26,
+      "with_deities": 24,
+      "mapped_locations": 0,
+      "without_coordinates": 26
+    },
+    {
+      "municipality": "大田原市",
+      "area": "全域",
+      "records": 133,
+      "with_deities": 124,
+      "mapped_locations": 0,
+      "without_coordinates": 133
+    },
+    {
+      "municipality": "宇都宮市",
+      "area": "全域",
+      "records": 192,
+      "with_deities": 180,
+      "mapped_locations": 0,
+      "without_coordinates": 192
+    },
+    {
+      "municipality": "小山市",
+      "area": "全域",
+      "records": 123,
+      "with_deities": 118,
+      "mapped_locations": 0,
+      "without_coordinates": 123
+    },
+    {
+      "municipality": "日光市",
+      "area": "全域",
+      "records": 138,
+      "with_deities": 120,
+      "mapped_locations": 0,
+      "without_coordinates": 138
+    },
+    {
+      "municipality": "栃木市",
+      "area": "全域",
+      "records": 192,
+      "with_deities": 179,
+      "mapped_locations": 0,
+      "without_coordinates": 192
+    },
+    {
+      "municipality": "栃木日光市",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "河内郡上三川町",
+      "area": "全域",
+      "records": 30,
+      "with_deities": 29,
+      "mapped_locations": 0,
+      "without_coordinates": 30
+    },
+    {
+      "municipality": "河内郡上河内村",
+      "area": "全域",
+      "records": 24,
+      "with_deities": 24,
+      "mapped_locations": 0,
+      "without_coordinates": 24
+    },
+    {
+      "municipality": "河内郡南河内町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "河内郡河内町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "真岡市",
+      "area": "全域",
+      "records": 86,
+      "with_deities": 78,
+      "mapped_locations": 0,
+      "without_coordinates": 86
+    },
+    {
+      "municipality": "矢板市",
+      "area": "全域",
+      "records": 47,
+      "with_deities": 44,
+      "mapped_locations": 0,
+      "without_coordinates": 47
+    },
+    {
+      "municipality": "芳賀郡二宮町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "芳賀郡市貝町",
+      "area": "全域",
+      "records": 33,
+      "with_deities": 33,
+      "mapped_locations": 0,
+      "without_coordinates": 33
+    },
+    {
+      "municipality": "芳賀郡益子町",
+      "area": "全域",
+      "records": 37,
+      "with_deities": 36,
+      "mapped_locations": 0,
+      "without_coordinates": 37
+    },
+    {
+      "municipality": "芳賀郡芳賀町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "芳賀郡茂木町",
+      "area": "全域",
+      "records": 58,
+      "with_deities": 56,
+      "mapped_locations": 0,
+      "without_coordinates": 58
+    },
+    {
+      "municipality": "足利市",
+      "area": "全域",
+      "records": 171,
+      "with_deities": 164,
+      "mapped_locations": 0,
+      "without_coordinates": 171
+    },
+    {
+      "municipality": "那須塩原市",
+      "area": "全域",
+      "records": 63,
+      "with_deities": 59,
+      "mapped_locations": 0,
+      "without_coordinates": 63
+    },
+    {
+      "municipality": "那須塩原市三区",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "那須烏山市",
+      "area": "全域",
+      "records": 73,
+      "with_deities": 69,
+      "mapped_locations": 0,
+      "without_coordinates": 73
+    },
+    {
+      "municipality": "那須郡南那須町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "那須郡塩原町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "那須郡烏山町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "那須郡西那須野町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "那須郡那珂川町",
+      "area": "全域",
+      "records": 45,
+      "with_deities": 41,
+      "mapped_locations": 0,
+      "without_coordinates": 45
+    },
+    {
+      "municipality": "那須郡那須町",
+      "area": "全域",
+      "records": 46,
+      "with_deities": 43,
+      "mapped_locations": 0,
+      "without_coordinates": 46
+    },
+    {
+      "municipality": "那須郡馬頭町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "那須郡黒羽町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "鹿沼市",
+      "area": "全域",
+      "records": 132,
+      "with_deities": 126,
+      "mapped_locations": 0,
+      "without_coordinates": 132
+    }
+  ],
+  "collections": [
+    "data/shrines/09-tochigi/agency-001.json",
+    "data/shrines/09-tochigi/agency-002.json",
+    "data/shrines/09-tochigi/history-001.json",
+    "data/shrines/09-tochigi/history-002.json",
+    "data/shrines/09-tochigi/history-003.json",
+    "data/shrines/09-tochigi/history-004.json",
+    "data/shrines/09-tochigi/history-005.json",
+    "data/shrines/09-tochigi/history-006.json",
+    "data/shrines/09-tochigi/history-007.json",
+    "data/shrines/09-tochigi/history-008.json",
+    "data/shrines/09-tochigi/history-009.json",
+    "data/shrines/09-tochigi/history-010.json",
+    "data/shrines/09-tochigi/history-011.json",
+    "data/shrines/09-tochigi/history-012.json",
+    "data/shrines/09-tochigi/history-013.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 1924,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "9"
+        }
+      }
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=59",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=1012",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=1017",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=1019",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=103",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=110",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=112",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=114",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=118",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=120",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=1205",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=122",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=124",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=129",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=63",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=65",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=74",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=78",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=80",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=82",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=84",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=86",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=88",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=90",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=95",
+      "entries": null
+    },
+    {
+      "label": "栃木県神社庁公開神社案内",
+      "url": "http://www.tochigi-jinjacho.or.jp/?p=97",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "栃木県神社庁",
+      "label": "栃木県神社庁公開神社案内",
+      "scope_note": "県神社庁「市町村から探す」の全25市町村の本務神社表を収集。全県の兼務社を含む網羅一覧ではない。選択プロフィールの明示住所等を追加し、祭神の推定・由緒の転載は行わない。 この保存時点では公開個別プロフィール99/99件の本文を追加照合。祭神がnullの行は推測で補わない。",
+      "expected_rows": 188,
+      "pagination_complete": true,
+      "failures": [],
+      "profile_counts": {
+        "published_linked_records": 99,
+        "published_unique_urls": 99,
+        "individually_cached_urls": 99,
+        "factual_detail_rows_processed": 99,
+        "unfetched_unique_urls": 0,
+        "collection_status": "complete"
+      },
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [
+    {
+      "id": "09-agency-44a3952fad37ea",
+      "name": "今宮神社",
+      "lat": 36.689428,
+      "lon": 139.962105,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=623",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-8156655f0c009d",
+      "name": "喜連川神社",
+      "lat": 36.717865,
+      "lon": 140.024198,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=981",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-3b8f0fdfa1b899",
+      "name": "安住神社",
+      "lat": 36.591149,
+      "lon": 140.030209,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=969",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-26a4cca4630903",
+      "name": "津嶋神社",
+      "lat": 36.625654,
+      "lon": 140.037189,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=967",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-9b11aa43a2fb1b",
+      "name": "塩竈神社",
+      "lat": 36.81156,
+      "lon": 139.921268,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=972",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-2a510013c1eaa8",
+      "name": "湯泉神社",
+      "lat": 36.81875,
+      "lon": 139.968202,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=620",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-18de282f7c429e",
+      "name": "古峯神社",
+      "lat": 36.654626,
+      "lon": 139.527079,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=651",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-325baa98923431",
+      "name": "今宮神社",
+      "lat": 36.566627,
+      "lon": 139.745649,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=673",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-1e3407966feead",
+      "name": "磯山神社",
+      "lat": 36.490473,
+      "lon": 139.754205,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=664",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-0ebc6fb156924d",
+      "name": "賀蘇山神社",
+      "lat": 36.585856,
+      "lon": 139.571555,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=655",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-4e18d39f489cc1",
+      "name": "金井神社",
+      "lat": 36.382676,
+      "lon": 139.843237,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=765",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-2ab5cdbd8f8c07",
+      "name": "星宮神社",
+      "lat": 36.452055,
+      "lon": 139.85188,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=534",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-ad81d8e6c2014d",
+      "name": "八幡宮",
+      "lat": 36.400452,
+      "lon": 139.878234,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=597",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-7900c3e6ea8f28",
+      "name": "愛宕神社",
+      "lat": 36.3778,
+      "lon": 139.877071,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=800",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-b06f6d39fd5e7a",
+      "name": "祖母井神社",
+      "lat": 36.552940189278615,
+      "lon": 140.05918801527082,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=2705",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-ce0e302cc1ce2a",
+      "name": "安住神社",
+      "lat": 36.56391,
+      "lon": 140.023584,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=502",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-90819762366982",
+      "name": "天満宮",
+      "lat": 36.5268,
+      "lon": 140.015188,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=471",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-dccda3900d1c3b",
+      "name": "鹿島神社",
+      "lat": 36.463677,
+      "lon": 140.09551,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=242",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-75d7eda7e36355",
+      "name": "岩戸別神社",
+      "lat": 36.776994676705044,
+      "lon": 139.77968203739877,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=2714",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-97640288ee55e3",
+      "name": "八雲神社",
+      "lat": 36.531337,
+      "lon": 140.183207,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=498",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-98dbf036a60c8b",
+      "name": "荒橿神社",
+      "lat": 36.541226,
+      "lon": 140.190525,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=249",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-199cdec4d1d196",
+      "name": "大前神社",
+      "lat": 36.449118,
+      "lon": 140.025629,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=467",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-a63461e0fea536",
+      "name": "大前恵比寿神社",
+      "lat": 36.448776,
+      "lon": 140.025509,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=511",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-7aedee1cea49ee",
+      "name": "中村八幡宮",
+      "lat": 36.413966,
+      "lon": 139.95256,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=505",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-9baead8b85ae88",
+      "name": "長沼八幡宮",
+      "lat": 36.368303,
+      "lon": 139.92864,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=508",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-d74a26a8828470",
+      "name": "高龗神社",
+      "lat": 36.493768,
+      "lon": 139.981613,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=975",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-3bd76e67ad8cf8",
+      "name": "唐澤山神社",
+      "lat": 36.353827,
+      "lon": 139.598326,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=914",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-a7909148b77a8e",
+      "name": "星宮神社",
+      "lat": 36.315391,
+      "lon": 139.573988,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=553",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-ff7c9f14e588bf",
+      "name": "朝日森天満宮",
+      "lat": 36.329323,
+      "lon": 139.579916,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=919",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-bde3c673b43c3b",
+      "name": "雀神社",
+      "lat": 36.292795,
+      "lon": 139.524032,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=560",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-869936b1c8ff17",
+      "name": "一瓶塚稲荷神社",
+      "lat": 36.367666,
+      "lon": 139.579736,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=566",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-1a852dd70d632e",
+      "name": "賀茂別雷神社",
+      "lat": 36.381086,
+      "lon": 139.593806,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=563",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-ffd134a14cc427",
+      "name": "八坂神社",
+      "lat": 36.40211,
+      "lon": 139.609022,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=557",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-f19c558dcdfdda",
+      "name": "浅間神社",
+      "lat": 36.411855,
+      "lon": 139.613902,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=550",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-2ccc5faf5ae1ca",
+      "name": "小藤神社",
+      "lat": 36.3872,
+      "lon": 139.613812,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=923",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-5a8557c0ea0b1e",
+      "name": "涌釜神社",
+      "lat": 36.36670221885414,
+      "lon": 139.52172709786527,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=2527",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-41834c85cc03b4",
+      "name": "伊勢神社",
+      "lat": 36.333891,
+      "lon": 139.457426,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=186",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-dda1fb825095c4",
+      "name": "織姫神社",
+      "lat": 36.338904,
+      "lon": 139.444552,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=963",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-a03c45d62afc76",
+      "name": "日光鹿島神社",
+      "lat": 36.317242,
+      "lon": 139.503828,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=665",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-9da2611d3e566c",
+      "name": "大山祇神社",
+      "lat": 36.325882,
+      "lon": 139.497539,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=661",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-58f20ec140d3d3",
+      "name": "御厨神社",
+      "lat": 36.31794,
+      "lon": 139.46262,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=658",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-6fcaaca7c98b72",
+      "name": "八坂神社",
+      "lat": 36.303085,
+      "lon": 139.445014,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=645",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-38e23c99a5e4ff",
+      "name": "八幡宮",
+      "lat": 36.323988,
+      "lon": 139.435864,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=642",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-963da4267994f4",
+      "name": "二荒山神社",
+      "lat": 36.758416,
+      "lon": 139.596405,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=1888",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-d5dfbb491f19c6",
+      "name": "報徳二宮神社",
+      "lat": 36.726778,
+      "lon": 139.680777,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=926",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-a173b197a94085",
+      "name": "貴船神社",
+      "lat": 36.760865,
+      "lon": 139.752039,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=938",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-7997e65525b4fc",
+      "name": "高男荷渡神社",
+      "lat": 36.754204,
+      "lon": 139.73161,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=941",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-51830162d6ab56",
+      "name": "瀧尾神社",
+      "lat": 36.801261,
+      "lon": 139.69878,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=944",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-76eecad0de0cd8",
+      "name": "大原神社",
+      "lat": 36.815853,
+      "lon": 139.718549,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=948",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-d2c3a909b2e79f",
+      "name": "高尾神社",
+      "lat": 36.831306,
+      "lon": 139.716203,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=951",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-92a6fdb7053852",
+      "name": "藤原町護国神社",
+      "lat": 36.836856,
+      "lon": 139.718774,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=954",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-dbba8bbef38fb7",
+      "name": "十二神社",
+      "lat": 36.855351,
+      "lon": 139.729444,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=957",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-99b21fddbe3288",
+      "name": "瀧尾神社",
+      "lat": 36.726781,
+      "lon": 139.680762,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=930",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-87648cd675190f",
+      "name": "瀧尾神社",
+      "lat": 36.722997,
+      "lon": 139.823021,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=935",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-b970dc84e4b9f7",
+      "name": "高男神社",
+      "lat": 36.746175,
+      "lon": 139.714637,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=1026",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-457db8f60f743a",
+      "name": "岩崎神社",
+      "lat": 36.628509,
+      "lon": 139.739474,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=676",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-b2ac824648ec68",
+      "name": "瀧尾神社",
+      "lat": 36.718401,
+      "lon": 139.719189,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=648",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-28968d88e46da3",
+      "name": "高靇神社",
+      "lat": 36.730452,
+      "lon": 139.756037,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=978",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-d0cec868ab96d9",
+      "name": "清瀧神社",
+      "lat": 36.742856,
+      "lon": 139.564369,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=682",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-a528a21c6d21cc",
+      "name": "猿田彦神社",
+      "lat": 36.650404,
+      "lon": 139.413876,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=697",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-cb1f667ffcc4aa",
+      "name": "磐裂神社",
+      "lat": 36.628796,
+      "lon": 139.429442,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=703",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-705c928c9eded8",
+      "name": "須賀神社",
+      "lat": 36.311991,
+      "lon": 139.798478,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=531",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-2854b2475983d1",
+      "name": "髙椅神社",
+      "lat": 36.336467,
+      "lon": 139.892178,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=783",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-deb9f2ced88b2b",
+      "name": "八幡宮",
+      "lat": 36.274372,
+      "lon": 139.765888,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=544",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-970ff8b08aa51b",
+      "name": "稲荷神社",
+      "lat": 36.356397,
+      "lon": 139.788111,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=788",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-77eb406ca86948",
+      "name": "太平山神社",
+      "lat": 36.362304,
+      "lon": 139.693378,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=771",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-6eccbdb71f3527",
+      "name": "大神神社",
+      "lat": 36.405915,
+      "lon": 139.782154,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=538",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-144358f37b3ebe",
+      "name": "神明宮",
+      "lat": 36.380078,
+      "lon": 139.73647,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=774",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-8e2f7172909d06",
+      "name": "鷲宮神社",
+      "lat": 36.426185,
+      "lon": 139.769651,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=768",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-546ddab08e12a6",
+      "name": "磐根神社",
+      "lat": 36.403479,
+      "lon": 139.741008,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=541",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-1681b47e0cc989",
+      "name": "村檜神社",
+      "lat": 36.368272,
+      "lon": 139.625301,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=547",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-4a915b36d88d48",
+      "name": "諏訪神社",
+      "lat": 36.342715,
+      "lon": 139.71919,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=777",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-486669edc79cda",
+      "name": "八幡宮",
+      "lat": 36.264414,
+      "lon": 139.706955,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=780",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-2e03edeb1d8caf",
+      "name": "大宮神社",
+      "lat": 36.472275,
+      "lon": 139.700947,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=1567",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-88dc91a7ee769b",
+      "name": "大田原神社",
+      "lat": 36.871637,
+      "lon": 140.032006,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=708",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-a44905e4a6e8b3",
+      "name": "那須神社",
+      "lat": 36.864145,
+      "lon": 140.087867,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=717",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-c6a98fe953ebed",
+      "name": "温泉神社",
+      "lat": 36.9073,
+      "lon": 140.145988,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=711",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-339092862a534d",
+      "name": "八幡宮",
+      "lat": 36.657268,
+      "lon": 140.169049,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=668",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-81b9ab90b49bc0",
+      "name": "三箇神社",
+      "lat": 36.692562,
+      "lon": 140.06787,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=692",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-91671f911e7d46",
+      "name": "靜神社",
+      "lat": 36.740002,
+      "lon": 140.172093,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=683",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-b5fd53cc99edac",
+      "name": "鷲子山上神社",
+      "lat": 36.678501,
+      "lon": 140.20206,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=677",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-db2014b74f4382",
+      "name": "温泉神社",
+      "lat": 36.765499,
+      "lon": 140.130494,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=686",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-201e3166b2853e",
+      "name": "温泉神社",
+      "lat": 37.097183,
+      "lon": 140.000473,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=700",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-6cff0bd8e31871",
+      "name": "三島神社",
+      "lat": 36.89867,
+      "lon": 139.96758,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=698",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-2a81376715c61a",
+      "name": "乃木神社",
+      "lat": 36.887606,
+      "lon": 140.002892,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=714",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-b8f24bda26596f",
+      "name": "烏森神社",
+      "lat": 36.890177,
+      "lon": 139.96343,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=720",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-3a99656f7bfa5c",
+      "name": "黒磯神社",
+      "lat": 36.972406,
+      "lon": 140.058301,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=960",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-34c355ae496f69",
+      "name": "二荒山神社",
+      "lat": 36.562494,
+      "lon": 139.885798,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=617",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-72ff99492260c6",
+      "name": "三祖神社",
+      "lat": 36.571278,
+      "lon": 139.976664,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=614",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-0397426f2ca636",
+      "name": "平出神社",
+      "lat": 36.572964,
+      "lon": 139.940767,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=611",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-f52c6eb7c9dae1",
+      "name": "八坂神社",
+      "lat": 36.565636,
+      "lon": 139.899539,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=608",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-bb132e17698647",
+      "name": "栃木県護国神社",
+      "lat": 36.571226,
+      "lon": 139.86056,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=594",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-cce86ae2d471c4",
+      "name": "日吉神社",
+      "lat": 36.366827,
+      "lon": 138.143822,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=588",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-4c60d72a4e3bc7",
+      "name": "髙龗神社",
+      "lat": 36.684465,
+      "lon": 139.811429,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=584",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-d07cd362845db6",
+      "name": "智賀都神社",
+      "lat": 36.657153,
+      "lon": 139.840701,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=581",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-3be5438ce1d186",
+      "name": "高龗神社",
+      "lat": 36.67284,
+      "lon": 139.942171,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=577",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-916091ef8a143a",
+      "name": "白鷺神社",
+      "lat": 36.440887,
+      "lon": 139.913312,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=605",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-01c82e00e9c0fc",
+      "name": "雄琴神社",
+      "lat": 36.427498,
+      "lon": 139.806336,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=759",
+      "reason": "source_map_viewport"
+    },
+    {
+      "id": "09-agency-76e033adf67c3d",
+      "name": "磐裂根裂神社",
+      "lat": 36.49937,
+      "lon": 139.83086,
+      "source": "http://www.tochigi-jinjacho.or.jp/?p=526",
+      "reason": "source_map_viewport"
+    }
+  ],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "09-agency-44a3952fad37ea",
+        "09-history-0058e62e5abc90",
+        "09-history-de3ece45472153",
+        "09-history-56b7d0a7842b82"
+      ],
+      "name": "今宮神社",
+      "municipality": "さくら市"
+    },
+    {
+      "ids": [
+        "09-agency-bba68136b8e0ad",
+        "09-history-952ecd64faa5f3",
+        "09-history-e1a97980dff338"
+      ],
+      "name": "星宮神社",
+      "municipality": "さくら市"
+    },
+    {
+      "ids": [
+        "09-agency-8156655f0c009d",
+        "09-history-7ffa57ce9130f7"
+      ],
+      "name": "喜連川神社",
+      "municipality": "さくら市"
+    },
+    {
+      "ids": [
+        "09-agency-3b8f0fdfa1b899",
+        "09-history-261bf3bbb3df20"
+      ],
+      "name": "安住神社",
+      "municipality": "塩谷郡高根沢町"
+    },
+    {
+      "ids": [
+        "09-agency-26a4cca4630903",
+        "09-history-54ab9638c8c896"
+      ],
+      "name": "津嶋神社",
+      "municipality": "塩谷郡高根沢町"
+    },
+    {
+      "ids": [
+        "09-agency-9b11aa43a2fb1b",
+        "09-history-e467a96f9c7a71"
+      ],
+      "name": "塩竈神社",
+      "municipality": "矢板市"
+    },
+    {
+      "ids": [
+        "09-agency-ef67a4d0a404be",
+        "09-history-8b0ca7f2f1254d",
+        "09-history-47fe6e65fc3f50",
+        "09-history-208591d48ef2e0",
+        "09-history-94f169cc0cc228",
+        "09-history-73671bb115fe67",
+        "09-history-66de81508600ad",
+        "09-history-ad21ca654c328a",
+        "09-history-31a836bbfc0eb0",
+        "09-history-399dfc24a9938a",
+        "09-history-56f8e8b5fc3da0",
+        "09-history-73af2c677a368b"
+      ],
+      "name": "箒根神社",
+      "municipality": "矢板市"
+    },
+    {
+      "ids": [
+        "09-agency-2a510013c1eaa8",
+        "09-history-c065809f468faf"
+      ],
+      "name": "湯泉神社",
+      "municipality": "矢板市"
+    },
+    {
+      "ids": [
+        "09-agency-18de282f7c429e",
+        "09-history-6dd559f0c78ae5"
+      ],
+      "name": "古峯神社",
+      "municipality": "鹿沼市"
+    },
+    {
+      "ids": [
+        "09-agency-325baa98923431",
+        "09-history-0e9bea382c319e",
+        "09-history-3976e15fdc1f58",
+        "09-history-47c28873b2a3bf"
+      ],
+      "name": "今宮神社",
+      "municipality": "鹿沼市"
+    },
+    {
+      "ids": [
+        "09-agency-1e3407966feead",
+        "09-history-1df40b1a63913d"
+      ],
+      "name": "磯山神社",
+      "municipality": "鹿沼市"
+    },
+    {
+      "ids": [
+        "09-agency-0ebc6fb156924d",
+        "09-history-ee9692ccb7c2db"
+      ],
+      "name": "賀蘇山神社",
+      "municipality": "鹿沼市"
+    },
+    {
+      "ids": [
+        "09-agency-8a7ca3099d17fe",
+        "09-history-ddbbdce761adc0",
+        "09-history-39a37a87c568cc",
+        "09-history-eec5b293a74729",
+        "09-history-b51c0e44b00259",
+        "09-history-57bb5fdc4399c9",
+        "09-history-d2b89dad520a88"
+      ],
+      "name": "天満宮",
+      "municipality": "鹿沼市"
+    },
+    {
+      "ids": [
+        "09-agency-4e18d39f489cc1",
+        "09-history-ab73650cfc7fd7"
+      ],
+      "name": "金井神社",
+      "municipality": "下野市"
+    },
+    {
+      "ids": [
+        "09-agency-2ab5cdbd8f8c07",
+        "09-history-0a999c7dbc0771",
+        "09-history-099f864e70aec0",
+        "09-history-89c0a84eb28bfc",
+        "09-history-d4bca70e5f9df6",
+        "09-history-a37d49a43eba20",
+        "09-history-cfafd35af12a05",
+        "09-history-3a47466217ba55",
+        "09-history-4d0689ca6e3f5e",
+        "09-history-163efa9dceb757",
+        "09-history-0b79a57cba13e6",
+        "09-history-54db47000b44e7",
+        "09-history-ef5860635a75f3",
+        "09-history-7327a2653378ea"
+      ],
+      "name": "星宮神社",
+      "municipality": "下野市"
+    },
+    {
+      "ids": [
+        "09-agency-ad81d8e6c2014d",
+        "09-history-603e9a5c7b89eb",
+        "09-history-08a629648e8420",
+        "09-history-a0941b4fc8ab66"
+      ],
+      "name": "八幡宮",
+      "municipality": "下野市"
+    },
+    {
+      "ids": [
+        "09-agency-7900c3e6ea8f28",
+        "09-history-7eb9fe8d86601f",
+        "09-history-b55dab1a73ec37",
+        "09-history-9a4585a2a2a8b9",
+        "09-history-ab1b028eddee53",
+        "09-history-48df1c2de5e89f"
+      ],
+      "name": "愛宕神社",
+      "municipality": "下野市"
+    },
+    {
+      "ids": [
+        "09-agency-a5f4c2f044ae12",
+        "09-history-8d0964ba8786b9"
+      ],
+      "name": "星宮神社",
+      "municipality": "芳賀郡芳賀町"
+    },
+    {
+      "ids": [
+        "09-agency-b06f6d39fd5e7a",
+        "09-history-0957eb75abaf06"
+      ],
+      "name": "祖母井神社",
+      "municipality": "芳賀郡芳賀町"
+    },
+    {
+      "ids": [
+        "09-agency-ce0e302cc1ce2a",
+        "09-history-1788ca5b52b1d8"
+      ],
+      "name": "安住神社",
+      "municipality": "芳賀郡芳賀町"
+    },
+    {
+      "ids": [
+        "09-agency-90819762366982",
+        "09-history-1964479660e013",
+        "09-history-73f97501970026"
+      ],
+      "name": "天満宮",
+      "municipality": "芳賀郡芳賀町"
+    },
+    {
+      "ids": [
+        "09-agency-dccda3900d1c3b",
+        "09-history-c2c47c8095d0b7",
+        "09-history-527edb19003357"
+      ],
+      "name": "鹿島神社",
+      "municipality": "芳賀郡益子町"
+    },
+    {
+      "ids": [
+        "09-agency-75d7eda7e36355",
+        "09-history-549fd51edbdee5"
+      ],
+      "name": "岩戸別神社",
+      "municipality": "塩谷郡塩谷町"
+    },
+    {
+      "ids": [
+        "09-agency-97640288ee55e3",
+        "09-history-c3cf7bcde918ae"
+      ],
+      "name": "八雲神社",
+      "municipality": "芳賀郡茂木町"
+    },
+    {
+      "ids": [
+        "09-agency-66a2ff6ed04483",
+        "09-history-099e5a9ab9715f",
+        "09-history-bff2201a418de9"
+      ],
+      "name": "八幡宮",
+      "municipality": "芳賀郡茂木町"
+    },
+    {
+      "ids": [
+        "09-agency-98dbf036a60c8b",
+        "09-history-3146f216def0dd"
+      ],
+      "name": "荒橿神社",
+      "municipality": "芳賀郡茂木町"
+    },
+    {
+      "ids": [
+        "09-agency-199cdec4d1d196",
+        "09-history-1794a5302d4be5"
+      ],
+      "name": "大前神社",
+      "municipality": "真岡市"
+    },
+    {
+      "ids": [
+        "09-agency-a63461e0fea536",
+        "09-history-63dde8fd58caff"
+      ],
+      "name": "大前恵比寿神社",
+      "municipality": "真岡市"
+    },
+    {
+      "ids": [
+        "09-agency-7aedee1cea49ee",
+        "09-history-ec5ee0ad067303"
+      ],
+      "name": "中村八幡宮",
+      "municipality": "真岡市"
+    },
+    {
+      "ids": [
+        "09-agency-4a286f94238ba2",
+        "09-history-cb9bc87fe1d313"
+      ],
+      "name": "鹿島神社",
+      "municipality": "真岡市"
+    },
+    {
+      "ids": [
+        "09-agency-9baead8b85ae88",
+        "09-history-25c73613aa84d1"
+      ],
+      "name": "長沼八幡宮",
+      "municipality": "真岡市"
+    },
+    {
+      "ids": [
+        "09-agency-d74a26a8828470",
+        "09-history-a45443ee7b9aff"
+      ],
+      "name": "高龗神社",
+      "municipality": "真岡市"
+    },
+    {
+      "ids": [
+        "09-agency-25c028f891d7f0",
+        "09-history-5c86c72087781f"
+      ],
+      "name": "山神社",
+      "municipality": "真岡市"
+    },
+    {
+      "ids": [
+        "09-agency-3bd76e67ad8cf8",
+        "09-history-116f0b1c5b5f53"
+      ],
+      "name": "唐澤山神社",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-a7909148b77a8e",
+        "09-history-4b021ac515518a",
+        "09-history-5110266302dfe3",
+        "09-history-bb0ef129011bc8",
+        "09-history-1d0c4212cbf7dd"
+      ],
+      "name": "星宮神社",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-ff7c9f14e588bf",
+        "09-history-5e5b38478dd884"
+      ],
+      "name": "朝日森天満宮",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-4298621280bdb2",
+        "09-history-999f17c1b52f42"
+      ],
+      "name": "人丸神社",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-bde3c673b43c3b",
+        "09-history-7bbf75e372f9a5"
+      ],
+      "name": "雀神社",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-869936b1c8ff17",
+        "09-history-116eaa44f41ff1"
+      ],
+      "name": "一瓶塚稲荷神社",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-1a852dd70d632e",
+        "09-history-dcf9f39e6ec5d2"
+      ],
+      "name": "賀茂別雷神社",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-2c08c0b6be9398",
+        "09-history-2fb43cc5fd1fba",
+        "09-history-d7b4a38e06fbf3",
+        "09-history-dc1cb1213f7787"
+      ],
+      "name": "宇都宮神社",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-ffd134a14cc427",
+        "09-history-d90693dc3b774a",
+        "09-history-34d3b255219583",
+        "09-history-ebf082ae955172"
+      ],
+      "name": "八坂神社",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-f19c558dcdfdda",
+        "09-history-329366d9387a7a",
+        "09-history-0dc3583994f7f4",
+        "09-history-d8107b0e38d64a",
+        "09-history-4b13f564a088e1",
+        "09-history-a12a4dd9f9ff69"
+      ],
+      "name": "浅間神社",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-2ccc5faf5ae1ca",
+        "09-history-27de017018cbf5"
+      ],
+      "name": "小藤神社",
+      "municipality": "佐野市"
+    },
+    {
+      "ids": [
+        "09-agency-41834c85cc03b4",
+        "09-history-df43f6eb9a722d"
+      ],
+      "name": "伊勢神社",
+      "municipality": "足利市"
+    },
+    {
+      "ids": [
+        "09-agency-b433c4c8060900",
+        "09-history-9fe737a9afcac1"
+      ],
+      "name": "三柱神社",
+      "municipality": "足利市"
+    },
+    {
+      "ids": [
+        "09-agency-d2f32385c46edc",
+        "09-agency-0f5c959b3df63c",
+        "09-agency-d3fb3bf0411e04",
+        "09-history-92a72eda6405a2",
+        "09-history-97da3ea5d9141b"
+      ],
+      "name": "八雲神社",
+      "municipality": "足利市"
+    },
+    {
+      "ids": [
+        "09-agency-dda1fb825095c4",
+        "09-history-cff12fa065c44a"
+      ],
+      "name": "織姫神社",
+      "municipality": "足利市"
+    },
+    {
+      "ids": [
+        "09-agency-a03c45d62afc76",
+        "09-history-d73f4e4c005643"
+      ],
+      "name": "日光鹿島神社",
+      "municipality": "足利市"
+    },
+    {
+      "ids": [
+        "09-agency-9da2611d3e566c",
+        "09-history-34c34922dfd3d3"
+      ],
+      "name": "大山祇神社",
+      "municipality": "足利市"
+    },
+    {
+      "ids": [
+        "09-agency-58f20ec140d3d3",
+        "09-history-0eb882bb8362b6",
+        "09-history-d682da401c0e5a"
+      ],
+      "name": "御厨神社",
+      "municipality": "足利市"
+    },
+    {
+      "ids": [
+        "09-agency-6fcaaca7c98b72",
+        "09-history-4d9783f88c865b",
+        "09-history-2156b3762671e9",
+        "09-history-8bbeb16d5d50e1",
+        "09-history-4223c96343ec85",
+        "09-history-5c6bc44c779fa2",
+        "09-history-d3b19637c6a2c5"
+      ],
+      "name": "八坂神社",
+      "municipality": "足利市"
+    },
+    {
+      "ids": [
+        "09-agency-38e23c99a5e4ff",
+        "09-history-71440a184dae9c",
+        "09-history-6225bf9779c063",
+        "09-history-4901093fa0e5b8",
+        "09-history-27836a5518c0db",
+        "09-history-e1341fea70455c",
+        "09-history-ee7d311e81188d",
+        "09-history-3fa8694384567d",
+        "09-history-67d3d2f2779d2f",
+        "09-history-4703b6ae49b45d",
+        "09-history-ec3504dea2ea43",
+        "09-history-68d18e02880ac9"
+      ],
+      "name": "八幡宮",
+      "municipality": "足利市"
+    },
+    {
+      "ids": [
+        "09-agency-44da32a2297c33",
+        "09-history-168b8d6231b890"
+      ],
+      "name": "神明神社",
+      "municipality": "足利市"
+    },
+    {
+      "ids": [
+        "09-agency-963da4267994f4",
+        "09-history-ff56b79ab94117",
+        "09-history-5b13ff3e0b84b7"
+      ],
+      "name": "二荒山神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-d5dfbb491f19c6",
+        "09-history-fafd68fa978a36"
+      ],
+      "name": "報徳二宮神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-a173b197a94085",
+        "09-history-b85e3cd9968fa3"
+      ],
+      "name": "貴船神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-7997e65525b4fc",
+        "09-history-8ed24802c3e97e"
+      ],
+      "name": "高男荷渡神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-51830162d6ab56",
+        "09-agency-99b21fddbe3288",
+        "09-agency-87648cd675190f",
+        "09-agency-b2ac824648ec68",
+        "09-history-2bd617c799fb30",
+        "09-history-de09ba558843a1",
+        "09-history-0a7cd0e5a1893c",
+        "09-history-e89687cd71dc38",
+        "09-history-b5f96da50b8568",
+        "09-history-9bfefa8281cae6",
+        "09-history-ff9dca79445941",
+        "09-history-a9771a9ab0183b"
+      ],
+      "name": "瀧尾神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-76eecad0de0cd8",
+        "09-history-4ed8b5097025cb"
+      ],
+      "name": "大原神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-d2c3a909b2e79f",
+        "09-history-89f1d566576571",
+        "09-history-6354820a661467"
+      ],
+      "name": "高尾神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-92a6fdb7053852",
+        "09-history-7a6bcaae0572bb"
+      ],
+      "name": "藤原町護国神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-dbba8bbef38fb7",
+        "09-history-acb25357a5eebd"
+      ],
+      "name": "十二神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-b970dc84e4b9f7",
+        "09-history-0dbe8b7f96ac08"
+      ],
+      "name": "高男神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-457db8f60f743a",
+        "09-history-bd29aeb35582fb"
+      ],
+      "name": "岩崎神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-d0cec868ab96d9",
+        "09-history-44195bd0675583"
+      ],
+      "name": "清瀧神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-a528a21c6d21cc",
+        "09-history-0e3f9d84a83e91"
+      ],
+      "name": "猿田彦神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-cb1f667ffcc4aa",
+        "09-history-a3f6ebd17c01d5",
+        "09-history-b9b49841afd2ed",
+        "09-history-1e1c9093364acb",
+        "09-history-7ee74bf13836eb",
+        "09-history-b2cd91eb7ec582",
+        "09-history-aaedce6b1f2998",
+        "09-history-3487e0519bb1e0"
+      ],
+      "name": "磐裂神社",
+      "municipality": "日光市"
+    },
+    {
+      "ids": [
+        "09-agency-705c928c9eded8",
+        "09-history-f486cbfb850cf9",
+        "09-history-e9e94cd6f85ac1"
+      ],
+      "name": "須賀神社",
+      "municipality": "小山市"
+    },
+    {
+      "ids": [
+        "09-agency-2854b2475983d1",
+        "09-history-3f0b31a06774bb"
+      ],
+      "name": "髙椅神社",
+      "municipality": "小山市"
+    },
+    {
+      "ids": [
+        "09-agency-deb9f2ced88b2b",
+        "09-history-52e2edbaf07e98",
+        "09-history-9704545ec452f6",
+        "09-history-20a37ffb93abb8",
+        "09-history-bb7632bf93646a",
+        "09-history-67960bd1469b55",
+        "09-history-fd22509aa50726",
+        "09-history-eb963fb4c9be54",
+        "09-history-c74b3c07f2a388",
+        "09-history-4ae86502cc1547",
+        "09-history-9295eff610a20e",
+        "09-history-d8090350a700d6",
+        "09-history-94526f3402c8e6"
+      ],
+      "name": "八幡宮",
+      "municipality": "小山市"
+    },
+    {
+      "ids": [
+        "09-agency-970ff8b08aa51b",
+        "09-history-9dd335e63783f6",
+        "09-history-d806a1ef3129f7",
+        "09-history-a5db36ddaa3eb1",
+        "09-history-dba6db10e290d1",
+        "09-history-3be327bfbf67a8",
+        "09-history-12fc05cfbb4743",
+        "09-history-5f0bfbe069d299",
+        "09-history-5c5123b32bac2b",
+        "09-history-2cb003d007c874"
+      ],
+      "name": "稲荷神社",
+      "municipality": "小山市"
+    },
+    {
+      "ids": [
+        "09-agency-77eb406ca86948",
+        "09-history-593fbf02ce9596"
+      ],
+      "name": "太平山神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-6eccbdb71f3527",
+        "09-history-3240f0d19ce0ab"
+      ],
+      "name": "大神神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-144358f37b3ebe",
+        "09-history-ae2c24f4222bb7",
+        "09-history-934e7e130dbb96"
+      ],
+      "name": "神明宮",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-6b454277122beb",
+        "09-agency-c2ae422ed1321c",
+        "09-history-56d5b00f52a6c4",
+        "09-history-81eefa95b9ee9d",
+        "09-history-a86346a6a91f27",
+        "09-history-560a3a0883a4af",
+        "09-history-ae052c14fc4646",
+        "09-history-e9bd903f56a772",
+        "09-history-ee41e7197b680e",
+        "09-history-c8824c003eb855",
+        "09-history-f3d7b467434991",
+        "09-history-78e207e826bda4",
+        "09-history-272c236e3fcf9e",
+        "09-history-4bfea771d917f8",
+        "09-history-5318860a032b6e",
+        "09-history-fd64323b9fac5b"
+      ],
+      "name": "星宮神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-55b87a98de5b19",
+        "09-history-d40d0f37774fbc"
+      ],
+      "name": "琴平神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-8e2f7172909d06",
+        "09-history-7a8ac5257e542b",
+        "09-history-20f10fb7f69960"
+      ],
+      "name": "鷲宮神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-546ddab08e12a6",
+        "09-history-8c69909cd2b6ae",
+        "09-history-4b6a1d93252e13"
+      ],
+      "name": "磐根神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-1681b47e0cc989",
+        "09-history-3f235216bcf33a"
+      ],
+      "name": "村檜神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-d60489a01047d7",
+        "09-history-0d86c6d6d4d009",
+        "09-history-8703f24432f6e0",
+        "09-history-4eb549e9f0fd56"
+      ],
+      "name": "住吉神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-4a915b36d88d48",
+        "09-history-20c1b3cc3d3266",
+        "09-history-227af0aafd2ee9"
+      ],
+      "name": "諏訪神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-486669edc79cda",
+        "09-history-8a13abf59d745e",
+        "09-history-15ea876ef36ea3",
+        "09-history-ebc06ab4fd9cbd",
+        "09-history-6be7cef632ae60",
+        "09-history-f5c7b6f9745b96",
+        "09-history-31d3889f556c5f",
+        "09-history-76cf205f0a8a71",
+        "09-history-d2531d1b0243eb",
+        "09-history-51bf74a7458e49",
+        "09-history-d433bb013c320d"
+      ],
+      "name": "八幡宮",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-017b0d9cd65aae",
+        "09-history-c1fb2176b934c4",
+        "09-history-9a1c5eb834159e",
+        "09-history-5d5e1fced305b0",
+        "09-history-f1d1e503c81bde",
+        "09-history-bce7591169b1f4"
+      ],
+      "name": "日枝神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-b22d42600b85b4",
+        "09-history-ed3751600c8f34",
+        "09-history-b82cf5d8e41f4f",
+        "09-history-4659bea17eb64d",
+        "09-history-f2d58d73155921",
+        "09-history-34bdf5f6ea6484",
+        "09-history-3ac0f25a96dde2",
+        "09-history-2c19d96a2d81c0",
+        "09-history-118873541b5ab8",
+        "09-history-76542b7e91cb52",
+        "09-history-fafb988b23248e",
+        "09-history-3c8ae01b0fb836",
+        "09-history-57399b27772904",
+        "09-history-159b8192433754",
+        "09-history-4b315eaab1de9f"
+      ],
+      "name": "八坂神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-2e03edeb1d8caf",
+        "09-history-75e81944e9f2af"
+      ],
+      "name": "大宮神社",
+      "municipality": "栃木市"
+    },
+    {
+      "ids": [
+        "09-agency-88dc91a7ee769b",
+        "09-history-0c3a08c2c123ee"
+      ],
+      "name": "大田原神社",
+      "municipality": "大田原市"
+    },
+    {
+      "ids": [
+        "09-agency-a44905e4a6e8b3",
+        "09-history-05d50f5e86049b"
+      ],
+      "name": "那須神社",
+      "municipality": "大田原市"
+    },
+    {
+      "ids": [
+        "09-agency-2f612af6501d0f",
+        "09-agency-a3fcb252a5870e",
+        "09-agency-c6a98fe953ebed",
+        "09-history-70f6f14773fc71",
+        "09-history-57db5350431d33",
+        "09-history-1e25f864626485",
+        "09-history-7c16624336b78b",
+        "09-history-7845fd39825e18",
+        "09-history-b0c61db739b776",
+        "09-history-fb6b190a2a9188",
+        "09-history-0fe9344259a98c",
+        "09-history-f1bcf412717395",
+        "09-history-ddba969be22c0a",
+        "09-history-cf6c0b7456ce72",
+        "09-history-14d83db08f878a",
+        "09-history-dbae6cfde70fed",
+        "09-history-57203a82de5b6f",
+        "09-history-4776553d83214c",
+        "09-history-4b4276d10efdc0",
+        "09-history-9c7967b406a48b",
+        "09-history-8ec676f64651d3",
+        "09-history-62d848dc5e4392",
+        "09-history-f0f305abe019b8",
+        "09-history-fc7d4780d6ea46",
+        "09-history-f524058fcc9b58",
+        "09-history-032acc866228fe",
+        "09-history-dd16b4e2fb1d1a",
+        "09-history-fca85bced6503e",
+        "09-history-081d90532d2d64",
+        "09-history-dfafa97f1e7f2e",
+        "09-history-0646ea6ca5f84d",
+        "09-history-9d886d6b227751",
+        "09-history-4008c613aff6a1"
+      ],
+      "name": "温泉神社",
+      "municipality": "大田原市"
+    },
+    {
+      "ids": [
+        "09-agency-7df79ed3a241bf",
+        "09-history-d32cb34ed1284d",
+        "09-history-d3a9a61afb0143",
+        "09-history-11a605e58da311",
+        "09-history-d31ae7434577c3",
+        "09-history-9e617d816d9d9d",
+        "09-history-4a77a6a70c5af2",
+        "09-history-8372b7d0677bbe",
+        "09-history-31f4926d916d74",
+        "09-history-bdec637b8e4d92"
+      ],
+      "name": "湯泉神社",
+      "municipality": "大田原市"
+    },
+    {
+      "ids": [
+        "09-agency-260bc206f840b6",
+        "09-history-0bcd6a1623bd25",
+        "09-history-2372eb96fa7b34",
+        "09-history-11348fb415dbb7",
+        "09-history-a17240d75fd234"
+      ],
+      "name": "八幡宮",
+      "municipality": "大田原市"
+    },
+    {
+      "ids": [
+        "09-agency-69740d69f0d084",
+        "09-history-81d83ce4b96da3"
+      ],
+      "name": "鹿島神社",
+      "municipality": "大田原市"
+    },
+    {
+      "ids": [
+        "09-agency-e2d080c62345a7",
+        "09-history-35066abb0b0bbf",
+        "09-history-6a79cc72be8aee"
+      ],
+      "name": "八雲神社",
+      "municipality": "大田原市"
+    },
+    {
+      "ids": [
+        "09-agency-7ec0b1efbf82a1",
+        "09-history-a15967cea67c66"
+      ],
+      "name": "三島神社",
+      "municipality": "大田原市"
+    },
+    {
+      "ids": [
+        "09-agency-339092862a534d",
+        "09-history-2094a34b55c71d",
+        "09-history-f79d1da00e0be9",
+        "09-history-f91be52f8c116f",
+        "09-history-e5aaca5ff3258e",
+        "09-history-54eb4b36521214",
+        "09-history-888e9d318c6f99"
+      ],
+      "name": "八幡宮",
+      "municipality": "那須烏山市"
+    },
+    {
+      "ids": [
+        "09-agency-3769def0dbf55e",
+        "09-history-4e848aa5251fab",
+        "09-history-b3f77ccb0e7d8f",
+        "09-history-24e2e91a1cfae9",
+        "09-history-5590ee29c35c79",
+        "09-history-6951938a62f388",
+        "09-history-7fe523a512c560",
+        "09-history-e80309fdd66cad"
+      ],
+      "name": "熊野神社",
+      "municipality": "那須烏山市"
+    },
+    {
+      "ids": [
+        "09-agency-81b9ab90b49bc0",
+        "09-history-25d8b0fcb24f3b"
+      ],
+      "name": "三箇神社",
+      "municipality": "那須烏山市"
+    },
+    {
+      "ids": [
+        "09-agency-1a4118452086f1",
+        "09-history-cf890ae4a47a57",
+        "09-history-e490c4951a9658",
+        "09-history-6962f9a037f8f5"
+      ],
+      "name": "愛宕神社",
+      "municipality": "那須烏山市"
+    },
+    {
+      "ids": [
+        "09-agency-91671f911e7d46",
+        "09-history-c6ccd871b040dd"
+      ],
+      "name": "靜神社",
+      "municipality": "那須郡那珂川町"
+    },
+    {
+      "ids": [
+        "09-agency-b5fd53cc99edac",
+        "09-history-3ed7d6a87437b0"
+      ],
+      "name": "鷲子山上神社",
+      "municipality": "那須郡那珂川町"
+    },
+    {
+      "ids": [
+        "09-agency-64625f2b7e6efa",
+        "09-history-e4f454af8a61c5"
+      ],
+      "name": "二荒山神社",
+      "municipality": "那須郡那珂川町"
+    },
+    {
+      "ids": [
+        "09-agency-db2014b74f4382",
+        "09-history-cf9696e3ef605c",
+        "09-history-df21db565667ee",
+        "09-history-09520c242347fd",
+        "09-history-416ca93545004d",
+        "09-history-dfb8524fd29539",
+        "09-history-8819156a3cdc83",
+        "09-history-13cbd571583938",
+        "09-history-77fd1fa9197c39",
+        "09-history-c4e6704b99b46b",
+        "09-history-9c5ff997ae6600"
+      ],
+      "name": "温泉神社",
+      "municipality": "那須郡那珂川町"
+    },
+    {
+      "ids": [
+        "09-agency-201e3166b2853e",
+        "09-history-7bf5417c953e4a",
+        "09-history-0a69257a7b74aa",
+        "09-history-75830d938becfb",
+        "09-history-7c75594fd86132",
+        "09-history-16b94e6b863029",
+        "09-history-67b232a2158b0d",
+        "09-history-4103d8934cc70a",
+        "09-history-74e8ee38aa7ffc",
+        "09-history-129ba4b463c50c",
+        "09-history-258b2c0da3ffee"
+      ],
+      "name": "温泉神社",
+      "municipality": "那須郡那須町"
+    },
+    {
+      "ids": [
+        "09-agency-78136d336fd906",
+        "09-history-bb6988ab0c62bc",
+        "09-history-c64ecd9dc82964",
+        "09-history-3a0fc733843426",
+        "09-history-780e23f77d8bfb",
+        "09-history-89801d92ff5f19",
+        "09-history-ed1476a02ca18a",
+        "09-history-23806175ebe90b",
+        "09-history-c6b26031829c44",
+        "09-history-728ab7d4168a6f",
+        "09-history-961c3433514392",
+        "09-history-2a378d9f535441",
+        "09-history-0481c726071b85",
+        "09-history-659b577e181260",
+        "09-history-76dfea63c124c9"
+      ],
+      "name": "湯泉神社",
+      "municipality": "那須郡那須町"
+    },
+    {
+      "ids": [
+        "09-agency-6cff0bd8e31871",
+        "09-history-f539aa98c2ea22"
+      ],
+      "name": "三島神社",
+      "municipality": "那須塩原市"
+    },
+    {
+      "ids": [
+        "09-agency-2a81376715c61a",
+        "09-history-45e9059a2ae216"
+      ],
+      "name": "乃木神社",
+      "municipality": "那須塩原市"
+    },
+    {
+      "ids": [
+        "09-agency-b8f24bda26596f",
+        "09-history-b18958344a7e90"
+      ],
+      "name": "烏森神社",
+      "municipality": "那須塩原市三区"
+    },
+    {
+      "ids": [
+        "09-agency-a646ce38488082",
+        "09-history-240aee01bfa0aa",
+        "09-history-79e265d5d29a75",
+        "09-history-17671956844cb9"
+      ],
+      "name": "箒根神社",
+      "municipality": "那須塩原市"
+    },
+    {
+      "ids": [
+        "09-agency-fde8fcbd4fbb41",
+        "09-history-6ad25099e57aeb"
+      ],
+      "name": "八幡宮",
+      "municipality": "那須塩原市"
+    },
+    {
+      "ids": [
+        "09-agency-3a99656f7bfa5c",
+        "09-history-8f232ec33457b3"
+      ],
+      "name": "黒磯神社",
+      "municipality": "那須塩原市"
+    },
+    {
+      "ids": [
+        "09-agency-1a8627dce06959",
+        "09-history-9bcdfc07abf155",
+        "09-history-a49f9691f57886",
+        "09-history-bea9643a234335",
+        "09-history-8d4b84bb956133",
+        "09-history-3b5f3e5886dcf1",
+        "09-history-fe7a875335ebfb",
+        "09-history-19746baabcad94",
+        "09-history-b550e1caccb0c6",
+        "09-history-349ced75e980f3",
+        "09-history-8d3e6c46716472",
+        "09-history-0c220e2630a20c",
+        "09-history-7359bf043a5f5a",
+        "09-history-37c438c4636173",
+        "09-history-8a10b6dfc35c71",
+        "09-history-d0ec71ef46e410",
+        "09-history-d117aa3f640a59",
+        "09-history-aa5cb5e624aa87",
+        "09-history-3d77e846c1027e",
+        "09-history-9be6bc4cf16745",
+        "09-history-c9b3837dd2acb7",
+        "09-history-cb85215a6f3b03",
+        "09-history-b0d8b1ce8d91f6",
+        "09-history-df9030f75b1176",
+        "09-history-f6570df19ab012",
+        "09-history-6d8ab103a2882b"
+      ],
+      "name": "温泉神社",
+      "municipality": "那須塩原市"
+    },
+    {
+      "ids": [
+        "09-agency-34c355ae496f69",
+        "09-history-c085ee355bc2f2"
+      ],
+      "name": "二荒山神社",
+      "municipality": "宇都宮市"
+    },
+    {
+      "ids": [
+        "09-agency-72ff99492260c6",
+        "09-history-d1e2b7783aafa2"
+      ],
+      "name": "三祖神社",
+      "municipality": "宇都宮市"
+    },
+    {
+      "ids": [
+        "09-agency-0397426f2ca636",
+        "09-history-ebe2d89351ede2"
+      ],
+      "name": "平出神社",
+      "municipality": "宇都宮市"
+    },
+    {
+      "ids": [
+        "09-agency-f52c6eb7c9dae1",
+        "09-history-9d6ecd5b3a7fdb",
+        "09-history-0f89c997da6b24",
+        "09-history-39107020524318",
+        "09-history-a1e3198b1467f5",
+        "09-history-403495e7b20e77",
+        "09-history-6bc2c3d03e4325",
+        "09-history-4d491c09c7ee4d",
+        "09-history-35adea39c3067f"
+      ],
+      "name": "八坂神社",
+      "municipality": "宇都宮市"
+    },
+    {
+      "ids": [
+        "09-agency-2d37387e18bb9f",
+        "09-agency-4c60d72a4e3bc7",
+        "09-agency-8d4adf5715e648",
+        "09-agency-3be5438ce1d186",
+        "09-history-098dce1e371c16",
+        "09-history-5de37f4492be2d",
+        "09-history-0f61f872c1fa34"
+      ],
+      "name": "高龗神社",
+      "municipality": "宇都宮市"
+    },
+    {
+      "ids": [
+        "09-agency-bb132e17698647",
+        "09-history-c6bb19eaceb3c9"
+      ],
+      "name": "栃木県護国神社",
+      "municipality": "宇都宮市"
+    },
+    {
+      "ids": [
+        "09-agency-cce86ae2d471c4",
+        "09-history-f187766ae1ccb8",
+        "09-history-87220eaac3a7eb",
+        "09-history-04aa9324acd84d"
+      ],
+      "name": "日吉神社",
+      "municipality": "宇都宮市"
+    },
+    {
+      "ids": [
+        "09-agency-d07cd362845db6",
+        "09-history-acb43c1630622a",
+        "09-history-69a5c8317ae5d6"
+      ],
+      "name": "智賀都神社",
+      "municipality": "宇都宮市"
+    },
+    {
+      "ids": [
+        "09-agency-d8a0afdb648866",
+        "09-history-5c21d293af5a38"
+      ],
+      "name": "今宮神社",
+      "municipality": "宇都宮市"
+    },
+    {
+      "ids": [
+        "09-agency-4a8b85dcc69b46",
+        "09-history-15badc9060ef51"
+      ],
+      "name": "白山神社",
+      "municipality": "宇都宮市"
+    },
+    {
+      "ids": [
+        "09-agency-916091ef8a143a",
+        "09-history-8de64545a533cb"
+      ],
+      "name": "白鷺神社",
+      "municipality": "河内郡上三川町"
+    },
+    {
+      "ids": [
+        "09-agency-01c82e00e9c0fc",
+        "09-history-e57474f61463eb"
+      ],
+      "name": "雄琴神社",
+      "municipality": "下都賀郡壬生町"
+    },
+    {
+      "ids": [
+        "09-agency-76e033adf67c3d",
+        "09-history-eeddbd3938f1ab",
+        "09-history-1c77b5438bcf63",
+        "09-history-9dd371e3a34ae2",
+        "09-history-606231c07a3902"
+      ],
+      "name": "磐裂根裂神社",
+      "municipality": "下都賀郡壬生町"
+    },
+    {
+      "ids": [
+        "09-agency-e9591dc3ba9021",
+        "09-history-6dca21a4a3355c",
+        "09-history-9f5a1797c41442"
+      ],
+      "name": "磐裂神社",
+      "municipality": "下都賀郡壬生町"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 127,
+    "unmapped_records": 2028
+  }
+}
