@@ -1,0 +1,5345 @@
+{
+  "code": 22,
+  "name": "静岡県",
+  "slug": "shizuoka",
+  "checked": "2026-10-30",
+  "scope": "静岡県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 3904,
+  "records": 3904,
+  "directory_indexes": 93,
+  "baseline_rows": 2822,
+  "agency_rows": 2823,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 1741,
+  "historical_only_records": 1081,
+  "with_deities": 2815,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 3904,
+  "municipalities": [
+    {
+      "municipality": "三島市",
+      "area": "全域",
+      "records": 65,
+      "with_deities": 56,
+      "mapped_locations": 0,
+      "without_coordinates": 65
+    },
+    {
+      "municipality": "下田市",
+      "area": "全域",
+      "records": 76,
+      "with_deities": 50,
+      "mapped_locations": 0,
+      "without_coordinates": 76
+    },
+    {
+      "municipality": "伊東市",
+      "area": "全域",
+      "records": 56,
+      "with_deities": 39,
+      "mapped_locations": 0,
+      "without_coordinates": 56
+    },
+    {
+      "municipality": "伊豆の国市",
+      "area": "全域",
+      "records": 56,
+      "with_deities": 43,
+      "mapped_locations": 0,
+      "without_coordinates": 56
+    },
+    {
+      "municipality": "伊豆市",
+      "area": "全域",
+      "records": 128,
+      "with_deities": 97,
+      "mapped_locations": 0,
+      "without_coordinates": 128
+    },
+    {
+      "municipality": "周智郡森町",
+      "area": "全域",
+      "records": 51,
+      "with_deities": 41,
+      "mapped_locations": 0,
+      "without_coordinates": 51
+    },
+    {
+      "municipality": "天竜市",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "富士宮市",
+      "area": "全域",
+      "records": 132,
+      "with_deities": 93,
+      "mapped_locations": 0,
+      "without_coordinates": 132
+    },
+    {
+      "municipality": "富士市",
+      "area": "全域",
+      "records": 216,
+      "with_deities": 179,
+      "mapped_locations": 0,
+      "without_coordinates": 216
+    },
+    {
+      "municipality": "富士郡芝川町",
+      "area": "全域",
+      "records": 17,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 17
+    },
+    {
+      "municipality": "小笠郡大東町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "小笠郡小笠町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "小笠郡菊川町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "島田市",
+      "area": "全域",
+      "records": 108,
+      "with_deities": 93,
+      "mapped_locations": 0,
+      "without_coordinates": 108
+    },
+    {
+      "municipality": "庵原郡由比町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "庵原郡蒲原町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "引佐郡三ケ日町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "引佐郡引佐町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "御前崎市",
+      "area": "全域",
+      "records": 28,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 28
+    },
+    {
+      "municipality": "御殿場市",
+      "area": "全域",
+      "records": 75,
+      "with_deities": 59,
+      "mapped_locations": 0,
+      "without_coordinates": 75
+    },
+    {
+      "municipality": "志太郡大井川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "掛川市",
+      "area": "全域",
+      "records": 186,
+      "with_deities": 156,
+      "mapped_locations": 0,
+      "without_coordinates": 186
+    },
+    {
+      "municipality": "榛原郡中川根町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "榛原郡吉田町",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "榛原郡川根本町",
+      "area": "全域",
+      "records": 41,
+      "with_deities": 31,
+      "mapped_locations": 0,
+      "without_coordinates": 41
+    },
+    {
+      "municipality": "榛原郡本川根町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "榛原郡相良町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "沼津市",
+      "area": "全域",
+      "records": 157,
+      "with_deities": 126,
+      "mapped_locations": 0,
+      "without_coordinates": 157
+    },
+    {
+      "municipality": "浜名郡新居町",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "浜名郡雄踏町",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "浜松市",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "浜松市中区",
+      "area": "全域",
+      "records": 54,
+      "with_deities": 54,
+      "mapped_locations": 0,
+      "without_coordinates": 54
+    },
+    {
+      "municipality": "浜松市中央区",
+      "area": "全域",
+      "records": 240,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 240
+    },
+    {
+      "municipality": "浜松市北区",
+      "area": "全域",
+      "records": 82,
+      "with_deities": 82,
+      "mapped_locations": 0,
+      "without_coordinates": 82
+    },
+    {
+      "municipality": "浜松市南区",
+      "area": "全域",
+      "records": 57,
+      "with_deities": 57,
+      "mapped_locations": 0,
+      "without_coordinates": 57
+    },
+    {
+      "municipality": "浜松市天竜区",
+      "area": "全域",
+      "records": 153,
+      "with_deities": 106,
+      "mapped_locations": 0,
+      "without_coordinates": 153
+    },
+    {
+      "municipality": "浜松市東区",
+      "area": "全域",
+      "records": 60,
+      "with_deities": 60,
+      "mapped_locations": 0,
+      "without_coordinates": 60
+    },
+    {
+      "municipality": "浜松市浜北区",
+      "area": "全域",
+      "records": 47,
+      "with_deities": 47,
+      "mapped_locations": 0,
+      "without_coordinates": 47
+    },
+    {
+      "municipality": "浜松市浜名区",
+      "area": "全域",
+      "records": 131,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 131
+    },
+    {
+      "municipality": "浜松市西区",
+      "area": "全域",
+      "records": 52,
+      "with_deities": 50,
+      "mapped_locations": 0,
+      "without_coordinates": 52
+    },
+    {
+      "municipality": "清水市",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "湖西市",
+      "area": "全域",
+      "records": 42,
+      "with_deities": 26,
+      "mapped_locations": 0,
+      "without_coordinates": 42
+    },
+    {
+      "municipality": "焼津市",
+      "area": "全域",
+      "records": 86,
+      "with_deities": 69,
+      "mapped_locations": 0,
+      "without_coordinates": 86
+    },
+    {
+      "municipality": "熱海市",
+      "area": "全域",
+      "records": 22,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 22
+    },
+    {
+      "municipality": "牧之原市",
+      "area": "全域",
+      "records": 73,
+      "with_deities": 56,
+      "mapped_locations": 0,
+      "without_coordinates": 73
+    },
+    {
+      "municipality": "田方郡伊豆長岡町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "田方郡修善寺町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "田方郡函南町",
+      "area": "全域",
+      "records": 22,
+      "with_deities": 21,
+      "mapped_locations": 0,
+      "without_coordinates": 22
+    },
+    {
+      "municipality": "田方郡土肥町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "田方郡戸田村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "田方郡韮山町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "磐田市",
+      "area": "全域",
+      "records": 219,
+      "with_deities": 139,
+      "mapped_locations": 0,
+      "without_coordinates": 219
+    },
+    {
+      "municipality": "磐田郡佐久間町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "磐田郡浅羽町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "磐田郡豊岡村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "磐田郡豊田町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "菊川市",
+      "area": "全域",
+      "records": 70,
+      "with_deities": 49,
+      "mapped_locations": 0,
+      "without_coordinates": 70
+    },
+    {
+      "municipality": "藤枝市",
+      "area": "全域",
+      "records": 113,
+      "with_deities": 95,
+      "mapped_locations": 0,
+      "without_coordinates": 113
+    },
+    {
+      "municipality": "袋井市",
+      "area": "全域",
+      "records": 134,
+      "with_deities": 90,
+      "mapped_locations": 0,
+      "without_coordinates": 134
+    },
+    {
+      "municipality": "袋井市豊沢区",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "裾野市",
+      "area": "全域",
+      "records": 45,
+      "with_deities": 35,
+      "mapped_locations": 0,
+      "without_coordinates": 45
+    },
+    {
+      "municipality": "賀茂郡南伊豆町",
+      "area": "全域",
+      "records": 44,
+      "with_deities": 35,
+      "mapped_locations": 0,
+      "without_coordinates": 44
+    },
+    {
+      "municipality": "賀茂郡東伊豆町",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "賀茂郡松崎町",
+      "area": "全域",
+      "records": 42,
+      "with_deities": 37,
+      "mapped_locations": 0,
+      "without_coordinates": 42
+    },
+    {
+      "municipality": "賀茂郡河津町",
+      "area": "全域",
+      "records": 45,
+      "with_deities": 30,
+      "mapped_locations": 0,
+      "without_coordinates": 45
+    },
+    {
+      "municipality": "賀茂郡西伊豆町",
+      "area": "全域",
+      "records": 41,
+      "with_deities": 24,
+      "mapped_locations": 0,
+      "without_coordinates": 41
+    },
+    {
+      "municipality": "静岡市",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "静岡市清水区",
+      "area": "全域",
+      "records": 157,
+      "with_deities": 122,
+      "mapped_locations": 0,
+      "without_coordinates": 157
+    },
+    {
+      "municipality": "静岡市葵区",
+      "area": "全域",
+      "records": 204,
+      "with_deities": 164,
+      "mapped_locations": 0,
+      "without_coordinates": 204
+    },
+    {
+      "municipality": "静岡市駿河区",
+      "area": "全域",
+      "records": 66,
+      "with_deities": 62,
+      "mapped_locations": 0,
+      "without_coordinates": 66
+    },
+    {
+      "municipality": "駿東郡小山町",
+      "area": "全域",
+      "records": 47,
+      "with_deities": 38,
+      "mapped_locations": 0,
+      "without_coordinates": 47
+    },
+    {
+      "municipality": "駿東郡清水町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "駿東郡長泉町",
+      "area": "全域",
+      "records": 25,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 25
+    }
+  ],
+  "collections": [
+    "data/shrines/22-shizuoka/agency-001.json",
+    "data/shrines/22-shizuoka/agency-002.json",
+    "data/shrines/22-shizuoka/agency-003.json",
+    "data/shrines/22-shizuoka/agency-004.json",
+    "data/shrines/22-shizuoka/agency-005.json",
+    "data/shrines/22-shizuoka/agency-006.json",
+    "data/shrines/22-shizuoka/agency-007.json",
+    "data/shrines/22-shizuoka/agency-008.json",
+    "data/shrines/22-shizuoka/agency-009.json",
+    "data/shrines/22-shizuoka/agency-010.json",
+    "data/shrines/22-shizuoka/agency-011.json",
+    "data/shrines/22-shizuoka/agency-012.json",
+    "data/shrines/22-shizuoka/agency-013.json",
+    "data/shrines/22-shizuoka/agency-014.json",
+    "data/shrines/22-shizuoka/agency-015.json",
+    "data/shrines/22-shizuoka/agency-016.json",
+    "data/shrines/22-shizuoka/agency-017.json",
+    "data/shrines/22-shizuoka/agency-018.json",
+    "data/shrines/22-shizuoka/agency-019.json",
+    "data/shrines/22-shizuoka/history-001.json",
+    "data/shrines/22-shizuoka/history-002.json",
+    "data/shrines/22-shizuoka/history-003.json",
+    "data/shrines/22-shizuoka/history-004.json",
+    "data/shrines/22-shizuoka/history-005.json",
+    "data/shrines/22-shizuoka/history-006.json",
+    "data/shrines/22-shizuoka/history-007.json",
+    "data/shrines/22-shizuoka/history-008.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 2822,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "22"
+        }
+      }
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=10",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=11",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=12",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=13",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=14",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=15",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=16",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=17",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=18",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=19",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=20",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=22",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=23",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=24",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=25",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=26",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=27",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=28",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=29",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=3",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=30",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=31",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=32",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=33",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=34",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=35",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=36",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=4",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=5",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=6",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=7",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=8",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&city=9",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=12&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=12&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=14&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=14&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=15&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=15&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=15&p=3",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=19&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=19&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=19&p=3",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=19&p=4",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=20&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=20&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=20&p=3",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=22&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=22&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=22&p=3",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=22&p=4",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=22&p=5",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=22&p=6",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=22&p=7",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=22&p=8",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=23&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=23&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=24&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=24&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=25&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=25&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=26&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=26&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=30&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=30&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=31&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=31&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=31&p=3",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=31&p=4",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=32&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=32&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=34&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=34&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=34&p=3",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=35&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=35&p=10",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=35&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=35&p=3",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=35&p=4",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=35&p=5",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=35&p=6",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=35&p=7",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=35&p=8",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=35&p=9",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=5&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=5&p=2",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=5&p=3",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=6&p=1",
+      "entries": null
+    },
+    {
+      "label": "静岡県神社庁 公開神社一覧",
+      "url": "http://www.shizuoka-jinjacho.or.jp/shokai/search.php?mode=city&search=&city=6&p=2",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "静岡県神社庁",
+      "label": "静岡県神社庁 公開神社一覧",
+      "scope_note": "公式35市町村別一覧の公開「次へ」リンクを最終ページまで追跡。トップの「二千八百余」は概数であり、公開掲載行数と区別する。御祭神等はこの一覧には公開されていないため未収録。旧検索（/sss/）は503だったが、現行公開一覧（/shokai/）を収録。",
+      "expected_rows": null,
+      "pagination_complete": true,
+      "failures": [],
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "22-agency-ade14560871aea",
+        "22-history-34d9d0d529bbae"
+      ],
+      "name": "駒形神社",
+      "municipality": "賀茂郡西伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-5bde37ec579214",
+        "22-history-6cf43a944176ef"
+      ],
+      "name": "佐波神社",
+      "municipality": "賀茂郡西伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-386deccae861e4",
+        "22-history-4757d0a64eef74"
+      ],
+      "name": "月原神社",
+      "municipality": "賀茂郡西伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-ce1c2917fd4242",
+        "22-agency-0b682135c3c672",
+        "22-agency-b65765d096477f",
+        "22-agency-e7129bd8cf2598",
+        "22-history-1c995cf811d144",
+        "22-history-cdfc4dc64bf193",
+        "22-history-4d36fb4c4d0115",
+        "22-history-e5687962213ccc"
+      ],
+      "name": "山神社",
+      "municipality": "賀茂郡西伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-cf6a5c6611e4eb",
+        "22-history-6e15aa2b722b6e",
+        "22-history-49dec7560de2f9"
+      ],
+      "name": "天神社",
+      "municipality": "賀茂郡西伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-27a8c102bf5280",
+        "22-agency-b3054ebb2b0ac7",
+        "22-agency-64e93f47a2545c",
+        "22-agency-996f95b37f8908",
+        "22-agency-ab946918865aab",
+        "22-agency-8f41b54dc00d1a",
+        "22-agency-e76a857bee69b5",
+        "22-agency-4502332dc17841",
+        "22-agency-0831a6d1e44393",
+        "22-agency-a0cf25af265e11",
+        "22-agency-37d762324593cb",
+        "22-agency-ba638a16bca885",
+        "22-agency-00564beaaec7f6",
+        "22-history-1ba56a37337e9c",
+        "22-history-d44a90c1980766"
+      ],
+      "name": "浅間神社",
+      "municipality": "御殿場市"
+    },
+    {
+      "ids": [
+        "22-agency-712ca1f054e574",
+        "22-agency-52646ae52a9c50",
+        "22-agency-2818a25ea32838",
+        "22-agency-037e7116c6ca7e",
+        "22-agency-b0483f0fe4cbd4",
+        "22-history-84471625b64c0b",
+        "22-history-19ec708ecbcd9a"
+      ],
+      "name": "山神社",
+      "municipality": "御殿場市"
+    },
+    {
+      "ids": [
+        "22-agency-a97f99ef2c161e",
+        "22-history-cad16e4a9151f6"
+      ],
+      "name": "神明神社",
+      "municipality": "御殿場市"
+    },
+    {
+      "ids": [
+        "22-agency-95cda7dce5eadf",
+        "22-history-2d5cffcdd9c9fb"
+      ],
+      "name": "胎内神社",
+      "municipality": "御殿場市"
+    },
+    {
+      "ids": [
+        "22-agency-1a5e92ce2ae488",
+        "22-agency-39c823db9bbf3b",
+        "22-history-8a555608676029"
+      ],
+      "name": "第六天神社",
+      "municipality": "御殿場市"
+    },
+    {
+      "ids": [
+        "22-agency-f1a3e506d97d0b",
+        "22-agency-ff76f6862c41de",
+        "22-history-8a1ab0b7c08901"
+      ],
+      "name": "子之神社",
+      "municipality": "御殿場市"
+    },
+    {
+      "ids": [
+        "22-agency-3169a5c2f169bb",
+        "22-history-1ccf1cb7249071"
+      ],
+      "name": "日吉神社",
+      "municipality": "御殿場市"
+    },
+    {
+      "ids": [
+        "22-agency-7e5761c6d9695e",
+        "22-agency-2a11b60421ed95",
+        "22-agency-c27790035bb3a4",
+        "22-agency-016b90df88d84d",
+        "22-agency-06311f59d49ecd",
+        "22-agency-054bc700750637",
+        "22-agency-08c14a0096071d",
+        "22-agency-94a2c28f4559b0",
+        "22-history-b870419bfd4b35",
+        "22-history-9bea0419a68013",
+        "22-history-7e2b43eabe0612"
+      ],
+      "name": "浅間神社",
+      "municipality": "裾野市"
+    },
+    {
+      "ids": [
+        "22-agency-5c5aa2a8506ba3",
+        "22-agency-8cf8bbd212dd0a",
+        "22-history-3cff910fb094c7"
+      ],
+      "name": "熊野神社",
+      "municipality": "裾野市"
+    },
+    {
+      "ids": [
+        "22-agency-9bdb79ee3ca797",
+        "22-agency-1b3314e760770f",
+        "22-history-3349e9b0ea3641"
+      ],
+      "name": "十二神社",
+      "municipality": "裾野市"
+    },
+    {
+      "ids": [
+        "22-agency-0541af85cae26d",
+        "22-history-e337f2f7bb9eb2"
+      ],
+      "name": "神明宮",
+      "municipality": "裾野市"
+    },
+    {
+      "ids": [
+        "22-agency-a3e99a6349b1f9",
+        "22-history-f16587acb305a8"
+      ],
+      "name": "神明神社",
+      "municipality": "裾野市"
+    },
+    {
+      "ids": [
+        "22-agency-eb9cd705d56c12",
+        "22-agency-8a0d1f880f840c",
+        "22-agency-4bbea9485b98c1",
+        "22-agency-1a4def24ee8037",
+        "22-agency-d7fc0ec2a10efd",
+        "22-history-a45a948e404779",
+        "22-history-7018409401d7cc"
+      ],
+      "name": "八幡宮",
+      "municipality": "裾野市"
+    },
+    {
+      "ids": [
+        "22-agency-3c24f6acaf1270",
+        "22-history-57e1a348f30fc5"
+      ],
+      "name": "水窪神社",
+      "municipality": "裾野市"
+    },
+    {
+      "ids": [
+        "22-agency-3f4cabcc0ff698",
+        "22-history-350b36186463ea"
+      ],
+      "name": "伊豆山神社",
+      "municipality": "熱海市"
+    },
+    {
+      "ids": [
+        "22-agency-343453acba3963",
+        "22-history-8ec6de07f98bed"
+      ],
+      "name": "神明宮",
+      "municipality": "熱海市"
+    },
+    {
+      "ids": [
+        "22-agency-154bee14e74966",
+        "22-history-bd089e3bf54917"
+      ],
+      "name": "津島神社",
+      "municipality": "熱海市"
+    },
+    {
+      "ids": [
+        "22-agency-f2bec4dd48280b",
+        "22-history-97647ab405434a"
+      ],
+      "name": "和田木神社",
+      "municipality": "熱海市"
+    },
+    {
+      "ids": [
+        "22-agency-a93bd6435c15e7",
+        "22-history-e65bdc8f922883"
+      ],
+      "name": "海積神社",
+      "municipality": "熱海市"
+    },
+    {
+      "ids": [
+        "22-agency-1d9ce5bde623e4",
+        "22-history-966fbbf8c444a2"
+      ],
+      "name": "瀬崎稲荷神社",
+      "municipality": "賀茂郡松崎町"
+    },
+    {
+      "ids": [
+        "22-agency-8d23c8a201b635",
+        "22-history-a1c5005e081e99"
+      ],
+      "name": "淺間神社",
+      "municipality": "賀茂郡松崎町"
+    },
+    {
+      "ids": [
+        "22-agency-f2eedfbb2f27b8",
+        "22-history-57e3448c11e2bc"
+      ],
+      "name": "天満宮神社",
+      "municipality": "賀茂郡松崎町"
+    },
+    {
+      "ids": [
+        "22-agency-36002521509056",
+        "22-agency-1bd6efd74446b2",
+        "22-history-1381d64732730b"
+      ],
+      "name": "火産靈神社",
+      "municipality": "賀茂郡松崎町"
+    },
+    {
+      "ids": [
+        "22-agency-5100f43633f871",
+        "22-history-e58dd8f0024357"
+      ],
+      "name": "茂山神社",
+      "municipality": "賀茂郡松崎町"
+    },
+    {
+      "ids": [
+        "22-agency-4dd8b0ae269d4e",
+        "22-agency-bd155f495964d5",
+        "22-history-df7f2d901e5e4c",
+        "22-history-5a5fe388303146"
+      ],
+      "name": "浅間愛鷹神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-577f8ff39bd7f4",
+        "22-agency-afe757e6ba06ec",
+        "22-agency-1007a4bdf1f40b",
+        "22-agency-3c3e1b0f72079a",
+        "22-agency-bc70b6bbe48225",
+        "22-agency-aec6e10cca7ba5",
+        "22-agency-6aace33f149527",
+        "22-agency-00d1a35dd064a7",
+        "22-agency-78933214be25e0",
+        "22-agency-fdec315a251b03",
+        "22-history-3a4efd63e194d1",
+        "22-history-7b92455f947a0a",
+        "22-history-f28e9b0ed124c9",
+        "22-history-dd4eefab250375",
+        "22-history-a68f093dd54c7e"
+      ],
+      "name": "浅間神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-97a07d400d579d",
+        "22-agency-609f6bfd4ab063",
+        "22-agency-a2c07d280f4a06",
+        "22-history-c5bf06c61f8479"
+      ],
+      "name": "愛鷹神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-c7d63571ee3aa3",
+        "22-history-7b9b5ba6616351"
+      ],
+      "name": "淡島神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-3d0fc4f7228a1e",
+        "22-history-006b5064c8d77b"
+      ],
+      "name": "伊勢神明神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-248f36cb676340",
+        "22-agency-cb1f6394a68c28",
+        "22-history-6e67ac74aeee08"
+      ],
+      "name": "厳島神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-f335578b3091ca",
+        "22-agency-3be5957700f8e4",
+        "22-agency-148fa2c47f6dda",
+        "22-agency-7ec44a44dac32d",
+        "22-agency-52094be160a832",
+        "22-agency-cf552a28a68dc6",
+        "22-agency-64a5f9814f9834",
+        "22-agency-0ee4deb13d2754",
+        "22-agency-c3aaa834c26203",
+        "22-agency-1536b83170cab6",
+        "22-agency-3203759044e2d9",
+        "22-history-3c2d3e29cebd2b",
+        "22-history-167a8e653899d8"
+      ],
+      "name": "稲荷神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-c506bb0d8bd985",
+        "22-history-22461f9996a6ea"
+      ],
+      "name": "大朝神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-a03048f14026e6",
+        "22-agency-dca965dab57042",
+        "22-agency-6b524479d7b088",
+        "22-history-0a8980d263e219"
+      ],
+      "name": "金刀比羅神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-e478e2a86995f9",
+        "22-history-a4d686bc480651"
+      ],
+      "name": "塞神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-a63e8f34bce5dc",
+        "22-agency-2fedadab12e6b1",
+        "22-agency-943012f0e9f200",
+        "22-agency-ec03fae650e630",
+        "22-agency-5095148f2cbb35",
+        "22-agency-1981b3eafbcb37",
+        "22-agency-745c11d18b44ba",
+        "22-agency-bf3c9858a5174e",
+        "22-agency-9d127892fff0a0",
+        "22-agency-36311d234cb28f",
+        "22-history-60590ec45e7c3c",
+        "22-history-1fe0a4d95c343b",
+        "22-history-7e434353fecc85",
+        "22-history-59ec0403f080a2"
+      ],
+      "name": "山神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-51824f2885b365",
+        "22-history-8b07f06828c600"
+      ],
+      "name": "駒形神社",
+      "municipality": "三島市"
+    },
+    {
+      "ids": [
+        "22-agency-c2f14e904d23c1",
+        "22-history-3892d1cfe5d1c5"
+      ],
+      "name": "正八幡宮",
+      "municipality": "三島市"
+    },
+    {
+      "ids": [
+        "22-agency-463bec7a293220",
+        "22-history-1037297166e980"
+      ],
+      "name": "瀧川神社",
+      "municipality": "三島市"
+    },
+    {
+      "ids": [
+        "22-agency-1862b0f748b26f",
+        "22-agency-16a47892df18b0",
+        "22-agency-ceceb9a94d6dcf",
+        "22-agency-d5c94ed1c8100e",
+        "22-history-424a3f93ee5ad0",
+        "22-history-9f625cf6a9e6bc",
+        "22-history-3d02a839e5ed79"
+      ],
+      "name": "天神社",
+      "municipality": "三島市"
+    },
+    {
+      "ids": [
+        "22-agency-d1c8239254734e",
+        "22-history-9717df493cdb3f"
+      ],
+      "name": "天泊神社",
+      "municipality": "三島市"
+    },
+    {
+      "ids": [
+        "22-agency-3dd364822c4a2c",
+        "22-history-79012a948c2f1c"
+      ],
+      "name": "安富神社",
+      "municipality": "三島市"
+    },
+    {
+      "ids": [
+        "22-agency-e4c2f46fe9991e",
+        "22-agency-36e8da7c03ff3d",
+        "22-agency-b0efda0261f1b8",
+        "22-agency-7788170b2bd04a",
+        "22-agency-1f57b83815e11b",
+        "22-agency-622d8675d77e45",
+        "22-agency-2baed9655c14eb",
+        "22-history-d2b53f032ff430"
+      ],
+      "name": "山神社",
+      "municipality": "三島市"
+    },
+    {
+      "ids": [
+        "22-agency-645c3ecbe97cfe",
+        "22-agency-b2386f2ed78a13",
+        "22-history-2a241455931c9d"
+      ],
+      "name": "八幡神社",
+      "municipality": "駿東郡清水町"
+    },
+    {
+      "ids": [
+        "22-agency-9ba16cfb3fbe52",
+        "22-agency-c6af50319cc551",
+        "22-history-60a8833a66dcfe"
+      ],
+      "name": "熊野神社",
+      "municipality": "駿東郡清水町"
+    },
+    {
+      "ids": [
+        "22-agency-54bd9655266ec4",
+        "22-history-25b59c30a5d0df"
+      ],
+      "name": "日枝神社",
+      "municipality": "駿東郡清水町"
+    },
+    {
+      "ids": [
+        "22-agency-0687fc170ea48e",
+        "22-history-e1eae2eaf8107b"
+      ],
+      "name": "愛鷹神社",
+      "municipality": "駿東郡長泉町"
+    },
+    {
+      "ids": [
+        "22-agency-49e56c03a60c6c",
+        "22-history-3cdb2e58267193"
+      ],
+      "name": "芦ノ湖水神社",
+      "municipality": "駿東郡長泉町"
+    },
+    {
+      "ids": [
+        "22-agency-a1eedd78869f7b",
+        "22-agency-0e33b0e10b16b2",
+        "22-history-1c77b71696374e"
+      ],
+      "name": "山神社",
+      "municipality": "駿東郡長泉町"
+    },
+    {
+      "ids": [
+        "22-agency-b8fc9bbfb46e14",
+        "22-history-95c9cdf230b99c"
+      ],
+      "name": "城山神社",
+      "municipality": "駿東郡長泉町"
+    },
+    {
+      "ids": [
+        "22-agency-a236d6df9c3697",
+        "22-history-c648e86f593bcd"
+      ],
+      "name": "東照宮",
+      "municipality": "駿東郡長泉町"
+    },
+    {
+      "ids": [
+        "22-agency-d9d62f313946d6",
+        "22-agency-31bd523f10a998",
+        "22-history-59d02f97c87775",
+        "22-history-4a6f29cefcdfa1"
+      ],
+      "name": "八幡神社",
+      "municipality": "駿東郡長泉町"
+    },
+    {
+      "ids": [
+        "22-agency-c26a15ee4d1e1f",
+        "22-agency-f17639484bc876",
+        "22-agency-40f9125c1ee240",
+        "22-history-e288b95677b1c0",
+        "22-history-839a5df08ada06"
+      ],
+      "name": "日吉神社",
+      "municipality": "駿東郡長泉町"
+    },
+    {
+      "ids": [
+        "22-agency-034feaf3f4f496",
+        "22-agency-4a0a687bc323b6",
+        "22-agency-bc95fa4231fac9",
+        "22-agency-e29198a5254755",
+        "22-agency-98065feb8372ce",
+        "22-agency-3bffa8390773f4",
+        "22-agency-9d4b1fedb0acf7",
+        "22-agency-2df7eabace031f",
+        "22-agency-0720d9a9d46ed9",
+        "22-history-d7f4560ea27816"
+      ],
+      "name": "愛鷹神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-05259ee6c653f2",
+        "22-agency-64a0d5c7ccc594",
+        "22-agency-df5a2c74dd44cd",
+        "22-agency-98db660e27e671",
+        "22-agency-965714628b56bc",
+        "22-agency-56470dd604b991",
+        "22-agency-fdaf45c5a111d0",
+        "22-agency-40f2ee9521edc1",
+        "22-agency-62eaebaea6ab01",
+        "22-agency-2dcf9cba31afab",
+        "22-agency-c4bcb08fd206fa",
+        "22-agency-6bd2be61c26e72",
+        "22-agency-5015e34abe89f5",
+        "22-agency-479694aa470749",
+        "22-history-99df057074abe2",
+        "22-history-7fad1547f7a5de",
+        "22-history-ff2e0401a673e1"
+      ],
+      "name": "稲荷神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-449548e3adada7",
+        "22-history-47a9dbde4bda90"
+      ],
+      "name": "大山祇神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-b2c71931ba3684",
+        "22-history-8147746315b658"
+      ],
+      "name": "甲子神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-c665a6012a9c91",
+        "22-agency-c9a0942f5bd137",
+        "22-agency-ac60f5ab35433d",
+        "22-agency-8517c6a2412b48",
+        "22-agency-b0741d819dda27",
+        "22-history-64326a2cb3c802"
+      ],
+      "name": "熊野神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-f5dc6986051c48",
+        "22-history-b7d8c72b6e5b50"
+      ],
+      "name": "山神社",
+      "municipality": "駿東郡小山町"
+    },
+    {
+      "ids": [
+        "22-agency-20428bc3e7aa9c",
+        "22-history-6fa94321a7873f"
+      ],
+      "name": "白籏神社",
+      "municipality": "駿東郡小山町"
+    },
+    {
+      "ids": [
+        "22-agency-639252bb1cbf3a",
+        "22-agency-f78e1cfc640004",
+        "22-agency-8aca9c4f186ed0",
+        "22-history-bfbd02ade2da70"
+      ],
+      "name": "神明宮",
+      "municipality": "駿東郡小山町"
+    },
+    {
+      "ids": [
+        "22-agency-beaf1902defc09",
+        "22-agency-90e323227e0a6f",
+        "22-agency-7a5218ce6522a8",
+        "22-history-20767f5e7ba877"
+      ],
+      "name": "浅間神社",
+      "municipality": "駿東郡小山町"
+    },
+    {
+      "ids": [
+        "22-agency-d630f6f13dbbec",
+        "22-agency-907f80e0d105ba",
+        "22-agency-3927adf9dfbac0",
+        "22-agency-1ef82071781ae1",
+        "22-history-51febe9dac746f",
+        "22-history-eef34042b0a425"
+      ],
+      "name": "八幡神社",
+      "municipality": "駿東郡小山町"
+    },
+    {
+      "ids": [
+        "22-agency-6d4b33ec56539f",
+        "22-agency-4178ab965333fe",
+        "22-history-1a4721595f5568"
+      ],
+      "name": "日吉神社",
+      "municipality": "駿東郡小山町"
+    },
+    {
+      "ids": [
+        "22-agency-c4ca847c3a41c5",
+        "22-history-695e8de6072fa8"
+      ],
+      "name": "迎久須志之神社",
+      "municipality": "駿東郡小山町"
+    },
+    {
+      "ids": [
+        "22-agency-2f04bcac22404c",
+        "22-history-94e4ec24273ebe"
+      ],
+      "name": "伊勢神明宮",
+      "municipality": "焼津市"
+    },
+    {
+      "ids": [
+        "22-agency-d05b5d9bb7ac70",
+        "22-agency-f2679ba2b66705",
+        "22-agency-fc9554bba1a99f",
+        "22-agency-1affa303007cb1",
+        "22-agency-5a3601b1804ec1",
+        "22-agency-b7358cc60d5984",
+        "22-history-96716df44d4ea5",
+        "22-history-09c67759628fe1",
+        "22-history-46f2570abbe4d9"
+      ],
+      "name": "稲荷神社",
+      "municipality": "焼津市"
+    },
+    {
+      "ids": [
+        "22-agency-3eb58d01770171",
+        "22-agency-4d1101b4f7d1f5",
+        "22-history-84499a0b43b92f",
+        "22-history-cb7ccb4b8f7647"
+      ],
+      "name": "熊野神社",
+      "municipality": "焼津市"
+    },
+    {
+      "ids": [
+        "22-agency-7a3f4561e71209",
+        "22-history-e35f329453d9da"
+      ],
+      "name": "鏡満神社",
+      "municipality": "焼津市"
+    },
+    {
+      "ids": [
+        "22-agency-530a0d755c3df3",
+        "22-agency-e056f1447434a8",
+        "22-history-eacaaff6511aa4"
+      ],
+      "name": "神明宮",
+      "municipality": "焼津市"
+    },
+    {
+      "ids": [
+        "22-agency-66ca791dd3657d",
+        "22-agency-dbc75cd603775c",
+        "22-history-630c13663bd112"
+      ],
+      "name": "津島神社",
+      "municipality": "焼津市"
+    },
+    {
+      "ids": [
+        "22-agency-c5b0608de9a07d",
+        "22-history-3f9213d158e8ec"
+      ],
+      "name": "天皇神社",
+      "municipality": "焼津市"
+    },
+    {
+      "ids": [
+        "22-agency-f797b67b3de877",
+        "22-agency-fb493b94237cc8",
+        "22-agency-3894887ca964a9",
+        "22-agency-f8b018b47bf8d0",
+        "22-agency-943952d807329c",
+        "22-agency-b974fde36e5dc5",
+        "22-agency-32cd64adf331d5",
+        "22-agency-4ccb240c6d584c",
+        "22-history-569899f5d8175f"
+      ],
+      "name": "八幡宮",
+      "municipality": "焼津市"
+    },
+    {
+      "ids": [
+        "22-agency-700659d4456268",
+        "22-history-eb1777b5aaa01b"
+      ],
+      "name": "泉浅間神社",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-b11ba2527d5b3b",
+        "22-agency-3a91ad736040a9",
+        "22-agency-aca75c829a3d6c",
+        "22-agency-8739a06a21e83f",
+        "22-agency-55c83335db61ac",
+        "22-agency-f62d86894e3006",
+        "22-agency-eab1e028768cd5",
+        "22-agency-2467ee81b83363",
+        "22-agency-83d3f3b04aab1b",
+        "22-history-6c67bdfc8e57bb"
+      ],
+      "name": "稲荷神社",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-298f9d520458dd",
+        "22-agency-d5189f273332b5",
+        "22-agency-b53a14c7722d0e",
+        "22-agency-53d61766b4007f",
+        "22-agency-9d9a3443b05de9",
+        "22-agency-f0a4aa69f18087",
+        "22-history-48443105c9bfaf"
+      ],
+      "name": "山神社",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-8cdb23b62df817",
+        "22-history-fc5d44c6116abc"
+      ],
+      "name": "神力神社",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-f44fbb403682ab",
+        "22-agency-92f5ad256fe80d",
+        "22-agency-40e7452a8f6cc4",
+        "22-agency-c3ce6949338ece",
+        "22-agency-2206ee3b1520b8",
+        "22-history-b03766177554e8"
+      ],
+      "name": "浅間神社",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-3e164ba476aee0",
+        "22-agency-ec893a2bd3ecc5",
+        "22-agency-cd8239eb86933a",
+        "22-history-49967b84e47842"
+      ],
+      "name": "曽我八幡宮",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-f2f17ed2d23610",
+        "22-history-c2f1a46427653f"
+      ],
+      "name": "第六天神社",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-46618acd9030c4",
+        "22-history-7c8bde0d42cce4"
+      ],
+      "name": "巖室神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-e6d5dece18b7ba",
+        "22-history-14b5c7b5bed92d"
+      ],
+      "name": "大代神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-61deadcb648d0c",
+        "22-agency-58f804d552d991",
+        "22-history-3bc0f2dc6bf512"
+      ],
+      "name": "金山神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-4779c2995f8390",
+        "22-agency-53861dbc954376",
+        "22-history-26cadeedf96c80"
+      ],
+      "name": "熊野神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-895728682ac45d",
+        "22-history-9a6d4c67d4dbb8"
+      ],
+      "name": "三寸神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-58d7d20d18d2df",
+        "22-history-6f5ad1ed741d59"
+      ],
+      "name": "諏訪神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-579fad98bc2dd4",
+        "22-agency-eda1fae34d875d",
+        "22-history-18c60432564c7a"
+      ],
+      "name": "浅間神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-9d800519ccc2ab",
+        "22-history-b9e3132fa32501"
+      ],
+      "name": "大頭竜神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-86af32f2e7b0c1",
+        "22-history-2edc1abc706d75"
+      ],
+      "name": "田代神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-419932fbb963df",
+        "22-history-988dda1bad8503"
+      ],
+      "name": "天神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-2c5132eb4263ef",
+        "22-history-f9acce7f413834"
+      ],
+      "name": "肥田神社",
+      "municipality": "田方郡函南町"
+    },
+    {
+      "ids": [
+        "22-agency-82af71be58d490",
+        "22-history-b3c17721f01c45"
+      ],
+      "name": "神部神社浅間神社大歳御祖神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-9019968133282e",
+        "22-history-c3e41a6b93405d"
+      ],
+      "name": "青木神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-705de494e27fce",
+        "22-history-680ec6efac05ce"
+      ],
+      "name": "秋葉神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-f1280516024fba",
+        "22-history-4ee5bf4e61c03b"
+      ],
+      "name": "廬崎神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-ef9748df83594e",
+        "22-history-98325ee48b76ea"
+      ],
+      "name": "雷神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-d6ff26426abe48",
+        "22-history-f76247a56cdaad"
+      ],
+      "name": "井川神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-bc9001b4a789ab",
+        "22-agency-c5e4c7da93b40b",
+        "22-agency-164d8239633f02",
+        "22-agency-e215cbe907e6d9",
+        "22-agency-063027799a3ad9",
+        "22-agency-89a4036bb2d06e",
+        "22-history-f8c6dc31cfb6fd"
+      ],
+      "name": "稲荷神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-234b8dc50e30a4",
+        "22-agency-0f4fc4e1a8b9f5",
+        "22-agency-9e5f5d9434d8c3",
+        "22-agency-66aa16302fa3f1",
+        "22-agency-bdf0249cd82f1e",
+        "22-agency-f4d9844f75f996",
+        "22-history-6edd7e796ca114",
+        "22-history-6ae5f808d62c94"
+      ],
+      "name": "稲荷神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-4bcfa25ad7bbd7",
+        "22-history-74dece1549473e"
+      ],
+      "name": "有東坂神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-423f584674b9c9",
+        "22-agency-79e2d8869b95a1",
+        "22-agency-d7f868418892cf",
+        "22-agency-464bb4a0de64ad",
+        "22-agency-c1b8591c912823",
+        "22-history-065c46adff990b",
+        "22-history-cbf18c7dc77399"
+      ],
+      "name": "大井神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-db67605ed0dda5",
+        "22-agency-b9cfc4f193fdd3",
+        "22-agency-1fd9ebe7c1329b",
+        "22-agency-889cf72f70e764",
+        "22-agency-fef5c88d3cad1f",
+        "22-agency-acc43a555ab6b7",
+        "22-history-9ab4a998cd675c"
+      ],
+      "name": "大井神社",
+      "municipality": "榛原郡川根本町"
+    },
+    {
+      "ids": [
+        "22-agency-f93a638e9a4718",
+        "22-history-244ee57024b127"
+      ],
+      "name": "外森神社",
+      "municipality": "榛原郡川根本町"
+    },
+    {
+      "ids": [
+        "22-agency-6afd73a4d995b5",
+        "22-agency-35d03d41555bc4",
+        "22-agency-7e8bbb8db2a30e",
+        "22-agency-71a98673ea07c2",
+        "22-history-fb548f439e2c2a"
+      ],
+      "name": "八幡神社",
+      "municipality": "榛原郡川根本町"
+    },
+    {
+      "ids": [
+        "22-agency-4132a93e4ff5dd",
+        "22-history-9370d90a3c7ff7"
+      ],
+      "name": "八重垣神社",
+      "municipality": "榛原郡川根本町"
+    },
+    {
+      "ids": [
+        "22-agency-cd4eef73ea87d7",
+        "22-agency-2cd3d55032c857",
+        "22-history-3f8ca2a04c53cb",
+        "22-history-ebf477a5f6856d"
+      ],
+      "name": "八柱神社",
+      "municipality": "榛原郡川根本町"
+    },
+    {
+      "ids": [
+        "22-agency-f3f7036a57fdd2",
+        "22-history-7f8a46dd03540c"
+      ],
+      "name": "山王神社",
+      "municipality": "榛原郡吉田町"
+    },
+    {
+      "ids": [
+        "22-agency-6fec4006b56917",
+        "22-history-b9e973779eecde"
+      ],
+      "name": "大井神社",
+      "municipality": "菊川市"
+    },
+    {
+      "ids": [
+        "22-agency-407ea01e6411b9",
+        "22-history-e5fb22cbd64780"
+      ],
+      "name": "木惜神社",
+      "municipality": "菊川市"
+    },
+    {
+      "ids": [
+        "22-agency-dc85e4f33c14f3",
+        "22-agency-bf1306c63cb2ec",
+        "22-history-2960f02b9791a7"
+      ],
+      "name": "諏訪神社",
+      "municipality": "菊川市"
+    },
+    {
+      "ids": [
+        "22-agency-eadba046d84aa0",
+        "22-history-4f9eaaa69fe35b"
+      ],
+      "name": "西宮神社",
+      "municipality": "菊川市"
+    },
+    {
+      "ids": [
+        "22-agency-1fb6889b2c7e98",
+        "22-agency-832b73cf1c0700",
+        "22-agency-bedd9b3bbea442",
+        "22-agency-4e0f993fe770fe",
+        "22-agency-14d979688437c6",
+        "22-agency-50a211bb6c1704",
+        "22-history-e1988fede14b1b",
+        "22-history-14668cbc1750e8",
+        "22-history-ab8cee620ae18a",
+        "22-history-e07b0cb87f8dcf",
+        "22-history-b21b0c5a1feb27"
+      ],
+      "name": "八幡神社",
+      "municipality": "菊川市"
+    },
+    {
+      "ids": [
+        "22-agency-4a1fc29fc32f95",
+        "22-history-f4f28fe2c29f1c"
+      ],
+      "name": "藤谷神社",
+      "municipality": "菊川市"
+    },
+    {
+      "ids": [
+        "22-agency-fd0bd4e7a09544",
+        "22-history-ed0415aa43ed9f"
+      ],
+      "name": "御霊神社",
+      "municipality": "菊川市"
+    },
+    {
+      "ids": [
+        "22-agency-c82b13a7a74e46",
+        "22-history-fc6909fa455234"
+      ],
+      "name": "嶺田神社",
+      "municipality": "菊川市"
+    },
+    {
+      "ids": [
+        "22-agency-fd3faf42db9b75",
+        "22-history-48ea106d7731bf"
+      ],
+      "name": "矢多神社",
+      "municipality": "菊川市"
+    },
+    {
+      "ids": [
+        "22-agency-f080f27132ad41",
+        "22-agency-dc2def53ddc3b2",
+        "22-agency-26c41cd00e6772",
+        "22-history-8210ccd6d9917d",
+        "22-history-144b917e402148"
+      ],
+      "name": "八穂神社",
+      "municipality": "菊川市"
+    },
+    {
+      "ids": [
+        "22-agency-0479687bc014ad",
+        "22-history-157f6afd63e37a"
+      ],
+      "name": "秋葉神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-223dccebdf7e9c",
+        "22-agency-264cd1ceb5c9b6",
+        "22-agency-ffa8ec6deecd7b",
+        "22-agency-23590c8001c245",
+        "22-agency-e51fc6f210d982",
+        "22-agency-a6a10b9b89b677",
+        "22-history-7a5278eee582d1"
+      ],
+      "name": "稲荷神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-9b0c430a200a59",
+        "22-history-d7861d32150983"
+      ],
+      "name": "山神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-79df5f49c37e39",
+        "22-history-6d2e721be00454"
+      ],
+      "name": "櫻宮神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-0ab4963072a8a5",
+        "22-agency-b419b63c05b409",
+        "22-agency-11997ecfb4fe8d",
+        "22-history-b571020ec0932b"
+      ],
+      "name": "神明宮",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-589d228cf254b4",
+        "22-agency-9dc2d71af58102",
+        "22-history-0373a6da05e6be"
+      ],
+      "name": "進雄神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-acf88d31fac22c",
+        "22-history-f3a19375db64e3"
+      ],
+      "name": "水神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-593b4f51733a5a",
+        "22-history-99e68af5830d3b"
+      ],
+      "name": "浅間神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-00754ffec2828a",
+        "22-history-02866024a328be"
+      ],
+      "name": "高柳神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-4400dc5ed34c7e",
+        "22-history-15e4aa6aef3989"
+      ],
+      "name": "智勝神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-2addd822cc316b",
+        "22-agency-10ae9869c88995",
+        "22-agency-8a26b9e13b4dd1",
+        "22-agency-f2276653a8dd9c",
+        "22-agency-5164a6d6281d18",
+        "22-agency-7a358213cf5d20",
+        "22-agency-691089cda42bf1",
+        "22-history-d9840cc90d0107"
+      ],
+      "name": "津島神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-040f6afa58796b",
+        "22-agency-4ba2f802788033",
+        "22-history-e996430d84c82a",
+        "22-history-a3f6dd30735703"
+      ],
+      "name": "稲荷神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-5a824c1d98237c",
+        "22-history-3d6689f1760d65"
+      ],
+      "name": "姥子神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-e930d465c0086c",
+        "22-history-ccc9785fb8cd13"
+      ],
+      "name": "夷子神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-e13cf4d3c600b0",
+        "22-history-86d8adaf681ab3"
+      ],
+      "name": "春日神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-b159874b48a331",
+        "22-agency-b12f68c212369a",
+        "22-agency-f3ec05d6e99510",
+        "22-history-0fd8f797788ddd",
+        "22-history-efcce6f18076c0"
+      ],
+      "name": "熊野神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-fdfeb8ff9d4f75",
+        "22-history-61b2bb8f983466"
+      ],
+      "name": "小室神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-3aaf4b4ff8d86d",
+        "22-history-0048a6af380d91"
+      ],
+      "name": "神明神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-d0a15d40c2f64e",
+        "22-history-1a5d9d9285d2b3"
+      ],
+      "name": "水神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-7291bfe6d72e7d",
+        "22-history-5e9f146ca11744"
+      ],
+      "name": "諏訪神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-de0c92e5eb414c",
+        "22-agency-3b626ff5e9567b",
+        "22-agency-308da1b8926eab",
+        "22-agency-63f330317bb1cf",
+        "22-history-b3b461774db2a8",
+        "22-history-e30692964b9a2b",
+        "22-history-7cc389376cab8b"
+      ],
+      "name": "八幡神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-488918219acd2a",
+        "22-history-27da218fa207e3"
+      ],
+      "name": "火牟須比神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-fc92cbd67f554b",
+        "22-history-3dfbb078be5e0d"
+      ],
+      "name": "海津美神社",
+      "municipality": "伊東市"
+    },
+    {
+      "ids": [
+        "22-agency-be0a85e51ca27e",
+        "22-history-1b9398a64ad20a"
+      ],
+      "name": "大山神社",
+      "municipality": "牧之原市"
+    },
+    {
+      "ids": [
+        "22-agency-0493f4fadcd400",
+        "22-agency-7b914761116ab2",
+        "22-history-6c82baf292c30b"
+      ],
+      "name": "鹿島神社",
+      "municipality": "牧之原市"
+    },
+    {
+      "ids": [
+        "22-agency-a32cbb548f87ce",
+        "22-agency-bdbbae8f4f9a8b",
+        "22-history-85872551f90858"
+      ],
+      "name": "加茂神社",
+      "municipality": "牧之原市"
+    },
+    {
+      "ids": [
+        "22-agency-d435c2614d3f46",
+        "22-history-22a631ae5aa941"
+      ],
+      "name": "祇園神社",
+      "municipality": "牧之原市"
+    },
+    {
+      "ids": [
+        "22-agency-12cc4b6fe3bd0f",
+        "22-history-a24b1b43c379cb"
+      ],
+      "name": "高根神社",
+      "municipality": "牧之原市"
+    },
+    {
+      "ids": [
+        "22-agency-18bae277028e05",
+        "22-history-01d48ee75a2d15"
+      ],
+      "name": "西山神社",
+      "municipality": "牧之原市"
+    },
+    {
+      "ids": [
+        "22-agency-d6318e9b948a1a",
+        "22-history-e18200778ec6d8"
+      ],
+      "name": "萩間神社",
+      "municipality": "牧之原市"
+    },
+    {
+      "ids": [
+        "22-agency-a4d3048870445b",
+        "22-agency-9254d2e48ef2c6",
+        "22-history-dc7d4ad892d279"
+      ],
+      "name": "白山神社",
+      "municipality": "牧之原市"
+    },
+    {
+      "ids": [
+        "22-agency-748d688e47878f",
+        "22-agency-99483d2a4adf1d",
+        "22-history-abc381828940cb"
+      ],
+      "name": "稲荷神社",
+      "municipality": "御前崎市"
+    },
+    {
+      "ids": [
+        "22-agency-78d1a7dfce71a8",
+        "22-agency-f97a5a619b8c8a",
+        "22-agency-543349629cb9a4",
+        "22-history-ffdb2c6a7661d5"
+      ],
+      "name": "神明神社",
+      "municipality": "御前崎市"
+    },
+    {
+      "ids": [
+        "22-agency-4c978c0d069918",
+        "22-history-8e61bac5a18aff"
+      ],
+      "name": "水神社",
+      "municipality": "御前崎市"
+    },
+    {
+      "ids": [
+        "22-agency-3837a0dbea6d54",
+        "22-history-c5829991b307f9"
+      ],
+      "name": "幡室神社",
+      "municipality": "御前崎市"
+    },
+    {
+      "ids": [
+        "22-agency-9cb5328d4ab81d",
+        "22-history-8529241f488885"
+      ],
+      "name": "三島神社",
+      "municipality": "周智郡森町"
+    },
+    {
+      "ids": [
+        "22-agency-5f5b9e4ce04184",
+        "22-history-dd5d4eccc8a58a"
+      ],
+      "name": "金山神社",
+      "municipality": "周智郡森町"
+    },
+    {
+      "ids": [
+        "22-agency-fe7ac33fdd70b7",
+        "22-agency-05c646a20c788b",
+        "22-agency-a6e3cad4d92b37",
+        "22-history-ee62f91d9d2249",
+        "22-history-d0e8842437500f"
+      ],
+      "name": "神明神社",
+      "municipality": "周智郡森町"
+    },
+    {
+      "ids": [
+        "22-agency-da9e24a18cf516",
+        "22-history-9bb315d5f83e20"
+      ],
+      "name": "日月神社",
+      "municipality": "周智郡森町"
+    },
+    {
+      "ids": [
+        "22-agency-2212c920a0b7c2",
+        "22-history-f0f4094695b77e"
+      ],
+      "name": "八幡宮",
+      "municipality": "周智郡森町"
+    },
+    {
+      "ids": [
+        "22-agency-180f4bd938583c",
+        "22-agency-8003054a1957dc",
+        "22-agency-00cd8b3aeea16a",
+        "22-agency-34e71fbfc42434",
+        "22-agency-f640b307a188f5",
+        "22-history-cfd621ad0cb2e4",
+        "22-history-ab3c99ff991419"
+      ],
+      "name": "八幡神社",
+      "municipality": "周智郡森町"
+    },
+    {
+      "ids": [
+        "22-agency-ba1ecc406a3f33",
+        "22-history-5264e2ca60afc8",
+        "22-history-f35600c62aa206"
+      ],
+      "name": "八阪神社",
+      "municipality": "周智郡森町"
+    },
+    {
+      "ids": [
+        "22-agency-96a691ec001c21",
+        "22-history-37303c29b6f48e"
+      ],
+      "name": "八坂神社",
+      "municipality": "周智郡森町"
+    },
+    {
+      "ids": [
+        "22-agency-5ffda8760f4ef9",
+        "22-history-2dd7f7cae69e8e"
+      ],
+      "name": "貴船神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-9385e538a3cd54",
+        "22-agency-37e328b032e000",
+        "22-agency-81c5f2fd68e609",
+        "22-history-e12f277f8fc2fa"
+      ],
+      "name": "岩田神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-16edf9dc40abbe",
+        "22-history-97ea2850dc3f9a"
+      ],
+      "name": "浮宮神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-4f0260bfc7c20b",
+        "22-history-c34494ed46280e"
+      ],
+      "name": "王子神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-8fb309fa8ce6ff",
+        "22-history-b85e40cde54014"
+      ],
+      "name": "開拓神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-6ed7b6bf4fe0df",
+        "22-history-4e410641032ca9"
+      ],
+      "name": "鹿島神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-7d029722c40dd0",
+        "22-agency-b4b19351f1796d",
+        "22-agency-a0c120ef457460",
+        "22-agency-e1320e13f69936",
+        "22-history-ec84c919e4df8a",
+        "22-history-6524221ff0c81d"
+      ],
+      "name": "春日神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-1aede7f732ee3e",
+        "22-history-c4a9510ca692de"
+      ],
+      "name": "上豊島神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-1af084aedebe19",
+        "22-history-08c9c504bd94b7"
+      ],
+      "name": "賀茂神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-defa516d8f4444",
+        "22-agency-118b11d73557e0",
+        "22-agency-9b94eadd3b3142",
+        "22-agency-913f5cef51a741",
+        "22-agency-6f8af8067edd18",
+        "22-history-9a8ff3e39f7fa3"
+      ],
+      "name": "熊野神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-9f66d29cc0a5a5",
+        "22-history-0908bbad6d4462"
+      ],
+      "name": "山王神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-e811a14b667ce0",
+        "22-history-91258dc944a96a"
+      ],
+      "name": "十一社神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-d776d48648610c",
+        "22-agency-90fa6ec763593d",
+        "22-history-2fe1aa688edb6b",
+        "22-history-2cdc05176792c7"
+      ],
+      "name": "十二社神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-e6ca4cd0537725",
+        "22-agency-507127f18c00b1",
+        "22-history-5bcda0037182e0",
+        "22-history-fdb44dfa718513"
+      ],
+      "name": "神明宮",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-6b90237c163ed6",
+        "22-agency-f0806eb6f88e03",
+        "22-agency-a295a55ff77c6a",
+        "22-agency-8bd5c64eed59f1",
+        "22-agency-f4dbfabbd212d6",
+        "22-history-9436d3ef828fa6",
+        "22-history-d85744e9f35fb8"
+      ],
+      "name": "神明神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-f3c9bf558ddd7a",
+        "22-agency-fc69bfc56fc68b",
+        "22-agency-fb27e2ec50a4d1",
+        "22-agency-4f3590b279f6bb",
+        "22-agency-474aaa5447f168",
+        "22-agency-16ac62a172ea1d",
+        "22-agency-815c4062cba30c",
+        "22-history-75b80f2c36084b",
+        "22-history-f368cadc82331b",
+        "22-history-017778b7d58603",
+        "22-history-bc5d3b75213476"
+      ],
+      "name": "水神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-3149930898cbcd",
+        "22-history-c23e10dd39c96b"
+      ],
+      "name": "愛宕神社",
+      "municipality": "湖西市"
+    },
+    {
+      "ids": [
+        "22-agency-312ef2499ade9a",
+        "22-history-7f8bc26c58af08"
+      ],
+      "name": "伊久佐神社",
+      "municipality": "湖西市"
+    },
+    {
+      "ids": [
+        "22-agency-f51fecc045a4bd",
+        "22-history-8fedd5d10678ab"
+      ],
+      "name": "大神山八幡宮",
+      "municipality": "湖西市"
+    },
+    {
+      "ids": [
+        "22-agency-d4fc03db9ea54b",
+        "22-history-88cf836da301e9"
+      ],
+      "name": "風宮神社",
+      "municipality": "湖西市"
+    },
+    {
+      "ids": [
+        "22-agency-3d670801d30346",
+        "22-agency-12db0bf53e36c5",
+        "22-agency-b33c2cc3bb9b0e",
+        "22-agency-24d480b799772c",
+        "22-history-6f64392ac79118"
+      ],
+      "name": "八幡神社",
+      "municipality": "湖西市"
+    },
+    {
+      "ids": [
+        "22-agency-2141f5a1d2bc8d",
+        "22-history-be31740406a6f4"
+      ],
+      "name": "横須賀神社",
+      "municipality": "湖西市"
+    },
+    {
+      "ids": [
+        "22-agency-ac0ff5a1a00c8a",
+        "22-history-e4523482f4d251"
+      ],
+      "name": "出雲神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-cdfb5e5bc17c36",
+        "22-history-935ce9d9f41abb"
+      ],
+      "name": "大原子神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-4547878395aadf",
+        "22-history-c96d4df041f4ab"
+      ],
+      "name": "開戸神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-a7f2d46ae6eb9a",
+        "22-agency-97b318a851a428",
+        "22-history-af9bfafabc5777"
+      ],
+      "name": "鹿島神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-dacfb62129aa5e",
+        "22-history-07161faab86775"
+      ],
+      "name": "加茂神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-875e1b645e0c57",
+        "22-agency-6784feccfaa08c",
+        "22-history-c1dd9676ec9caa"
+      ],
+      "name": "楠神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-5c62be04785c03",
+        "22-history-aea7abdef551d4"
+      ],
+      "name": "荒木神社",
+      "municipality": "伊豆の国市"
+    },
+    {
+      "ids": [
+        "22-agency-cd207a258760bd",
+        "22-history-bb2b953bdc26ab"
+      ],
+      "name": "神益麻志神社",
+      "municipality": "伊豆の国市"
+    },
+    {
+      "ids": [
+        "22-agency-e5774a77fb0b1a",
+        "22-agency-6c1b08cd274f89",
+        "22-agency-e3e77c372e29fc",
+        "22-agency-3dbf6ba468d4f1",
+        "22-agency-99349edfccaf9a",
+        "22-history-cb3ea8a03fe02b"
+      ],
+      "name": "熊野神社",
+      "municipality": "伊豆の国市"
+    },
+    {
+      "ids": [
+        "22-agency-30b76c891e743f",
+        "22-history-ad497fe89a418f"
+      ],
+      "name": "奈胡谷神社",
+      "municipality": "伊豆の国市"
+    },
+    {
+      "ids": [
+        "22-agency-3202fa3251cdae",
+        "22-history-bb0ec316b292df"
+      ],
+      "name": "廣瀬神社",
+      "municipality": "伊豆の国市"
+    },
+    {
+      "ids": [
+        "22-agency-7a222995d740ea",
+        "22-history-fbaf723e1b7f2a"
+      ],
+      "name": "三島神社",
+      "municipality": "伊豆の国市"
+    },
+    {
+      "ids": [
+        "22-agency-391f954c12eb1c",
+        "22-history-2a7db70ebc2827"
+      ],
+      "name": "御嶽神社",
+      "municipality": "伊豆の国市"
+    },
+    {
+      "ids": [
+        "22-agency-d24eadd345729e",
+        "22-history-273c8e6b141df6"
+      ],
+      "name": "愛宕神社",
+      "municipality": "賀茂郡東伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-956a03023a680d",
+        "22-history-f21d1cc3dac831"
+      ],
+      "name": "片菅神社",
+      "municipality": "賀茂郡東伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-f05f62835ee5b1",
+        "22-history-bd70d94cda8635"
+      ],
+      "name": "琴海神社",
+      "municipality": "賀茂郡河津町"
+    },
+    {
+      "ids": [
+        "22-agency-667b622d67c15a",
+        "22-history-9e4f2e3c609d1d"
+      ],
+      "name": "子安神社",
+      "municipality": "賀茂郡河津町"
+    },
+    {
+      "ids": [
+        "22-agency-b38c8818613fb1",
+        "22-agency-1c1b1c2c953ddd",
+        "22-history-c75cc6c2e4cece"
+      ],
+      "name": "山神社",
+      "municipality": "賀茂郡河津町"
+    },
+    {
+      "ids": [
+        "22-agency-79d467a30496c6",
+        "22-agency-6159248ba7b2cf",
+        "22-agency-aece97d6ed3260",
+        "22-history-74e78fb1d970ef",
+        "22-history-6fdf811846baf4"
+      ],
+      "name": "水神社",
+      "municipality": "賀茂郡河津町"
+    },
+    {
+      "ids": [
+        "22-agency-f95d3645121558",
+        "22-history-392c6580f249b6"
+      ],
+      "name": "須佐之神社",
+      "municipality": "賀茂郡河津町"
+    },
+    {
+      "ids": [
+        "22-agency-330f6917423699",
+        "22-agency-a92cff693cb864",
+        "22-history-a6db2c70e3ec06"
+      ],
+      "name": "天神社",
+      "municipality": "賀茂郡河津町"
+    },
+    {
+      "ids": [
+        "22-agency-6fee1b3bf921f6",
+        "22-history-77844636a33b89",
+        "22-history-6df2bea2ca67be"
+      ],
+      "name": "子神社",
+      "municipality": "賀茂郡河津町"
+    },
+    {
+      "ids": [
+        "22-agency-2831963d8363fb",
+        "22-agency-8d015f0e9d106b",
+        "22-history-179375000c7a5d",
+        "22-history-2f00e533842b61"
+      ],
+      "name": "三嶋神社",
+      "municipality": "賀茂郡河津町"
+    },
+    {
+      "ids": [
+        "22-agency-1707c27936b65d",
+        "22-history-a1c83c998af7b2"
+      ],
+      "name": "龍王神社",
+      "municipality": "賀茂郡河津町"
+    },
+    {
+      "ids": [
+        "22-agency-32deb64309b58a",
+        "22-history-d4ef26163a31a0"
+      ],
+      "name": "龍宮神社",
+      "municipality": "賀茂郡河津町"
+    },
+    {
+      "ids": [
+        "22-agency-3b71349c4203a8",
+        "22-history-3b4dd8bae18f19"
+      ],
+      "name": "稲荷神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-1fdb72f5d91656",
+        "22-history-189e81685b4de5"
+      ],
+      "name": "宇刈神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-fe71c7e395f225",
+        "22-history-a97b688ae25879"
+      ],
+      "name": "江川神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-b42862db3e45fb",
+        "22-agency-7b4deb22511442",
+        "22-agency-913ad862030b80",
+        "22-agency-1d3de10fea57fc",
+        "22-agency-f6b102c2e83282",
+        "22-history-d296ec0b844892"
+      ],
+      "name": "王子神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-a4e2319db07361",
+        "22-history-de25bcd8378ff2"
+      ],
+      "name": "大宮神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-fedb646d818145",
+        "22-agency-bbb863485cc626",
+        "22-history-a66b8e58f3bb4c",
+        "22-history-35cc4ba2901e09"
+      ],
+      "name": "賀茂神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-29f1130d8446db",
+        "22-history-9e13523bc2540a"
+      ],
+      "name": "萱間神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-230dade5e3401a",
+        "22-history-f8caf4d817c663"
+      ],
+      "name": "熊野十二社神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-7a6872d4f023ff",
+        "22-agency-226cfa415c4dcf",
+        "22-history-9107a76592b2b9"
+      ],
+      "name": "熊野神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-6267bc0c90bef3",
+        "22-history-b1677d6fd9fe59"
+      ],
+      "name": "桑原神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-05c5c9d869cfa5",
+        "22-history-adafcafa475b44"
+      ],
+      "name": "御沙汰神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-c15c7a7f533d6b",
+        "22-history-e64edeacacec0e"
+      ],
+      "name": "許禰神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-2c24d1079c3934",
+        "22-history-34e8d05ad41a43"
+      ],
+      "name": "沙汰神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-9259dd793f3e5e",
+        "22-history-0e76f1e6436e36"
+      ],
+      "name": "十五社神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-e9cafb3b61947e",
+        "22-history-ed585309bf5f75"
+      ],
+      "name": "十二所神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-8a89d1f6b6892c",
+        "22-history-ddfff2eb9e8dd6"
+      ],
+      "name": "白鬚神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-1f7cd1a216da51",
+        "22-agency-af9e5a7e42cf7a",
+        "22-agency-ef928b53d732e3",
+        "22-agency-1a29b62e0aeee0",
+        "22-agency-8b3cbc9de45264",
+        "22-history-c5f0ea5965da54",
+        "22-history-ddf0cdeca65941",
+        "22-history-b54eac12745897"
+      ],
+      "name": "神明神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-c07349dcb3d252",
+        "22-agency-d5499a92123016",
+        "22-history-ed8be4b25c6d75"
+      ],
+      "name": "水神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-495c2370b5dc60",
+        "22-agency-da978bb7d9918a",
+        "22-history-bd934c2278d113",
+        "22-history-42d02a376693cb"
+      ],
+      "name": "須賀神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-8599eff4082d01",
+        "22-history-200e825b8059b5"
+      ],
+      "name": "赤岡神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-54f11885fc2ae6",
+        "22-history-24d4d139f39fc1"
+      ],
+      "name": "旭ヶ丘神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-59b05c31f0bac0",
+        "22-history-936c7c1bb64bc7"
+      ],
+      "name": "大森神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-bd9381f2ed9a14",
+        "22-history-51e7cfe58bf22d"
+      ],
+      "name": "伊鈴川神社",
+      "municipality": "賀茂郡南伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-c1c72299291c02",
+        "22-history-e081cbff31a9e9"
+      ],
+      "name": "石室神社",
+      "municipality": "賀茂郡南伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-d2dc95c892ce0c",
+        "22-history-b4e28e02f74dc9"
+      ],
+      "name": "加畑賀茂神社",
+      "municipality": "賀茂郡南伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-1d9ad306767ca7",
+        "22-agency-1e4fed06165f2b",
+        "22-history-f1f52d9ddabdaf"
+      ],
+      "name": "諏訪神社",
+      "municipality": "賀茂郡南伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-0f94b7e38aa142",
+        "22-history-d0349eaf22ccad"
+      ],
+      "name": "棚機神社",
+      "municipality": "賀茂郡南伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-eeefcbc57861e7",
+        "22-agency-74fb2a66db480e",
+        "22-agency-20c42041d662fe",
+        "22-agency-b9069f53f9007e",
+        "22-agency-8cfd0951ed2e40",
+        "22-agency-7cdf0c80889ccd",
+        "22-agency-fa288677fe0afc",
+        "22-agency-8c68be2532bbc7",
+        "22-agency-c5c581993b16e0",
+        "22-history-5352e37da952af",
+        "22-history-af672f351da415"
+      ],
+      "name": "三島神社",
+      "municipality": "賀茂郡南伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-7cebffc981204c",
+        "22-agency-eecae822bce223",
+        "22-agency-b1174e00bcc24d",
+        "22-history-a3d833590331a9"
+      ],
+      "name": "若宮神社",
+      "municipality": "賀茂郡南伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-df6fe58f12244d",
+        "22-history-131ac8dbb58485"
+      ],
+      "name": "若宮八幡神社",
+      "municipality": "賀茂郡南伊豆町"
+    },
+    {
+      "ids": [
+        "22-agency-98309bfa874f63",
+        "22-agency-a43e7adfa6fb0f",
+        "22-history-88f6a4ca39ecdb"
+      ],
+      "name": "吾妻神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-4884d367b8ed0e",
+        "22-history-a20f62c2989977"
+      ],
+      "name": "天城神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-aaf4f0593d2d52",
+        "22-history-04f77a9aa03e3b"
+      ],
+      "name": "市山神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-615af8d557f69f",
+        "22-history-0a55c351da99f2"
+      ],
+      "name": "狭口神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-ca516c058fec66",
+        "22-history-1962d1873ae960"
+      ],
+      "name": "柿木魂神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-6800a0259fb85d",
+        "22-agency-d26e3299e8b291",
+        "22-agency-2facbfd601ca91",
+        "22-history-3bbfe139363e42"
+      ],
+      "name": "熊野神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-b5f8c0bedd4675",
+        "22-history-0edd052797017d"
+      ],
+      "name": "雲金神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-3611af5e2c8ac4",
+        "22-history-5c69556f9b140b"
+      ],
+      "name": "佐野神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-df1a8de639a4a2",
+        "22-agency-eeac78996a7002",
+        "22-agency-64cbb8ff0e8759",
+        "22-agency-8fd4cf081368ec",
+        "22-agency-2186433670d2bd",
+        "22-agency-bdcdc47a4f608b",
+        "22-agency-48de9a191fb69c",
+        "22-agency-2ffad5c7aecedc",
+        "22-history-5923a919ea2b5a"
+      ],
+      "name": "山神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-e0ba1f8fd5eb28",
+        "22-agency-9d545e616ec465",
+        "22-agency-91f8dc33a63bc0",
+        "22-agency-68fe8ff07b4804",
+        "22-agency-e4ba3f2cc66fa7",
+        "22-history-00d20a93968e31"
+      ],
+      "name": "神明神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-c55ea865c9fa81",
+        "22-agency-1c218a4aeb8de8",
+        "22-agency-7236b0e118d67f",
+        "22-agency-f4bb63ecc93a50",
+        "22-history-37e513660bc5e2",
+        "22-history-5dea5da726662c",
+        "22-history-e2d8fee1e459f6",
+        "22-history-02c0359dc73739"
+      ],
+      "name": "稲荷神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-e0e71de239f9b2",
+        "22-history-5da2d73dbd6d79"
+      ],
+      "name": "伊奴波志神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-6d8fd7287b1b1f",
+        "22-history-bd5e198edb30e7"
+      ],
+      "name": "恵比寿神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-b12619331cf36b",
+        "22-history-0c10afcb6c14a3"
+      ],
+      "name": "五六七稲荷神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-078221443cacde",
+        "22-history-113d8edfbc9c84"
+      ],
+      "name": "金毘羅神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-679a54b537298a",
+        "22-history-5cd1a4db27b3ef"
+      ],
+      "name": "鷺島神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-e961b7584019bd",
+        "22-history-633a52c8ff39b3"
+      ],
+      "name": "白岩神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-9df3e4e8a5eb08",
+        "22-agency-14b2d02fd78cf4",
+        "22-agency-d1f0a7ad948b9f",
+        "22-history-82f57068a34e26"
+      ],
+      "name": "神明神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-64d138fa6cbf82",
+        "22-agency-8766e3c35e958b",
+        "22-agency-01e00e18d16a75",
+        "22-history-f9022f4d18ecbb"
+      ],
+      "name": "水神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-d85295bb494441",
+        "22-history-a865225df1726a"
+      ],
+      "name": "浅間神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-05b4b0fbab6281",
+        "22-agency-0e57514f9277a9",
+        "22-agency-ccf45f3aa7aaf7",
+        "22-agency-92c4eb443516b3",
+        "22-agency-a53b35e3e09118",
+        "22-agency-78e3cf1a7b4bf5",
+        "22-history-a018afb9fdf501",
+        "22-history-1c178401ccee9d",
+        "22-history-6b616eef7f3cb6"
+      ],
+      "name": "八幡神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-df8ac800890306",
+        "22-agency-1e11e61259afde",
+        "22-agency-51246ce68b9f2b",
+        "22-agency-4057d28f77b2b3",
+        "22-agency-679332b13ca60d",
+        "22-history-833d39b1013129",
+        "22-history-701bdaf9b3eec8",
+        "22-history-efab2d9c9175ac"
+      ],
+      "name": "日枝神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-0735239fe901e6",
+        "22-history-466df5936aa1db"
+      ],
+      "name": "辨天神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-ee47e804bf8e5e",
+        "22-history-5f6459f15e8320"
+      ],
+      "name": "神児元島神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-754120d74d11b2",
+        "22-history-e09721a0b07505"
+      ],
+      "name": "妙見神社",
+      "municipality": "下田市"
+    },
+    {
+      "ids": [
+        "22-agency-7269fc4851612a",
+        "22-history-dda338ebda14ec"
+      ],
+      "name": "六日市場浅間神社",
+      "municipality": "御殿場市"
+    },
+    {
+      "ids": [
+        "22-agency-14823e699d0003",
+        "22-history-017c0f22505f40"
+      ],
+      "name": "八幡神社",
+      "municipality": "御殿場市"
+    },
+    {
+      "ids": [
+        "22-agency-5f34b62b467c53",
+        "22-history-5a8e8d1ea15226"
+      ],
+      "name": "吉田神社",
+      "municipality": "御殿場市"
+    },
+    {
+      "ids": [
+        "22-agency-4755b8d3152ef4",
+        "22-agency-9390ee2bc8dadb",
+        "22-agency-b0e5a8ca2c8a0e",
+        "22-agency-85eee71fd59786",
+        "22-agency-a7e0a3f8d8d9a2",
+        "22-agency-37bc68b2f7b1c4",
+        "22-agency-123f01d5f6e63d",
+        "22-agency-4c64628f6efa71",
+        "22-agency-7c36f6e86ace5b",
+        "22-history-a60053c9251560"
+      ],
+      "name": "八幡神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-e8625c437f777c",
+        "22-history-b8f2216a95a82d"
+      ],
+      "name": "末廣神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-f558e128bf0e29",
+        "22-history-d8f80b615d4efc"
+      ],
+      "name": "第六天神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-fb8ad7b5c97517",
+        "22-history-249e6dd09f7279"
+      ],
+      "name": "天神宮",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-88f685d3e83726",
+        "22-agency-17ab70d729900a",
+        "22-history-6b5c83a216dffa"
+      ],
+      "name": "天神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-91c291c969282f",
+        "22-history-ca4577aeac6297"
+      ],
+      "name": "天満宮",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-71105f7f09eb71",
+        "22-history-b4a874d35b74c0"
+      ],
+      "name": "白山神社",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-d73ea586f10b7d",
+        "22-agency-36c870f831b441",
+        "22-agency-633181847f8ba3",
+        "22-history-ff9ca19cd849a4"
+      ],
+      "name": "八幡宮",
+      "municipality": "沼津市"
+    },
+    {
+      "ids": [
+        "22-agency-360dcfee89f3bd",
+        "22-agency-07a587f7d7046a",
+        "22-agency-0a8556712d0378",
+        "22-agency-cf484ccc8d510b",
+        "22-agency-64a34016977766",
+        "22-agency-0a0342eb8807b0",
+        "22-agency-2a653bbec8a565",
+        "22-agency-25e470e9b60683",
+        "22-agency-d07be598525d89",
+        "22-agency-fbbdfe87881913",
+        "22-agency-f70e761f0699e7",
+        "22-agency-e9107cc85961ce",
+        "22-agency-d485d8ad8cadfe",
+        "22-agency-b65a6f32d6bacf",
+        "22-agency-3441706310bba1",
+        "22-agency-b1dbd6c7f5f95a",
+        "22-agency-f194eb3dc1fa8c",
+        "22-agency-a680a4039c26f7",
+        "22-agency-3a1ae3831d62f3",
+        "22-agency-e74ac622fd674e",
+        "22-agency-f8501c032a2177",
+        "22-agency-5becfaf9ad04f7",
+        "22-agency-639d583423beb9",
+        "22-agency-2881e6e3e98751",
+        "22-agency-5738f5560ac8ac",
+        "22-agency-b269dc6b2d5c3d",
+        "22-agency-b9e4f95d47cafd",
+        "22-agency-94873b414530a8",
+        "22-agency-1c87b9bb8365f5",
+        "22-agency-10ccb9a6095a3e",
+        "22-agency-b27986e5bee055",
+        "22-agency-f622ba2c84a6aa",
+        "22-agency-12f786fdd9b005",
+        "22-agency-33929507a0e9e9",
+        "22-agency-fd2875843d4556",
+        "22-agency-417b7b9842d993",
+        "22-agency-e97c63c2228575",
+        "22-agency-2c057ec1b73eab",
+        "22-agency-6f2c3d4dc88986",
+        "22-agency-be02c42ebc93f1",
+        "22-agency-f500a062b85898",
+        "22-agency-eb1ed8a43e9ed6",
+        "22-agency-4752cfffd91b7c",
+        "22-history-2a163521fe242f",
+        "22-history-e813f269bb3971",
+        "22-history-4fd7f601c9a906",
+        "22-history-e0b1ff2b38b294",
+        "22-history-cdbebf52a6d35f"
+      ],
+      "name": "山神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-3802730a306437",
+        "22-history-e9a4224e161156"
+      ],
+      "name": "社宮司神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-fa036856642391",
+        "22-agency-06b04f80285b5f",
+        "22-agency-aef900bbe0e95c",
+        "22-agency-b584da67688615",
+        "22-agency-62145b667f53d8",
+        "22-agency-affc8807b220a6",
+        "22-history-a8a402fb6c5da3"
+      ],
+      "name": "神明宮",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-cf8768ead06270",
+        "22-agency-cb41bab9342f44",
+        "22-agency-7e9aca35ab981a",
+        "22-history-5e7b15333174fc"
+      ],
+      "name": "水神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-3d67cb4ccf461e",
+        "22-agency-71799880b2cfab",
+        "22-agency-831bdf143b3196",
+        "22-agency-34546c05838ea2",
+        "22-agency-f5e531d9ac22f2",
+        "22-agency-b373cdfc3c5c86",
+        "22-agency-ca3771fd8043b1",
+        "22-agency-d016a451cc5e77",
+        "22-agency-168d0c2c2851f6",
+        "22-agency-5cf73a40e773cf",
+        "22-agency-64699c8703b1e7",
+        "22-agency-4f398a508a502a",
+        "22-history-6857efcc38a6fc",
+        "22-history-96a753acfbd93c",
+        "22-history-749d205ab86866"
+      ],
+      "name": "浅間神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-88289a6ce2f578",
+        "22-agency-3b37f5b0787f33",
+        "22-agency-93c7f002c07a41",
+        "22-agency-c84701bd3a1227",
+        "22-agency-a33197b18cf586",
+        "22-agency-79b68d917353d8",
+        "22-agency-17111480ba049e",
+        "22-agency-923af9272b1653",
+        "22-agency-2a82d0f78c65c1",
+        "22-agency-c62788501493c6",
+        "22-agency-3b4429d283c58c",
+        "22-agency-ca4e91205459e3",
+        "22-agency-70df21762587a6",
+        "22-agency-25b0e1e60bb613",
+        "22-agency-54fdb9fe8a9b7c",
+        "22-agency-fbdf40dcae1709",
+        "22-agency-8b37307ebba32f",
+        "22-agency-aea319ab708b68",
+        "22-agency-0bcfeafbca7710",
+        "22-agency-902a7e5e7962e4",
+        "22-agency-ce76825c27c5fd",
+        "22-agency-0180a91ed1be8b",
+        "22-agency-1a6e6f78367553",
+        "22-agency-e3cf236eb15a2c",
+        "22-agency-a76f7973158533",
+        "22-agency-6bd75d839f750d",
+        "22-agency-a513e6e2079e5f",
+        "22-agency-febfcf7e9483e0",
+        "22-agency-025d2ad24910ad",
+        "22-agency-77f724d4e13861",
+        "22-agency-3f7d8075b9f601",
+        "22-agency-39fc536de71b59",
+        "22-agency-e8f9b32e403710",
+        "22-agency-3e6b8468334efc",
+        "22-agency-27b575a3fa1235",
+        "22-agency-ac52611a49e4d2",
+        "22-agency-25bc5b5370e436",
+        "22-agency-bec16d6d294095",
+        "22-history-11649e396feb2b",
+        "22-history-2c5d56cf9c656f",
+        "22-history-8e220474eff749",
+        "22-history-49f7de4fd00b58"
+      ],
+      "name": "八幡宮",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-f71b5260bbed0e",
+        "22-history-c2a1f158c42c82"
+      ],
+      "name": "日吉神社",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-2219cac02b970e",
+        "22-history-7d3a1c4b9bdfb6"
+      ],
+      "name": "村山浅間神社",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-dbbef09746c6c9",
+        "22-history-9db90c13f960e1"
+      ],
+      "name": "日吉・山神・浅間神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-422ef1e983b44f",
+        "22-agency-88c50d00a7d3d6",
+        "22-agency-b192dccfd0e5c8",
+        "22-history-f27041fc0fa087",
+        "22-history-eed197ec2ab2e3"
+      ],
+      "name": "龍神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-4471ce0257eb5e",
+        "22-history-9ea5b7ed3159a4"
+      ],
+      "name": "和光明神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-ef8938cc8bc541",
+        "22-agency-740fea5fc1aacc",
+        "22-agency-9dbbe290a5a6df",
+        "22-agency-f1a839af25d151",
+        "22-history-4ecd8a3c8c580c",
+        "22-history-a568a7d12177e5"
+      ],
+      "name": "天満宮",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-22aafca39b5967",
+        "22-history-f8793efc444945"
+      ],
+      "name": "東照宮",
+      "municipality": "富士宮市"
+    },
+    {
+      "ids": [
+        "22-agency-2b1969a9258bca",
+        "22-agency-9757bd15088a1c",
+        "22-history-eb2ff74e8bbb42"
+      ],
+      "name": "御嶽神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-ae58df274479e3",
+        "22-agency-4d334cb5114a2a",
+        "22-history-b5f5092b513927"
+      ],
+      "name": "鹿島神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-b6ec23a5a41683",
+        "22-history-7df9d88c1a770f"
+      ],
+      "name": "清見神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-9f08f5974dbce9",
+        "22-history-582193f07c55ca"
+      ],
+      "name": "金座稲荷神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-781ed47e1c5a8e",
+        "22-agency-1f9435ee8c6068",
+        "22-agency-e2298939b8855d",
+        "22-history-d8acb13be06ca1"
+      ],
+      "name": "熊野神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-5a4530e4a18441",
+        "22-agency-8d2cb2b4ef7d2c",
+        "22-history-b579fb6df34928"
+      ],
+      "name": "熊野神社",
+      "municipality": "静岡市駿河区"
+    },
+    {
+      "ids": [
+        "22-agency-50d8cb81028c31",
+        "22-history-ef797b41d8c1be"
+      ],
+      "name": "駒越神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-ccc5545a13ece1",
+        "22-history-ddd6cbc722f89f"
+      ],
+      "name": "狹長田神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-8c63bf9289c550",
+        "22-history-0dbcdf0980667d"
+      ],
+      "name": "曾我八幡宮",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-6697b51f1a8d1d",
+        "22-agency-b60ce43e7d194f",
+        "22-agency-f362d354ac74a3",
+        "22-agency-8a820d30d1ed39",
+        "22-agency-0f7df579bc8387",
+        "22-agency-d2223ea0fbe154",
+        "22-history-0debdacb1dc1ce"
+      ],
+      "name": "天神社",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-f202820b6e687e",
+        "22-agency-436b906e1a6f0a",
+        "22-agency-5f638fdd492e7d",
+        "22-agency-3fdf34814647f8",
+        "22-history-8dc59d196c903a"
+      ],
+      "name": "天満宮",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-280a1feb4a699e",
+        "22-agency-6cbc02cea58d7a",
+        "22-agency-055dfc7018db41",
+        "22-agency-1248d1cbeec8b0",
+        "22-agency-c014a802a5f12d",
+        "22-agency-b270dbf790408c",
+        "22-agency-01b8f93af91676",
+        "22-agency-d294bd83766680",
+        "22-agency-4d858ec34b83fa",
+        "22-agency-9607e47e48ec83",
+        "22-agency-886570daa11c6a",
+        "22-agency-afc016c0ba7592",
+        "22-agency-09ae78514ea611",
+        "22-agency-788485a1830d33",
+        "22-agency-40cffe663dcafc",
+        "22-agency-ac22774110014d",
+        "22-agency-a89808c2f2d8e6",
+        "22-agency-bebc4476c0decc",
+        "22-history-c9cd8b847faf7e",
+        "22-history-b9b6c22775bdfb",
+        "22-history-a18dde6d32813a",
+        "22-history-51b76619f4e970",
+        "22-history-eb3d1520722c07",
+        "22-history-7f4f03abe1a9da"
+      ],
+      "name": "八幡宮",
+      "municipality": "富士市"
+    },
+    {
+      "ids": [
+        "22-agency-7f8bcc1398378b",
+        "22-agency-04ef3affc2626b",
+        "22-agency-6b6acfa3fc915d",
+        "22-history-664d12a3ddb866",
+        "22-history-50e053c58e0c4b",
+        "22-history-cb0d8584b9c29a"
+      ],
+      "name": "八幡神社",
+      "municipality": "焼津市"
+    },
+    {
+      "ids": [
+        "22-agency-681f6f575538aa",
+        "22-history-323d41e86e8c25"
+      ],
+      "name": "三島神社",
+      "municipality": "焼津市"
+    },
+    {
+      "ids": [
+        "22-agency-78a1847d5c3d9b",
+        "22-history-ab9eb2aa4069e3"
+      ],
+      "name": "関田神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-1a2960556d9bbc",
+        "22-history-8e2dcc7b575728"
+      ],
+      "name": "石部神社",
+      "municipality": "静岡市駿河区"
+    },
+    {
+      "ids": [
+        "22-agency-12aa837012a2c3",
+        "22-history-f1adc87638e8d2"
+      ],
+      "name": "珠賀美神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-01c2fa17620341",
+        "22-history-754e00c63bad64"
+      ],
+      "name": "鎭札神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-095fff488db534",
+        "22-agency-52d8e717997d4f",
+        "22-history-1d3c547d11f808"
+      ],
+      "name": "天神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-4fba51d0a7adce",
+        "22-agency-afbdef48223fd4",
+        "22-agency-fca2b5845dc2f4",
+        "22-agency-dc0e26d04eedb1",
+        "22-agency-a713f3bd676907",
+        "22-agency-8fb3da06206004",
+        "22-agency-e04efcaa08ccfd",
+        "22-agency-16b22f37241cf3",
+        "22-agency-99a7d3ee296914",
+        "22-agency-deb6ab68afc708",
+        "22-agency-4ca8a3cc6150dc",
+        "22-agency-29368a16e34507",
+        "22-agency-2fff885296f86f",
+        "22-agency-df98cfdd7bf98c",
+        "22-agency-c6b6c8e327b7fe",
+        "22-history-6f35679dba5b8f",
+        "22-history-c24148009fd3c7"
+      ],
+      "name": "白髭神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-46e6535076e1b9",
+        "22-agency-3e2cbf498b9d8b",
+        "22-agency-c8aa0a66f1ad2d",
+        "22-agency-d66e758d79ac08",
+        "22-agency-1f53064b2d2abb",
+        "22-agency-1f3dbd2c58d261",
+        "22-agency-928a2b45864407",
+        "22-agency-312650c387951e",
+        "22-agency-4dfc5e0f198e57",
+        "22-agency-fe95c6d5bb5d81",
+        "22-agency-4e34e2fc6560de",
+        "22-agency-d162d6bae55886",
+        "22-agency-4e13e77906b19a",
+        "22-agency-1944f51e98f6e5",
+        "22-agency-2bc39df39f7b6f",
+        "22-agency-65888124c989b3",
+        "22-agency-5b79b7addc25e6",
+        "22-agency-10629e5ebb2eb4",
+        "22-agency-513bc2300451b6",
+        "22-agency-7d18bc41c254c2",
+        "22-agency-1fd1a0c0aee319",
+        "22-agency-2518df24f323a4",
+        "22-agency-1b189d0e86b4c3",
+        "22-agency-e9cdd99758d0c4",
+        "22-agency-6ac2c88def5443",
+        "22-agency-04c260d3c7c4d3",
+        "22-agency-7e0a0f1bc0aa93",
+        "22-agency-468cfff1cba59b",
+        "22-agency-f1e3521bfcfabb",
+        "22-agency-06e9f6b0920a17",
+        "22-agency-05a4afb30b9e51",
+        "22-agency-77678f5b815dc1",
+        "22-agency-0091395592502a",
+        "22-agency-a9bfdb556c1c1c",
+        "22-agency-29951d2af09ff0",
+        "22-agency-056ae620e62ece",
+        "22-agency-4ed6a2a52d3268",
+        "22-agency-5dcc4127c44e02",
+        "22-agency-c19d449495ed2f",
+        "22-agency-ac59f9abc7d6af",
+        "22-history-56b72e0750f78e",
+        "22-history-7c06323f24aded",
+        "22-history-3c6d8db51f94a4",
+        "22-history-0dda40136f08fa",
+        "22-history-e65e0425f86c5e",
+        "22-history-8bcaa2be5659c5"
+      ],
+      "name": "白髭神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-9faa474c45b9d2",
+        "22-agency-96477a783efa30",
+        "22-agency-d8b53aed51a127",
+        "22-history-80dd726134ef4b",
+        "22-history-174243bc814817"
+      ],
+      "name": "天満宮",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-5e776536e38a58",
+        "22-agency-8ac021b9c864b6",
+        "22-history-3ede452b921f61"
+      ],
+      "name": "日吉神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-5dccf361f5124e",
+        "22-history-47b80feab61207"
+      ],
+      "name": "若一王子神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-a13448d4398ee3",
+        "22-history-e2881d539a69b6"
+      ],
+      "name": "若宮八幡神社",
+      "municipality": "藤枝市"
+    },
+    {
+      "ids": [
+        "22-agency-d3fe9bf5361374",
+        "22-agency-a79fd6c8da812a",
+        "22-agency-46dfa0e4f9c874",
+        "22-agency-2c5dc370462f41",
+        "22-agency-041bf976799db5",
+        "22-history-f28360d3784be9"
+      ],
+      "name": "神明宮",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-d6f2eec9824b83",
+        "22-history-91b774e135e639"
+      ],
+      "name": "神明神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-eaab6911b5dbcf",
+        "22-history-c6b7c42ddcfe76"
+      ],
+      "name": "神明神社・諏訪神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-6994189cdebdd7",
+        "22-history-d40a91c02cb06b"
+      ],
+      "name": "飯津佐和乃神社",
+      "municipality": "牧之原市"
+    },
+    {
+      "ids": [
+        "22-agency-510e5850268d73",
+        "22-history-042ffee4debc70"
+      ],
+      "name": "寄子神社",
+      "municipality": "牧之原市"
+    },
+    {
+      "ids": [
+        "22-agency-8f19db55f1d452",
+        "22-history-93a577de599fb5"
+      ],
+      "name": "天満天神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-4af1ae8ceb5536",
+        "22-agency-ced77c99d04001",
+        "22-agency-8bdcebc747049a",
+        "22-agency-3f707704be58e7",
+        "22-agency-e722d52208c819",
+        "22-agency-33ee80af47a869",
+        "22-agency-acf76e716d0992",
+        "22-agency-0f0832bf532241",
+        "22-agency-c4ef7392a8bdc7",
+        "22-agency-5f270039a3ffd1",
+        "22-agency-4a558d1880fc18",
+        "22-agency-2a92ad1646289b",
+        "22-agency-9f7cc4654de379",
+        "22-agency-ad76a48dcbe852",
+        "22-agency-2aaeb6968d677f",
+        "22-agency-9b3f5bf9a862fd",
+        "22-agency-75d31f6216c627",
+        "22-agency-2b607a9fd72fe1",
+        "22-agency-001d73d6b7ceb3",
+        "22-history-401283cb650599"
+      ],
+      "name": "八幡神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-2cd782f9cb085a",
+        "22-agency-5a643d24a2c9ca",
+        "22-agency-55bb7472fdb542",
+        "22-history-158c44420d90d5"
+      ],
+      "name": "明神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-cf65317c6ecd39",
+        "22-history-3ec2ed4a021e77"
+      ],
+      "name": "八雲神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-1d3b53d25021c3",
+        "22-history-23f8330a94fd37"
+      ],
+      "name": "若宮八幡神社",
+      "municipality": "島田市"
+    },
+    {
+      "ids": [
+        "22-agency-eec8073f976d48",
+        "22-agency-c1327b19497d24",
+        "22-agency-38a235e140e34e",
+        "22-agency-a32d2480148f3e",
+        "22-agency-b001bb550bd3c5",
+        "22-agency-b083b70870a2fe",
+        "22-agency-be5a2f53ee8486",
+        "22-history-a1a6df56d98d10",
+        "22-history-d0f7f20e1fc594"
+      ],
+      "name": "神明神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-c939bf322adcda",
+        "22-history-018317ac6d2d3e"
+      ],
+      "name": "水門神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-c9c778eef6289d",
+        "22-history-e219baf34ca74e"
+      ],
+      "name": "炭焼神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-b16427ec009560",
+        "22-history-ef3facb6db6344"
+      ],
+      "name": "高畑神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-bf696a2b189887",
+        "22-agency-e600befe3e90b1",
+        "22-agency-f4d86f10d585e5",
+        "22-agency-d0538a9ce4b50d",
+        "22-agency-a6a2cbb397e30f",
+        "22-history-ba8a5b05382c33",
+        "22-history-5b702a50c03f93",
+        "22-history-a1803fa2c711ad"
+      ],
+      "name": "津島神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-ba5ee550b77dad",
+        "22-agency-3c93e4bf7dc0ae",
+        "22-agency-5d7cb399273132",
+        "22-agency-e0f28e506f2f27",
+        "22-agency-048ddc147f2ff1",
+        "22-agency-4e64a884505207",
+        "22-agency-0f94f9424c766f",
+        "22-agency-f85e55374fc8be",
+        "22-history-39cca27b30950d"
+      ],
+      "name": "天神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-3f541f645f667f",
+        "22-agency-bd670c31fa1fac",
+        "22-agency-4a797292b8773e",
+        "22-agency-94f254bf240bf8",
+        "22-agency-03c623fdc0c4ed",
+        "22-agency-88607952238da9",
+        "22-agency-627871af5a2875",
+        "22-agency-c39eafc6ec3320",
+        "22-agency-2ed262c6a9b32b",
+        "22-agency-1de27c3d484de2",
+        "22-agency-080ce13f4222d7",
+        "22-agency-24b9c5e41b59a8",
+        "22-agency-015352effe2774",
+        "22-history-edd11af882cdaa",
+        "22-history-4f175c89e631ff",
+        "22-history-ab7d0f5404a4b7",
+        "22-history-a910e2de2a6c53",
+        "22-history-8138d358999c73"
+      ],
+      "name": "八幡神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-aab16f1efbd910",
+        "22-history-1a66ac1e915e3d"
+      ],
+      "name": "両谷神社・神明宮",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-e9de80caf05c23",
+        "22-agency-12a59f05b00dee",
+        "22-history-d601f07df4e727"
+      ],
+      "name": "若宮八幡神社",
+      "municipality": "掛川市"
+    },
+    {
+      "ids": [
+        "22-agency-d12134a7df4b42",
+        "22-agency-82b5b6d5d1cbc3",
+        "22-agency-691d6b855982f2",
+        "22-history-4a76fa861bb60e",
+        "22-history-6e1053190f69a7"
+      ],
+      "name": "津島神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-f18f3d1b147eb6",
+        "22-history-898e55185bd95a"
+      ],
+      "name": "天神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-1f0c8d58d48633",
+        "22-history-aff085e6ccdac8",
+        "22-history-d9b5f0860196bc"
+      ],
+      "name": "白山神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-6d4f1992166b2e",
+        "22-agency-2e57cec7b1d629",
+        "22-history-4ff8ce6a52e89c",
+        "22-history-17532f200e3773"
+      ],
+      "name": "八王子神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-11a2e37d71ea85",
+        "22-history-6f243d6cd9efe0"
+      ],
+      "name": "八幡宮",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-af6a7d29834ed9",
+        "22-agency-7fd769f6c19aa2",
+        "22-agency-62dd71c5c63534",
+        "22-agency-dce87a5e81478b",
+        "22-agency-152e8961df6624",
+        "22-agency-5c2641f7709af2",
+        "22-history-1196ce712e63a6",
+        "22-history-8db202a02aa19c"
+      ],
+      "name": "八幡神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-b2a2efbc01a8bd",
+        "22-history-8d1683d5579839"
+      ],
+      "name": "八面神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-d82c868a40ec36",
+        "22-history-94c409474ebe9a"
+      ],
+      "name": "春岡神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-8a2376ec8bfc48",
+        "22-agency-8304231e68fd37",
+        "22-history-4a880e412387eb"
+      ],
+      "name": "日吉神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-918ab1bb5c77d9",
+        "22-history-a04cec11dc802e"
+      ],
+      "name": "深見神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-7537bd3706f102",
+        "22-agency-91bcc56e38c2b7",
+        "22-agency-ccf987b7897000",
+        "22-history-fa706e2d85b881",
+        "22-history-2716391c563605"
+      ],
+      "name": "八雲神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-d768c29b09697b",
+        "22-history-2b50868d3c472a"
+      ],
+      "name": "山名神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-49d0374eec70cc",
+        "22-agency-14398c1188771a",
+        "22-history-a0476d86016668"
+      ],
+      "name": "六所神社",
+      "municipality": "袋井市"
+    },
+    {
+      "ids": [
+        "22-agency-0d4034f7db0305",
+        "22-agency-c2ef85bbee1854",
+        "22-agency-9fa495341161f8",
+        "22-agency-096c9c3e5c5cee",
+        "22-history-ce255c8fb9e015",
+        "22-history-0efa092d29725b"
+      ],
+      "name": "八王子神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-898096f64e1bfd",
+        "22-history-672cd37ccec81b",
+        "22-history-5a3ce3cd9de106"
+      ],
+      "name": "八幡宮",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-a4b64e3a1e232e",
+        "22-agency-5b9ecb90adc98d",
+        "22-agency-5c59ea20782d06",
+        "22-agency-568803e34825be",
+        "22-agency-d17bf7e085a312",
+        "22-agency-24574f6dae88c8",
+        "22-agency-5d4591e8148f6f",
+        "22-agency-f74666e7adc8d9",
+        "22-agency-192300bcf0bf61",
+        "22-agency-d3f93ab66f03a9",
+        "22-agency-4854eeef0103c3",
+        "22-agency-5d51d61ba4edde",
+        "22-agency-b7df70d5807d92",
+        "22-history-8ef9e98ab288a6",
+        "22-history-fb26773ee3b8ee",
+        "22-history-a5ada3b4f4d813",
+        "22-history-7602a22e1d1f27"
+      ],
+      "name": "八幡神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-3bac66a5387283",
+        "22-history-2e56beafe034fa"
+      ],
+      "name": "七社神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-4acba05d8d4642",
+        "22-agency-fb617c33a246ea",
+        "22-agency-1c6f99df9606c0",
+        "22-agency-228df21f7265a4",
+        "22-agency-eadcad0923c2f2",
+        "22-history-61cc871b9b9138",
+        "22-history-af52fe49c4ba07",
+        "22-history-5b1104e6ada64c",
+        "22-history-5b48d6943bf1e0"
+      ],
+      "name": "松尾神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-82bd18f8f7f32b",
+        "22-history-69f13298130349"
+      ],
+      "name": "三嶋神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-9a314c9c9d484d",
+        "22-history-aaa3ccac5016db"
+      ],
+      "name": "三森神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-9431b14a04c084",
+        "22-history-22df3d510cb6fb"
+      ],
+      "name": "三柱神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-65d60cccd4586b",
+        "22-history-789e03469d2cbd"
+      ],
+      "name": "藻山神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-b54de51c0f6fd2",
+        "22-agency-a9d88f40dde409",
+        "22-history-6f83585f61356e"
+      ],
+      "name": "八雲神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-2810f56a8f72f5",
+        "22-history-087c5246fd781c"
+      ],
+      "name": "湯殿山神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-4c1ec2fbc3cd41",
+        "22-history-121ce2bef074e0"
+      ],
+      "name": "鹿苑神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-02c4567fa4022d",
+        "22-history-bca3fe0038f5e9"
+      ],
+      "name": "六社神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-7d8a0bfa2d28cd",
+        "22-agency-e5b2dd3452608e",
+        "22-agency-5abe56e5037396",
+        "22-agency-1a56413ad8b20e",
+        "22-agency-eb799de566baa6",
+        "22-agency-aecac230d216be",
+        "22-agency-62fa365dc8fa60",
+        "22-history-4f5a3f4e523473",
+        "22-history-bcd064d15b4921",
+        "22-history-0adb11704bbbe2"
+      ],
+      "name": "六所神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-7335eb262751fd",
+        "22-history-d8d7e4db024614"
+      ],
+      "name": "若宮八幡宮",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-7234742dc3e1a0",
+        "22-agency-6ba373f766a914",
+        "22-history-42629dcac3db5b",
+        "22-history-062fa28053c2d1"
+      ],
+      "name": "若宮八幡神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-414fb3756e7656",
+        "22-agency-ba47804b0fe51e",
+        "22-agency-1278c8ef14b070",
+        "22-history-c2d21bd95a21f1",
+        "22-history-990fe95c944557"
+      ],
+      "name": "須賀神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-eb50e4936c6690",
+        "22-agency-65700855dc2bca",
+        "22-agency-5b434517268df0",
+        "22-agency-7854f50d77e015",
+        "22-agency-fca44dcfc18a70",
+        "22-agency-ee0c05565bb27b",
+        "22-agency-58e874141da877",
+        "22-agency-5296e120010e31",
+        "22-agency-8cc6076236ed73",
+        "22-agency-979fa00531902c",
+        "22-agency-02c39b05ae4fbc",
+        "22-agency-111e0252d17680",
+        "22-agency-06b0220ab3f7ea",
+        "22-history-3310737018e73d",
+        "22-history-443deb0a63b8b1",
+        "22-history-eda2601e83d3fe"
+      ],
+      "name": "諏訪神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-6676a53a1449f1",
+        "22-history-799a5bce39505c",
+        "22-history-554a8dc1673141"
+      ],
+      "name": "淺間神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-296c35c1143b14",
+        "22-history-e74a0ce32ff610"
+      ],
+      "name": "造立神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-7d45334ce2e8fb",
+        "22-agency-a45a312d4330b2",
+        "22-agency-95fd2cb4c0f321",
+        "22-history-f1d1ddd73b5f98",
+        "22-history-c38ed793879863"
+      ],
+      "name": "高根神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-49aa2468ed9c9b",
+        "22-agency-ac3cae410af8eb",
+        "22-agency-9b876600bda93f",
+        "22-agency-2b95f638cbea18",
+        "22-agency-45a3f1f7c860db",
+        "22-agency-987ea4b3156c2a",
+        "22-history-f6e913a452e072",
+        "22-history-ecefc3c1d1a6d3",
+        "22-history-2f1d6068dab1fc",
+        "22-history-56c62327ada270"
+      ],
+      "name": "天神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-5613c006b71201",
+        "22-agency-665ab4464fc21e",
+        "22-agency-13a5028838384d",
+        "22-history-696ccf5dff6437"
+      ],
+      "name": "天白神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-dce0ccc03f2714",
+        "22-history-7a208c787c918f"
+      ],
+      "name": "西宮神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-f728375ffa943c",
+        "22-agency-8c3f4058cfb746",
+        "22-agency-2678c290e9581d",
+        "22-agency-537f5a746171e4",
+        "22-history-01a4f1a65d6d1f",
+        "22-history-f360cc0b68abec"
+      ],
+      "name": "白山神社",
+      "municipality": "磐田市"
+    },
+    {
+      "ids": [
+        "22-agency-73214ec489dca8",
+        "22-agency-4494454538e7ee",
+        "22-history-7f0ac412389498"
+      ],
+      "name": "春日神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-fc477e1629b441",
+        "22-history-cc97c285a43cf3"
+      ],
+      "name": "神妻神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-c8a05a54d102de",
+        "22-history-0a25438c2989da"
+      ],
+      "name": "貴船神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-3dbda9700b7849",
+        "22-agency-cc5d242efa3733",
+        "22-agency-ba4a7b925edb0b",
+        "22-agency-6d1e5a69c2cd42",
+        "22-agency-90b0a4cedc390b",
+        "22-agency-2d83a3cb1f9bb5",
+        "22-agency-7403f045228c72",
+        "22-history-e02f02d353d2b9"
+      ],
+      "name": "熊野神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-775c467a2157d6",
+        "22-history-e332826f3833f2"
+      ],
+      "name": "八坂神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-c0094077161328",
+        "22-agency-711b941cbc6a71",
+        "22-agency-10ad389dcae482",
+        "22-agency-61c6578ffb713a",
+        "22-agency-3216b93cdfccfe",
+        "22-agency-d518206987b6b4",
+        "22-agency-8a246ea7059367",
+        "22-agency-ce3da0022dda71",
+        "22-agency-0cfd43412d5545",
+        "22-agency-967004782a173d",
+        "22-agency-b13b07e07bfc97",
+        "22-agency-1f4c2928d8860f",
+        "22-agency-7972f7e8f403cf",
+        "22-agency-3d1fb3425d8c05",
+        "22-agency-a9ec343ba0edb3",
+        "22-agency-fbaad1ffe3ff12",
+        "22-agency-d0c6803902fef7",
+        "22-agency-ae04e93481f68d",
+        "22-history-2a4d7677158b2b",
+        "22-history-35da1ffe4224ba",
+        "22-history-eb2ae81d886def",
+        "22-history-06e11b95b0b685",
+        "22-history-f9f18bd01e83a7",
+        "22-history-557e6338bd9152",
+        "22-history-758ab2890a04be",
+        "22-history-2d56398fd397c7",
+        "22-history-9d334de9298fef",
+        "22-history-84c50aa07585d7",
+        "22-history-162f0e3f91a055"
+      ],
+      "name": "諏訪神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-b22bf9e7c3d713",
+        "22-agency-b73207ba3b1859",
+        "22-agency-93131bf05938e7",
+        "22-agency-63881155f7f123",
+        "22-history-9419d396b433dc"
+      ],
+      "name": "武速神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-d914eaaf75a147",
+        "22-history-a4cee8bff914bd"
+      ],
+      "name": "子安神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-62f7fdff3d07b4",
+        "22-history-9602d8fdae0161"
+      ],
+      "name": "十六社神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-dbb0c74aa97600",
+        "22-history-0f6791ce19f531"
+      ],
+      "name": "小國神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-9dd60b9bae630a",
+        "22-agency-e6674abe2fc3e8",
+        "22-agency-27e8b296105adc",
+        "22-agency-1cdf010383a6ca",
+        "22-agency-cf1c8c05bd678c",
+        "22-history-353a5ed453ba20",
+        "22-history-3d2bc8498a42bf"
+      ],
+      "name": "水神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-34e1a173086c16",
+        "22-agency-238b3615b5f6cf",
+        "22-history-b7cfe9c0383865"
+      ],
+      "name": "高根神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-6b3c3b1d542f6b",
+        "22-agency-06b73197ad7c99",
+        "22-agency-d6c636a0277cb8",
+        "22-history-4d5fa98038f471"
+      ],
+      "name": "天神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-ba112656c017e1",
+        "22-history-f612fc88a86a79"
+      ],
+      "name": "天満神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-c3116b1bc413d4",
+        "22-history-4a413db01f8b73"
+      ],
+      "name": "長野神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-75bdda1bb874bc",
+        "22-history-08e36caeefd6ab"
+      ],
+      "name": "西平神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-b0cb2148e74eba",
+        "22-agency-3a169ff806c183",
+        "22-history-d20c3f43ec02a5"
+      ],
+      "name": "聖神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-aa9f13b5f09db7",
+        "22-agency-05625af4e261be",
+        "22-history-383ae64e21b545"
+      ],
+      "name": "弁天神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-900a299b280957",
+        "22-history-d2563ad5340c80"
+      ],
+      "name": "松尾神社",
+      "municipality": "伊豆市"
+    },
+    {
+      "ids": [
+        "22-agency-dcbedf70fe5ad9",
+        "22-agency-7b9315987cb2f2",
+        "22-agency-458a3ec73a6554",
+        "22-agency-cc63a80e427f24",
+        "22-history-e908e38b0cbe30"
+      ],
+      "name": "神明神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-045d7ef8f35325",
+        "22-agency-602e22f0b656f4",
+        "22-agency-45b80e56cf8008",
+        "22-agency-76f8c5d1fc893e",
+        "22-agency-8b88b71ba0f42c",
+        "22-agency-d15de2ae74da32",
+        "22-agency-49a5f2f7f65fca",
+        "22-agency-3abc223e2d146d",
+        "22-agency-64bee139cf6650",
+        "22-agency-40054d1d9397eb",
+        "22-agency-664d50a539bd65",
+        "22-history-870f806c290dd4",
+        "22-history-10c4627e9937fb",
+        "22-history-3385594ba50cc5",
+        "22-history-7cec2963ca0012"
+      ],
+      "name": "八幡神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-e104a2a60f871e",
+        "22-agency-75e700e796c7e4",
+        "22-agency-31e48d95fc3414",
+        "22-agency-e0dd6c4b1a073a",
+        "22-history-01f1ddb181a934"
+      ],
+      "name": "八幡神社",
+      "municipality": "静岡市駿河区"
+    },
+    {
+      "ids": [
+        "22-agency-c2f6f4131d4035",
+        "22-history-2c28503d1e5e4d"
+      ],
+      "name": "二瀬川神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-73e1ab43645355",
+        "22-history-cd6ebb82031dff"
+      ],
+      "name": "幕白神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-0759d041d6d991",
+        "22-history-677fe4a4176251"
+      ],
+      "name": "馬走神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-a005a67ee86ec9",
+        "22-history-07f08e55d0463f"
+      ],
+      "name": "六柱神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-2f58622aa50401",
+        "22-agency-af0efe0ec20006",
+        "22-agency-f49a1a9de373e4",
+        "22-history-5d04b6aa56e8c0"
+      ],
+      "name": "八坂神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-84a4f05c0f6ffe",
+        "22-agency-3ef32d4c29e4ef",
+        "22-agency-c9e20753fbc9a8",
+        "22-history-8ab47f95f25d33"
+      ],
+      "name": "天満宮",
+      "municipality": "静岡市駿河区"
+    },
+    {
+      "ids": [
+        "22-agency-2314bc0263ee16",
+        "22-history-d1a81e0cdd1422"
+      ],
+      "name": "利倉神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-83bda125c235ca",
+        "22-agency-6a7da783979032",
+        "22-agency-903ae81496352c",
+        "22-agency-7be653bad1111e",
+        "22-agency-306078c2b229ce",
+        "22-agency-7bad24e0fd75d3",
+        "22-agency-92d5fe06283161",
+        "22-history-9ba948922a9371"
+      ],
+      "name": "八幡宮",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-f16c1117184a72",
+        "22-agency-b2ab4128b9b08d",
+        "22-history-fc0c522f5ab235"
+      ],
+      "name": "八幡宮",
+      "municipality": "静岡市駿河区"
+    },
+    {
+      "ids": [
+        "22-agency-adaf65572af621",
+        "22-agency-48a82f28a143fb",
+        "22-agency-597fb9854dd233",
+        "22-agency-2dedd7eb04ed86",
+        "22-agency-0348b16911968c",
+        "22-agency-9c8634b021fc77",
+        "22-agency-bb2c77f2ea9f45",
+        "22-agency-2d3d3dac91b527",
+        "22-agency-32fb729c120c6d",
+        "22-agency-b914abbc9005d2",
+        "22-agency-9194b37cce9128",
+        "22-agency-2745c293095663",
+        "22-agency-b467a0499ecf6c",
+        "22-agency-4fc36638ca9f5e",
+        "22-history-a37e82aa5eb810",
+        "22-history-b00ed7b750f0e8",
+        "22-history-f1edf0258e7230",
+        "22-history-a5a87110299531",
+        "22-history-da1a66ec3cf476"
+      ],
+      "name": "八幡神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-8d91ace51473d3",
+        "22-history-ad8ea75cc78ce2"
+      ],
+      "name": "八幡六所神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-b2febd4d30f9d5",
+        "22-agency-684ad6abe9f76b",
+        "22-history-ebd961b982a644"
+      ],
+      "name": "南宮神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-1c65470034ad28",
+        "22-agency-8d0b7438c37291",
+        "22-history-1514a5bf87f04e"
+      ],
+      "name": "日月神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-56b27cb5acc959",
+        "22-history-fdb53e498e0cd7"
+      ],
+      "name": "八王神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-6f5b180db59e98",
+        "22-history-a267a4fce5cf0a"
+      ],
+      "name": "八柱神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-1b8d621ebde8f7",
+        "22-history-be2fed448661fe"
+      ],
+      "name": "湯之神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-ce39873d077917",
+        "22-history-437a54092fc2aa"
+      ],
+      "name": "和歌宮神社",
+      "municipality": "静岡市清水区"
+    },
+    {
+      "ids": [
+        "22-agency-eda89c2824c696",
+        "22-history-0320bd9d311e9c"
+      ],
+      "name": "別雷神社",
+      "municipality": "静岡市葵区"
+    },
+    {
+      "ids": [
+        "22-agency-98364f0a80692b",
+        "22-history-462bc06ebb9fdb"
+      ],
+      "name": "蛭子神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-e63b54e73a0591",
+        "22-history-fb85ab842bb39d"
+      ],
+      "name": "馬背神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-1b0eaa8fb47ada",
+        "22-agency-435bcf0a7c0507",
+        "22-agency-9fe6dec767aa75",
+        "22-agency-88631cf6170f72",
+        "22-agency-67b6fe4134ec6c",
+        "22-agency-8b9cb17d9f11d3",
+        "22-agency-3f2e2d527097bf",
+        "22-history-b58287dc8ba374",
+        "22-history-5f609867c687b4",
+        "22-history-4f1d160bd0b01f"
+      ],
+      "name": "八坂神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-53f24365faf579",
+        "22-agency-5b0289fa86a46d",
+        "22-history-ba4a099b0c9374",
+        "22-history-9791b085fc3406"
+      ],
+      "name": "八握神社",
+      "municipality": "浜松市天竜区"
+    },
+    {
+      "ids": [
+        "22-agency-1d3aad5f95047d",
+        "22-agency-fb3f3b4d995000",
+        "22-agency-f7d033f77eb274",
+        "22-agency-53465ee3e35dab",
+        "22-agency-ca5611facabf0d",
+        "22-agency-06ee9d25ca286f",
+        "22-agency-6d02e4f41623bb",
+        "22-agency-41b6bbbf4c6f21",
+        "22-agency-f5c81d5fbd72b6",
+        "22-agency-f7afb4160618e2",
+        "22-agency-6b3dad2bad829d",
+        "22-history-64f9a10b05c7fb",
+        "22-history-3d345c72bc8e8e",
+        "22-history-8d18615b7e1d77"
+      ],
+      "name": "六所神社",
+      "municipality": "浜松市天竜区"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 1089,
+    "unmapped_records": 3904
+  }
+}
