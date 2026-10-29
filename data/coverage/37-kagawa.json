@@ -1,0 +1,1926 @@
+{
+  "code": 37,
+  "name": "香川県",
+  "slug": "kagawa",
+  "checked": "2026-10-30",
+  "scope": "香川県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 1097,
+  "records": 1097,
+  "directory_indexes": 9,
+  "baseline_rows": 774,
+  "agency_rows": 770,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 447,
+  "historical_only_records": 327,
+  "with_deities": 833,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 1097,
+  "municipalities": [
+    {
+      "municipality": "さぬき市",
+      "area": "全域",
+      "records": 115,
+      "with_deities": 88,
+      "mapped_locations": 0,
+      "without_coordinates": 115
+    },
+    {
+      "municipality": "三豊市",
+      "area": "全域",
+      "records": 91,
+      "with_deities": 61,
+      "mapped_locations": 0,
+      "without_coordinates": 91
+    },
+    {
+      "municipality": "三豊市郡詫間町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "三豊市郡財田町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "三豊郡三野町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "三豊郡仁尾町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "三豊郡大野原町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "三豊郡詫間町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "三豊郡豊中町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "丸亀市",
+      "area": "全域",
+      "records": 125,
+      "with_deities": 93,
+      "mapped_locations": 0,
+      "without_coordinates": 125
+    },
+    {
+      "municipality": "丸亀市郡家町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "仲多度郡まんのう町",
+      "area": "全域",
+      "records": 140,
+      "with_deities": 99,
+      "mapped_locations": 0,
+      "without_coordinates": 140
+    },
+    {
+      "municipality": "仲多度郡仲南町",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "仲多度郡多度津町",
+      "area": "全域",
+      "records": 24,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 24
+    },
+    {
+      "municipality": "仲多度郡満濃町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "仲多度郡琴南町",
+      "area": "全域",
+      "records": 15,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 15
+    },
+    {
+      "municipality": "仲多度郡琴平町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "善通寺市",
+      "area": "全域",
+      "records": 32,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 32
+    },
+    {
+      "municipality": "坂出市",
+      "area": "全域",
+      "records": 48,
+      "with_deities": 40,
+      "mapped_locations": 0,
+      "without_coordinates": 48
+    },
+    {
+      "municipality": "大川郡引田町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "大川郡津田町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "大川郡白鳥町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大川郡長尾町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "小豆郡内海町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "小豆郡土庄町",
+      "area": "全域",
+      "records": 20,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 20
+    },
+    {
+      "municipality": "小豆郡小豆島町",
+      "area": "全域",
+      "records": 22,
+      "with_deities": 18,
+      "mapped_locations": 0,
+      "without_coordinates": 22
+    },
+    {
+      "municipality": "木田郡三木町",
+      "area": "全域",
+      "records": 16,
+      "with_deities": 13,
+      "mapped_locations": 0,
+      "without_coordinates": 16
+    },
+    {
+      "municipality": "東かがわ市",
+      "area": "全域",
+      "records": 44,
+      "with_deities": 29,
+      "mapped_locations": 0,
+      "without_coordinates": 44
+    },
+    {
+      "municipality": "綾歌郡宇多津町",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "綾歌郡綾南町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "綾歌郡綾川町",
+      "area": "全域",
+      "records": 56,
+      "with_deities": 48,
+      "mapped_locations": 0,
+      "without_coordinates": 56
+    },
+    {
+      "municipality": "観音寺市",
+      "area": "全域",
+      "records": 47,
+      "with_deities": 37,
+      "mapped_locations": 0,
+      "without_coordinates": 47
+    },
+    {
+      "municipality": "香川郡直島町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "高松市",
+      "area": "全域",
+      "records": 234,
+      "with_deities": 184,
+      "mapped_locations": 0,
+      "without_coordinates": 234
+    }
+  ],
+  "collections": [
+    "data/shrines/37-kagawa/agency-001.json",
+    "data/shrines/37-kagawa/agency-002.json",
+    "data/shrines/37-kagawa/agency-003.json",
+    "data/shrines/37-kagawa/agency-004.json",
+    "data/shrines/37-kagawa/agency-005.json",
+    "data/shrines/37-kagawa/agency-006.json",
+    "data/shrines/37-kagawa/history-001.json",
+    "data/shrines/37-kagawa/history-002.json",
+    "data/shrines/37-kagawa/history-003.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 774,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "37"
+        }
+      }
+    },
+    {
+      "label": "香川県神社庁公開神社案内",
+      "url": "https://kagawakenjinjacho.or.jp/wp-json/wp/v2/shrine?per_page=100&page=1",
+      "entries": null
+    },
+    {
+      "label": "香川県神社庁公開神社案内",
+      "url": "https://kagawakenjinjacho.or.jp/wp-json/wp/v2/shrine?per_page=100&page=2",
+      "entries": null
+    },
+    {
+      "label": "香川県神社庁公開神社案内",
+      "url": "https://kagawakenjinjacho.or.jp/wp-json/wp/v2/shrine?per_page=100&page=3",
+      "entries": null
+    },
+    {
+      "label": "香川県神社庁公開神社案内",
+      "url": "https://kagawakenjinjacho.or.jp/wp-json/wp/v2/shrine?per_page=100&page=4",
+      "entries": null
+    },
+    {
+      "label": "香川県神社庁公開神社案内",
+      "url": "https://kagawakenjinjacho.or.jp/wp-json/wp/v2/shrine?per_page=100&page=5",
+      "entries": null
+    },
+    {
+      "label": "香川県神社庁公開神社案内",
+      "url": "https://kagawakenjinjacho.or.jp/wp-json/wp/v2/shrine?per_page=100&page=6",
+      "entries": null
+    },
+    {
+      "label": "香川県神社庁公開神社案内",
+      "url": "https://kagawakenjinjacho.or.jp/wp-json/wp/v2/shrine?per_page=100&page=7",
+      "entries": null
+    },
+    {
+      "label": "香川県神社庁公開神社案内",
+      "url": "https://kagawakenjinjacho.or.jp/wp-json/wp/v2/shrine?per_page=100&page=8",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "香川県神社庁",
+      "label": "香川県神社庁公開神社案内",
+      "scope_note": "公開神社一覧と、その公開詳細ページを収集。神社庁の掲載範囲であり、県内の全ての実在する神社の網羅性を意味しない。空欄の祭神はnull。住所は公開欄の転記で、現地の現況確認はしていない。神社コード9047は異なる2社に重複しているため、source_idには公開WordPressレコードIDを使用し、directory_codeに元のコードを保存。",
+      "expected_rows": 770,
+      "pagination_complete": true,
+      "failures": {},
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "37-agency-f50847baca1ef2",
+        "37-agency-6191f12e8e5cdf",
+        "37-agency-07fc6814424369",
+        "37-history-159b1934619c55"
+      ],
+      "name": "三島神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-d343789a1fded0",
+        "37-agency-357c1302fdb995",
+        "37-history-acae1eb12b8458"
+      ],
+      "name": "三所神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-fabe93d944ffb6",
+        "37-history-474afa40c4ee60"
+      ],
+      "name": "三所神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-b851bf4830ae6c",
+        "37-history-f01914f613efa2"
+      ],
+      "name": "三条神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-c13ab3558d8488",
+        "37-history-eebfd154ddd320"
+      ],
+      "name": "三社神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-ae7f8fbe06f230",
+        "37-history-847d6301a64a1b"
+      ],
+      "name": "三種神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-7df9b5414cbe79",
+        "37-history-ffdb7eea9734ab"
+      ],
+      "name": "中山神社",
+      "municipality": "東かがわ市"
+    },
+    {
+      "ids": [
+        "37-agency-2c8e08f3aa7c6c",
+        "37-history-5fba0913ed62f0"
+      ],
+      "name": "中野天満神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-83638e91707126",
+        "37-history-fee1c36f4eeed4"
+      ],
+      "name": "丸尾神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-76f60a6a101edd",
+        "37-history-2225653c8aef24"
+      ],
+      "name": "乃木神社",
+      "municipality": "善通寺市"
+    },
+    {
+      "ids": [
+        "37-agency-c52ca15be17556",
+        "37-history-de510c0a227b3f"
+      ],
+      "name": "久本神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-fbf008f1117028",
+        "37-history-f464336304e048"
+      ],
+      "name": "亀山神社",
+      "municipality": "三豊市"
+    },
+    {
+      "ids": [
+        "37-agency-f6f52f457046ef",
+        "37-history-58717a06d429d0"
+      ],
+      "name": "二雙神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-9552aa25d63a29",
+        "37-history-2d9161efe48d96"
+      ],
+      "name": "井上神社",
+      "municipality": "観音寺市"
+    },
+    {
+      "ids": [
+        "37-agency-c125f28a801e47",
+        "37-history-71173c3c0790ad"
+      ],
+      "name": "井原神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-e6854d6ae94d5e",
+        "37-agency-fdfdc59cf0579c",
+        "37-agency-3ea2c60eeeeb81",
+        "37-agency-18f7f0932f9e54",
+        "37-agency-437fb95991921e",
+        "37-agency-d31724af86c5be",
+        "37-history-f046824dfd2cad",
+        "37-history-6934ff6a68f599",
+        "37-history-4d9cc84dd0099e",
+        "37-history-b401b3fdc57430"
+      ],
+      "name": "伊勢神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-b5d73455b9ad3d",
+        "37-history-d27a67d1242f55"
+      ],
+      "name": "伊勢神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-7a7f4c3bf47433",
+        "37-agency-e99c743e633532",
+        "37-agency-93013165e8890a",
+        "37-agency-6e0c2fbd78b00d",
+        "37-history-8609d3cef297b8",
+        "37-history-d7851c14e667ca"
+      ],
+      "name": "八坂神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-fd097ac2be7331",
+        "37-history-ba8ce29198dadb"
+      ],
+      "name": "八坂神社",
+      "municipality": "小豆郡土庄町"
+    },
+    {
+      "ids": [
+        "37-agency-777aa964c2d74b",
+        "37-history-e1a44d18233a25"
+      ],
+      "name": "八峯神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-5ce1dc3282bcd1",
+        "37-agency-d7c70a07faf4df",
+        "37-agency-0dfa49cfb788d9",
+        "37-agency-72cc2c7ddbe395",
+        "37-history-03035625496841",
+        "37-history-df78e8eb143f27",
+        "37-history-34775455fd2e49"
+      ],
+      "name": "八幡神社",
+      "municipality": "坂出市"
+    },
+    {
+      "ids": [
+        "37-agency-30c9b41eb697a1",
+        "37-agency-bede4f7578c846",
+        "37-history-75ca558933439b"
+      ],
+      "name": "八幡神社",
+      "municipality": "木田郡三木町"
+    },
+    {
+      "ids": [
+        "37-agency-e1c1c3507fa7a7",
+        "37-agency-6bf38ccb4e786a",
+        "37-agency-034cc0297498fc",
+        "37-agency-b7d1199d7f80f4",
+        "37-agency-8a9c92ef71fbf0",
+        "37-history-68109b53acd83f",
+        "37-history-a668f48f3732ac",
+        "37-history-07167a0b106572"
+      ],
+      "name": "八幡神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-734cdaa0ab57de",
+        "37-agency-2483eabd60c9fe",
+        "37-agency-678aa2fa6cade5",
+        "37-agency-fb978f8fc51d6a",
+        "37-history-ebcc96be252567"
+      ],
+      "name": "八幡神社",
+      "municipality": "小豆郡土庄町"
+    },
+    {
+      "ids": [
+        "37-agency-6e12f6963ba528",
+        "37-agency-6e86bc9ab9be1e",
+        "37-history-9447e489fa90cc"
+      ],
+      "name": "八幡神社",
+      "municipality": "小豆郡小豆島町"
+    },
+    {
+      "ids": [
+        "37-agency-a9d048f3dc3d1a",
+        "37-agency-0becbc42bd5c70",
+        "37-agency-0d74f1f6c0c55d",
+        "37-agency-dc1998ec2eb22a",
+        "37-history-546ebff7ffbce3"
+      ],
+      "name": "八幡神社",
+      "municipality": "仲多度郡多度津町"
+    },
+    {
+      "ids": [
+        "37-agency-9b2efd59cc51e9",
+        "37-agency-5984f318aa944d",
+        "37-agency-4dcc3f6f2aad3b",
+        "37-agency-7a2d2384e13714",
+        "37-agency-5bc63030139e42",
+        "37-agency-93bdb64501b1b3",
+        "37-agency-ba4bf49ea6d016",
+        "37-agency-f51f5396373e0a",
+        "37-agency-5b9fd929027f75",
+        "37-agency-47af3efd7732ab",
+        "37-history-dc791d3a940b04",
+        "37-history-1f7aa080e67c1f",
+        "37-history-61f06d13ef0262",
+        "37-history-64c44e53d50d83",
+        "37-history-3d55ea8a9b3cfd",
+        "37-history-ae502c8950343c",
+        "37-history-9c91df7f4b723c",
+        "37-history-60346bed073e7c",
+        "37-history-85da8a86cb78d9"
+      ],
+      "name": "八幡神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-9068c7cfb365b5",
+        "37-agency-822262a326f4c6",
+        "37-agency-ee6b960221c1e6",
+        "37-agency-459e1f1512a512",
+        "37-agency-90696f1ef9ee56",
+        "37-agency-4c8e746e74dbd6",
+        "37-history-895dc312cba430"
+      ],
+      "name": "八幡神社",
+      "municipality": "三豊市"
+    },
+    {
+      "ids": [
+        "37-agency-114d99604b232f",
+        "37-agency-03259de6154caf",
+        "37-history-2390d717b3ac29"
+      ],
+      "name": "八幡神社",
+      "municipality": "東かがわ市"
+    },
+    {
+      "ids": [
+        "37-agency-94d6e41f8f41f6",
+        "37-history-344fb88b26dd31"
+      ],
+      "name": "八柱神社",
+      "municipality": "三豊市"
+    },
+    {
+      "ids": [
+        "37-agency-c952c8cf394366",
+        "37-history-10be5bb54fdd6e"
+      ],
+      "name": "八阪神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-5f25d6f718379a",
+        "37-history-5eb7cc8bd4508c"
+      ],
+      "name": "冠纓神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-e56b2787229666",
+        "37-history-1b482e7356b8ff"
+      ],
+      "name": "別宮八幡神社",
+      "municipality": "東かがわ市"
+    },
+    {
+      "ids": [
+        "37-agency-28ae5f9399eb75",
+        "37-history-fd8609c65ae066"
+      ],
+      "name": "前ノ川神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-eecd9d516a56fc",
+        "37-history-12eacc0ac589a3"
+      ],
+      "name": "勝浦神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-03cb6915919605",
+        "37-history-e691541e2bff17"
+      ],
+      "name": "双子山神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-9e4f600f8937a9",
+        "37-history-61442d51283eb4"
+      ],
+      "name": "向良神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-4822a4529268a7",
+        "37-history-7591b5f3b74250"
+      ],
+      "name": "地主神社",
+      "municipality": "仲多度郡琴南町"
+    },
+    {
+      "ids": [
+        "37-agency-4bc0f9843a9f77",
+        "37-history-79529be40a194f"
+      ],
+      "name": "城山神社",
+      "municipality": "綾歌郡綾川町"
+    },
+    {
+      "ids": [
+        "37-agency-33d2909f4dbfb6",
+        "37-history-eb15d73d129a9f"
+      ],
+      "name": "城村神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-051a80883646fd",
+        "37-agency-3db13061b36933",
+        "37-agency-579b2f0911de92",
+        "37-agency-ce6082618e3669",
+        "37-agency-d0672e2ee29392",
+        "37-history-a86f028f575de0",
+        "37-history-1526d1307b3678"
+      ],
+      "name": "塩竃神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-ac078d728ba7ae",
+        "37-agency-7f98ac9cba8094",
+        "37-history-25a2c6f79993b7"
+      ],
+      "name": "塩竃神社",
+      "municipality": "坂出市"
+    },
+    {
+      "ids": [
+        "37-agency-3f042a13c93e12",
+        "37-agency-80055bdfa02f39",
+        "37-history-202c58b8678cfb"
+      ],
+      "name": "塩竃神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-6dc88005199159",
+        "37-history-8bdc6325dd53d9"
+      ],
+      "name": "多賀神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-b9b82a5bb0985b",
+        "37-history-63f3383efb7cff"
+      ],
+      "name": "大宮神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-12142122546166",
+        "37-history-f328fa0a5fee86"
+      ],
+      "name": "大山神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-ae0c74c7758f9c",
+        "37-history-bf2e94c9f7d1c9"
+      ],
+      "name": "大山神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-f5f04338d366a0",
+        "37-history-83a83ff8dbfbdd"
+      ],
+      "name": "大水上神社",
+      "municipality": "三豊市"
+    },
+    {
+      "ids": [
+        "37-agency-264fc3db716a40",
+        "37-history-e2e6e35916cbf8"
+      ],
+      "name": "大麻神社",
+      "municipality": "善通寺市"
+    },
+    {
+      "ids": [
+        "37-agency-e2dc95cf556fb4",
+        "37-history-a1dbec2fa16e88"
+      ],
+      "name": "天尾神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-42b44b8536a47d",
+        "37-history-90d46e53e07ac5"
+      ],
+      "name": "天川神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-abd27448dad576",
+        "37-history-0c52520c03e67f"
+      ],
+      "name": "天満天神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-dcdc9f5a58db78",
+        "37-agency-a2054fbac93bd2",
+        "37-agency-8029f67223314a",
+        "37-history-68c4d3f154efea"
+      ],
+      "name": "天満神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-fa238a0eb00ee1",
+        "37-history-b4b96bfa777048"
+      ],
+      "name": "天野神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-3be9c0c2cbc26d",
+        "37-history-3846f02fb5022b",
+        "37-history-e11931273c3495"
+      ],
+      "name": "女體神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-660847df7f4bfe",
+        "37-history-7b33967e5e10aa"
+      ],
+      "name": "富丘八幡神社",
+      "municipality": "小豆郡土庄町"
+    },
+    {
+      "ids": [
+        "37-agency-c00f9e3725393a",
+        "37-history-438206798c96c3"
+      ],
+      "name": "山戸神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-6f9f252c7f7940",
+        "37-history-5980492af3c81e"
+      ],
+      "name": "山王社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-5a39dfac41e45f",
+        "37-agency-49f6a5517ae532",
+        "37-agency-599dc383ea7382",
+        "37-agency-4f3af5f8d8512e",
+        "37-agency-2f684262e817b6",
+        "37-agency-46fe98f8149c0c",
+        "37-agency-b838a20786ed35",
+        "37-agency-d684e014497340",
+        "37-agency-b6b0e090f3fdb5",
+        "37-history-e042cfd3b5fdca",
+        "37-history-5c477bd0dc7b28",
+        "37-history-1c51069308d961",
+        "37-history-0a4b12ebc26599",
+        "37-history-516e04bc1c83a5",
+        "37-history-caf94da7bc374a",
+        "37-history-508c7356cf86a2",
+        "37-history-f83b1f295fd472",
+        "37-history-499f8bd35840a0",
+        "37-history-99c0de425a883f",
+        "37-history-739a0bff3623cf",
+        "37-history-6a5afd73fea424"
+      ],
+      "name": "山神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-c340f06dd592c8",
+        "37-agency-fbc562ccb29526",
+        "37-agency-43b32f31051c91",
+        "37-agency-a1154516cd8595",
+        "37-agency-45f39b61dfa247",
+        "37-agency-3dff5ab90f30d4",
+        "37-agency-4a6c687efae2db",
+        "37-agency-bdaf381a20c8c9",
+        "37-agency-27627454445ec1",
+        "37-agency-29dfbc4c663d93",
+        "37-agency-a8aa22139c46b8",
+        "37-agency-02e00ffe16c943",
+        "37-history-00d2fd486e99ea",
+        "37-history-cb02a852c23ac6",
+        "37-history-e5b17b57f4d8f4",
+        "37-history-30e1448a40b3af",
+        "37-history-0c52507e525926"
+      ],
+      "name": "山神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-82597f3f2823fa",
+        "37-agency-3c7e45f923adfd",
+        "37-history-3c0dc5049db373",
+        "37-history-4714ba618f36fc",
+        "37-history-ede17d485de45e"
+      ],
+      "name": "山神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-c9a63838b6dd99",
+        "37-agency-10981db0a7d4a3",
+        "37-agency-5d2b0fb5e84a7e",
+        "37-agency-054311db482403",
+        "37-history-c930fad9eb8de3",
+        "37-history-05eb9e1c2b4d8f",
+        "37-history-a332f00fa67f15"
+      ],
+      "name": "山神社",
+      "municipality": "仲多度郡琴南町"
+    },
+    {
+      "ids": [
+        "37-agency-129899df6bc12d",
+        "37-history-78fd4be0512109"
+      ],
+      "name": "川上神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-6fbdbbdb1544a3",
+        "37-history-e8be27ff3d1f21"
+      ],
+      "name": "川東八幡神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-350b43ec180ec5",
+        "37-history-13aa5b8c469f39"
+      ],
+      "name": "平石井神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-770a144eae7d1a",
+        "37-agency-2b4ab264d27d74",
+        "37-history-c3219d8c6552eb",
+        "37-history-ec7bef36d78915"
+      ],
+      "name": "恵比須神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-4457e49f9ed515",
+        "37-history-21b0a99304a182"
+      ],
+      "name": "愛宕神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-e9fc054109fa4b",
+        "37-history-7926f59500fab6"
+      ],
+      "name": "愛宕神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-5d6452a18b7ed7",
+        "37-history-c0af18c42457e6"
+      ],
+      "name": "戸隠神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-570c9df85962ac",
+        "37-history-6929113aac18c4"
+      ],
+      "name": "所主神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-98d92147b85359",
+        "37-history-989e857ffa6859"
+      ],
+      "name": "新田神社",
+      "municipality": "三豊市"
+    },
+    {
+      "ids": [
+        "37-agency-f4374e6a64d6d1",
+        "37-history-a1d180c51116d8"
+      ],
+      "name": "於爾神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-07bf3c4b4714d2",
+        "37-history-184c7345777628"
+      ],
+      "name": "於神社",
+      "municipality": "観音寺市"
+    },
+    {
+      "ids": [
+        "37-agency-64dbb9222e63e6",
+        "37-agency-89c8ec0317e6b9",
+        "37-history-ee4aa9d15542c7"
+      ],
+      "name": "日吉神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-2d6ff464ed80c4",
+        "37-history-d4c0320890aa92"
+      ],
+      "name": "日和山神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-ffc70d43a39a8a",
+        "37-history-2853f3323b4a97"
+      ],
+      "name": "日抱神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-320400062c40e7",
+        "37-history-b2c0934bf1b611"
+      ],
+      "name": "日枝神社",
+      "municipality": "観音寺市"
+    },
+    {
+      "ids": [
+        "37-agency-2fd5d2ecaf3c39",
+        "37-history-a999e1d22f839a"
+      ],
+      "name": "春日神社",
+      "municipality": "仲多度郡琴平町"
+    },
+    {
+      "ids": [
+        "37-agency-bad41146f58c29",
+        "37-agency-42b36a11100ede",
+        "37-history-02e14ee536c943"
+      ],
+      "name": "春日神社",
+      "municipality": "仲多度郡多度津町"
+    },
+    {
+      "ids": [
+        "37-agency-9db01eb138804d",
+        "37-history-5424fb99c1ccbd"
+      ],
+      "name": "春日神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-6951b73d912a46",
+        "37-history-92591ad3282e44"
+      ],
+      "name": "春日神社",
+      "municipality": "小豆郡土庄町"
+    },
+    {
+      "ids": [
+        "37-agency-aa249a880b1d7a",
+        "37-history-61404f0ef385b0"
+      ],
+      "name": "暁神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-7aed5f6ef99fad",
+        "37-history-518eb619289711"
+      ],
+      "name": "曲木神社",
+      "municipality": "綾歌郡綾川町"
+    },
+    {
+      "ids": [
+        "37-agency-f930cf3c74d8aa",
+        "37-history-255cbd4e145474"
+      ],
+      "name": "朝倉神社",
+      "municipality": "木田郡三木町"
+    },
+    {
+      "ids": [
+        "37-agency-16fc7226665520",
+        "37-agency-34302867378b46",
+        "37-agency-8319257c3af5e9",
+        "37-agency-d6f8fd52d90f44",
+        "37-history-08001d8bacf50d",
+        "37-history-7a66f917a14d87",
+        "37-history-6b9396e89b9dc1"
+      ],
+      "name": "木熊野神社",
+      "municipality": "善通寺市"
+    },
+    {
+      "ids": [
+        "37-agency-4895bc0b79f5a7",
+        "37-history-302270cf1e81ad"
+      ],
+      "name": "木里神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-116b6cd8abd3a6",
+        "37-history-d5da5e9464ebd8"
+      ],
+      "name": "木里神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-838ad12524f672",
+        "37-history-d35a9fa3b86cb4"
+      ],
+      "name": "杉尾神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-f3a8c7e0504b60",
+        "37-history-eda18b77204236"
+      ],
+      "name": "東山神社",
+      "municipality": "東かがわ市"
+    },
+    {
+      "ids": [
+        "37-agency-9bbc1e6e617d32",
+        "37-history-8b0d2e268e4f1c"
+      ],
+      "name": "東西神社",
+      "municipality": "善通寺市"
+    },
+    {
+      "ids": [
+        "37-agency-fb4325fd2b5049",
+        "37-history-39f328fa85e133"
+      ],
+      "name": "松宇神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-9277c2692cdfbf",
+        "37-history-0f56eafd0d6d15"
+      ],
+      "name": "松尾神社",
+      "municipality": "坂出市"
+    },
+    {
+      "ids": [
+        "37-agency-2bfa02488c181a",
+        "37-history-546a3ebd02fa24"
+      ],
+      "name": "松島神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-34a2a6fef238ce",
+        "37-history-2d6dc8efd50371"
+      ],
+      "name": "梅之神社",
+      "municipality": "三豊市"
+    },
+    {
+      "ids": [
+        "37-agency-a6012184575272",
+        "37-history-382db4ca939e81"
+      ],
+      "name": "梅宮八幡神社",
+      "municipality": "坂出市"
+    },
+    {
+      "ids": [
+        "37-agency-d8e8eabd73cb42",
+        "37-history-d07a47e81452bf"
+      ],
+      "name": "梛木神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-97eeccadb13b07",
+        "37-history-f3d75f4824b09d"
+      ],
+      "name": "楠川神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-8c7888b0de3d27",
+        "37-history-a21e96719a420d"
+      ],
+      "name": "楢ノ木神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-6611c8a0aae27f",
+        "37-history-210df7e0348698"
+      ],
+      "name": "槻本神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-284b4787289cbc",
+        "37-history-a871b62017f55c"
+      ],
+      "name": "正八幡神社",
+      "municipality": "三豊市"
+    },
+    {
+      "ids": [
+        "37-agency-e05d353bdaeefe",
+        "37-history-5b00fae75e4b12"
+      ],
+      "name": "水分神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-f88b64e65f7bc7",
+        "37-history-7228a37373d07b"
+      ],
+      "name": "水分神社",
+      "municipality": "仲多度郡琴南町"
+    },
+    {
+      "ids": [
+        "37-agency-306b38d721e2a7",
+        "37-history-e5eb710396ebb9"
+      ],
+      "name": "水神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-144ce8d32028d8",
+        "37-history-d61334d69ad398"
+      ],
+      "name": "池宮神社",
+      "municipality": "綾歌郡綾川町"
+    },
+    {
+      "ids": [
+        "37-agency-2e8a0b0ea887e1",
+        "37-history-9f2f1409408980"
+      ],
+      "name": "清水神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-628fc1d41d9d0b",
+        "37-history-9c7cd35f1a096b"
+      ],
+      "name": "瀧鼻神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-e3532bca2ec050",
+        "37-agency-5f863c2ffa5edc",
+        "37-agency-4d6458e0af5581",
+        "37-agency-7d68b8985ecb69",
+        "37-agency-aeacd17fa2ea42",
+        "37-history-269c14a60bd3a2",
+        "37-history-a892eadd79f7aa"
+      ],
+      "name": "熊野神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-dd441032a4993c",
+        "37-history-664e817b3b8780"
+      ],
+      "name": "熊野神社",
+      "municipality": "三豊市"
+    },
+    {
+      "ids": [
+        "37-agency-bb880f779a78c7",
+        "37-history-79fd54272cfc84"
+      ],
+      "name": "王子神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-461b428bded083",
+        "37-history-31b11f6aacc8f6"
+      ],
+      "name": "王子神社",
+      "municipality": "坂出市"
+    },
+    {
+      "ids": [
+        "37-agency-3b145603044d2c",
+        "37-agency-5e3f72ff121436",
+        "37-agency-9c68e0c8c23099",
+        "37-agency-b8c96e06ac5e9a",
+        "37-history-e5b45923361bdc",
+        "37-history-bbd1b40b128d09",
+        "37-history-3ac83feff6b649",
+        "37-history-14af925eb48422"
+      ],
+      "name": "琴平神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-54d3ced3226876",
+        "37-history-43ab8cdc5cf3bf"
+      ],
+      "name": "琴彈八幡宮",
+      "municipality": "観音寺市"
+    },
+    {
+      "ids": [
+        "37-agency-47601d22f27c9c",
+        "37-history-f2fe95ffa25574"
+      ],
+      "name": "田潮八幡神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-be0b681be5a709",
+        "37-history-fa3575fc982fff"
+      ],
+      "name": "白人神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-3e7f66ed68fc77",
+        "37-history-16af48aafa0733"
+      ],
+      "name": "白峰宮",
+      "municipality": "坂出市"
+    },
+    {
+      "ids": [
+        "37-agency-f3c439f1bd19c2",
+        "37-history-fd2a57997d1e3f"
+      ],
+      "name": "白鳥神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-e58d35df3aa02e",
+        "37-history-4d261ad19f8701"
+      ],
+      "name": "石上神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-71cdd2be82626d",
+        "37-history-ebbeaf5987d98d"
+      ],
+      "name": "石清尾八幡神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-72f59c20f23eaa",
+        "37-history-332ff9ac08d246"
+      ],
+      "name": "石清水八幡神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-cbf497ef2ddfae",
+        "37-history-72d037fbd1999a"
+      ],
+      "name": "石田神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-4a2c0950af8e45",
+        "37-history-ac749b8cc6528d"
+      ],
+      "name": "神ノ木神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-e8d4f34da9e815",
+        "37-history-fd8f762663d1cd"
+      ],
+      "name": "神掛神社",
+      "municipality": "坂出市"
+    },
+    {
+      "ids": [
+        "37-agency-29c2a64c1f5c18",
+        "37-history-e79214456a519d"
+      ],
+      "name": "神明神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-c9d51c1d13243e",
+        "37-agency-8d7b60f424d182",
+        "37-history-b0c4b0bd5830b4"
+      ],
+      "name": "神明神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-45d1c9dfcbbec6",
+        "37-history-78b53782a36516"
+      ],
+      "name": "神野神社",
+      "municipality": "丸亀市郡家町"
+    },
+    {
+      "ids": [
+        "37-agency-062be0ac477668",
+        "37-history-63e60555dd64aa"
+      ],
+      "name": "福宮神社",
+      "municipality": "坂出市"
+    },
+    {
+      "ids": [
+        "37-agency-a29a62364a46ab",
+        "37-history-26780dda9ff135"
+      ],
+      "name": "福宮神社",
+      "municipality": "綾歌郡綾川町"
+    },
+    {
+      "ids": [
+        "37-agency-ff0a0f87955414",
+        "37-history-859a26e251ea7b"
+      ],
+      "name": "秋葉神社",
+      "municipality": "小豆郡小豆島町"
+    },
+    {
+      "ids": [
+        "37-agency-7684a0dfcd4de5",
+        "37-history-713ab23cb97b12"
+      ],
+      "name": "秋葉神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-bc32a090c4a320",
+        "37-history-0f8f8964b93aaa"
+      ],
+      "name": "稲荷神社",
+      "municipality": "小豆郡土庄町"
+    },
+    {
+      "ids": [
+        "37-agency-a9cd33c6439ed8",
+        "37-history-f6ff15b1e2f370"
+      ],
+      "name": "稲荷神社",
+      "municipality": "仲多度郡多度津町"
+    },
+    {
+      "ids": [
+        "37-agency-ba1317b32921ef",
+        "37-agency-68cfce29e052d5",
+        "37-agency-906c7e128aadce",
+        "37-agency-1aa767f6e6216f",
+        "37-agency-25129355fc67aa",
+        "37-agency-43bbcd1d6eeed1",
+        "37-agency-879d3fd4ab2043",
+        "37-history-d08346e717956e"
+      ],
+      "name": "荒神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-2325a7a894daef",
+        "37-agency-3e31537d9cb312",
+        "37-agency-e432c9b44faf00",
+        "37-agency-5c454059eb3114",
+        "37-agency-2ea355decdc4d6",
+        "37-agency-1f57be6fc2c565",
+        "37-agency-c8a369dbe6c0a4",
+        "37-agency-d74d741956ef7b",
+        "37-history-a3b04be053d529"
+      ],
+      "name": "荒魂神社",
+      "municipality": "小豆郡小豆島町"
+    },
+    {
+      "ids": [
+        "37-agency-217ea28ad8e6e3",
+        "37-agency-0a78b5035e1ed3",
+        "37-history-f33ef27f8bcabb",
+        "37-history-b60a937ecc4e56"
+      ],
+      "name": "荒魂神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-6178976e666751",
+        "37-agency-d4f848c69ef3d2",
+        "37-history-d7cec0f64f9774"
+      ],
+      "name": "荒魂神社",
+      "municipality": "仲多度郡多度津町"
+    },
+    {
+      "ids": [
+        "37-agency-8f39fda8f7f071",
+        "37-history-eb4a3bbe81ddf3"
+      ],
+      "name": "菅神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-249e75119348f5",
+        "37-history-f50090b16eec96"
+      ],
+      "name": "蔵王神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-07dfe3d14c510f",
+        "37-history-6a3ebdc68f7a2a"
+      ],
+      "name": "薬荒社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-bc329851fa4ea3",
+        "37-history-b25f7c6e0aa157"
+      ],
+      "name": "藤ノ木神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-f2d631cf6085d4",
+        "37-history-b1e57e7a8ec3b3"
+      ],
+      "name": "藤森神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-3cc827003954d8",
+        "37-agency-0af5a14b43d0e1",
+        "37-history-190c293b62384c"
+      ],
+      "name": "蛭子神社",
+      "municipality": "東かがわ市"
+    },
+    {
+      "ids": [
+        "37-agency-c3727eb13e335e",
+        "37-history-110dc6746fefd9"
+      ],
+      "name": "蜂穴神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-b146c75b372f7a",
+        "37-history-bcdeb9848988cc"
+      ],
+      "name": "西山神社",
+      "municipality": "坂出市"
+    },
+    {
+      "ids": [
+        "37-agency-379b19693a13a0",
+        "37-history-f45263f7b8b966"
+      ],
+      "name": "西浜神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-d38833578357b7",
+        "37-history-638d772f5e8134"
+      ],
+      "name": "西股神社",
+      "municipality": "三豊市"
+    },
+    {
+      "ids": [
+        "37-agency-c38c69e509ff17",
+        "37-history-4a0abc4dbd6710"
+      ],
+      "name": "諏訪神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-6e510fbcd5fec4",
+        "37-agency-bd03d3098a896f",
+        "37-history-94a5d0bdd77419"
+      ],
+      "name": "諏訪神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-5e8203354ecfac",
+        "37-history-074132ecb1e508"
+      ],
+      "name": "讃岐宮",
+      "municipality": "善通寺市"
+    },
+    {
+      "ids": [
+        "37-agency-38a6e71a78f045",
+        "37-history-c9cab862eb9e69"
+      ],
+      "name": "豊浜八幡神社",
+      "municipality": "観音寺市"
+    },
+    {
+      "ids": [
+        "37-agency-5f13b96312cdcd",
+        "37-history-d64cc50a85f5b3"
+      ],
+      "name": "豊玉姫神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-5024e8bf9b423c",
+        "37-history-f994c94e608efa"
+      ],
+      "name": "髙都神社",
+      "municipality": "三豊市"
+    },
+    {
+      "ids": [
+        "37-agency-09e75fb31d1505",
+        "37-history-601e1dd0b99f0e"
+      ],
+      "name": "野田神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-c8480f4512b205",
+        "37-agency-3ada0c191ebd7c",
+        "37-agency-8d33ba99865aed",
+        "37-agency-c52508c7eee7f3",
+        "37-agency-5022c3e4006856",
+        "37-agency-14bf7450a3553b",
+        "37-history-dde28569ffaec8",
+        "37-history-4439e18c36ca8c",
+        "37-history-61291574c225c6",
+        "37-history-2b325438d98030"
+      ],
+      "name": "金刀比羅神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-07de665bb899b8",
+        "37-history-76184f5f504e2b"
+      ],
+      "name": "金山神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-3c10108a89e139",
+        "37-history-e49539639f92c4"
+      ],
+      "name": "金山神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-06becf91a083dd",
+        "37-history-fb8bb8a83bcf4d"
+      ],
+      "name": "鎮主神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-392e738f902c23",
+        "37-history-2495599b7bbe55"
+      ],
+      "name": "鎮守神社",
+      "municipality": "東かがわ市"
+    },
+    {
+      "ids": [
+        "37-agency-7ce344dc55e775",
+        "37-history-92f2ff360edd74"
+      ],
+      "name": "長柄神社",
+      "municipality": "綾歌郡綾川町"
+    },
+    {
+      "ids": [
+        "37-agency-f609c8bcea2428",
+        "37-history-3a7a63d557466a"
+      ],
+      "name": "長行神社",
+      "municipality": "さぬき市"
+    },
+    {
+      "ids": [
+        "37-agency-80bf635b024a0e",
+        "37-history-22faa02d919fd4"
+      ],
+      "name": "雷八幡神社",
+      "municipality": "木田郡三木町"
+    },
+    {
+      "ids": [
+        "37-agency-3d22c144cf980f",
+        "37-history-c8c014bf336bd1"
+      ],
+      "name": "青山神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-a9bf2f01e60e4a",
+        "37-history-ff79256ad7ca29"
+      ],
+      "name": "須佐社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-127556e29c037e",
+        "37-history-674032996803ae"
+      ],
+      "name": "須賀社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-1ba5bf2c4e5c1c",
+        "37-agency-e6d2094be237c0",
+        "37-history-0d149a7b5d876a"
+      ],
+      "name": "須賀神社",
+      "municipality": "観音寺市"
+    },
+    {
+      "ids": [
+        "37-agency-30e7202c8c13d7",
+        "37-history-b36345ba5834b3"
+      ],
+      "name": "飛渡神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-38cce648db70d2",
+        "37-history-bfce7ab9e2dbd9"
+      ],
+      "name": "飯神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-8938c8747686c4",
+        "37-history-03b9228269f8f3"
+      ],
+      "name": "高木神社",
+      "municipality": "丸亀市"
+    },
+    {
+      "ids": [
+        "37-agency-bc43b1cdb8de4d",
+        "37-history-1d69175e6c8f8f"
+      ],
+      "name": "鰹宇神社",
+      "municipality": "高松市"
+    },
+    {
+      "ids": [
+        "37-agency-1d9e35214c3195",
+        "37-history-b81791fe2d603b"
+      ],
+      "name": "鷺井神社",
+      "municipality": "善通寺市"
+    },
+    {
+      "ids": [
+        "37-agency-2d6d9c049d76a7",
+        "37-history-3ba5de443bfde3"
+      ],
+      "name": "黒島神社",
+      "municipality": "観音寺市"
+    },
+    {
+      "ids": [
+        "37-agency-50a297029271f8",
+        "37-history-43c7c404a6147a"
+      ],
+      "name": "黒見神社",
+      "municipality": "仲多度郡まんのう町"
+    },
+    {
+      "ids": [
+        "37-agency-4f3ac3ba189a7c",
+        "37-history-f709ea07d665ea"
+      ],
+      "name": "鼓岡神社",
+      "municipality": "坂出市"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 264,
+    "unmapped_records": 1097
+  }
+}
