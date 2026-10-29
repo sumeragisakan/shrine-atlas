@@ -1042,16 +1042,28 @@
       "code": 29,
       "name": "奈良県",
       "slug": "nara",
-      "status": "pending",
-      "records": 0,
+      "status": "ready",
+      "records": 1308,
       "mapped_locations": 0,
-      "with_deities": 0,
-      "collections": [],
-      "coverage": null,
-      "database": null,
-      "offline": null,
-      "historical_only_records": 0,
-      "agency_rows": 0
+      "with_deities": 1226,
+      "collections": [
+        "data/shrines/29-nara/history-001.json",
+        "data/shrines/29-nara/history-002.json",
+        "data/shrines/29-nara/history-003.json",
+        "data/shrines/29-nara/history-004.json",
+        "data/shrines/29-nara/history-005.json",
+        "data/shrines/29-nara/history-006.json",
+        "data/shrines/29-nara/history-007.json",
+        "data/shrines/29-nara/history-008.json",
+        "data/shrines/29-nara/history-009.json"
+      ],
+      "coverage": "data/coverage/29-nara.json",
+      "database": "database/prefectures/29-nara.sqlite.gz",
+      "offline": "offline/prefectures/29-nara.html",
+      "historical_only_records": 1308,
+      "agency_rows": 0,
+      "checked": "2026-10-30",
+      "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。"
     },
     {
       "code": 30,
@@ -1876,6 +1888,15 @@
     "data/shrines/28-hyogo/history-011.json",
     "data/shrines/28-hyogo/history-012.json",
     "data/shrines/28-hyogo/history-013.json",
+    "data/shrines/29-nara/history-001.json",
+    "data/shrines/29-nara/history-002.json",
+    "data/shrines/29-nara/history-003.json",
+    "data/shrines/29-nara/history-004.json",
+    "data/shrines/29-nara/history-005.json",
+    "data/shrines/29-nara/history-006.json",
+    "data/shrines/29-nara/history-007.json",
+    "data/shrines/29-nara/history-008.json",
+    "data/shrines/29-nara/history-009.json",
     "data/shrines/tottori/tottori-city.json",
     "data/shrines/tottori/yonago.json",
     "data/shrines/tottori/kurayoshi.json",
@@ -1898,10 +1919,10 @@
   ],
   "coverage_note": "机构公开名录与明确标记的研究会历史条目；不同来源的范围和缺失字段逐地区说明。",
   "totals": {
-    "regions": 29,
-    "records": 76508,
+    "regions": 30,
+    "records": 77816,
     "mapped_locations": 12759,
-    "with_deities": 60719,
-    "historical_only_records": 34609
+    "with_deities": 61945,
+    "historical_only_records": 35917
   }
 }

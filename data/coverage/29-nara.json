@@ -1,0 +1,937 @@
+{
+  "code": 29,
+  "name": "奈良県",
+  "slug": "nara",
+  "checked": "2026-10-30",
+  "scope": "奈良県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 1308,
+  "records": 1308,
+  "directory_indexes": 3,
+  "baseline_rows": 1308,
+  "agency_rows": 0,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 0,
+  "historical_only_records": 1308,
+  "with_deities": 1226,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 1308,
+  "municipalities": [
+    {
+      "municipality": "五條市",
+      "area": "全域",
+      "records": 106,
+      "with_deities": 98,
+      "mapped_locations": 0,
+      "without_coordinates": 106
+    },
+    {
+      "municipality": "北葛城郡上牧町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "北葛城郡広陵町",
+      "area": "全域",
+      "records": 31,
+      "with_deities": 28,
+      "mapped_locations": 0,
+      "without_coordinates": 31
+    },
+    {
+      "municipality": "北葛城郡河合町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "北葛城郡王寺町",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "吉野郡上北山村",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "吉野郡下北山村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "吉野郡下市町",
+      "area": "全域",
+      "records": 23,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 23
+    },
+    {
+      "municipality": "吉野郡十津川村",
+      "area": "全域",
+      "records": 28,
+      "with_deities": 27,
+      "mapped_locations": 0,
+      "without_coordinates": 28
+    },
+    {
+      "municipality": "吉野郡吉野町",
+      "area": "全域",
+      "records": 55,
+      "with_deities": 51,
+      "mapped_locations": 0,
+      "without_coordinates": 55
+    },
+    {
+      "municipality": "吉野郡大淀町",
+      "area": "全域",
+      "records": 21,
+      "with_deities": 20,
+      "mapped_locations": 0,
+      "without_coordinates": 21
+    },
+    {
+      "municipality": "吉野郡天川村",
+      "area": "全域",
+      "records": 16,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 16
+    },
+    {
+      "municipality": "吉野郡川上村",
+      "area": "全域",
+      "records": 26,
+      "with_deities": 25,
+      "mapped_locations": 0,
+      "without_coordinates": 26
+    },
+    {
+      "municipality": "吉野郡東吉野村",
+      "area": "全域",
+      "records": 22,
+      "with_deities": 20,
+      "mapped_locations": 0,
+      "without_coordinates": 22
+    },
+    {
+      "municipality": "吉野郡野迫川村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "吉野郡黒滝村",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "大和郡山市上三橋町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市下三橋町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市中城町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市丹後庄町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市井戸野町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市今国府町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市伊豆七条町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市八条町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市八條町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市北郡山町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市南井町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市南郡山町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市塩町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市外川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市大江町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市天井町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市宮堂町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市小南町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市小林町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市小泉町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市山田町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市新庄町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "大和郡山市新木町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市本庄町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市杉町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市材木町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市柏木町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市柳町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "大和郡山市植槻町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市椎木町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市横田堂前町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市横田町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "大和郡山市櫟枝町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市池之内町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市池沢町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市洞泉寺町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市満願寺町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市田中町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市番匠田中町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市番條町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市発志院町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市白土町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市矢田町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "大和郡山市石川町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市稗田町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市筒井町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "大和郡山市美濃庄町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "大和郡山市若槻町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市茶町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市西田中町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市西町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "大和郡山市観音寺町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市豊浦町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市車町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "大和郡山市野垣内町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市長安寺町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市額田部北町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市馬司町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市高田町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和郡山市魚町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "大和高田市",
+      "area": "全域",
+      "records": 35,
+      "with_deities": 34,
+      "mapped_locations": 0,
+      "without_coordinates": 35
+    },
+    {
+      "municipality": "天理市",
+      "area": "全域",
+      "records": 86,
+      "with_deities": 81,
+      "mapped_locations": 0,
+      "without_coordinates": 86
+    },
+    {
+      "municipality": "奈良市",
+      "area": "全域",
+      "records": 105,
+      "with_deities": 95,
+      "mapped_locations": 0,
+      "without_coordinates": 105
+    },
+    {
+      "municipality": "宇陀市",
+      "area": "全域",
+      "records": 41,
+      "with_deities": 34,
+      "mapped_locations": 0,
+      "without_coordinates": 41
+    },
+    {
+      "municipality": "宇陀市大宇陀区",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 27,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "宇陀市室生区",
+      "area": "全域",
+      "records": 15,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 15
+    },
+    {
+      "municipality": "宇陀市榛原区",
+      "area": "全域",
+      "records": 23,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 23
+    },
+    {
+      "municipality": "宇陀市菟田野区",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "宇陀郡室生村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "宇陀郡御杖村",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "宇陀郡曽爾村",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "宇陀郡榛原町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "山辺郡山添村",
+      "area": "全域",
+      "records": 30,
+      "with_deities": 30,
+      "mapped_locations": 0,
+      "without_coordinates": 30
+    },
+    {
+      "municipality": "御所市",
+      "area": "全域",
+      "records": 49,
+      "with_deities": 46,
+      "mapped_locations": 0,
+      "without_coordinates": 49
+    },
+    {
+      "municipality": "桜井市",
+      "area": "全域",
+      "records": 94,
+      "with_deities": 89,
+      "mapped_locations": 0,
+      "without_coordinates": 94
+    },
+    {
+      "municipality": "橿原市",
+      "area": "全域",
+      "records": 99,
+      "with_deities": 93,
+      "mapped_locations": 0,
+      "without_coordinates": 99
+    },
+    {
+      "municipality": "生駒市",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "生駒郡三郷町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "生駒郡安堵町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "生駒郡平群町",
+      "area": "全域",
+      "records": 15,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 15
+    },
+    {
+      "municipality": "生駒郡斑鳩町",
+      "area": "全域",
+      "records": 16,
+      "with_deities": 16,
+      "mapped_locations": 0,
+      "without_coordinates": 16
+    },
+    {
+      "municipality": "磯城郡三宅町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "磯城郡川西町",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
+      "municipality": "磯城郡田原本町",
+      "area": "全域",
+      "records": 55,
+      "with_deities": 52,
+      "mapped_locations": 0,
+      "without_coordinates": 55
+    },
+    {
+      "municipality": "葛城市",
+      "area": "全域",
+      "records": 46,
+      "with_deities": 43,
+      "mapped_locations": 0,
+      "without_coordinates": 46
+    },
+    {
+      "municipality": "香芝市",
+      "area": "全域",
+      "records": 20,
+      "with_deities": 19,
+      "mapped_locations": 0,
+      "without_coordinates": 20
+    },
+    {
+      "municipality": "高市郡明日香村",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 25,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "高市郡高取町",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 25,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    }
+  ],
+  "collections": [
+    "data/shrines/29-nara/history-001.json",
+    "data/shrines/29-nara/history-002.json",
+    "data/shrines/29-nara/history-003.json",
+    "data/shrines/29-nara/history-004.json",
+    "data/shrines/29-nara/history-005.json",
+    "data/shrines/29-nara/history-006.json",
+    "data/shrines/29-nara/history-007.json",
+    "data/shrines/29-nara/history-008.json",
+    "data/shrines/29-nara/history-009.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 1308,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "29"
+        }
+      }
+    },
+    {
+      "label": "奈良県神社庁・神社史研究会 公開神社一覧",
+      "url": "https://jinja-net.jp/jinjacho-nara/kensaku-nara.html",
+      "entries": null
+    },
+    {
+      "label": "奈良県神社庁・神社史研究会 公開神社一覧",
+      "url": "https://www.narashinsei.com/search/",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "奈良県神社庁・神社史研究会",
+      "label": "奈良県神社庁・神社史研究会 公開神社一覧",
+      "scope_note": "共同制作の公式検索入口は表示されるが、公開フォームの奈良市検索は500。フォームの全可視項目を含めた再試行も500。公式入口から案内される神道青年会の検索は503。全国旧データの重複収録はしない。",
+      "expected_rows": null,
+      "pagination_complete": false,
+      "failures": [
+        {
+          "url": "https://jinja-net.jp/jinjacho-nara/jsearch4nara.php",
+          "method": "POST",
+          "public_form_fields": {
+            "data_item": "shibu",
+            "data_choice": "1",
+            "data_prefecture": "29"
+          },
+          "error": "HTTP 500 Internal Server Error; two ordinary form submissions"
+        },
+        {
+          "url": "https://www.narashinsei.com/search/",
+          "error": "HTTP 503 Service Unavailable"
+        }
+      ],
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 82,
+    "unmapped_records": 1308
+  }
+}
