@@ -1,0 +1,2047 @@
+{
+  "code": 45,
+  "name": "宮崎県",
+  "slug": "miyazaki",
+  "checked": "2026-10-30",
+  "scope": "宮崎県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 877,
+  "records": 877,
+  "directory_indexes": 56,
+  "baseline_rows": 654,
+  "agency_rows": 649,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 426,
+  "historical_only_records": 228,
+  "with_deities": 876,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 877,
+  "municipalities": [
+    {
+      "municipality": "えびの市",
+      "area": "全域",
+      "records": 33,
+      "with_deities": 33,
+      "mapped_locations": 0,
+      "without_coordinates": 33
+    },
+    {
+      "municipality": "串間市",
+      "area": "全域",
+      "records": 17,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 17
+    },
+    {
+      "municipality": "児湯郡川南町",
+      "area": "全域",
+      "records": 23,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 23
+    },
+    {
+      "municipality": "児湯郡新富町",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 27,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "児湯郡木城町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 18,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "児湯郡西米良村",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "児湯郡都農町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "児湯郡高鍋町",
+      "area": "全域",
+      "records": 39,
+      "with_deities": 39,
+      "mapped_locations": 0,
+      "without_coordinates": 39
+    },
+    {
+      "municipality": "北諸県郡三股町",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "南那珂郡南郷町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "宮崎市",
+      "area": "全域",
+      "records": 136,
+      "with_deities": 136,
+      "mapped_locations": 0,
+      "without_coordinates": 136
+    },
+    {
+      "municipality": "宮崎郡清武町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "小林市",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "延岡市",
+      "area": "全域",
+      "records": 145,
+      "with_deities": 145,
+      "mapped_locations": 0,
+      "without_coordinates": 145
+    },
+    {
+      "municipality": "所在地未详",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "日南市",
+      "area": "全域",
+      "records": 68,
+      "with_deities": 68,
+      "mapped_locations": 0,
+      "without_coordinates": 68
+    },
+    {
+      "municipality": "日向市",
+      "area": "全域",
+      "records": 45,
+      "with_deities": 45,
+      "mapped_locations": 0,
+      "without_coordinates": 45
+    },
+    {
+      "municipality": "東臼杵郡椎葉村",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
+      "municipality": "東臼杵郡美郷町",
+      "area": "全域",
+      "records": 23,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 23
+    },
+    {
+      "municipality": "東臼杵郡諸塚村",
+      "area": "全域",
+      "records": 20,
+      "with_deities": 20,
+      "mapped_locations": 0,
+      "without_coordinates": 20
+    },
+    {
+      "municipality": "東臼杵郡門川町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 18,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "東諸県郡国富町",
+      "area": "全域",
+      "records": 28,
+      "with_deities": 28,
+      "mapped_locations": 0,
+      "without_coordinates": 28
+    },
+    {
+      "municipality": "東諸県郡綾町",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "西臼杵郡五ヶ瀬町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "西臼杵郡日之影町",
+      "area": "全域",
+      "records": 20,
+      "with_deities": 20,
+      "mapped_locations": 0,
+      "without_coordinates": 20
+    },
+    {
+      "municipality": "西臼杵郡高千穂町",
+      "area": "全域",
+      "records": 29,
+      "with_deities": 29,
+      "mapped_locations": 0,
+      "without_coordinates": 29
+    },
+    {
+      "municipality": "西諸県郡野尻町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "西諸県郡須木村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "西諸県郡高原町",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "西都市",
+      "area": "全域",
+      "records": 52,
+      "with_deities": 52,
+      "mapped_locations": 0,
+      "without_coordinates": 52
+    },
+    {
+      "municipality": "都城市",
+      "area": "全域",
+      "records": 62,
+      "with_deities": 62,
+      "mapped_locations": 0,
+      "without_coordinates": 62
+    }
+  ],
+  "collections": [
+    "data/shrines/45-miyazaki/agency-001.json",
+    "data/shrines/45-miyazaki/agency-002.json",
+    "data/shrines/45-miyazaki/agency-003.json",
+    "data/shrines/45-miyazaki/agency-004.json",
+    "data/shrines/45-miyazaki/agency-005.json",
+    "data/shrines/45-miyazaki/history-001.json",
+    "data/shrines/45-miyazaki/history-002.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 654,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "45"
+        }
+      }
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/10/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/11/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/12/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/13/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/14/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/15/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/16/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/17/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/18/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/19/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/2/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/20/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/21/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/22/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/23/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/24/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/25/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/26/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/27/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/28/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/29/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/3/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/30/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/31/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/32/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/33/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/34/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/35/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/36/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/37/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/38/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/39/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/4/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/40/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/41/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/42/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/43/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/44/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/45/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/46/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/47/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/48/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/49/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/5/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/50/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/51/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/52/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/53/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/54/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/55/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/6/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/7/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/8/",
+      "entries": null
+    },
+    {
+      "label": "宮巡 神社一覧",
+      "url": "https://www.m-shinsei.jp/shrine/page/9/",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "宮崎県神道青年会",
+      "label": "宮巡 神社一覧",
+      "scope_note": "宮崎県神道青年会が公開する宮巡の全一覧ページ。サイトは649社の検索を案内。公開一覧の収録範囲であり、県内のすべての実在する祠・境内社までの網羅性を保証しない。神名は御祭神欄を原文で保持。小國神社の原ページでは住所と郵便番号欄に内容のずれが見られるため、その値をsource_field_anomaliesに保ち、住所・祭神を推測補完しない。",
+      "expected_rows": 649,
+      "pagination_complete": true,
+      "failures": [],
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "45-agency-36e1b07c8f9865",
+        "45-history-4a0f928968cad1"
+      ],
+      "name": "宮崎天満宮",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-2591d6301120e8",
+        "45-agency-a0c6d311ee99ea",
+        "45-agency-0342832df08936",
+        "45-agency-d4d137eb02b978",
+        "45-history-769cb38449d40e",
+        "45-history-5bc0cbf1cd732f"
+      ],
+      "name": "熊野神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-b96b41741a1b68",
+        "45-history-9061f60506596b"
+      ],
+      "name": "三宅神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-1789323db11e25",
+        "45-history-b473ffc7de86f3"
+      ],
+      "name": "三島神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-c7f835150d2cc5",
+        "45-history-84c49bda213a5f"
+      ],
+      "name": "三輪神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-c4b7a4fcdf4c40",
+        "45-history-ee937c4dd1f4bc"
+      ],
+      "name": "三須神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-2383c23cdf4c53",
+        "45-history-c08f519aacecff"
+      ],
+      "name": "上三財神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-bc9f3f45503806",
+        "45-history-497e63fb7cf8d7"
+      ],
+      "name": "上鹿川神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-4684949db5716d",
+        "45-history-5e7bf77694f2f7"
+      ],
+      "name": "下伊福形神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-488db7ed608f1f",
+        "45-history-0384f4add19555"
+      ],
+      "name": "下田島神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-09da4b080ea991",
+        "45-history-24ca41179b19e2"
+      ],
+      "name": "中山神社",
+      "municipality": "東臼杵郡門川町"
+    },
+    {
+      "ids": [
+        "45-agency-3ec998b0f8568f",
+        "45-history-accc820b38d846"
+      ],
+      "name": "中八重神社",
+      "municipality": "東臼杵郡美郷町"
+    },
+    {
+      "ids": [
+        "45-agency-f6c36396583778",
+        "45-history-1386f77e72e72f"
+      ],
+      "name": "久保山神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-83f13fadd5bdd7",
+        "45-history-f7c4f24edff669"
+      ],
+      "name": "乙戸神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-6011cc6e028bbd",
+        "45-history-7c3bd2dfa54a0f"
+      ],
+      "name": "九社神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-8388ca9d459080",
+        "45-history-779e30cb0d04c4"
+      ],
+      "name": "二上神社",
+      "municipality": "西臼杵郡高千穂町"
+    },
+    {
+      "ids": [
+        "45-agency-1b85f9b359c80e",
+        "45-history-270231506eb91c"
+      ],
+      "name": "二股神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-f686303f7c797b",
+        "45-history-040754f7a89aae"
+      ],
+      "name": "今山八幡宮",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-a9a1a2df0273bf",
+        "45-history-c3a60ab133f04a"
+      ],
+      "name": "仲瀬神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-fc140e0a7ffa03",
+        "45-history-53b681a1ac5550"
+      ],
+      "name": "伊勢神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-ab73d62a57d529",
+        "45-history-3f7377e571b4dd"
+      ],
+      "name": "佐土原神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-a096a9662446a7",
+        "45-history-4921d5183434fa"
+      ],
+      "name": "入野神社",
+      "municipality": "東諸県郡綾町"
+    },
+    {
+      "ids": [
+        "45-agency-ebca7da4677fb1",
+        "45-agency-042cc43eabc632",
+        "45-agency-0ed0fcb49cf750",
+        "45-agency-962ff15b003101",
+        "45-agency-59db30f0fe9629",
+        "45-agency-1854fccacf29cd",
+        "45-history-f98be64c1159ee",
+        "45-history-5e92501d3155aa",
+        "45-history-d4e94ff3eb67e0",
+        "45-history-500f296157a905"
+      ],
+      "name": "八坂神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-af2805e704ab66",
+        "45-agency-d9ded22d8aec79",
+        "45-history-95661f269e5ed9"
+      ],
+      "name": "八坂神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-44ed81fe1dc2f4",
+        "45-history-bc6852aafba0ef"
+      ],
+      "name": "八坂神社",
+      "municipality": "東臼杵郡門川町"
+    },
+    {
+      "ids": [
+        "45-agency-345f31ea795b07",
+        "45-history-d3df8d8389dee7"
+      ],
+      "name": "八坂神社",
+      "municipality": "児湯郡高鍋町"
+    },
+    {
+      "ids": [
+        "45-agency-2574962b7f94d2",
+        "45-history-a6207a15df8cfe"
+      ],
+      "name": "八尾神社",
+      "municipality": "西諸県郡野尻町"
+    },
+    {
+      "ids": [
+        "45-agency-1df54acff1e39d",
+        "45-history-7fc0ef0bfbafd7"
+      ],
+      "name": "八幡神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-af55f1d72d2d29",
+        "45-history-395432d13cde47"
+      ],
+      "name": "八幡神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-4f61a3e7a24880",
+        "45-history-94b82cc32e4eb5"
+      ],
+      "name": "八幡神社",
+      "municipality": "児湯郡新富町"
+    },
+    {
+      "ids": [
+        "45-agency-fed960c32ab408",
+        "45-history-7b0aa7d9b2c6c1"
+      ],
+      "name": "八手神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-c9de1d771a53e8",
+        "45-history-18b443972c0afa"
+      ],
+      "name": "八王子神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-62e61c450eea74",
+        "45-history-ad8f905ee01f3e"
+      ],
+      "name": "八重原神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-c5dbe3c947f497",
+        "45-history-d269dcf01fae88"
+      ],
+      "name": "八重稲荷神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-03fe8b339e4a12",
+        "45-history-d25302a834d3d2"
+      ],
+      "name": "兼喜神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-b4df462e2dff82",
+        "45-history-d8aa78771be2ee"
+      ],
+      "name": "内山神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-45f5122ca657db",
+        "45-history-d0d21c60421020"
+      ],
+      "name": "出北神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-c6733077b53b41",
+        "45-history-5faf75011ee2da"
+      ],
+      "name": "加勢神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-8dae4ca8f11cdf",
+        "45-history-ece08840e123cb"
+      ],
+      "name": "加江田神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-365afd2f74586f",
+        "45-history-91ae84aeb446de"
+      ],
+      "name": "加護神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-45b86b4ed2c3d3",
+        "45-history-447e55551faf20"
+      ],
+      "name": "十根川神社",
+      "municipality": "東臼杵郡椎葉村"
+    },
+    {
+      "ids": [
+        "45-agency-030faca300414e",
+        "45-history-36a8907f27c803"
+      ],
+      "name": "南川神社",
+      "municipality": "東臼杵郡諸塚村"
+    },
+    {
+      "ids": [
+        "45-agency-914228ce5b58a1",
+        "45-agency-57674389885837",
+        "45-agency-429be06a570ab7",
+        "45-history-d03c32a7070ae7"
+      ],
+      "name": "南方神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-8c4ebc02c55dfc",
+        "45-history-951d9c3206839f"
+      ],
+      "name": "印鑰神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-84afad5345864e",
+        "45-history-8e7d5ededef49a"
+      ],
+      "name": "厳島神社",
+      "municipality": "児湯郡新富町"
+    },
+    {
+      "ids": [
+        "45-agency-e277d5f4894533",
+        "45-history-c1b62503d57e5a"
+      ],
+      "name": "厳島神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-c0f14dda34c740",
+        "45-history-f7901efce8640b"
+      ],
+      "name": "古城神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-dd741494264bf4",
+        "45-history-82616007ff72e4"
+      ],
+      "name": "可愛塚神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-dcacd8bb4fc1d3",
+        "45-history-ca3545475d224b"
+      ],
+      "name": "右松神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-20117096319b29",
+        "45-history-5b77adc2768249"
+      ],
+      "name": "吾田神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-1d12b9d56e712c",
+        "45-history-74f4bef1747aff"
+      ],
+      "name": "地下神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-7ecd434ea66a4a",
+        "45-history-275103beba3ed5"
+      ],
+      "name": "堤神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-c83bb37c8df3ac",
+        "45-history-a6378c5ee6f585"
+      ],
+      "name": "多賀神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-213f69e48999c0",
+        "45-agency-fc803e6b94be9d",
+        "45-history-2f6e5206e64e66",
+        "45-history-f183c05de77257"
+      ],
+      "name": "大将軍神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-b3cd380db02f25",
+        "45-history-e7af4537398eea"
+      ],
+      "name": "大年神社",
+      "municipality": "えびの市"
+    },
+    {
+      "ids": [
+        "45-agency-507bb6af719afa",
+        "45-history-7fa2d517f85acd"
+      ],
+      "name": "大年神社",
+      "municipality": "児湯郡高鍋町"
+    },
+    {
+      "ids": [
+        "45-agency-092527661ed054",
+        "45-history-2242a0194df77b"
+      ],
+      "name": "大貫神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-90e3e79a732a97",
+        "45-agency-9490a257909ea4",
+        "45-agency-35b02070d18e8e",
+        "45-agency-32af52a4d664a3",
+        "45-agency-c52d2b8ab0e26d",
+        "45-agency-908e609ec12b25",
+        "45-agency-810a8b9fa9547c",
+        "45-agency-93d7557626002a",
+        "45-agency-b71e28fef96e86",
+        "45-agency-a9c13e8dc9f843",
+        "45-agency-be4276b08e6f0c",
+        "45-agency-702ad746dc21b9",
+        "45-agency-69811bfdc122c9",
+        "45-history-ad64849e26b01a",
+        "45-history-b60263d43b1937",
+        "45-history-85c641dcfe03c3",
+        "45-history-87dbb86246cca5",
+        "45-history-fbc98f274d1a82"
+      ],
+      "name": "天満神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-3a0934891d56af",
+        "45-history-c211f80523ae3b"
+      ],
+      "name": "太田原神社",
+      "municipality": "東諸県郡国富町"
+    },
+    {
+      "ids": [
+        "45-agency-12cb2398606523",
+        "45-history-b95102e4dab1ed"
+      ],
+      "name": "妻万神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-2aff9df9103fb6",
+        "45-history-2c502e451ecf8b"
+      ],
+      "name": "宮崎神宮",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-0f0b2c3900df43",
+        "45-history-5fcb148cb7bb63"
+      ],
+      "name": "家代神社",
+      "municipality": "東臼杵郡諸塚村"
+    },
+    {
+      "ids": [
+        "45-agency-cb934a3b7cc5fd",
+        "45-history-be9d64335e63c6"
+      ],
+      "name": "富吉神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-499fd1ef0faeb3",
+        "45-history-8b54ffca03b606"
+      ],
+      "name": "富田八幡神社",
+      "municipality": "児湯郡新富町"
+    },
+    {
+      "ids": [
+        "45-agency-58f80afca62286",
+        "45-history-c39097918ce383"
+      ],
+      "name": "小八重神社",
+      "municipality": "東臼杵郡美郷町"
+    },
+    {
+      "ids": [
+        "45-agency-479af7be6021bf",
+        "45-history-1a5a35a77540f5"
+      ],
+      "name": "小原神社",
+      "municipality": "東臼杵郡諸塚村"
+    },
+    {
+      "ids": [
+        "45-agency-2c2876ff79fe0c",
+        "45-history-7eec4d97122e01"
+      ],
+      "name": "小崎神社",
+      "municipality": "東臼杵郡椎葉村"
+    },
+    {
+      "ids": [
+        "45-agency-0c6bf5a494f560",
+        "45-history-84652bdc5a03f1"
+      ],
+      "name": "小戸神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-46fbacbd2a46c0",
+        "45-history-e0477a61ea5dc6"
+      ],
+      "name": "小松神社",
+      "municipality": "東臼杵郡門川町"
+    },
+    {
+      "ids": [
+        "45-agency-75668261c84b60",
+        "45-history-97885f82b45e5f"
+      ],
+      "name": "小鷹神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-c58cfc5eb62a02",
+        "45-history-09107f32af6a74"
+      ],
+      "name": "尾佐渡神社",
+      "municipality": "東臼杵郡美郷町"
+    },
+    {
+      "ids": [
+        "45-agency-dc0aacb02cda00",
+        "45-history-b1bef9f7bb000f"
+      ],
+      "name": "尾八重神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-0c5f1304ae1fe5",
+        "45-history-c9675a18e57eab"
+      ],
+      "name": "尾末神社",
+      "municipality": "東臼杵郡門川町"
+    },
+    {
+      "ids": [
+        "45-agency-f240fa3220fb18",
+        "45-history-b27d6781a8705a"
+      ],
+      "name": "山之神神社",
+      "municipality": "小林市"
+    },
+    {
+      "ids": [
+        "45-agency-a4839eeca98ee6",
+        "45-history-47fcaf67f58c10"
+      ],
+      "name": "山王大物主神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-2806b13e0a88d9",
+        "45-history-a06cccf6a80bcf"
+      ],
+      "name": "山田神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-9f9d923400b903",
+        "45-history-da856e561f6014"
+      ],
+      "name": "山祇神社",
+      "municipality": "えびの市"
+    },
+    {
+      "ids": [
+        "45-agency-7d812031ec2683",
+        "45-history-a2e64dc4e366f8"
+      ],
+      "name": "岩井川神社",
+      "municipality": "西臼杵郡日之影町"
+    },
+    {
+      "ids": [
+        "45-agency-7eaf2c97d8d5b0",
+        "45-history-b77f2b42209b5b"
+      ],
+      "name": "岩崎稲荷神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-d8747e2006bdc8",
+        "45-history-5f73a317b648b0"
+      ],
+      "name": "島野浦神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-558aea0a0f5d04",
+        "45-history-c9786e539cd786"
+      ],
+      "name": "嶽宮神社",
+      "municipality": "西臼杵郡高千穂町"
+    },
+    {
+      "ids": [
+        "45-agency-5ae46ec4eeea84",
+        "45-history-9b2083df2f0399"
+      ],
+      "name": "川島神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-22b94ff981cde7",
+        "45-history-25d9fe623e281a"
+      ],
+      "name": "川水流神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-21766146bf3dc3",
+        "45-history-9b1025b86479af"
+      ],
+      "name": "市振神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-920d62ac6f7c6e",
+        "45-history-d07fd85a6165fb"
+      ],
+      "name": "市野神社",
+      "municipality": "東諸県郡国富町"
+    },
+    {
+      "ids": [
+        "45-agency-2b6fef47a970d8",
+        "45-history-c1ca703bad3c90"
+      ],
+      "name": "広瀬護国神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-209d0f18097259",
+        "45-history-dfafd3dce315fe"
+      ],
+      "name": "御年神社",
+      "municipality": "北諸県郡三股町"
+    },
+    {
+      "ids": [
+        "45-agency-d52e88e997113f",
+        "45-history-c572aec872a74f"
+      ],
+      "name": "恒久神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-cfc0a9594f8bb6",
+        "45-history-f8feac7002e369"
+      ],
+      "name": "恵比須神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-bd3ab0fe053d8e",
+        "45-agency-3da1123409a2ff",
+        "45-agency-5e80e4e4879f93",
+        "45-history-84048bc122e750",
+        "45-history-a05207e7cb6ce7"
+      ],
+      "name": "愛宕神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-7a367aeeef19bc",
+        "45-history-a20fa41449e140"
+      ],
+      "name": "愛宕神社",
+      "municipality": "東臼杵郡美郷町"
+    },
+    {
+      "ids": [
+        "45-agency-238ccfe0e5166b",
+        "45-history-0113dd237e20a8"
+      ],
+      "name": "早日渡神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-6f82a1cd15c2c1",
+        "45-history-6549a267841ac5"
+      ],
+      "name": "旭丘神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-39628d0efecb39",
+        "45-history-7678edb1736064"
+      ],
+      "name": "春日神社",
+      "municipality": "串間市"
+    },
+    {
+      "ids": [
+        "45-agency-6cda2cd8118878",
+        "45-history-5cda7aadab6ce7"
+      ],
+      "name": "春日神社",
+      "municipality": "児湯郡川南町"
+    },
+    {
+      "ids": [
+        "45-agency-bbb22dd05f5790",
+        "45-history-dec1784f43c2a0"
+      ],
+      "name": "春日神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-d2d2d4e865bb40",
+        "45-history-3f1b32dfd8ad47"
+      ],
+      "name": "春日神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-4ce6a84bd1c026",
+        "45-history-332b1b729f7112"
+      ],
+      "name": "曽木神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-6aa0e129474934",
+        "45-history-8b50a680028f36"
+      ],
+      "name": "松ノ平神社",
+      "municipality": "東臼杵郡諸塚村"
+    },
+    {
+      "ids": [
+        "45-agency-fd195c54e587f7",
+        "45-history-c66c0643ca8396"
+      ],
+      "name": "松尾神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-8b63c9c26aeb7e",
+        "45-history-054fd0b0916e90"
+      ],
+      "name": "桂神社",
+      "municipality": "東臼杵郡諸塚村"
+    },
+    {
+      "ids": [
+        "45-agency-757232bc5c6c55",
+        "45-history-3f01ef4137328a"
+      ],
+      "name": "椎畑神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-3b99f690a45d2f",
+        "45-history-441f54e2291513"
+      ],
+      "name": "椎谷神社",
+      "municipality": "西臼杵郡日之影町"
+    },
+    {
+      "ids": [
+        "45-agency-39e9cb5ddcd8fc",
+        "45-history-fa8a620d09285a"
+      ],
+      "name": "榎原神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-cd61efc77fe0ae",
+        "45-history-c74db09ca061a5"
+      ],
+      "name": "水清谷神社",
+      "municipality": "東臼杵郡美郷町"
+    },
+    {
+      "ids": [
+        "45-agency-0af98bb1b8cc1d",
+        "45-history-1dcd029f92a0e2"
+      ],
+      "name": "永池神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-18631123076490",
+        "45-history-77243008fc350b"
+      ],
+      "name": "江田神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-986d0c075ee729",
+        "45-history-e9c444a229d9b1"
+      ],
+      "name": "浦尻神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-7303ee8a5bd27f",
+        "45-history-a0ebb66007cf68"
+      ],
+      "name": "淀川橘稲荷神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-aaeb304735ad1c",
+        "45-history-669cfd71562402"
+      ],
+      "name": "深年神社",
+      "municipality": "東諸県郡国富町"
+    },
+    {
+      "ids": [
+        "45-agency-0ed2e6f9d2bfaa",
+        "45-history-665d1bbb317971"
+      ],
+      "name": "渡川神社",
+      "municipality": "東臼杵郡美郷町"
+    },
+    {
+      "ids": [
+        "45-agency-20815675ec6876",
+        "45-history-a31614141ea458"
+      ],
+      "name": "湯之宮神社",
+      "municipality": "児湯郡新富町"
+    },
+    {
+      "ids": [
+        "45-agency-0b5561c3aa4a50",
+        "45-history-d73f39db9b5ab4"
+      ],
+      "name": "潤島神社",
+      "municipality": "東臼杵郡門川町"
+    },
+    {
+      "ids": [
+        "45-agency-16de2ed575cc7a",
+        "45-history-3a2358f58b46f0"
+      ],
+      "name": "焼石神社",
+      "municipality": "児湯郡新富町"
+    },
+    {
+      "ids": [
+        "45-agency-f550cde9ae762d",
+        "45-history-a10571c98e9a8e"
+      ],
+      "name": "猪野内神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-477e80f0842daa",
+        "45-history-a3cfcb98028d58"
+      ],
+      "name": "田ノ上八幡神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-dc7b9352d901e6",
+        "45-history-c46be6678f4e20"
+      ],
+      "name": "田元神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-a863e474dab13a",
+        "45-history-9450a4179a80e4"
+      ],
+      "name": "田野神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-5f7f2c8ea91acf",
+        "45-history-849d1049abd298"
+      ],
+      "name": "白髭神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-25e22acc89171d",
+        "45-history-fc6f4ae2a2d2ff"
+      ],
+      "name": "直海神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-fe1367fb65fd40",
+        "45-history-74213c8db9ca95"
+      ],
+      "name": "石上神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-8b6ce76c1e41e2",
+        "45-history-52459f4353b1b2"
+      ],
+      "name": "石神神社",
+      "municipality": "西臼杵郡高千穂町"
+    },
+    {
+      "ids": [
+        "45-agency-3c6dd67cf5c970",
+        "45-history-11b320c30e5fb3"
+      ],
+      "name": "石貫神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-afd8cb52670677",
+        "45-history-acc63ef4f690fd"
+      ],
+      "name": "祖母嶽神社",
+      "municipality": "西臼杵郡高千穂町"
+    },
+    {
+      "ids": [
+        "45-agency-31ba2e89192706",
+        "45-history-18ee0c01e0af93"
+      ],
+      "name": "神門神社",
+      "municipality": "東臼杵郡美郷町"
+    },
+    {
+      "ids": [
+        "45-agency-c17c3827573c78",
+        "45-history-8a0a8ea3034fcd"
+      ],
+      "name": "福島神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-14d7fa3d7d6876",
+        "45-history-5dbccd998ac611"
+      ],
+      "name": "福島金谷神社",
+      "municipality": "串間市"
+    },
+    {
+      "ids": [
+        "45-agency-9ca05adfb37dc2",
+        "45-agency-8a1da3565eb7d9",
+        "45-history-ca876429abde91"
+      ],
+      "name": "稲荷神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-a1010e2655bbe8",
+        "45-history-4fb48b6c27e512"
+      ],
+      "name": "稲荷神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-9458d5521ba190",
+        "45-history-e4b26c6ed8a7a8"
+      ],
+      "name": "稲荷神社",
+      "municipality": "児湯郡高鍋町"
+    },
+    {
+      "ids": [
+        "45-agency-1be7ff0cc914a0",
+        "45-history-f562178f366f82"
+      ],
+      "name": "立磐神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-2dc6e4339f3020",
+        "45-history-c8ce1bb4f3b5b9"
+      ],
+      "name": "童子丸神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-39b0586f8a1691",
+        "45-history-c1316b45f8e6f8"
+      ],
+      "name": "笠下神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-628e6fefc7dcb5",
+        "45-history-5129261741f5a8"
+      ],
+      "name": "細江神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-2d1a18d940d070",
+        "45-history-051d03c61aa74b"
+      ],
+      "name": "綾護国神社",
+      "municipality": "東諸県郡綾町"
+    },
+    {
+      "ids": [
+        "45-agency-4a72ddbe5de281",
+        "45-history-aa094665b354ac"
+      ],
+      "name": "羽坂神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-f9088ffa523339",
+        "45-history-332c84da81c339"
+      ],
+      "name": "羽山神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-7d7fb7aae10696",
+        "45-history-df348f4c4a786f"
+      ],
+      "name": "羽黒神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-3c2f1dcea6289d",
+        "45-history-3709b1eaab0da8"
+      ],
+      "name": "羽黒神社",
+      "municipality": "えびの市"
+    },
+    {
+      "ids": [
+        "45-agency-115825f6f184fc",
+        "45-history-e589526166a670"
+      ],
+      "name": "芝原神社",
+      "municipality": "西臼杵郡高千穂町"
+    },
+    {
+      "ids": [
+        "45-agency-4af10bf877d11c",
+        "45-history-3d491e244c70af"
+      ],
+      "name": "花見神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-e7f4f28b28ce01",
+        "45-agency-e1f20ac195ffab",
+        "45-history-73df0d2b8a2794"
+      ],
+      "name": "若宮神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-e94f8aaf5c47ac",
+        "45-history-9865664ef56756"
+      ],
+      "name": "荒谷神社",
+      "municipality": "東臼杵郡諸塚村"
+    },
+    {
+      "ids": [
+        "45-agency-b34f6a974626c9",
+        "45-agency-44de34b7efe847",
+        "45-history-79589b7fb86bb5"
+      ],
+      "name": "菅原神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-b797e877ec69de",
+        "45-history-553caa95d30be6"
+      ],
+      "name": "菅原神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-bae18bd9acdc9e",
+        "45-agency-4d3aacffa54bef",
+        "45-agency-e676f5926f6f69",
+        "45-agency-50f4ba5951a37c",
+        "45-history-45c4a5d83792be",
+        "45-history-28800a4b4dd5c5",
+        "45-history-1fa0482e53a158",
+        "45-history-b9c43ec2f56e4a"
+      ],
+      "name": "菅原神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-2737bbf3e8db9f",
+        "45-agency-c530d080fdf408",
+        "45-agency-27bfc90358d506",
+        "45-agency-608d61a5098d12",
+        "45-agency-bdfa5df430fe73",
+        "45-agency-4d657e67ba7eb2",
+        "45-history-f32b6081515985",
+        "45-history-0b15f44b1586d6"
+      ],
+      "name": "菅原神社",
+      "municipality": "児湯郡高鍋町"
+    },
+    {
+      "ids": [
+        "45-agency-d5be976881cf24",
+        "45-agency-8f44929dfd47d8",
+        "45-agency-ce041d850566db",
+        "45-agency-f0bc5943b58c81",
+        "45-agency-3e4987487d72ee",
+        "45-history-1ed149cdf7a49a"
+      ],
+      "name": "菅原神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-7a0511b90db333",
+        "45-history-df2f35e045a045"
+      ],
+      "name": "蔵田神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-68362db4237a7c",
+        "45-history-e4da1fdbaff451"
+      ],
+      "name": "藤木神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-d6b65326f6363e",
+        "45-history-44c119957501bc"
+      ],
+      "name": "藤田神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-9eaf4e1ba41f01",
+        "45-history-6928f0a12d3581"
+      ],
+      "name": "蛭児神社",
+      "municipality": "えびの市"
+    },
+    {
+      "ids": [
+        "45-agency-7a676befdb10ff",
+        "45-history-454e3359985ed0"
+      ],
+      "name": "角田神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-35e0319c095d00",
+        "45-history-6a8091a02d9a2a"
+      ],
+      "name": "諏訪神社",
+      "municipality": "東諸県郡国富町"
+    },
+    {
+      "ids": [
+        "45-agency-974e2e37ee8c4c",
+        "45-history-4be8915857ddcc"
+      ],
+      "name": "諏訪神社",
+      "municipality": "児湯郡新富町"
+    },
+    {
+      "ids": [
+        "45-agency-4010ae69949a3d",
+        "45-agency-0711a46a1712d1",
+        "45-agency-7553654572270f",
+        "45-agency-3f2df5e90138e2",
+        "45-history-3fd5567bfea120"
+      ],
+      "name": "諏訪神社",
+      "municipality": "都城市"
+    },
+    {
+      "ids": [
+        "45-agency-0b6d4046b51d2f",
+        "45-history-fdfb2b0e695b84"
+      ],
+      "name": "速川神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-8bd51e5b7848e9",
+        "45-history-9ae623ff67a216"
+      ],
+      "name": "都萬神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-ade617dcfff58f",
+        "45-history-ab0a9a59aeeb54"
+      ],
+      "name": "野地神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-011b1f17b3f544",
+        "45-history-b3238013182f9e",
+        "45-history-b1cd94a0866bd6"
+      ],
+      "name": "金刀比羅神社",
+      "municipality": "児湯郡高鍋町"
+    },
+    {
+      "ids": [
+        "45-agency-f5cecd55961821",
+        "45-history-e1b6257cc0a7b8"
+      ],
+      "name": "鈴嶽神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-c2e0d230d08ad4",
+        "45-history-0ae2ee36e0abd7"
+      ],
+      "name": "門川神社",
+      "municipality": "東臼杵郡門川町"
+    },
+    {
+      "ids": [
+        "45-agency-95ec907c4cc382",
+        "45-history-d70da9a2325057"
+      ],
+      "name": "阿佐加利神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-f2b3e239e479b3",
+        "45-history-993c9bd99f7f66"
+      ],
+      "name": "阿蘇天神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-e82ba4ab362ab3",
+        "45-agency-8da91f99637325",
+        "45-history-07521bad4cd491"
+      ],
+      "name": "霧島神社",
+      "municipality": "日南市"
+    },
+    {
+      "ids": [
+        "45-agency-942979dd23f511",
+        "45-history-13d83805bc78e7"
+      ],
+      "name": "霧島神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-65c4920e75b973",
+        "45-agency-9e144046d337c6",
+        "45-history-0ac4784dac0549"
+      ],
+      "name": "霧島神社",
+      "municipality": "西都市"
+    },
+    {
+      "ids": [
+        "45-agency-70b49d0674cc3e",
+        "45-history-7740e2fd0bfc3d"
+      ],
+      "name": "青島神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-d4cb9276b6e21a",
+        "45-history-208fafdbfb4977"
+      ],
+      "name": "須賀神社",
+      "municipality": "日向市"
+    },
+    {
+      "ids": [
+        "45-agency-a5da290583bfb9",
+        "45-history-ba5dd43bbd32d0"
+      ],
+      "name": "高屋神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-d4164fcc688be5",
+        "45-history-6474d9760bb1c0"
+      ],
+      "name": "高岡護国神社",
+      "municipality": "宮崎市"
+    },
+    {
+      "ids": [
+        "45-agency-f95fd7e61932cd",
+        "45-history-1bf1999c8c1071"
+      ],
+      "name": "鯛名神社",
+      "municipality": "延岡市"
+    },
+    {
+      "ids": [
+        "45-agency-761c5f7f4a8f38",
+        "45-history-0f5be0dadaa31e"
+      ],
+      "name": "鹿越神社",
+      "municipality": "延岡市"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 1,
+    "unmapped_records": 877
+  }
+}

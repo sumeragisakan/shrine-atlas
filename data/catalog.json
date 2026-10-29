@@ -1527,16 +1527,26 @@
       "code": 45,
       "name": "宮崎県",
       "slug": "miyazaki",
-      "status": "pending",
-      "records": 0,
+      "status": "ready",
+      "records": 877,
       "mapped_locations": 0,
-      "with_deities": 0,
-      "collections": [],
-      "coverage": null,
-      "database": null,
-      "offline": null,
-      "historical_only_records": 0,
-      "agency_rows": 0
+      "with_deities": 876,
+      "collections": [
+        "data/shrines/45-miyazaki/agency-001.json",
+        "data/shrines/45-miyazaki/agency-002.json",
+        "data/shrines/45-miyazaki/agency-003.json",
+        "data/shrines/45-miyazaki/agency-004.json",
+        "data/shrines/45-miyazaki/agency-005.json",
+        "data/shrines/45-miyazaki/history-001.json",
+        "data/shrines/45-miyazaki/history-002.json"
+      ],
+      "coverage": "data/coverage/45-miyazaki.json",
+      "database": "database/prefectures/45-miyazaki.sqlite.gz",
+      "offline": "offline/prefectures/45-miyazaki.html",
+      "historical_only_records": 228,
+      "agency_rows": 649,
+      "checked": "2026-10-30",
+      "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。"
     },
     {
       "code": 46,
@@ -2295,14 +2305,21 @@
     "data/shrines/44-oita/history-012.json",
     "data/shrines/44-oita/history-013.json",
     "data/shrines/44-oita/history-014.json",
-    "data/shrines/44-oita/history-015.json"
+    "data/shrines/44-oita/history-015.json",
+    "data/shrines/45-miyazaki/agency-001.json",
+    "data/shrines/45-miyazaki/agency-002.json",
+    "data/shrines/45-miyazaki/agency-003.json",
+    "data/shrines/45-miyazaki/agency-004.json",
+    "data/shrines/45-miyazaki/agency-005.json",
+    "data/shrines/45-miyazaki/history-001.json",
+    "data/shrines/45-miyazaki/history-002.json"
   ],
   "coverage_note": "机构公开名录与明确标记的研究会历史条目；不同来源的范围和缺失字段逐地区说明。",
   "totals": {
-    "regions": 44,
-    "records": 101442,
+    "regions": 45,
+    "records": 102319,
     "mapped_locations": 14839,
-    "with_deities": 82909,
-    "historical_only_records": 52445
+    "with_deities": 83785,
+    "historical_only_records": 52673
   }
 }
