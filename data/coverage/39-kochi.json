@@ -1,0 +1,776 @@
+{
+  "code": 39,
+  "name": "高知県",
+  "slug": "kochi",
+  "checked": "2026-10-30",
+  "scope": "高知県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 2202,
+  "records": 2202,
+  "directory_indexes": 2,
+  "baseline_rows": 2178,
+  "agency_rows": 38,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 14,
+  "historical_only_records": 2164,
+  "with_deities": 1881,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 2202,
+  "municipalities": [
+    {
+      "municipality": "中村市",
+      "area": "全域",
+      "records": 22,
+      "with_deities": 21,
+      "mapped_locations": 0,
+      "without_coordinates": 22
+    },
+    {
+      "municipality": "南国市",
+      "area": "全域",
+      "records": 102,
+      "with_deities": 81,
+      "mapped_locations": 0,
+      "without_coordinates": 102
+    },
+    {
+      "municipality": "吾川郡いの町",
+      "area": "全域",
+      "records": 45,
+      "with_deities": 44,
+      "mapped_locations": 0,
+      "without_coordinates": 45
+    },
+    {
+      "municipality": "吾川郡仁淀川町",
+      "area": "全域",
+      "records": 116,
+      "with_deities": 114,
+      "mapped_locations": 0,
+      "without_coordinates": 116
+    },
+    {
+      "municipality": "吾川郡伊野町",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "吾川郡吾北村",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "吾川郡吾川村",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "吾川郡春野町",
+      "area": "全域",
+      "records": 8,
+      "with_deities": 8,
+      "mapped_locations": 0,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "吾川郡池川町",
+      "area": "全域",
+      "records": 13,
+      "with_deities": 13,
+      "mapped_locations": 0,
+      "without_coordinates": 13
+    },
+    {
+      "municipality": "四万十市",
+      "area": "全域",
+      "records": 133,
+      "with_deities": 120,
+      "mapped_locations": 0,
+      "without_coordinates": 133
+    },
+    {
+      "municipality": "土佐市",
+      "area": "全域",
+      "records": 74,
+      "with_deities": 51,
+      "mapped_locations": 0,
+      "without_coordinates": 74
+    },
+    {
+      "municipality": "土佐清水市",
+      "area": "全域",
+      "records": 64,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 64
+    },
+    {
+      "municipality": "土佐郡土佐山村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "土佐郡土佐町",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 27,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "土佐郡大川村",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "土佐郡本川村",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "土佐郡鏡村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "安芸市",
+      "area": "全域",
+      "records": 54,
+      "with_deities": 54,
+      "mapped_locations": 0,
+      "without_coordinates": 54
+    },
+    {
+      "municipality": "安芸郡北川村",
+      "area": "全域",
+      "records": 26,
+      "with_deities": 18,
+      "mapped_locations": 0,
+      "without_coordinates": 26
+    },
+    {
+      "municipality": "安芸郡奈半利町",
+      "area": "全域",
+      "records": 21,
+      "with_deities": 20,
+      "mapped_locations": 0,
+      "without_coordinates": 21
+    },
+    {
+      "municipality": "安芸郡安田町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "安芸郡東洋町",
+      "area": "全域",
+      "records": 33,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 33
+    },
+    {
+      "municipality": "安芸郡田野町",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "安芸郡芸西村",
+      "area": "全域",
+      "records": 13,
+      "with_deities": 13,
+      "mapped_locations": 0,
+      "without_coordinates": 13
+    },
+    {
+      "municipality": "安芸郡馬路村",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "室戸市",
+      "area": "全域",
+      "records": 114,
+      "with_deities": 114,
+      "mapped_locations": 0,
+      "without_coordinates": 114
+    },
+    {
+      "municipality": "宿毛市",
+      "area": "全域",
+      "records": 76,
+      "with_deities": 51,
+      "mapped_locations": 0,
+      "without_coordinates": 76
+    },
+    {
+      "municipality": "幡多郡三原村",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 13,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "幡多郡佐賀町",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "幡多郡十和村",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "幡多郡大方町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "幡多郡大月町",
+      "area": "全域",
+      "records": 46,
+      "with_deities": 43,
+      "mapped_locations": 0,
+      "without_coordinates": 46
+    },
+    {
+      "municipality": "幡多郡大正町",
+      "area": "全域",
+      "records": 11,
+      "with_deities": 11,
+      "mapped_locations": 0,
+      "without_coordinates": 11
+    },
+    {
+      "municipality": "幡多郡西土佐村",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "幡多郡黒潮町",
+      "area": "全域",
+      "records": 57,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 57
+    },
+    {
+      "municipality": "護国神社〒781-8126高知県高知市",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 0,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "長岡郡大豊町",
+      "area": "全域",
+      "records": 76,
+      "with_deities": 75,
+      "mapped_locations": 0,
+      "without_coordinates": 76
+    },
+    {
+      "municipality": "長岡郡本山町",
+      "area": "全域",
+      "records": 27,
+      "with_deities": 27,
+      "mapped_locations": 0,
+      "without_coordinates": 27
+    },
+    {
+      "municipality": "須崎市",
+      "area": "全域",
+      "records": 65,
+      "with_deities": 60,
+      "mapped_locations": 0,
+      "without_coordinates": 65
+    },
+    {
+      "municipality": "香南市",
+      "area": "全域",
+      "records": 66,
+      "with_deities": 59,
+      "mapped_locations": 0,
+      "without_coordinates": 66
+    },
+    {
+      "municipality": "香美市",
+      "area": "全域",
+      "records": 123,
+      "with_deities": 105,
+      "mapped_locations": 0,
+      "without_coordinates": 123
+    },
+    {
+      "municipality": "香美郡土佐山田町",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "香美郡夜須町",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "香美郡物部村",
+      "area": "全域",
+      "records": 3,
+      "with_deities": 3,
+      "mapped_locations": 0,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "香美郡野市町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "香美郡香北町",
+      "area": "全域",
+      "records": 19,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 19
+    },
+    {
+      "municipality": "香美郡香我美町",
+      "area": "全域",
+      "records": 4,
+      "with_deities": 4,
+      "mapped_locations": 0,
+      "without_coordinates": 4
+    },
+    {
+      "municipality": "高岡郡中土佐町",
+      "area": "全域",
+      "records": 46,
+      "with_deities": 37,
+      "mapped_locations": 0,
+      "without_coordinates": 46
+    },
+    {
+      "municipality": "高岡郡佐川町",
+      "area": "全域",
+      "records": 71,
+      "with_deities": 53,
+      "mapped_locations": 0,
+      "without_coordinates": 71
+    },
+    {
+      "municipality": "高岡郡四万十町",
+      "area": "全域",
+      "records": 125,
+      "with_deities": 115,
+      "mapped_locations": 0,
+      "without_coordinates": 125
+    },
+    {
+      "municipality": "高岡郡大野見村",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
+      "municipality": "高岡郡日高村",
+      "area": "全域",
+      "records": 34,
+      "with_deities": 29,
+      "mapped_locations": 0,
+      "without_coordinates": 34
+    },
+    {
+      "municipality": "高岡郡東津野村",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "高岡郡梼原町",
+      "area": "全域",
+      "records": 18,
+      "with_deities": 17,
+      "mapped_locations": 0,
+      "without_coordinates": 18
+    },
+    {
+      "municipality": "高岡郡津野町",
+      "area": "全域",
+      "records": 47,
+      "with_deities": 46,
+      "mapped_locations": 0,
+      "without_coordinates": 47
+    },
+    {
+      "municipality": "高岡郡窪川町",
+      "area": "全域",
+      "records": 16,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 16
+    },
+    {
+      "municipality": "高岡郡葉山村",
+      "area": "全域",
+      "records": 20,
+      "with_deities": 19,
+      "mapped_locations": 0,
+      "without_coordinates": 20
+    },
+    {
+      "municipality": "高岡郡越知町",
+      "area": "全域",
+      "records": 48,
+      "with_deities": 43,
+      "mapped_locations": 0,
+      "without_coordinates": 48
+    },
+    {
+      "municipality": "高知市",
+      "area": "全域",
+      "records": 205,
+      "with_deities": 181,
+      "mapped_locations": 0,
+      "without_coordinates": 205
+    }
+  ],
+  "collections": [
+    "data/shrines/39-kochi/agency-001.json",
+    "data/shrines/39-kochi/history-001.json",
+    "data/shrines/39-kochi/history-002.json",
+    "data/shrines/39-kochi/history-003.json",
+    "data/shrines/39-kochi/history-004.json",
+    "data/shrines/39-kochi/history-005.json",
+    "data/shrines/39-kochi/history-006.json",
+    "data/shrines/39-kochi/history-007.json",
+    "data/shrines/39-kochi/history-008.json",
+    "data/shrines/39-kochi/history-009.json",
+    "data/shrines/39-kochi/history-010.json",
+    "data/shrines/39-kochi/history-011.json",
+    "data/shrines/39-kochi/history-012.json",
+    "data/shrines/39-kochi/history-013.json",
+    "data/shrines/39-kochi/history-014.json",
+    "data/shrines/39-kochi/history-015.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 2178,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "39"
+        }
+      }
+    },
+    {
+      "label": "高知県神社庁公開神社案内",
+      "url": "https://www.kochi-jinjyacho.com/%E9%AB%98%E7%9F%A5%E7%9C%8C%E7%A5%9E%E7%A4%BE%E4%B8%80%E8%A6%A7",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "高知県神社庁",
+      "label": "高知県神社庁公開神社案内",
+      "scope_note": "公式一覧ページの注目神社26件と、公開HTMLに初期表示された検索結果12件を収集。検索データセットは4215行と表示されるが、残りのページは取得していない。公開サイトのクライアントに記された読取APIは通常の匿名要求に403応答したため、認証やアクセス回避を試みずに停止。この部分収集は全神社の網羅ではない。住所の現況確認はしていない。",
+      "expected_rows": 4215,
+      "pagination_complete": false,
+      "failures": [
+        {
+          "url": "https://www.kochi-jinjyacho.com/_serverless/data-binding-server/fetch-data",
+          "error": "Ordinary anonymous public-client read request returned HTTP 403; pagination not collected."
+        }
+      ],
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "39-agency-7e33bc5136602e",
+        "39-history-64d448ea51a794"
+      ],
+      "name": "土佐神社",
+      "municipality": "高知市"
+    },
+    {
+      "ids": [
+        "39-agency-91eef845594d84",
+        "39-history-659f7aaad1e7fb"
+      ],
+      "name": "本宮神社",
+      "municipality": "高知市"
+    },
+    {
+      "ids": [
+        "39-agency-1ae35ba5fb471c",
+        "39-history-184822b6d205c2"
+      ],
+      "name": "池川神社",
+      "municipality": "吾川郡仁淀川町"
+    },
+    {
+      "ids": [
+        "39-agency-6334af83a446cc",
+        "39-history-357cced871598e"
+      ],
+      "name": "郡頭神社",
+      "municipality": "高知市"
+    },
+    {
+      "ids": [
+        "39-agency-9c2c9021e81e2a",
+        "39-history-8871c66309a684",
+        "39-history-1a6c70e702a208",
+        "39-history-f55ebe1ca105b2",
+        "39-history-c454614e07aec2",
+        "39-history-72459fbdf86c0b"
+      ],
+      "name": "若一王子宮",
+      "municipality": "高知市"
+    },
+    {
+      "ids": [
+        "39-agency-a35a11a4b07551",
+        "39-history-39f34c4a3325ba"
+      ],
+      "name": "不破八幡宮",
+      "municipality": "四万十市"
+    },
+    {
+      "ids": [
+        "39-agency-cb2dcd5bf83456",
+        "39-history-f443055d1f35ec",
+        "39-history-538021a13a0e61"
+      ],
+      "name": "若宮八幡宮",
+      "municipality": "高知市"
+    },
+    {
+      "ids": [
+        "39-agency-e1cf23f10eef23",
+        "39-history-eb5432b77862b0",
+        "39-history-ebb7da047d6c60",
+        "39-history-0fc85f9f6e5f30",
+        "39-history-6815df971aac98",
+        "39-history-568a47ffb56751",
+        "39-history-926f569bd29efb",
+        "39-history-b7848b41af4b1c"
+      ],
+      "name": "仁井田神社",
+      "municipality": "高知市"
+    },
+    {
+      "ids": [
+        "39-agency-1b3d3640a0508d",
+        "39-history-80984aa3ef3f74"
+      ],
+      "name": "薫的神社",
+      "municipality": "高知市"
+    },
+    {
+      "ids": [
+        "39-agency-251f1f92616883",
+        "39-history-a6051a5074c238"
+      ],
+      "name": "大川上美良布神社",
+      "municipality": "香美市"
+    },
+    {
+      "ids": [
+        "39-agency-39a18d90bb6c6e",
+        "39-history-9fbd7e2eb3187f"
+      ],
+      "name": "立田神社",
+      "municipality": "南国市"
+    },
+    {
+      "ids": [
+        "39-agency-f61a372a93099f",
+        "39-history-18e1a059ca8f53"
+      ],
+      "name": "八王子宮",
+      "municipality": "香美市"
+    },
+    {
+      "ids": [
+        "39-agency-5aa2ba2588275a",
+        "39-history-c0a6ed72214fa6"
+      ],
+      "name": "山神社",
+      "municipality": "土佐清水市"
+    },
+    {
+      "ids": [
+        "39-agency-79b1d95ca08336",
+        "39-history-34a9a6383614e9"
+      ],
+      "name": "八面神社",
+      "municipality": "土佐清水市"
+    },
+    {
+      "ids": [
+        "39-agency-f6dbf01d47c810",
+        "39-history-26fa7f5dfd533e"
+      ],
+      "name": "鉾神社",
+      "municipality": "土佐清水市"
+    },
+    {
+      "ids": [
+        "39-agency-9aa93627d5e1e8",
+        "39-history-4aec81f583a15a"
+      ],
+      "name": "石神社",
+      "municipality": "土佐清水市"
+    },
+    {
+      "ids": [
+        "39-agency-0918cf416bd349",
+        "39-history-a1416e244df219",
+        "39-history-1968f9f09f9a8a",
+        "39-history-3d261b50e1add8",
+        "39-history-1a59fdb78a47b3",
+        "39-history-fa4e7702944524"
+      ],
+      "name": "白皇神社",
+      "municipality": "土佐清水市"
+    },
+    {
+      "ids": [
+        "39-agency-52dba01e9ba48a",
+        "39-history-8661dcf4be84a1",
+        "39-history-cc87e7e69fcb35",
+        "39-history-6b23f93b7a44e1",
+        "39-history-0001176b00f80c",
+        "39-history-10721b24b5d388",
+        "39-history-2e215a109110e2",
+        "39-history-1f85ab3115a1c2",
+        "39-history-e295155e9b9b2d",
+        "39-history-e7845b9e4b21f7",
+        "39-history-d9ef2daefa7653",
+        "39-history-1dc081e093af9e",
+        "39-history-e9b9d4c6979c02",
+        "39-history-fbf2ea1b8c7a04"
+      ],
+      "name": "天満宮",
+      "municipality": "土佐清水市"
+    },
+    {
+      "ids": [
+        "39-agency-013d6bac3d6fda",
+        "39-agency-02cadc814cf2a3",
+        "39-history-fe0d4973200a3e"
+      ],
+      "name": "仁井田神社",
+      "municipality": "土佐清水市"
+    },
+    {
+      "ids": [
+        "39-agency-3999d5a25454d9",
+        "39-history-d283ef5327d477"
+      ],
+      "name": "杉島神社",
+      "municipality": "土佐清水市"
+    },
+    {
+      "ids": [
+        "39-agency-c031b0203281bb",
+        "39-agency-5ff5079acc69e7",
+        "39-history-5764f409babc74",
+        "39-history-1d315f9690aeac",
+        "39-history-4aa0bff3228645",
+        "39-history-ddb217873ee338",
+        "39-history-2f0a540cd0083a",
+        "39-history-16b14b2a99c7de",
+        "39-history-12f2cb8568310c",
+        "39-history-3c3cc415b118c3",
+        "39-history-93af179c5837cf",
+        "39-history-9ec99175b993f3"
+      ],
+      "name": "天満宮",
+      "municipality": "幡多郡黒潮町"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 321,
+    "unmapped_records": 2202
+  }
+}
