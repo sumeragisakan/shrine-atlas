@@ -958,16 +958,28 @@
       "code": 27,
       "name": "大阪府",
       "slug": "osaka",
-      "status": "pending",
-      "records": 0,
+      "status": "ready",
+      "records": 1275,
       "mapped_locations": 0,
-      "with_deities": 0,
-      "collections": [],
-      "coverage": null,
-      "database": null,
-      "offline": null,
-      "historical_only_records": 0,
-      "agency_rows": 0
+      "with_deities": 531,
+      "collections": [
+        "data/shrines/27-osaka/agency-001.json",
+        "data/shrines/27-osaka/agency-002.json",
+        "data/shrines/27-osaka/agency-003.json",
+        "data/shrines/27-osaka/agency-004.json",
+        "data/shrines/27-osaka/agency-005.json",
+        "data/shrines/27-osaka/history-001.json",
+        "data/shrines/27-osaka/history-002.json",
+        "data/shrines/27-osaka/history-003.json",
+        "data/shrines/27-osaka/history-004.json"
+      ],
+      "coverage": "data/coverage/27-osaka.json",
+      "database": "database/prefectures/27-osaka.sqlite.gz",
+      "offline": "offline/prefectures/27-osaka.html",
+      "historical_only_records": 573,
+      "agency_rows": 702,
+      "checked": "2026-10-30",
+      "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。"
     },
     {
       "code": 28,
@@ -1774,6 +1786,15 @@
     "data/shrines/26-kyoto/history-001.json",
     "data/shrines/26-kyoto/history-002.json",
     "data/shrines/26-kyoto/history-003.json",
+    "data/shrines/27-osaka/agency-001.json",
+    "data/shrines/27-osaka/agency-002.json",
+    "data/shrines/27-osaka/agency-003.json",
+    "data/shrines/27-osaka/agency-004.json",
+    "data/shrines/27-osaka/agency-005.json",
+    "data/shrines/27-osaka/history-001.json",
+    "data/shrines/27-osaka/history-002.json",
+    "data/shrines/27-osaka/history-003.json",
+    "data/shrines/27-osaka/history-004.json",
     "data/shrines/tottori/tottori-city.json",
     "data/shrines/tottori/yonago.json",
     "data/shrines/tottori/kurayoshi.json",
@@ -1796,10 +1817,10 @@
   ],
   "coverage_note": "机构公开名录与明确标记的研究会历史条目；不同来源的范围和缺失字段逐地区说明。",
   "totals": {
-    "regions": 27,
-    "records": 69569,
+    "regions": 28,
+    "records": 70844,
     "mapped_locations": 8935,
-    "with_deities": 56860,
-    "historical_only_records": 32206
+    "with_deities": 57391,
+    "historical_only_records": 32779
   }
 }
