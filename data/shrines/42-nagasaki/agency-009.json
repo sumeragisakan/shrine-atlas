@@ -1,0 +1,5725 @@
+[
+  {
+    "id": "42-agency-c04dd80cb77d03",
+    "no": 1201,
+    "prefecture_code": 42,
+    "name": "八幡神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "誉田別命外3柱",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜八幡神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19095",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19095",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "誉田別命外3柱"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別命",
+          "足仲彦命",
+          "息長足姫命",
+          "玉依姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-c04dd80cb77d03:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "長崎県南島原市口之津町丁3827番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市口之津町丁3827番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "誉田別命外3柱",
+      "historical_kami_verbatim": "《主》誉田別命、足仲彦命、息長足姫命、玉依姫命",
+      "former_rank": "村社",
+      "source_address_current": "南島原市口之津町丁3827番地",
+      "source_address_historical": "長崎県南島原市口之津町丁3827番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-121",
+      "display_number": "42-01201",
+      "index_name": "八幡神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市口之津町丁3827番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-121",
+      "national_source_id": "19095",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "誉田別命外3柱",
+        "historical_kami_verbatim": "《主》誉田別命、足仲彦命、息長足姫命、玉依姫命",
+        "former_rank": "村社",
+        "source_address_current": "南島原市口之津町丁3827番地",
+        "source_address_historical": "長崎県南島原市口之津町丁3827番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-d5b901a43ff3f8",
+    "no": 1202,
+    "prefecture_code": 42,
+    "name": "八雲神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "須佐之男命外1柱",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜八雲神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19096",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19096",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "須佐之男命外1柱"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "須佐之男命",
+          "櫛名田姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-d5b901a43ff3f8:1",
+        "name": "八雲神社",
+        "label": "八雲神社",
+        "address": "長崎県南島原市口之津町甲1206番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市口之津町甲1206番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "須佐之男命外1柱",
+      "historical_kami_verbatim": "《主》須佐之男命、櫛名田姫命",
+      "former_rank": "村社",
+      "source_address_current": "南島原市口之津町甲1206番地",
+      "source_address_historical": "長崎県南島原市口之津町甲1206番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-122",
+      "display_number": "42-01202",
+      "index_name": "八雲神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市口之津町甲1206番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-122",
+      "national_source_id": "19096",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "須佐之男命外1柱",
+        "historical_kami_verbatim": "《主》須佐之男命、櫛名田姫命",
+        "former_rank": "村社",
+        "source_address_current": "南島原市口之津町甲1206番地",
+        "source_address_historical": "長崎県南島原市口之津町甲1206番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-8ae518f493ab91",
+    "no": 1203,
+    "prefecture_code": 42,
+    "name": "天滿神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "菅原道眞朝臣命",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜天滿神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "菅原道眞朝臣命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-8ae518f493ab91:1",
+        "name": "天滿神社",
+        "label": "天滿神社",
+        "address": "長崎県南島原市南有馬町戊419番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "菅原道眞朝臣命",
+      "historical_kami_verbatim": "",
+      "former_rank": "村社",
+      "source_address_current": "南島原市南有馬町戊419番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-124",
+      "display_number": "42-01203",
+      "index_name": "天滿神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市南有馬町戊419番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-124",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "菅原道眞朝臣命",
+        "historical_kami_verbatim": "",
+        "former_rank": "村社",
+        "source_address_current": "南島原市南有馬町戊419番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-d4d961bcd97ffe",
+    "no": 1204,
+    "prefecture_code": 42,
+    "name": "淺間神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "大山祇神・木花咲耶姫命",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜淺間神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "大山祇神・木花咲耶姫命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-d4d961bcd97ffe:1",
+        "name": "淺間神社",
+        "label": "淺間神社",
+        "address": "長崎県南島原市南有馬町丁5番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "大山祇神・木花咲耶姫命",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市南有馬町丁5番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-125",
+      "display_number": "42-01204",
+      "index_name": "淺間神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市南有馬町丁5番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-125",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "大山祇神・木花咲耶姫命",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市南有馬町丁5番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-3737a986357e1c",
+    "no": 1205,
+    "prefecture_code": 42,
+    "name": "天滿神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "菅原道眞朝臣命",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜天滿神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "菅原道眞朝臣命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-3737a986357e1c:1",
+        "name": "天滿神社",
+        "label": "天滿神社",
+        "address": "長崎県南島原市南有馬町丙1799番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "菅原道眞朝臣命",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市南有馬町丙1799番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-126",
+      "display_number": "42-01205",
+      "index_name": "天滿神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市南有馬町丙1799番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-126",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "菅原道眞朝臣命",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市南有馬町丙1799番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-09e8ffb9ef0a18",
+    "no": 1206,
+    "prefecture_code": 42,
+    "name": "八幡神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南有馬町",
+    "aliases": [],
+    "headline": "譽田別命",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南有馬町的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜八幡神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "譽田別命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-09e8ffb9ef0a18:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "長崎県南有馬町南有馬町乙856番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別命",
+      "historical_kami_verbatim": "",
+      "former_rank": "村社",
+      "source_address_current": "南有馬町南有馬町乙856番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-127",
+      "display_number": "42-01206",
+      "index_name": "八幡神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南有馬町南有馬町乙856番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-127",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "譽田別命",
+        "historical_kami_verbatim": "",
+        "former_rank": "村社",
+        "source_address_current": "南有馬町南有馬町乙856番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-4851c1f5007f55",
+    "no": 1207,
+    "prefecture_code": 42,
+    "name": "貴船神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "高龍神",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜貴船神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "高龍神"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-4851c1f5007f55:1",
+        "name": "貴船神社",
+        "label": "貴船神社",
+        "address": "長崎県南島原市南有馬町甲3番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "高龍神",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市南有馬町甲3番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-128",
+      "display_number": "42-01207",
+      "index_name": "貴船神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市南有馬町甲3番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-128",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "高龍神",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市南有馬町甲3番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-aa60cab281be67",
+    "no": 1208,
+    "prefecture_code": 42,
+    "name": "洗磯崎神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "大己貴命・少彦名命",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜洗磯崎神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "大己貴命・少彦名命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-aa60cab281be67:1",
+        "name": "洗磯崎神社",
+        "label": "洗磯崎神社",
+        "address": "長崎県南島原市南有馬町己379番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "大己貴命・少彦名命",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市南有馬町己379番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-129",
+      "display_number": "42-01208",
+      "index_name": "洗磯崎神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市南有馬町己379番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-129",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "大己貴命・少彦名命",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市南有馬町己379番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-b1327d1d77cc16",
+    "no": 1209,
+    "prefecture_code": 42,
+    "name": "春日神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "天児屋根命他3柱",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜春日神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "天児屋根命他3柱"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-b1327d1d77cc16:1",
+        "name": "春日神社",
+        "label": "春日神社",
+        "address": "長崎県南島原市北有馬町田平己600番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "天児屋根命他3柱",
+      "historical_kami_verbatim": "",
+      "former_rank": "村社",
+      "source_address_current": "南島原市北有馬町田平己600番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-131",
+      "display_number": "42-01209",
+      "index_name": "春日神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市北有馬町田平己600番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-131",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "天児屋根命他3柱",
+        "historical_kami_verbatim": "",
+        "former_rank": "村社",
+        "source_address_current": "南島原市北有馬町田平己600番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-42ad78f573f699",
+    "no": 1210,
+    "prefecture_code": 42,
+    "name": "温泉神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "白日別命外4柱",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜温泉神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19104",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19104",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "白日別命外4柱"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "白日別命",
+          "豊日別命",
+          "速日別命",
+          "建日別命",
+          "豊久士比泥別命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-42ad78f573f699:1",
+        "name": "温泉神社",
+        "label": "温泉神社",
+        "address": "長崎県南島原市北有馬町丁588番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市北有馬町丁588"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "白日別命外4柱",
+      "historical_kami_verbatim": "《主》白日別命、豊日別命、速日別命、建日別命、豊久士比泥別命",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市北有馬町丁588番地",
+      "source_address_historical": "長崎県南島原市北有馬町丁588"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-132",
+      "display_number": "42-01210",
+      "index_name": "温泉神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市北有馬町丁588番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-132",
+      "national_source_id": "19104",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "白日別命外4柱",
+        "historical_kami_verbatim": "《主》白日別命、豊日別命、速日別命、建日別命、豊久士比泥別命",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市北有馬町丁588番地",
+        "source_address_historical": "長崎県南島原市北有馬町丁588"
+      }
+    }
+  },
+  {
+    "id": "42-agency-606f64133f538d",
+    "no": 1211,
+    "prefecture_code": 42,
+    "name": "若宮神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "保食神外2柱",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜若宮神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19105",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19105",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "保食神外2柱"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "保食神",
+          "大鷦鷯命",
+          "天之熊大人"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-606f64133f538d:1",
+        "name": "若宮神社",
+        "label": "若宮神社",
+        "address": "長崎県南島原市北有馬町甲90番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市北有馬町甲90"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "保食神外2柱",
+      "historical_kami_verbatim": "《主》保食神、大鷦鷯命、天之熊大人",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市北有馬町甲90番地",
+      "source_address_historical": "長崎県南島原市北有馬町甲90"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-133",
+      "display_number": "42-01211",
+      "index_name": "若宮神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市北有馬町甲90番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-133",
+      "national_source_id": "19105",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "保食神外2柱",
+        "historical_kami_verbatim": "《主》保食神、大鷦鷯命、天之熊大人",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市北有馬町甲90番地",
+        "source_address_historical": "長崎県南島原市北有馬町甲90"
+      }
+    }
+  },
+  {
+    "id": "42-agency-1917f16d39af97",
+    "no": 1212,
+    "prefecture_code": 42,
+    "name": "八幡神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "譽田別命外1柱",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜八幡神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19106",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19106",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "譽田別命外1柱"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別命",
+          "息長足姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-1917f16d39af97:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "長崎県南島原市北有馬町乙240番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市北有馬町乙240"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別命外1柱",
+      "historical_kami_verbatim": "《主》誉田別命、息長足姫命",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市北有馬町乙240番地",
+      "source_address_historical": "長崎県南島原市北有馬町乙240"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-134",
+      "display_number": "42-01212",
+      "index_name": "八幡神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市北有馬町乙240番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-134",
+      "national_source_id": "19106",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "譽田別命外1柱",
+        "historical_kami_verbatim": "《主》誉田別命、息長足姫命",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市北有馬町乙240番地",
+        "source_address_historical": "長崎県南島原市北有馬町乙240"
+      }
+    }
+  },
+  {
+    "id": "42-agency-e24a33be48c6d8",
+    "no": 1213,
+    "prefecture_code": 42,
+    "name": "琴平神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "大物主命顯仁命",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜琴平神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "大物主命顯仁命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-e24a33be48c6d8:1",
+        "name": "琴平神社",
+        "label": "琴平神社",
+        "address": "長崎県南島原市北有馬町丁3368番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "大物主命顯仁命",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市北有馬町丁3368番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-135",
+      "display_number": "42-01213",
+      "index_name": "琴平神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市北有馬町丁3368番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-135",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "大物主命顯仁命",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市北有馬町丁3368番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-34195db13944c2",
+    "no": 1214,
+    "prefecture_code": 42,
+    "name": "天満神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "菅原道眞朝臣",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜天満神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "菅原道眞朝臣"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-34195db13944c2:1",
+        "name": "天満神社",
+        "label": "天満神社",
+        "address": "長崎県南島原市北有馬町丙2799番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "菅原道眞朝臣",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市北有馬町丙2799番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-136",
+      "display_number": "42-01214",
+      "index_name": "天満神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市北有馬町丙2799番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-136",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "菅原道眞朝臣",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市北有馬町丙2799番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-4eba280b320925",
+    "no": 1215,
+    "prefecture_code": 42,
+    "name": "若宮神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "豊玉比賣命・鵜葺草葺不合尊・玉依比賣命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜若宮神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19109",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19109",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "豊玉比賣命・鵜葺草葺不合尊・玉依比賣命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "彦波瀲武??草葺不合尊",
+          "豊玉比売命",
+          "玉依毘売命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-4eba280b320925:1",
+        "name": "若宮神社",
+        "label": "若宮神社",
+        "address": "長崎県南島原市西有家町須川1208番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市西有家町須川1208番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "豊玉比賣命・鵜葺草葺不合尊・玉依比賣命",
+      "historical_kami_verbatim": "《主》彦波瀲武??草葺不合尊、豊玉比売命、玉依毘売命",
+      "former_rank": "村社",
+      "source_address_current": "南島原市西有家町須川1208番地",
+      "source_address_historical": "長崎県南島原市西有家町須川1208番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-138",
+      "display_number": "42-01215",
+      "index_name": "若宮神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市西有家町須川1208番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-138",
+      "national_source_id": "19109",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "豊玉比賣命・鵜葺草葺不合尊・玉依比賣命",
+        "historical_kami_verbatim": "《主》彦波瀲武??草葺不合尊、豊玉比売命、玉依毘売命",
+        "former_rank": "村社",
+        "source_address_current": "南島原市西有家町須川1208番地",
+        "source_address_historical": "長崎県南島原市西有家町須川1208番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-c9f8b70480c820",
+    "no": 1216,
+    "prefecture_code": 42,
+    "name": "志賀神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "底筒之男命・中筒之男命・上筒之男命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜志賀神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19110",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19110",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "底筒之男命・中筒之男命・上筒之男命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "上筒之男命",
+          "中筒之男命",
+          "底筒之男命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-c9f8b70480c820:1",
+        "name": "志賀神社",
+        "label": "志賀神社",
+        "address": "長崎県南島原市西有家町龍石6100番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市西有家町龍石6100番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "底筒之男命・中筒之男命・上筒之男命",
+      "historical_kami_verbatim": "《主》上筒之男命、中筒之男命、底筒之男命",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市西有家町龍石6100番地",
+      "source_address_historical": "長崎県南島原市西有家町龍石6100番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-139",
+      "display_number": "42-01216",
+      "index_name": "志賀神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市西有家町龍石6100番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-139",
+      "national_source_id": "19110",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "底筒之男命・中筒之男命・上筒之男命",
+        "historical_kami_verbatim": "《主》上筒之男命、中筒之男命、底筒之男命",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市西有家町龍石6100番地",
+        "source_address_historical": "長崎県南島原市西有家町龍石6100番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-301c3afcfa9758",
+    "no": 1217,
+    "prefecture_code": 42,
+    "name": "八坂神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "須佐之男命・櫛名田姫命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜八坂神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19111",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19111",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "須佐之男命・櫛名田姫命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "須佐之男命",
+          "櫛名田姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-301c3afcfa9758:1",
+        "name": "八坂神社",
+        "label": "八坂神社",
+        "address": "長崎県南島原市西有家町見岳2375番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市西有家町見岳2375番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "須佐之男命・櫛名田姫命",
+      "historical_kami_verbatim": "《主》須佐之男命、櫛名田姫命",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市西有家町見岳2375番地",
+      "source_address_historical": "長崎県南島原市西有家町見岳2375番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-140",
+      "display_number": "42-01217",
+      "index_name": "八坂神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市西有家町見岳2375番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-140",
+      "national_source_id": "19111",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "須佐之男命・櫛名田姫命",
+        "historical_kami_verbatim": "《主》須佐之男命、櫛名田姫命",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市西有家町見岳2375番地",
+        "source_address_historical": "長崎県南島原市西有家町見岳2375番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-9e1fe32baf9bdc",
+    "no": 1218,
+    "prefecture_code": 42,
+    "name": "天満神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "菅原道眞朝臣命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜天満神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19112",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19112",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "菅原道眞朝臣命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "菅原道真"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-9e1fe32baf9bdc:1",
+        "name": "天満神社",
+        "label": "天満神社",
+        "address": "長崎県南島原市西有家町龍石1153番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市西有家町龍石1153番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "菅原道眞朝臣命",
+      "historical_kami_verbatim": "《主》菅原道真",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市西有家町龍石1153番地",
+      "source_address_historical": "長崎県南島原市西有家町龍石1153番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-141",
+      "display_number": "42-01218",
+      "index_name": "天満神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市西有家町龍石1153番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-141",
+      "national_source_id": "19112",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "菅原道眞朝臣命",
+        "historical_kami_verbatim": "《主》菅原道真",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市西有家町龍石1153番地",
+        "source_address_historical": "長崎県南島原市西有家町龍石1153番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-61d61cbae405cd",
+    "no": 1219,
+    "prefecture_code": 42,
+    "name": "八幡神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "誉田別命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜八幡神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19113",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19113",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "誉田別命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-61d61cbae405cd:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "長崎県南島原市西有家町慈恩寺1392番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市西有家町慈恩寺1392番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "誉田別命",
+      "historical_kami_verbatim": "《主》誉田別命",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市西有家町慈恩寺1392番地",
+      "source_address_historical": "長崎県南島原市西有家町慈恩寺1392番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-142",
+      "display_number": "42-01219",
+      "index_name": "八幡神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市西有家町慈恩寺1392番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-142",
+      "national_source_id": "19113",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "誉田別命",
+        "historical_kami_verbatim": "《主》誉田別命",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市西有家町慈恩寺1392番地",
+        "source_address_historical": "長崎県南島原市西有家町慈恩寺1392番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-5395e346c4934b",
+    "no": 1220,
+    "prefecture_code": 42,
+    "name": "高岩神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "保食神",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜高岩神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19114",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19114",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "保食神"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "保食神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-5395e346c4934b:1",
+        "name": "高岩神社",
+        "label": "高岩神社",
+        "address": "長崎県南島原市西有家町慈恩寺4117番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市西有家町慈恩寺4117番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "保食神",
+      "historical_kami_verbatim": "《主》保食神",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市西有家町慈恩寺4117番地",
+      "source_address_historical": "長崎県南島原市西有家町慈恩寺4117番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-143",
+      "display_number": "42-01220",
+      "index_name": "高岩神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市西有家町慈恩寺4117番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-143",
+      "national_source_id": "19114",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "保食神",
+        "historical_kami_verbatim": "《主》保食神",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市西有家町慈恩寺4117番地",
+        "source_address_historical": "長崎県南島原市西有家町慈恩寺4117番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-4a5ecd79db690f",
+    "no": 1221,
+    "prefecture_code": 42,
+    "name": "天満神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "菅原道眞朝臣命",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜天満神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "菅原道眞朝臣命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-4a5ecd79db690f:1",
+        "name": "天満神社",
+        "label": "天満神社",
+        "address": "長崎県南島原市西有家町里坊2087番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "菅原道眞朝臣命",
+      "historical_kami_verbatim": "",
+      "former_rank": "村社",
+      "source_address_current": "南島原市西有家町里坊2087番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-144",
+      "display_number": "42-01221",
+      "index_name": "天満神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市西有家町里坊2087番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-144",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "菅原道眞朝臣命",
+        "historical_kami_verbatim": "",
+        "former_rank": "村社",
+        "source_address_current": "南島原市西有家町里坊2087番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-5bfbdf34082883",
+    "no": 1222,
+    "prefecture_code": 42,
+    "name": "高岩神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "保食神",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜高岩神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19116",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19116",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "保食神"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "保食神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-5bfbdf34082883:1",
+        "name": "高岩神社",
+        "label": "高岩神社",
+        "address": "長崎県南島原市西有家町長野1712番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市西有家町長野1712番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "保食神",
+      "historical_kami_verbatim": "《主》保食神",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市西有家町長野1712番地",
+      "source_address_historical": "長崎県南島原市西有家町長野1712番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-145",
+      "display_number": "42-01222",
+      "index_name": "高岩神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市西有家町長野1712番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-145",
+      "national_source_id": "19116",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "保食神",
+        "historical_kami_verbatim": "《主》保食神",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市西有家町長野1712番地",
+        "source_address_historical": "長崎県南島原市西有家町長野1712番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-c67a3924cb9bcb",
+    "no": 1223,
+    "prefecture_code": 42,
+    "name": "温泉神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "白日別命他4柱",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜温泉神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "白日別命他4柱"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-c67a3924cb9bcb:1",
+        "name": "温泉神社",
+        "label": "温泉神社",
+        "address": "長崎県南島原市有家町山川字東大園1277番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：郷社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "白日別命他4柱",
+      "historical_kami_verbatim": "",
+      "former_rank": "郷社",
+      "source_address_current": "南島原市有家町山川字東大園1277番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-147",
+      "display_number": "42-01223",
+      "index_name": "温泉神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市有家町山川字東大園1277番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-147",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "白日別命他4柱",
+        "historical_kami_verbatim": "",
+        "former_rank": "郷社",
+        "source_address_current": "南島原市有家町山川字東大園1277番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-4a51f32aae3760",
+    "no": 1224,
+    "prefecture_code": 42,
+    "name": "春日神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "天照大日霊命他3柱",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜春日神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "天照大日霊命他3柱"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-4a51f32aae3760:1",
+        "name": "春日神社",
+        "label": "春日神社",
+        "address": "長崎県南島原市有家町尾上字尾上2220番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "天照大日霊命他3柱",
+      "historical_kami_verbatim": "",
+      "former_rank": "",
+      "source_address_current": "南島原市有家町尾上字尾上2220番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-148",
+      "display_number": "42-01224",
+      "index_name": "春日神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市有家町尾上字尾上2220番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-148",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "天照大日霊命他3柱",
+        "historical_kami_verbatim": "",
+        "former_rank": "",
+        "source_address_current": "南島原市有家町尾上字尾上2220番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-b92c3399890a8a",
+    "no": 1225,
+    "prefecture_code": 42,
+    "name": "熊野神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "伊弉並命他3柱",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜熊野神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19119",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19119",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "伊弉並命他3柱"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "伊弉並尊"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "事解男命",
+          "速玉男命",
+          "素盞嗚命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-b92c3399890a8a:1",
+        "name": "熊野神社",
+        "label": "熊野神社",
+        "address": "長崎県南島原市有家町小川825番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市有家町小川825"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊弉並命他3柱",
+      "historical_kami_verbatim": "《主》伊弉並尊、《配》事解男命、速玉男命、素盞嗚命",
+      "former_rank": "村社",
+      "source_address_current": "南島原市有家町小川825番地",
+      "source_address_historical": "長崎県南島原市有家町小川825"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-149",
+      "display_number": "42-01225",
+      "index_name": "熊野神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市有家町小川825番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-149",
+      "national_source_id": "19119",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "伊弉並命他3柱",
+        "historical_kami_verbatim": "《主》伊弉並尊、《配》事解男命、速玉男命、素盞嗚命",
+        "former_rank": "村社",
+        "source_address_current": "南島原市有家町小川825番地",
+        "source_address_historical": "長崎県南島原市有家町小川825"
+      }
+    }
+  },
+  {
+    "id": "42-agency-002b1b324be6ac",
+    "no": 1226,
+    "prefecture_code": 42,
+    "name": "湯河内神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "大山咋命他2柱",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜湯河内神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "大山咋命他2柱"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-002b1b324be6ac:1",
+        "name": "湯河内神社",
+        "label": "湯河内神社",
+        "address": "長崎県南島原市有家町尾上字湯河内無番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "大山咋命他2柱",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市有家町尾上字湯河内無番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-150",
+      "display_number": "42-01226",
+      "index_name": "湯河内神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市有家町尾上字湯河内無番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-150",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "大山咋命他2柱",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市有家町尾上字湯河内無番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-9b3fb433a0ce19",
+    "no": 1227,
+    "prefecture_code": 42,
+    "name": "松尾神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "大山咋命・市杵島姫命",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜松尾神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "大山咋命・市杵島姫命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-9b3fb433a0ce19:1",
+        "name": "松尾神社",
+        "label": "松尾神社",
+        "address": "長崎県南島原市有家町山川字宮の原898番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "大山咋命・市杵島姫命",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市有家町山川字宮の原898番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-151",
+      "display_number": "42-01227",
+      "index_name": "松尾神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市有家町山川字宮の原898番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-151",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "大山咋命・市杵島姫命",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市有家町山川字宮の原898番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-c0ef3992b299cf",
+    "no": 1228,
+    "prefecture_code": 42,
+    "name": "八幡神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "譽田別命",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜八幡神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "譽田別命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-c0ef3992b299cf:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "長崎県南島原市有家町大苑498番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別命",
+      "historical_kami_verbatim": "",
+      "former_rank": "村社",
+      "source_address_current": "南島原市有家町大苑498番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-152",
+      "display_number": "42-01228",
+      "index_name": "八幡神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市有家町大苑498番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-152",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "譽田別命",
+        "historical_kami_verbatim": "",
+        "former_rank": "村社",
+        "source_address_current": "南島原市有家町大苑498番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-ac266c722b42e3",
+    "no": 1229,
+    "prefecture_code": 42,
+    "name": "玉垂神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "武内宿根命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜玉垂神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19123",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19123",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "武内宿根命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "武内宿禰命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-ac266c722b42e3:1",
+        "name": "玉垂神社",
+        "label": "玉垂神社",
+        "address": "長崎県南島原市有家町原尾2692番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市有家町原尾2692"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "武内宿根命",
+      "historical_kami_verbatim": "《主》武内宿禰命",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市有家町原尾2692番地",
+      "source_address_historical": "長崎県南島原市有家町原尾2692"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-153",
+      "display_number": "42-01229",
+      "index_name": "玉垂神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市有家町原尾2692番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-153",
+      "national_source_id": "19123",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "武内宿根命",
+        "historical_kami_verbatim": "《主》武内宿禰命",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市有家町原尾2692番地",
+        "source_address_historical": "長崎県南島原市有家町原尾2692"
+      }
+    }
+  },
+  {
+    "id": "42-agency-9145e233223203",
+    "no": 1230,
+    "prefecture_code": 42,
+    "name": "天満神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "菅原道眞朝臣命",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜天満神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "菅原道眞朝臣命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-9145e233223203:1",
+        "name": "天満神社",
+        "label": "天満神社",
+        "address": "長崎県南島原市有家町石田1158番地、1160番地合併",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "菅原道眞朝臣命",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市有家町石田1158番地、1160番地合併",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-154",
+      "display_number": "42-01230",
+      "index_name": "天満神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市有家町石田1158番地、1160番地合併",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-154",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "菅原道眞朝臣命",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市有家町石田1158番地、1160番地合併",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-f52da6efb24d7b",
+    "no": 1231,
+    "prefecture_code": 42,
+    "name": "八雲神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "素戔嗚命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜八雲神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19125",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19125",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "素戔嗚命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "素盞嗚命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-f52da6efb24d7b:1",
+        "name": "八雲神社",
+        "label": "八雲神社",
+        "address": "長崎県南島原市有家町大苑638番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市有家町大苑638"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "素戔嗚命",
+      "historical_kami_verbatim": "《主》素盞嗚命",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市有家町大苑638番地",
+      "source_address_historical": "長崎県南島原市有家町大苑638"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-155",
+      "display_number": "42-01231",
+      "index_name": "八雲神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市有家町大苑638番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-155",
+      "national_source_id": "19125",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "素戔嗚命",
+        "historical_kami_verbatim": "《主》素盞嗚命",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市有家町大苑638番地",
+        "source_address_historical": "長崎県南島原市有家町大苑638"
+      }
+    }
+  },
+  {
+    "id": "42-agency-17503fe2af2091",
+    "no": 1232,
+    "prefecture_code": 42,
+    "name": "熊野神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "速玉男神外2柱",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜熊野神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "速玉男神外2柱"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-17503fe2af2091:1",
+        "name": "熊野神社",
+        "label": "熊野神社",
+        "address": "長崎県南島原市布津町大崎名字宮之本乙1297",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "速玉男神外2柱",
+      "historical_kami_verbatim": "",
+      "former_rank": "村社",
+      "source_address_current": "南島原市布津町大崎名字宮之本乙1297",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-157",
+      "display_number": "42-01232",
+      "index_name": "熊野神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市布津町大崎名字宮之本乙1297",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-157",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "速玉男神外2柱",
+        "historical_kami_verbatim": "",
+        "former_rank": "村社",
+        "source_address_current": "南島原市布津町大崎名字宮之本乙1297",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-bd1e653ade4281",
+    "no": 1233,
+    "prefecture_code": 42,
+    "name": "天満神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "菅原道眞朝臣命",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜天満神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "菅原道眞朝臣命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-bd1e653ade4281:1",
+        "name": "天満神社",
+        "label": "天満神社",
+        "address": "長崎県南島原市布津町大字坂下名3882番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "菅原道眞朝臣命",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市布津町大字坂下名3882番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-158",
+      "display_number": "42-01233",
+      "index_name": "天満神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市布津町大字坂下名3882番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-158",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "菅原道眞朝臣命",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市布津町大字坂下名3882番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-794b6aaa1e7186",
+    "no": 1234,
+    "prefecture_code": 42,
+    "name": "琴平神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "顕仁神外4柱",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜琴平神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "顕仁神外4柱"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-794b6aaa1e7186:1",
+        "name": "琴平神社",
+        "label": "琴平神社",
+        "address": "長崎県南島原市布津町大字大崎名1740番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "顕仁神外4柱",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市布津町大字大崎名1740番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-159",
+      "display_number": "42-01234",
+      "index_name": "琴平神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市布津町大字大崎名1740番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-159",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "顕仁神外4柱",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市布津町大字大崎名1740番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-8338a340415ec6",
+    "no": 1235,
+    "prefecture_code": 42,
+    "name": "飯野神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "保食神",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜飯野神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "保食神"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-8338a340415ec6:1",
+        "name": "飯野神社",
+        "label": "飯野神社",
+        "address": "長崎県南島原市布津町大字坂下名2488番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "保食神",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市布津町大字坂下名2488番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-160",
+      "display_number": "42-01235",
+      "index_name": "飯野神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市布津町大字坂下名2488番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-160",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "保食神",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市布津町大字坂下名2488番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-ecb00f43b56a64",
+    "no": 1236,
+    "prefecture_code": 42,
+    "name": "水原神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "水波能賣",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜水原神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "水波能賣"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-ecb00f43b56a64:1",
+        "name": "水原神社",
+        "label": "水原神社",
+        "address": "長崎県南島原市布津町大字坂下名2165番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "水波能賣",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市布津町大字坂下名2165番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-161",
+      "display_number": "42-01236",
+      "index_name": "水原神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市布津町大字坂下名2165番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-161",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "水波能賣",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市布津町大字坂下名2165番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-aa44cee6b33fc7",
+    "no": 1237,
+    "prefecture_code": 42,
+    "name": "貝崎神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "埴安姫命",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜貝崎神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "埴安姫命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-aa44cee6b33fc7:1",
+        "name": "貝崎神社",
+        "label": "貝崎神社",
+        "address": "長崎県南島原市布津町大字貝崎名1216番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "埴安姫命",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市布津町大字貝崎名1216番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-162",
+      "display_number": "42-01237",
+      "index_name": "貝崎神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市布津町大字貝崎名1216番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-162",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "埴安姫命",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市布津町大字貝崎名1216番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-340288ffb93f9e",
+    "no": 1238,
+    "prefecture_code": 42,
+    "name": "野田神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "保食神",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜野田神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "保食神"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-340288ffb93f9e:1",
+        "name": "野田神社",
+        "label": "野田神社",
+        "address": "長崎県南島原市布津町大字貝崎名285番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "保食神",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市布津町大字貝崎名285番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-163",
+      "display_number": "42-01238",
+      "index_name": "野田神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市布津町大字貝崎名285番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-163",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "保食神",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市布津町大字貝崎名285番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-4dd073f36c539a",
+    "no": 1239,
+    "prefecture_code": 42,
+    "name": "天満神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "菅原道眞朝臣命",
+    "tags": [
+      "机构公开名录",
+      "未定位",
+      "同名条目待核"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜天満神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "菅原道眞朝臣命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-4dd073f36c539a:1",
+        "name": "天満神社",
+        "label": "天満神社",
+        "address": "長崎県南島原市布津町大字大崎名1323番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "菅原道眞朝臣命",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市布津町大字大崎名1323番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-164",
+      "display_number": "42-01239",
+      "index_name": "天満神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市布津町大字大崎名1323番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-164",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "菅原道眞朝臣命",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市布津町大字大崎名1323番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-b9c43860da7bd6",
+    "no": 1240,
+    "prefecture_code": 42,
+    "name": "御前神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "猿田彦大神",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜御前神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "猿田彦大神"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-b9c43860da7bd6:1",
+        "name": "御前神社",
+        "label": "御前神社",
+        "address": "長崎県南島原市布津町大字貝崎名597番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "猿田彦大神",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市布津町大字貝崎名597番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-165",
+      "display_number": "42-01240",
+      "index_name": "御前神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市布津町大字貝崎名597番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-165",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "猿田彦大神",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市布津町大字貝崎名597番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-4f4769461eb08d",
+    "no": 1241,
+    "prefecture_code": 42,
+    "name": "諏訪神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "建御名方命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜諏訪神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目7457",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=7457",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "建御名方命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "建御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-4f4769461eb08d:1",
+        "name": "諏訪神社",
+        "label": "諏訪神社",
+        "address": "長崎県南島原市深江町丁3142番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市深江町丁3142番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：村社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "建御名方命",
+      "historical_kami_verbatim": "《主》建御名方命",
+      "former_rank": "村社",
+      "source_address_current": "南島原市深江町丁3142番地",
+      "source_address_historical": "長崎県南島原市深江町丁3142番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-167",
+      "display_number": "42-01241",
+      "index_name": "諏訪神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市深江町丁3142番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-167",
+      "national_source_id": "7457",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "建御名方命",
+        "historical_kami_verbatim": "《主》建御名方命",
+        "former_rank": "村社",
+        "source_address_current": "南島原市深江町丁3142番地",
+        "source_address_historical": "長崎県南島原市深江町丁3142番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-9ece9b904816c3",
+    "no": 1242,
+    "prefecture_code": 42,
+    "name": "馬場神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "速玉男命外4柱",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜馬場神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19136",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19136",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "速玉男命外4柱"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "速玉男命",
+          "伊邪那美命",
+          "事解男命",
+          "大名持命",
+          "少彦名命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-9ece9b904816c3:1",
+        "name": "馬場神社",
+        "label": "馬場神社",
+        "address": "長崎県南島原市深江町丙609番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市深江町丙609番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "速玉男命外4柱",
+      "historical_kami_verbatim": "《主》速玉男命、伊邪那美命、事解男命、大名持命、少彦名命",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市深江町丙609番地",
+      "source_address_historical": "長崎県南島原市深江町丙609番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-168",
+      "display_number": "42-01242",
+      "index_name": "馬場神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市深江町丙609番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-168",
+      "national_source_id": "19136",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "速玉男命外4柱",
+        "historical_kami_verbatim": "《主》速玉男命、伊邪那美命、事解男命、大名持命、少彦名命",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市深江町丙609番地",
+        "source_address_historical": "長崎県南島原市深江町丙609番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-5febfed2f11ff4",
+    "no": 1243,
+    "prefecture_code": 42,
+    "name": "古江神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "保食命",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜古江神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19137",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19137",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "保食命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "保食命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-5febfed2f11ff4:1",
+        "name": "古江神社",
+        "label": "古江神社",
+        "address": "長崎県南島原市深江町甲1226番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市深江町甲1226番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "保食命",
+      "historical_kami_verbatim": "《主》保食命",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市深江町甲1226番地",
+      "source_address_historical": "長崎県南島原市深江町甲1226番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-169",
+      "display_number": "42-01243",
+      "index_name": "古江神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市深江町甲1226番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-169",
+      "national_source_id": "19137",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "保食命",
+        "historical_kami_verbatim": "《主》保食命",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市深江町甲1226番地",
+        "source_address_historical": "長崎県南島原市深江町甲1226番地"
+      }
+    }
+  },
+  {
+    "id": "42-agency-dd5cdb8e5f9949",
+    "no": 1244,
+    "prefecture_code": 42,
+    "name": "水原神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "弥津波能賣命外1柱",
+    "tags": [
+      "机构公开名录",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜水原神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "弥津波能賣命外1柱"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-dd5cdb8e5f9949:1",
+        "name": "水原神社",
+        "label": "水原神社",
+        "address": "長崎県南島原市深江町戊1838番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": null
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "弥津波能賣命外1柱",
+      "historical_kami_verbatim": "",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市深江町戊1838番地",
+      "source_address_historical": ""
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-170",
+      "display_number": "42-01244",
+      "index_name": "水原神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市深江町戊1838番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-170",
+      "national_source_id": null,
+      "identity_match": "not_merged",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "弥津波能賣命外1柱",
+        "historical_kami_verbatim": "",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市深江町戊1838番地",
+        "source_address_historical": ""
+      }
+    }
+  },
+  {
+    "id": "42-agency-718c9579070915",
+    "no": 1245,
+    "prefecture_code": 42,
+    "name": "田中神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "南島原市",
+    "aliases": [],
+    "headline": "大山祇命外4柱",
+    "tags": [
+      "机构公开名录",
+      "含历史祭神表",
+      "未定位"
+    ],
+    "intro": "長崎県南島原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "長崎県神社庁｜田中神社",
+        "url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+        "kind": "神社机构公开资料",
+        "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
+        "checked": "2026-10-30",
+        "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目19139",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=19139",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "42"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（来源原栏，未另判主配）",
+        "names": [
+          "大山祇命外4柱"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "大山祇命",
+          "白日別命",
+          "豊日別命",
+          "建日向日豊久士比泥別",
+          "建日別命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "42-agency-718c9579070915:1",
+        "name": "田中神社",
+        "label": "田中神社",
+        "address": "長崎県南島原市深江町乙867番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "published",
+        "legacy_address": "長崎県南島原市深江町乙867番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "旧社格",
+        "text": "来源原栏：無格社",
+        "nature": "来源原栏",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
+    "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "directory_imported",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "大山祇命外4柱",
+      "historical_kami_verbatim": "《主》大山祇命、白日別命、豊日別命、建日向日豊久士比泥別、建日別命",
+      "former_rank": "無格社",
+      "source_address_current": "南島原市深江町乙867番地",
+      "source_address_historical": "長崎県南島原市深江町乙867番地"
+    },
+    "directory": {
+      "number": "A-https://nagasaki-jinjacho.or.jp/shimabara.html#row-171",
+      "display_number": "42-01245",
+      "index_name": "田中神社",
+      "index_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "listed_address": "長崎県南島原市深江町乙867番地",
+      "original_detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_url": "https://nagasaki-jinjacho.or.jp/shimabara.html",
+      "detail_status": "published_agency_record",
+      "checked": "2026-10-30",
+      "source_sha256": "1d3edf4d025b0f27a6e6b20c4a49d9e085a8af851d6debc8407764b32583b799"
+    },
+    "provenance": {
+      "agency_source_id": "https://nagasaki-jinjacho.or.jp/shimabara.html#row-171",
+      "national_source_id": "19139",
+      "identity_match": "unique_name_address",
+      "historical_only": false,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "大山祇命外4柱",
+        "historical_kami_verbatim": "《主》大山祇命、白日別命、豊日別命、建日向日豊久士比泥別、建日別命",
+        "former_rank": "無格社",
+        "source_address_current": "南島原市深江町乙867番地",
+        "source_address_historical": "長崎県南島原市深江町乙867番地"
+      }
+    }
+  }
+]
