@@ -1,0 +1,250 @@
+{
+  "code": 35,
+  "name": "山口県",
+  "slug": "yamaguchi",
+  "checked": "2026-10-30",
+  "scope": "山口県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 735,
+  "records": 735,
+  "directory_indexes": 2,
+  "baseline_rows": 735,
+  "agency_rows": 0,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 0,
+  "historical_only_records": 735,
+  "with_deities": 678,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 735,
+  "municipalities": [
+    {
+      "municipality": "下松市",
+      "area": "全域",
+      "records": 22,
+      "with_deities": 22,
+      "mapped_locations": 0,
+      "without_coordinates": 22
+    },
+    {
+      "municipality": "下関市",
+      "area": "全域",
+      "records": 110,
+      "with_deities": 106,
+      "mapped_locations": 0,
+      "without_coordinates": 110
+    },
+    {
+      "municipality": "光市",
+      "area": "全域",
+      "records": 19,
+      "with_deities": 19,
+      "mapped_locations": 0,
+      "without_coordinates": 19
+    },
+    {
+      "municipality": "周南市",
+      "area": "全域",
+      "records": 76,
+      "with_deities": 69,
+      "mapped_locations": 0,
+      "without_coordinates": 76
+    },
+    {
+      "municipality": "大島郡周防大島町",
+      "area": "全域",
+      "records": 53,
+      "with_deities": 52,
+      "mapped_locations": 0,
+      "without_coordinates": 53
+    },
+    {
+      "municipality": "宇部市",
+      "area": "全域",
+      "records": 33,
+      "with_deities": 30,
+      "mapped_locations": 0,
+      "without_coordinates": 33
+    },
+    {
+      "municipality": "山口市",
+      "area": "全域",
+      "records": 93,
+      "with_deities": 77,
+      "mapped_locations": 0,
+      "without_coordinates": 93
+    },
+    {
+      "municipality": "山口市小郡新町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "山陽小野田市",
+      "area": "全域",
+      "records": 28,
+      "with_deities": 27,
+      "mapped_locations": 0,
+      "without_coordinates": 28
+    },
+    {
+      "municipality": "岩国市",
+      "area": "全域",
+      "records": 90,
+      "with_deities": 89,
+      "mapped_locations": 0,
+      "without_coordinates": 90
+    },
+    {
+      "municipality": "柳井市",
+      "area": "全域",
+      "records": 25,
+      "with_deities": 25,
+      "mapped_locations": 0,
+      "without_coordinates": 25
+    },
+    {
+      "municipality": "熊毛郡上関町",
+      "area": "全域",
+      "records": 10,
+      "with_deities": 10,
+      "mapped_locations": 0,
+      "without_coordinates": 10
+    },
+    {
+      "municipality": "熊毛郡平生町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "熊毛郡田布施町",
+      "area": "全域",
+      "records": 14,
+      "with_deities": 14,
+      "mapped_locations": 0,
+      "without_coordinates": 14
+    },
+    {
+      "municipality": "玖珂郡和木町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "美祢市",
+      "area": "全域",
+      "records": 39,
+      "with_deities": 36,
+      "mapped_locations": 0,
+      "without_coordinates": 39
+    },
+    {
+      "municipality": "萩市",
+      "area": "全域",
+      "records": 53,
+      "with_deities": 35,
+      "mapped_locations": 0,
+      "without_coordinates": 53
+    },
+    {
+      "municipality": "長門市",
+      "area": "全域",
+      "records": 21,
+      "with_deities": 21,
+      "mapped_locations": 0,
+      "without_coordinates": 21
+    },
+    {
+      "municipality": "防府市",
+      "area": "全域",
+      "records": 29,
+      "with_deities": 26,
+      "mapped_locations": 0,
+      "without_coordinates": 29
+    },
+    {
+      "municipality": "阿武郡阿武町",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    }
+  ],
+  "collections": [
+    "data/shrines/35-yamaguchi/history-001.json",
+    "data/shrines/35-yamaguchi/history-002.json",
+    "data/shrines/35-yamaguchi/history-003.json",
+    "data/shrines/35-yamaguchi/history-004.json",
+    "data/shrines/35-yamaguchi/history-005.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 735,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "35"
+        }
+      }
+    },
+    {
+      "label": "山口県神社庁・神社史研究会（Jinja-net）",
+      "url": "https://www.jinja-net.jp/jinjacho-yamaguti/kensaku-yamaguti.html",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "山口県神社庁・神社史研究会（Jinja-net）",
+      "label": "山口県神社庁・神社史研究会（Jinja-net）",
+      "scope_note": "The current prefectural search UI advertises sixteen regional queries, but its published POST route was unavailable in this session: canonical host returned HTTP500; the www-host redirect lost the query and displayed 検索条件が未設定です. No guessed profile IDs were enumerated. No claim of exhausted current directory scope; retain the separately collected national historical baseline.",
+      "expected_rows": null,
+      "pagination_complete": false,
+      "failures": [
+        {
+          "url": "https://jinja-net.jp/jinjacho-yamaguti/jsearch4yamaguti.php",
+          "error": "Published regional search POST returned HTTP500."
+        },
+        {
+          "url": "https://www.jinja-net.jp/jinjacho-yamaguti/jsearch4yamaguti.php",
+          "error": "www redirect resulted in 検索条件が未設定です instead of regional results."
+        }
+      ],
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 57,
+    "unmapped_records": 735
+  }
+}
