@@ -64,11 +64,45 @@ CREATE TABLE locations (
     name TEXT NOT NULL,
     label TEXT NOT NULL,
     address_ja TEXT NOT NULL,
-    latitude REAL NOT NULL CHECK (latitude BETWEEN -90 AND 90),
-    longitude REAL NOT NULL CHECK (longitude BETWEEN -180 AND 180),
+    latitude REAL CHECK (latitude BETWEEN -90 AND 90),
+    longitude REAL CHECK (longitude BETWEEN -180 AND 180),
     precision_note TEXT NOT NULL,
+    map_status TEXT NOT NULL CHECK (map_status IN ('mapped','not_published','outside_prefecture_needs_review')),
+    CHECK ((latitude IS NULL) = (longitude IS NULL)),
+    CHECK (map_status != 'mapped' OR latitude IS NOT NULL),
     UNIQUE (shrine_id, ordinal),
     UNIQUE (id, shrine_id)
+) STRICT;
+
+CREATE TABLE directory_entries (
+    shrine_id TEXT PRIMARY KEY REFERENCES shrines(id),
+    directory_number INTEGER NOT NULL UNIQUE,
+    index_name TEXT NOT NULL,
+    index_url TEXT NOT NULL,
+    listed_address TEXT NOT NULL,
+    original_detail_url TEXT,
+    detail_url TEXT,
+    detail_status TEXT NOT NULL,
+    source_sha256 TEXT,
+    checked_at TEXT NOT NULL
+) STRICT;
+
+CREATE TABLE record_quality (
+    shrine_id TEXT PRIMARY KEY REFERENCES shrines(id),
+    record_status TEXT NOT NULL,
+    kami_availability TEXT NOT NULL,
+    history_availability TEXT NOT NULL,
+    kami_verbatim TEXT NOT NULL,
+    former_rank TEXT NOT NULL
+) STRICT;
+
+CREATE TABLE entity_registry (
+    shrine_id TEXT PRIMARY KEY REFERENCES shrines(id),
+    corporate_number TEXT NOT NULL,
+    state TEXT NOT NULL,
+    closed_date TEXT,
+    registered_address TEXT,
+    source_id TEXT NOT NULL REFERENCES sources(id)
 ) STRICT;
 
 CREATE TABLE location_sources (

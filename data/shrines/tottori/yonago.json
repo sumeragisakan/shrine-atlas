@@ -1,0 +1,7635 @@
+[
+  {
+    "id": "ogamiyama",
+    "no": 9,
+    "name": "大神山神社",
+    "kana": "おおがみやまじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [
+      "大国主神",
+      "大國主神",
+      "大己贵神",
+      "大穴牟遅神",
+      "大神山神社本社",
+      "大神山神社奥宮",
+      "大智明権現"
+    ],
+    "headline": "大己貴神／大穴牟遅神",
+    "tags": [
+      "大山信仰",
+      "本社・奥宫"
+    ],
+    "intro": "大神山神社包括米子市的本社与大山町的奥宫。本版作为一条神社记录，分别标记两处地点。",
+    "sources": [
+      {
+        "label": "大神山神社｜官方网站",
+        "url": "https://www.oogamiyama.or.jp/",
+        "kind": "神社官网",
+        "covers": "本社、奥宫、祭神与两地地址",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜大神山神社",
+        "url": "https://tottori-jinjacho.jp/pages/375/",
+        "kind": "神社庁目录",
+        "covers": "名称、读音、所在地、祭神、由绪与网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取県観光連盟｜大神山神社奥宮",
+        "url": "https://www.tottori-guide.jp/tourism/tour/view/199",
+        "kind": "官方观光机构",
+        "covers": "奥宫的网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "文化庁日本遺産｜大神山神社奥宮",
+        "url": "https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/2200/",
+        "kind": "国家文化遗产资料",
+        "covers": "神佛分离与奥宫沿革",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "本社（神社庁分地原表）",
+        "names": [
+          "大己貴神",
+          "大山津見神",
+          "須佐之男神",
+          "少名毘古那神"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "奥宫（神社庁分地原表）",
+        "names": [
+          "大己貴神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "name": "大神山神社 本社",
+        "address": "鳥取県米子市尾高1025",
+        "lat": 35.418028,
+        "lon": 133.406009,
+        "sources": [
+          0,
+          1
+        ],
+        "label": "大神山・本社",
+        "precision": "来源网页的地图参考点；用于区域分布展示，非测量坐标或导航入口。",
+        "id": "ogamiyama:1",
+        "map_status": "mapped"
+      },
+      {
+        "name": "大神山神社 奥宮",
+        "address": "鳥取県西伯郡大山町大山1",
+        "lat": 35.38858,
+        "lon": 133.538799,
+        "sources": [
+          0,
+          2
+        ],
+        "label": "大神山・奥宮",
+        "precision": "来源网页的地图参考点；用于区域分布展示，非测量坐标或导航入口。",
+        "id": "ogamiyama:2",
+        "map_status": "mapped"
+      }
+    ],
+    "facts": [
+      {
+        "label": "神名写法",
+        "text": "官网介绍主祭神为大己貴神，亦用大穴牟遅神（本社）的名称，并说明与大国主神的关系。",
+        "sources": [
+          0
+        ],
+        "nature": "机构记载"
+      },
+      {
+        "label": "1875｜神佛分离",
+        "text": "文化庁日本遗产条目介绍：明治八年神佛分离、大山寺解体时，将此前的信仰设施定为大神山神社奥宫。",
+        "sources": [
+          3
+        ],
+        "nature": "文化遗产历史说明"
+      }
+    ],
+    "note": "官网首页以大己貴神／大穴牟遅神介绍祭神，神社庁另给出本社四神、奥宫一神的分地名单。本版并存记录，未将两地名单混为一表。",
+    "noteSources": [
+      0,
+      1
+    ],
+    "checked": "2026-10-29",
+    "prefecture_code": 31,
+    "media": [],
+    "record_status": "research_enriched",
+    "directory": {
+      "number": 685,
+      "index_name": "大神山神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市尾高",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/375/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/375/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "cb07b355655cbc26c52eff81c9e984cda3e357e768eebe2d2c844a9e7f38bdea"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "［本社］大己貴神　大山津見神　須佐之男神　少名毘古那神\n［奥宮］大己貴神",
+      "former_rank": "国幣小社"
+    }
+  },
+  {
+    "id": "kamoten",
+    "no": 10,
+    "name": "賀茂神社 天満宮",
+    "kana": "かもじんじゃ てんまんぐう",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [
+      "贺茂神社天满宫",
+      "賀茂神社・天満宮",
+      "菅原道真",
+      "别雷"
+    ],
+    "headline": "別雷命・菅原道真命",
+    "tags": [
+      "贺茂信仰",
+      "天神信仰",
+      "合祀记录"
+    ],
+    "intro": "米子市街的神社。官网明确以別雷神与菅原道真神为主祭神，并逐项介绍合祀诸社。",
+    "sources": [
+      {
+        "label": "賀茂神社 天満宮｜祭神",
+        "url": "https://www.kamoten.org/saijin/",
+        "kind": "神社官网",
+        "covers": "主祭神及合祀神社名单",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜賀茂神社・天満宮",
+        "url": "https://tottori-jinjacho.jp/pages/326/",
+        "kind": "神社庁目录",
+        "covers": "名称、读音、所在地、祭神、由绪与网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "主祭神（官网明确标注）",
+        "names": [
+          "別雷命",
+          "菅原道真命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "神社庁祭神表的其他神（未分主配）",
+        "names": [
+          "品陀和気命",
+          "倉稲魂神",
+          "事代主神",
+          "素盞嗚尊",
+          "大穴牟遲命",
+          "少名彦那命",
+          "天照大御神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "name": "賀茂神社 天満宮",
+        "address": "鳥取県米子市加茂町2丁目212",
+        "lat": 35.427769,
+        "lon": 133.327925,
+        "sources": [
+          0,
+          1
+        ],
+        "label": "賀茂神社 天満宮",
+        "precision": "来源网页的地图参考点；用于区域分布展示，非测量坐标或导航入口。",
+        "id": "kamoten:1",
+        "map_status": "mapped"
+      }
+    ],
+    "facts": [
+      {
+        "label": "1961｜合并与社名",
+        "text": "官网及神社庁介绍昭和三十六年稻荷神社与賀茂神社合并，保留天满宫之名，形成现今社名。",
+        "sources": [
+          0,
+          1
+        ],
+        "nature": "机构引述沿革"
+      }
+    ],
+    "note": "主祭神按官网的明确表述记录；其他神采用神社庁原表。境内社武内神社等不追加到本社祭神名单中。",
+    "noteSources": [
+      0,
+      1
+    ],
+    "checked": "2026-10-29",
+    "prefecture_code": 31,
+    "media": [],
+    "record_status": "research_enriched",
+    "directory": {
+      "number": 591,
+      "index_name": "賀茂神社・天満宮",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市加茂町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/326/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/326/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "66eb766c74f7f046d816f8083fb37926a634bd15c05861d2cdf51ec4f3c31594"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "別雷命　品陀和気命　倉稲魂神　菅原道真公　事代主神　\n素盞嗚尊　大穴牟遲命　少名彦那命　天照大御神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0590",
+    "no": 594,
+    "prefecture_code": 31,
+    "name": "勝田神社",
+    "kana": "かつたじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "正勝吾勝勝速日天之忍穗耳命・素盞嗚尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第590号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜勝田神社",
+        "url": "https://tottori-jinjacho.jp/pages/325/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "正勝吾勝勝速日天之忍穗耳命",
+          "素盞嗚尊",
+          "天照大御神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0590:1",
+        "name": "勝田神社",
+        "label": "勝田神社",
+        "address": "鳥取県米子市博労町2丁目10",
+        "lat": 35.43149539274435,
+        "lon": 133.34103333005942,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号590。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：郷社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《伯耆志》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月15日；秋祭 10月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 590,
+      "index_name": "勝田神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市博労町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/325/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/325/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "34af2812420822ac97e7bd09378de941617a09bf65c230dd11771d346a13c150"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "正勝吾勝勝速日天之忍穗耳命　素盞嗚尊　天照大御神",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "tottori-0592",
+    "no": 595,
+    "prefecture_code": 31,
+    "name": "宇氣・河口神社",
+    "kana": "うきかわぐちじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "天照大神・豊受姫命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第592号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜宇氣・河口神社",
+        "url": "https://tottori-jinjacho.jp/pages/327/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天照大神",
+          "豊受姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0592:1",
+        "name": "宇氣・河口神社",
+        "label": "宇氣・河口神社",
+        "address": "鳥取県米子市内町111",
+        "lat": 35.43119433254373,
+        "lon": 133.32401949386576,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号592。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 11月3日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 592,
+      "index_name": "宇氣・河口神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市内町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/327/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/327/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "a26f511c38bf42a37744a647615f961ab9b57b45d846f951bccc92afc10a3a17"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天照大神　豊受姫命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0593",
+    "no": 596,
+    "prefecture_code": 31,
+    "name": "籏崎神社",
+    "kana": "はたがさきじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "須盞嗚尊・大穴牟遲神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第593号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜籏崎神社",
+        "url": "https://tottori-jinjacho.jp/pages/328/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "須盞嗚尊",
+          "大穴牟遲神",
+          "少名毘古那神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0593:1",
+        "name": "籏崎神社",
+        "label": "籏崎神社",
+        "address": "鳥取県米子市灘町３丁目１１７",
+        "lat": 35.43546029758964,
+        "lon": 133.32204068098565,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号593。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 １０月２８日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 593,
+      "index_name": "籏崎神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市灘町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/328/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/328/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "30ae70a77bfbb6a6b46b8fa6499ee5d73f49e532b4e808c6e80e14a172b4bda0"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "須盞嗚尊　大穴牟遲神　少名毘古那神",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0594",
+    "no": 597,
+    "prefecture_code": 31,
+    "name": "深浦神社",
+    "kana": "ふかうらじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊・伊弉冉尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第594号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜深浦神社",
+        "url": "https://tottori-jinjacho.jp/pages/329/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊",
+          "伊弉冉尊",
+          "迦具土神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0594:1",
+        "name": "深浦神社",
+        "label": "深浦神社",
+        "address": "鳥取県米子市祇園町1丁目83",
+        "lat": 35.42189725724772,
+        "lon": 133.32664166747645,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号594。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 7月15日；秋祭 10月4日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 594,
+      "index_name": "深浦神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市祇園町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/329/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/329/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "97f8b733fa5c19c59e9a615fed68e470347cd07d9a56d73d9dfb23f70c871bb8"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊　伊弉冉尊　迦具土神",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0595",
+    "no": 598,
+    "prefecture_code": 31,
+    "name": "鴨御祖神社",
+    "kana": "かもみおやじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "玉依媛命・建津見命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第595号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜鴨御祖神社",
+        "url": "https://tottori-jinjacho.jp/pages/330/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "玉依媛命",
+          "建津見命",
+          "素盞嗚命",
+          "菅原道眞",
+          "大穴牟遲命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0595:1",
+        "name": "鴨御祖神社",
+        "label": "鴨御祖神社",
+        "address": "鳥取県米子市立町4丁目19",
+        "lat": 35.43766467844128,
+        "lon": 133.324679445998,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号595。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《伯耆志》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月21日；春祭 4月21日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 595,
+      "index_name": "鴨御祖神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市立町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/330/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/330/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "20a86ca864e7cbf87908e44191fb5f7a1d3982a8da40e2972cc02e060fb99fcd"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "玉依媛命　建津見命　素盞嗚命　菅原道眞　大穴牟遲命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0596",
+    "no": 599,
+    "prefecture_code": 31,
+    "name": "目組神社",
+    "kana": "めぐみじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊・稲背脛命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第596号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜目組神社",
+        "url": "https://tottori-jinjacho.jp/pages/331/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊",
+          "稲背脛命",
+          "久恵比古命",
+          "菅原道真公"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0596:1",
+        "name": "目組神社",
+        "label": "目組神社",
+        "address": "鳥取県米子市目久美町152",
+        "lat": 35.42070102511789,
+        "lon": 133.33960293680533,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号596。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月29日；夏祭 7月20日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 596,
+      "index_name": "目組神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市目久美町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/331/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/331/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "0a2e4d0288221d38c293fd4c601d357a56d1319a4ee33bebe4e8a9ebf954b9d2"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊　稲背脛命　久恵比古命　菅原道真公",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0597",
+    "no": 600,
+    "prefecture_code": 31,
+    "name": "犬田神社",
+    "kana": "いぬたじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "大己貴命・國常立尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第597号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜犬田神社",
+        "url": "https://tottori-jinjacho.jp/pages/332/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大己貴命",
+          "國常立尊",
+          "天忍穂耳命",
+          "国狭槌尊",
+          "伊弉冉尊",
+          "瓊瓊杵尊",
+          "惶根尊",
+          "天御中主尊",
+          "建御名方命",
+          "猿田彦命",
+          "高皇産靈尊",
+          "下照姫命",
+          "瀛津姫命",
+          "牛尊",
+          "彦火火出見尊",
+          "悪王子",
+          "蹈韛姫命",
+          "素盞嗚尊",
+          "仲哀天皇",
+          "奥津彦命",
+          "奥津姫命",
+          "木花咲屋姫命",
+          "武内宿禰命",
+          "道真公",
+          "稲背脛命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0597:1",
+        "name": "犬田神社",
+        "label": "犬田神社",
+        "address": "鳥取県米子市陰田町1440",
+        "lat": 35.405909675765194,
+        "lon": 133.32756098443673,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号597。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日；春祭 4月6日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 597,
+      "index_name": "犬田神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市陰田町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/332/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/332/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "1795637ece073948b3cbd4d419affac7d821e429102c43c28e622f269c84bb16"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大己貴命　國常立尊　天忍穂耳命　国狭槌尊　伊弉冉尊　瓊瓊杵尊　惶根尊　天御中主尊　建御名方命　猿田彦命　高皇産靈尊　下照姫命　瀛津姫命　牛尊　彦火火出見尊　悪王子　蹈韛姫命　素盞嗚尊　仲哀天皇　奥津彦命　奥津姫命　木花咲屋姫命　武内宿禰命　道真公　稲背脛命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0598",
+    "no": 601,
+    "prefecture_code": 31,
+    "name": "坂本神社",
+    "kana": "さかもとじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊・経津主命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第598号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜坂本神社",
+        "url": "https://tottori-jinjacho.jp/pages/333/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊",
+          "経津主命",
+          "武甕槌命",
+          "別雷神",
+          "神倭磐余彦尊",
+          "天照大日孁貴尊",
+          "大山祇命",
+          "日本武尊",
+          "素盞嗚尊",
+          "猿田彦命",
+          "道真公",
+          "誉田別命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0598:1",
+        "name": "坂本神社",
+        "label": "坂本神社",
+        "address": "鳥取県米子市長砂町361",
+        "lat": 35.421639209419276,
+        "lon": 133.35409297272784,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号598。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月9日；春祭 4月3日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 598,
+      "index_name": "坂本神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市長砂町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/333/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/333/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "165a1ea59c4ec0941384cfe911d7e5d1c60653e312fe8e7a282c77cd39e3e6be"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊　経津主命　武甕槌命　別雷神　神倭磐余彦尊　天照大日孁貴尊　大山祇命　日本武尊　素盞嗚尊　猿田彦命　道真公　誉田別命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0599",
+    "no": 602,
+    "prefecture_code": 31,
+    "name": "廣田神社",
+    "kana": "ひろたじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "天照太神荒魂・蛭子命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第599号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜廣田神社",
+        "url": "https://tottori-jinjacho.jp/pages/334/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天照太神荒魂",
+          "蛭子命",
+          "事代主命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0599:1",
+        "name": "廣田神社",
+        "label": "廣田神社",
+        "address": "鳥取県米子市大谷町88",
+        "lat": 35.41769680660565,
+        "lon": 133.33594996380634,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号599。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月11日；春祭 4月11日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 599,
+      "index_name": "廣田神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市大谷町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/334/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/334/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "c1981358307e0fd7d73a8c7a28386f2fb9da65cb8cb4c981568143f5b2e7f808"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天照太神荒魂　蛭子命　事代主命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0600",
+    "no": 603,
+    "prefecture_code": 31,
+    "name": "日御碕神社",
+    "kana": "ひのみさきじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "天照大日孁尊・素盞嗚尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第600号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜日御碕神社",
+        "url": "https://tottori-jinjacho.jp/pages/335/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天照大日孁尊",
+          "素盞嗚尊",
+          "天忍穂耳尊",
+          "天穂日命",
+          "天津彦根命",
+          "速玉男命",
+          "事解男命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0600:1",
+        "name": "日御碕神社",
+        "label": "日御碕神社",
+        "address": "鳥取県米子市陰田町535",
+        "lat": 35.41345957788976,
+        "lon": 133.32612600261376,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号600。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月1日；春祭 4月1日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 600,
+      "index_name": "日御碕神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市陰田町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/335/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/335/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "56e33182f6b751ca17299bfc1836b061b4d1a4fc120ba9a5eceb7ddf0e497878"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天照大日孁尊　素盞嗚尊　天忍穂耳尊　天穂日命　天津彦根命　速玉男命　事解男命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0601",
+    "no": 604,
+    "prefecture_code": 31,
+    "name": "貴布禰神社",
+    "kana": "きふねじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "闇龗神・高龗神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第601号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜貴布禰神社",
+        "url": "https://tottori-jinjacho.jp/pages/336/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "闇龗神",
+          "高龗神",
+          "船玉神",
+          "誉田別命",
+          "宇賀魂神",
+          "天照皇大御神",
+          "道真公",
+          "大歳神",
+          "大己貴命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0601:1",
+        "name": "貴布禰神社",
+        "label": "貴布禰神社",
+        "address": "鳥取県米子市車尾1113",
+        "lat": 35.432156673746675,
+        "lon": 133.35921488129807,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号601。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月19日；秋祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 601,
+      "index_name": "貴布禰神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市車尾",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/336/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/336/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "74e8cda9521bbc7f69bd663e005d7f9907234db47526e2e4e65dcdc2d59c0002"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "闇龗神　高龗神　船玉神　誉田別命　宇賀魂神　天照皇大御神　道真公　大歳神　大己貴命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0602",
+    "no": 605,
+    "prefecture_code": 31,
+    "name": "新宮神社",
+    "kana": "しんぐうじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "伊弉那岐命・伊弉那美命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第602号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜新宮神社",
+        "url": "https://tottori-jinjacho.jp/pages/337/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "伊弉那岐命",
+          "伊弉那美命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0602:1",
+        "name": "新宮神社",
+        "label": "新宮神社",
+        "address": "鳥取県米子市観音寺179",
+        "lat": 35.4196662,
+        "lon": 133.3579289,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号602。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月13日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 602,
+      "index_name": "新宮神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市観音寺",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/337/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/337/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "fbbb2baff9979698899225cec26d96cde00c6264208c3b686d7691c348019208"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊弉那岐命　伊弉那美命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0603",
+    "no": 606,
+    "prefecture_code": 31,
+    "name": "粟嶋神社",
+    "kana": "あわしまじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "少彦名命・大己貴命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第603号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜粟嶋神社",
+        "url": "https://tottori-jinjacho.jp/pages/338/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "少彦名命",
+          "大己貴命",
+          "菅原道真公",
+          "宇牟伎比賣命",
+          "高皇産靈神",
+          "神皇産靈神",
+          "稲背脛命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0603:1",
+        "name": "粟嶋神社",
+        "label": "粟嶋神社",
+        "address": "鳥取県米子市彦名町1405",
+        "lat": 35.44399815386818,
+        "lon": 133.29226020859835,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号603。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：郷社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月12日；秋祭 7月12日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 603,
+      "index_name": "粟嶋神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市彦名町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/338/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/338/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "86dfe345658b10c5cda3f6bb4a1d6fd32b04d2c825afbc7761f95c901e87458b"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "少彦名命　大己貴命　菅原道真公　宇牟伎比賣命　高皇産靈神　神皇産靈神　稲背脛命",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "tottori-0604",
+    "no": 607,
+    "prefecture_code": 31,
+    "name": "葭津神社",
+    "kana": "よしづじんじや",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第604号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜葭津神社",
+        "url": "https://tottori-jinjacho.jp/pages/339/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0604:1",
+        "name": "葭津神社",
+        "label": "葭津神社",
+        "address": "鳥取県米子市葭津1736",
+        "lat": 35.47834523935888,
+        "lon": 133.2532372230077,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号604。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 11月20日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 604,
+      "index_name": "葭津神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市葭津",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/339/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/339/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "16bdfb4ff52728815e31f6ddbb3d7c4190da840387f23f00818547f7d2b7d9f8"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0605",
+    "no": 608,
+    "prefecture_code": 31,
+    "name": "大崎神社",
+    "kana": "おおさきじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第605号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜大崎神社",
+        "url": "https://tottori-jinjacho.jp/pages/340/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0605:1",
+        "name": "大崎神社",
+        "label": "大崎神社",
+        "address": "鳥取県米子市大崎1320",
+        "lat": 35.47327525316404,
+        "lon": 133.25687624202203,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号605。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 11月20日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 605,
+      "index_name": "大崎神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市大崎",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/340/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/340/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "02fb44a5396b08066fc0236e60d062521856bf15ff3a9a25051176f0012fe670"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0617",
+    "no": 620,
+    "prefecture_code": 31,
+    "name": "和田御﨑神社",
+    "kana": "わだみさきじんじゃ(通称:ミサキさん)",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "速須佐之男命・大己貴命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第617号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜和田御﨑神社",
+        "url": "https://tottori-jinjacho.jp/pages/341/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "速須佐之男命",
+          "大己貴命",
+          "稲田姫命",
+          "稲背脛命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0617:1",
+        "name": "和田御﨑神社",
+        "label": "和田御﨑神社",
+        "address": "鳥取県米子市大篠津町2075",
+        "lat": 35.48998424216842,
+        "lon": 133.2592453666936,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号617。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月29日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 617,
+      "index_name": "和田御﨑神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市大篠津町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/341/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/341/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "fdf69a578fd4110b3c49a691eb68d475ea6866c8a1998ff93e2febbd4b29196b"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "速須佐之男命　大己貴命　稲田姫命　稲背脛命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0618",
+    "no": 621,
+    "prefecture_code": 31,
+    "name": "諏訪神社",
+    "kana": "すわじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "武御名方命・大己貴命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第618号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜諏訪神社",
+        "url": "https://tottori-jinjacho.jp/pages/342/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "武御名方命",
+          "大己貴命",
+          "事代主命",
+          "多紀理毘古命",
+          "多紀理比賣命",
+          "狹依毘賣命",
+          "稲背脛命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0618:1",
+        "name": "諏訪神社",
+        "label": "諏訪神社",
+        "address": "鳥取県米子市大篠津町576-1",
+        "lat": 35.49391173905631,
+        "lon": 133.25989647293196,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号618。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 11月18日；夏祭 7月29日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 618,
+      "index_name": "諏訪神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市大篠津町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/342/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/342/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "c0d715dbfbefca014ce2bb64e685ec036dda78b711d868b684512d9c50a8e0c9"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "武御名方命　大己貴命　事代主命　多紀理毘古命\n多紀理比賣命　狹依毘賣命　稲背脛命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0619",
+    "no": 622,
+    "prefecture_code": 31,
+    "name": "和田神社",
+    "kana": "わだじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第619号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜和田神社",
+        "url": "https://tottori-jinjacho.jp/pages/343/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0619:1",
+        "name": "和田神社",
+        "label": "和田神社",
+        "address": "鳥取県米子市和田町1681",
+        "lat": 35.48545682618209,
+        "lon": 133.26927872239597,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号619。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月15日；春祭 4月23日；夏祭 7月23日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 619,
+      "index_name": "和田神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市和田町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/343/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/343/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "9c77bdb843d5be55089903c0095d6562ed5ca5fb484c9652c08c121274aee4b8"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0620",
+    "no": 623,
+    "prefecture_code": 31,
+    "name": "富益神社",
+    "kana": "とみますじんじゃ(通称:富益大神宮)",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "天照大御神・素盞嗚神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第620号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜富益神社",
+        "url": "https://tottori-jinjacho.jp/pages/344/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天照大御神",
+          "素盞嗚神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0620:1",
+        "name": "富益神社",
+        "label": "富益神社",
+        "address": "鳥取県米子市富益町936",
+        "lat": 35.4736015848021,
+        "lon": 133.28586902981223,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号620。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 11月3日；春祭 4月11日；夏祭 7月11日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 620,
+      "index_name": "富益神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市富益町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/344/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/344/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "e72d916965e56855ae2ac10ef30af1d511032c93823f258da8ce24130665bb68"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天照大御神　素盞嗚神",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0621",
+    "no": 624,
+    "prefecture_code": 31,
+    "name": "夜見神社",
+    "kana": "よみじんじゃ(通称:荒神さん)",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "須佐之男尊・蛭子神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第621号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜夜見神社",
+        "url": "https://tottori-jinjacho.jp/pages/345/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "須佐之男尊",
+          "蛭子神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0621:1",
+        "name": "夜見神社",
+        "label": "夜見神社",
+        "address": "鳥取県米子市夜見町2678",
+        "lat": 35.46639241123304,
+        "lon": 133.3017795245369,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号621。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 621,
+      "index_name": "夜見神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市夜見町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/345/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/345/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "63e300d41a3ef7c6fc39a4aae83bba58878962d934b87df57b56307cae03c2e3"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "須佐之男尊　蛭子神",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0622",
+    "no": 625,
+    "prefecture_code": 31,
+    "name": "白山神社",
+    "kana": "はくさんじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "伊弉諾命・伊弉冉命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第622号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜白山神社",
+        "url": "https://tottori-jinjacho.jp/pages/346/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "伊弉諾命",
+          "伊弉冉命",
+          "菊理姫命",
+          "天照皇大神",
+          "大山祇命",
+          "木花咲耶媛命",
+          "菅原道真公"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0622:1",
+        "name": "白山神社",
+        "label": "白山神社",
+        "address": "鳥取県米子市新山468",
+        "lat": 35.38877854546822,
+        "lon": 133.32600714693285,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号622。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月8日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 622,
+      "index_name": "白山神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市新山",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/346/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/346/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "e1187e6b90e798ed717dc86a78df19f4976084be106e846d6090537abd031eeb"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊弉諾命　伊弉冉命　菊理姫命　天照皇大神　大山祇命　木花咲耶媛命　菅原道真公",
+      "former_rank": "ー"
+    }
+  },
+  {
+    "id": "tottori-0623",
+    "no": 626,
+    "prefecture_code": 31,
+    "name": "阿陀萱神社",
+    "kana": "あだかやじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "阿陀加夜奴志多岐喜比賣命・多紀理姫命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第623号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜阿陀萱神社",
+        "url": "https://tottori-jinjacho.jp/pages/347/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "阿陀加夜奴志多岐喜比賣命",
+          "多紀理姫命",
+          "多岐都姫命",
+          "市杵島姫命",
+          "譽田別尊",
+          "武内宿禰命",
+          "八耳命",
+          "大山祇命",
+          "倉稲魂命",
+          "素盞嗚命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0623:1",
+        "name": "阿陀萱神社",
+        "label": "阿陀萱神社",
+        "address": "鳥取県米子市橋本623",
+        "lat": 35.39944959215401,
+        "lon": 133.3473181788274,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号623。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 623,
+      "index_name": "阿陀萱神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市橋本",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/347/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/347/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "d2d24c56d87f5612b67abd0fdbb26a1c51e47236f49bbea33edfe416caccc56c"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "阿陀加夜奴志多岐喜比賣命　多紀理姫命　多岐都姫命　市杵島姫命　譽田別尊　武内宿禰命　八耳命　大山祇命　倉稲魂命　素盞嗚命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0624",
+    "no": 627,
+    "prefecture_code": 31,
+    "name": "宗形神社",
+    "kana": "むなかたじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "多紀理比賣神・多岐津比賣神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第624号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜宗形神社",
+        "url": "https://tottori-jinjacho.jp/pages/348/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "多紀理比賣神",
+          "多岐津比賣神",
+          "市杵島比賣神",
+          "経津主命",
+          "武甕槌命",
+          "日本武命",
+          "上筒男命",
+          "中筒男命",
+          "底筒男命",
+          "誉田別命",
+          "伊弉諾命",
+          "速玉男命",
+          "事解男命",
+          "素盞嗚命",
+          "大山祇神",
+          "猿田彦命",
+          "倉稲魂命",
+          "天兒屋根命",
+          "天太玉命",
+          "鈿女命",
+          "阿蘇彦命",
+          "保食命",
+          "月讀命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0624:1",
+        "name": "宗形神社",
+        "label": "宗形神社",
+        "address": "鳥取県米子市宗像298",
+        "lat": 35.411392641641584,
+        "lon": 133.3544425671706,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号624。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：郷社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《延喜式》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 5月3日；秋祭 11月3日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 624,
+      "index_name": "宗形神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市宗像",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/348/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/348/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "688dccb42de447a72ad8042e2889c11b8a8502cedb83ae232d6ddfec421a400f"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "多紀理比賣神　多岐津比賣神　市杵島比賣神　経津主命　武甕槌命　日本武命　上筒男命　中筒男命　底筒男命　誉田別命　伊弉諾命　速玉男命　事解男命　素盞嗚命　大山祇神　猿田彦命　倉稲魂命　天兒屋根命　天太玉命　鈿女命　阿蘇彦命　保食命　月讀命",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "tottori-0625",
+    "no": 628,
+    "prefecture_code": 31,
+    "name": "奈喜良神社",
+    "kana": "なぎらじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "大國主神・天照大御神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第625号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜奈喜良神社",
+        "url": "https://tottori-jinjacho.jp/pages/349/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大國主神",
+          "天照大御神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0625:1",
+        "name": "奈喜良神社",
+        "label": "奈喜良神社",
+        "address": "鳥取県米子市奈喜良356",
+        "lat": 35.40152144397701,
+        "lon": 133.34039753160602,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号625。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月1日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 625,
+      "index_name": "奈喜良神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市奈喜良",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/349/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/349/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "5ed99ae05dc273b4a1dd5c7c81e14f8e8b506ff0c13a93090dfef731b514d80e"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大國主神　天照大御神",
+      "former_rank": "ー"
+    }
+  },
+  {
+    "id": "tottori-0656",
+    "no": 658,
+    "prefecture_code": 31,
+    "name": "稲荷神社",
+    "kana": "いなりじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "倉稲魂命・天照大日孁尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第656号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜稲荷神社",
+        "url": "https://tottori-jinjacho.jp/pages/350/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "倉稲魂命",
+          "天照大日孁尊",
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0656:1",
+        "name": "稲荷神社",
+        "label": "稲荷神社",
+        "address": "鳥取県米子市別所1012",
+        "lat": 35.38426161218901,
+        "lon": 133.37366864232789,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号656。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月1日；夏祭 7月8日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 656,
+      "index_name": "稲荷神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市別所",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/350/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/350/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "76d517ff978890d8ffb7219c5384546726e06bc8c8ac19b0672895d650988f66"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "倉稲魂命　天照大日孁尊　素盞嗚尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0657",
+    "no": 659,
+    "prefecture_code": 31,
+    "name": "青木神社",
+    "kana": "あおきじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "句々能知命・豊受姫命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第657号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜青木神社",
+        "url": "https://tottori-jinjacho.jp/pages/351/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "句々能知命",
+          "豊受姫命",
+          "伊弉那岐尊",
+          "伊弉那美尊",
+          "天照大御神",
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0657:1",
+        "name": "青木神社",
+        "label": "青木神社",
+        "address": "鳥取県米子市青木1157",
+        "lat": 35.39898307607356,
+        "lon": 133.36492048312655,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号657。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月9日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 657,
+      "index_name": "青木神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市青木",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/351/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/351/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "364de0a54d2e8fbafb296e0572f76eb30444606642ae8a594b8772acdb46a8f0"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "句々能知命　豊受姫命　伊弉那岐尊　伊弉那美尊　天照大御神　素盞嗚尊",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0658",
+    "no": 660,
+    "prefecture_code": 31,
+    "name": "髙良神社",
+    "kana": "こうらじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "武内宿禰命・保食神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第658号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜髙良神社",
+        "url": "https://tottori-jinjacho.jp/pages/352/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "武内宿禰命",
+          "保食神",
+          "猿田彦神",
+          "天照大御神",
+          "天津彦火瓊瓊杵尊",
+          "誉田別命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0658:1",
+        "name": "髙良神社",
+        "label": "髙良神社",
+        "address": "鳥取県米子市兼久114",
+        "lat": 35.40473945164311,
+        "lon": 133.364185446627,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号658。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《伯耆志》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月10日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 658,
+      "index_name": "髙良神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市兼久",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/352/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/352/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "e10fa8a356f9de443718aa829e3f03f9231ed661f6271206c09ae3c25d18c952"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "武内宿禰命　保食神　猿田彦神　天照大御神　天津彦火瓊瓊杵尊　誉田別命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0659",
+    "no": 661,
+    "prefecture_code": 31,
+    "name": "實久神社",
+    "kana": "さねひさじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "譽田別尊・天照大御神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第659号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜實久神社",
+        "url": "https://tottori-jinjacho.jp/pages/353/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "譽田別尊",
+          "天照大御神",
+          "武内大神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0659:1",
+        "name": "實久神社",
+        "label": "實久神社",
+        "address": "鳥取県米子市榎原766",
+        "lat": 35.392354567567544,
+        "lon": 133.35657992850207,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号659。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 659,
+      "index_name": "實久神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市実久",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/353/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/353/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "4ca762323978fdb81d535e47b4b7e50a5f49a1cda8e7d6c280019f041d87d5c0"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別尊　天照大御神　武内大神",
+      "former_rank": "ー"
+    }
+  },
+  {
+    "id": "tottori-0660",
+    "no": 662,
+    "prefecture_code": 31,
+    "name": "諏訪神社",
+    "kana": "すわじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "健御名方命・天照大日孁尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第660号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜諏訪神社",
+        "url": "https://tottori-jinjacho.jp/pages/354/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "健御名方命",
+          "天照大日孁尊",
+          "素盞嗚尊",
+          "倉稲魂命",
+          "稲背脛命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0660:1",
+        "name": "諏訪神社",
+        "label": "諏訪神社",
+        "address": "鳥取県米子市諏訪890－1",
+        "lat": 35.39193631847307,
+        "lon": 133.38308325967,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号660。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 660,
+      "index_name": "諏訪神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市諏訪",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/354/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/354/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "0a17aa023ea43a1361907d613358c9d33f3bdfdefcb1504a27be9c9b08fc1dc2"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "健御名方命　天照大日孁尊　素盞嗚尊　倉稲魂命　稲背脛命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0661",
+    "no": 663,
+    "prefecture_code": 31,
+    "name": "巨勢神社",
+    "kana": "こせじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊・大己貴命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第661号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜巨勢神社",
+        "url": "https://tottori-jinjacho.jp/pages/355/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊",
+          "大己貴命",
+          "稲田姫命",
+          "天照大日孁尊",
+          "天穂日命",
+          "菅原道眞"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0661:1",
+        "name": "巨勢神社",
+        "label": "巨勢神社",
+        "address": "鳥取県米子市八幡254－3",
+        "lat": 35.399620870946436,
+        "lon": 133.38918030375692,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号661。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 6月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 661,
+      "index_name": "巨勢神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市八幡",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/355/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/355/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "0d00e3dc22b0d63960da56d5201950617b179944950738edbc7fef8c2430428b"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊　大己貴命　稲田姫命　天照大日孁尊　天穂日命　菅原道眞",
+      "former_rank": "ー"
+    }
+  },
+  {
+    "id": "tottori-0676",
+    "no": 678,
+    "prefecture_code": 31,
+    "name": "北原神社",
+    "kana": "きたはらじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "天穂日命・菅原道眞",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第676号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜北原神社",
+        "url": "https://tottori-jinjacho.jp/pages/356/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天穂日命",
+          "菅原道眞"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0676:1",
+        "name": "北原神社",
+        "label": "北原神社",
+        "address": "鳥取県米子市福万667",
+        "lat": 35.39973538465637,
+        "lon": 133.4148757232806,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号676。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月5日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 676,
+      "index_name": "北原神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市福万",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/356/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/356/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "1b5fa1c66270860c93ffc49c2634459444b1286100bb9f96cf93e30d8d6304ef"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天穂日命　菅原道眞",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0677",
+    "no": 679,
+    "prefecture_code": 31,
+    "name": "日下神社",
+    "kana": "くさかじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊・大己貴神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第677号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜日下神社",
+        "url": "https://tottori-jinjacho.jp/pages/357/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊",
+          "大己貴神",
+          "少彦名命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0677:1",
+        "name": "日下神社",
+        "label": "日下神社",
+        "address": "鳥取県米子市日下300",
+        "lat": 35.403422415311695,
+        "lon": 133.41844363711118,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号677。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月29日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 677,
+      "index_name": "日下神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市日下",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/357/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/357/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "f3ea2c60fc52b587ae50b18b1382a01e932de6ef41a472070d327caa609b029d"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊　大己貴神　少彦名命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0678",
+    "no": 680,
+    "prefecture_code": 31,
+    "name": "御崎神社",
+    "kana": "みさきじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "天照大御神・天穂日命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第678号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜御崎神社",
+        "url": "https://tottori-jinjacho.jp/pages/366/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天照大御神",
+          "天穂日命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0678:1",
+        "name": "御崎神社",
+        "label": "御崎神社",
+        "address": "鳥取県米子市河岡630",
+        "lat": 35.406967297884115,
+        "lon": 133.39949019663575,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号678。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月13日；夏祭 7月16日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 678,
+      "index_name": "御崎神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市河岡",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/366/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/366/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "c3c609ddcae547ba476727489ea69a51d0e0aff79f90f2d91ecca3214d8b1dde"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天照大御神　天穂日命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0679",
+    "no": 681,
+    "prefecture_code": 31,
+    "name": "北野神社",
+    "kana": "きたのじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "天穂日命・菅原道真公 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第679号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜北野神社",
+        "url": "https://tottori-jinjacho.jp/pages/369/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天穂日命",
+          "菅原道真公",
+          "大物主神",
+          "木花咲耶姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0679:1",
+        "name": "北野神社",
+        "label": "北野神社",
+        "address": "鳥取県米子市赤井手180",
+        "lat": 35.41388830878773,
+        "lon": 133.39663070319727,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号679。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 9月25日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 679,
+      "index_name": "北野神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市赤井手",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/369/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/369/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "a6bda18a32dcfa5a80d0a26679d40a08d0eaa63c21034cac9494ea8e1a63b7eb"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天穂日命　菅原道真公　大物主神　木花咲耶姫命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0680",
+    "no": 682,
+    "prefecture_code": 31,
+    "name": "多賀神社",
+    "kana": "たがじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "伊弉諾神・伊弉冉尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第680号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜多賀神社",
+        "url": "https://tottori-jinjacho.jp/pages/370/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "伊弉諾神",
+          "伊弉冉尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0680:1",
+        "name": "多賀神社",
+        "label": "多賀神社",
+        "address": "鳥取県米子市上新印168",
+        "lat": 35.40946927392585,
+        "lon": 133.3920933760748,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号680。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月29日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 680,
+      "index_name": "多賀神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市上新印",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/370/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/370/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "ee5d102c2810cee2dfd0ed231ccac0745be510bfd30c4c4e2d0abd2704b27b90"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊弉諾神　伊弉冉尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0681",
+    "no": 683,
+    "prefecture_code": 31,
+    "name": "新印神社",
+    "kana": "しいじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "高皇産靈尊神・皇産靈尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第681号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜新印神社",
+        "url": "https://tottori-jinjacho.jp/pages/371/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "高皇産靈尊神",
+          "皇産靈尊",
+          "天津彦火瓊々杵神",
+          "木花開耶姫神",
+          "彦火々出見神",
+          "天忍日神",
+          "少彦名神",
+          "栲幡千々姫神",
+          "三穗津姫神",
+          "天道根神",
+          "天神玉神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0681:1",
+        "name": "新印神社",
+        "label": "新印神社",
+        "address": "鳥取県米子市下新印137",
+        "lat": 35.41930960318479,
+        "lon": 133.38382926669118,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号681。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月1日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 681,
+      "index_name": "新印神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市下新印",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/371/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/371/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "6deaca4886d4ef943f225aa4b8574831c96fc7d038a34f848c3865596e48b71f"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "高皇産靈尊神　皇産靈尊　天津彦火瓊々杵神　木花開耶姫神　彦火々出見神　天忍日神　少彦名神　栲幡千々姫神　三穗津姫神　天道根神　天神玉神",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0682",
+    "no": 684,
+    "prefecture_code": 31,
+    "name": "貴布禰神社",
+    "kana": "きふねじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "高龗命・闇龗命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第682号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜貴布禰神社",
+        "url": "https://tottori-jinjacho.jp/pages/372/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "高龗命",
+          "闇龗命",
+          "天照大日孁尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0682:1",
+        "name": "貴布禰神社",
+        "label": "貴布禰神社",
+        "address": "鳥取県米子市一部232",
+        "lat": 35.40660175686872,
+        "lon": 133.3942981871827,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号682。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 682,
+      "index_name": "貴布禰神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市一部",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/372/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/372/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "f4116a1d4e1b53aed32070b0f3a770a039894806f125b26f6dad81b4da38eae5"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "高龗命　闇龗命　天照大日孁尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0683",
+    "no": 685,
+    "prefecture_code": 31,
+    "name": "東千太神社",
+    "kana": "ひがしちだじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第683号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜東千太神社",
+        "url": "https://tottori-jinjacho.jp/pages/373/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0683:1",
+        "name": "東千太神社",
+        "label": "東千太神社",
+        "address": "鳥取県米子市古豊千884",
+        "lat": 35.40902564797603,
+        "lon": 133.37623841517726,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号683。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月28日；夏祭 7月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 683,
+      "index_name": "東千太神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市古豊千",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/373/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/373/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "967cc5039efee7ef7c74aeeaa03d464978918fb747c35becc918acfd47f9f074"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0684",
+    "no": 686,
+    "prefecture_code": 31,
+    "name": "八幡神社",
+    "kana": "はちまんじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "譽田別尊・気長足姫尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第684号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜八幡神社",
+        "url": "https://tottori-jinjacho.jp/pages/374/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "譽田別尊",
+          "気長足姫尊",
+          "足仲彦尊",
+          "素盞嗚尊",
+          "高良尊",
+          "物部大連神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0684:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "鳥取県米子市東八幡２９３",
+        "lat": 35.403535603934735,
+        "lon": 133.39023262363676,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号684。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：郷社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《伯耆志》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 9月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 684,
+      "index_name": "八幡神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市東八幡",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/374/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/374/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "70bce512e2f4906f331c62c3a2158c1e5d4b41be73a633bfe3a524f0587a31b1"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別尊　気長足姫尊　足仲彦尊　素盞嗚尊　高良尊　物部大連神",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "tottori-0686",
+    "no": 687,
+    "prefecture_code": 31,
+    "name": "岡成神社",
+    "kana": "おかなりじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "速玉男命・泉津事解之男命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第686号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜岡成神社",
+        "url": "https://tottori-jinjacho.jp/pages/376/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "速玉男命",
+          "泉津事解之男命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0686:1",
+        "name": "岡成神社",
+        "label": "岡成神社",
+        "address": "鳥取県米子市岡成270",
+        "lat": 35.419572555352346,
+        "lon": 133.42167813995056,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号686。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 686,
+      "index_name": "岡成神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市岡成",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/376/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/376/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "6253e961f7a34c78c013e87b2505d9f11e713d317263df3212eb90f164c5a882"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "速玉男命　泉津事解之男命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0687",
+    "no": 688,
+    "prefecture_code": 31,
+    "name": "泉神社",
+    "kana": "いずみじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "須佐之男命",
+    "tags": [
+      "神社庁名录",
+      "未定位"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第687号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜泉神社",
+        "url": "https://tottori-jinjacho.jp/pages/377/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "須佐之男命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0687:1",
+        "name": "泉神社",
+        "label": "泉神社",
+        "address": "鳥取県米子市泉615",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          1
+        ],
+        "map_status": "not_published",
+        "precision": "目录仅提供所在地，未公布可核实的参考坐标；本版未估算位置。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号687。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 9月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 687,
+      "index_name": "泉神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市泉",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/377/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/377/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "3d590fb6755b84cf23ddf9612dcbdc1079f2ad1afe2d150abce2f0bc7081de96"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "須佐之男命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0688",
+    "no": 689,
+    "prefecture_code": 31,
+    "name": "下郷神社",
+    "kana": "しものごじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第688号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜下郷神社",
+        "url": "https://tottori-jinjacho.jp/pages/378/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0688:1",
+        "name": "下郷神社",
+        "label": "下郷神社",
+        "address": "鳥取県米子市下郷326",
+        "lat": 35.431412165931874,
+        "lon": 133.40032739294827,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号688。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 688,
+      "index_name": "下郷神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市下郷",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/378/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/378/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "6d98c22770b5aeea068131bf66384ff6475eb3e1991efe0f8d85c4efee4a72f2"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0689",
+    "no": 690,
+    "prefecture_code": 31,
+    "name": "浦木神社",
+    "kana": "うらきじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第689号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜浦木神社",
+        "url": "https://tottori-jinjacho.jp/pages/379/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0689:1",
+        "name": "浦木神社",
+        "label": "浦木神社",
+        "address": "鳥取県米子市浦津293",
+        "lat": 35.425816422884544,
+        "lon": 133.37866246533554,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号689。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 689,
+      "index_name": "浦木神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市浦津",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/379/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/379/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "49a8caeea10627975d14e1788fccce9f511836d871c4a55588c29f3069a6703d"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0690",
+    "no": 691,
+    "prefecture_code": 31,
+    "name": "津末神社",
+    "kana": "つすえじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第690号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜津末神社",
+        "url": "https://tottori-jinjacho.jp/pages/381/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0690:1",
+        "name": "津末神社",
+        "label": "津末神社",
+        "address": "鳥取県米子市浦津50番地7",
+        "lat": 35.42101727363433,
+        "lon": 133.3773892426337,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号690。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 690,
+      "index_name": "津末神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市浦津",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/381/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/381/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "fc8073fa19c32b4130142240bd0f58646e7d11034f8f8ea49ff75632a8b144c1"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0691",
+    "no": 692,
+    "prefecture_code": 31,
+    "name": "中島神社",
+    "kana": "なかしまじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "譽田別尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第691号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜中島神社",
+        "url": "https://tottori-jinjacho.jp/pages/388/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "譽田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0691:1",
+        "name": "中島神社",
+        "label": "中島神社",
+        "address": "鳥取県米子市蚊屋218",
+        "lat": 35.42856762061229,
+        "lon": 133.38609185214958,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号691。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 9月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 691,
+      "index_name": "中島神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市蚊屋",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/388/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/388/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "9bd05b71c1ea67d2d5156115c836b3d4e34ab460522176a74c481d2723e903cd"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0692",
+    "no": 693,
+    "prefecture_code": 31,
+    "name": "高砂神社",
+    "kana": "たかさごじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊・譽田別尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第692号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜高砂神社",
+        "url": "https://tottori-jinjacho.jp/pages/391/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊",
+          "譽田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0692:1",
+        "name": "高砂神社",
+        "label": "高砂神社",
+        "address": "鳥取県米子市熊党313",
+        "lat": 35.42937120605248,
+        "lon": 133.37465887668645,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号692。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月26日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 692,
+      "index_name": "高砂神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市熊党",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/391/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/391/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "f8227d950a9c4ed34996d5901fec01775a0af1e7bb31560e8f9e37d2bc6a0b70"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊　譽田別尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0693",
+    "no": 694,
+    "prefecture_code": 31,
+    "name": "稲荷神社",
+    "kana": "いなりじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "倉稲魂神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第693号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜稲荷神社",
+        "url": "https://tottori-jinjacho.jp/pages/399/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "倉稲魂神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0693:1",
+        "name": "稲荷神社",
+        "label": "稲荷神社",
+        "address": "鳥取県米子市今在家28",
+        "lat": 35.42573683864275,
+        "lon": 133.3943409731552,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号693。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月1日；春祭 4月1日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 693,
+      "index_name": "稲荷神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市今在家",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/399/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/399/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "a3bfe09f15114f97fd4163a1c857e48b4835219976b4bf3525736504ecf143d3"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "倉稲魂神",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0694",
+    "no": 695,
+    "prefecture_code": 31,
+    "name": "大岩神社",
+    "kana": "おおいわじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞鳴命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第694号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜大岩神社",
+        "url": "https://tottori-jinjacho.jp/pages/400/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞鳴命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0694:1",
+        "name": "大岩神社",
+        "label": "大岩神社",
+        "address": "鳥取県米子市二本木701",
+        "lat": 35.4352178123271,
+        "lon": 133.38756644479201,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号694。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 9月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 694,
+      "index_name": "大岩神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市二本木",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/400/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/400/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "f991a8311b8d37fdc8e38f59f57cc5a4cb2a826569a6655aa7f7f4d5406c0e25"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞鳴命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0695",
+    "no": 696,
+    "prefecture_code": 31,
+    "name": "大畑神社",
+    "kana": "おおはたじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第695号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜大畑神社",
+        "url": "https://tottori-jinjacho.jp/pages/404/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0695:1",
+        "name": "大畑神社",
+        "label": "大畑神社",
+        "address": "鳥取県米子市二本木288",
+        "lat": 35.43031743834767,
+        "lon": 133.38936631840264,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号695。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 695,
+      "index_name": "大畑神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市二本木",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/404/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/404/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "1faa3975cb0fffa567288728f64a762d458d9be5a4bbb0ecead2914436def48e"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0696",
+    "no": 697,
+    "prefecture_code": 31,
+    "name": "茶畑神社",
+    "kana": "ちゃばたじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚命",
+    "tags": [
+      "神社庁名录",
+      "未定位"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第696号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜茶畑神社",
+        "url": "https://tottori-jinjacho.jp/pages/405/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0696:1",
+        "name": "茶畑神社",
+        "label": "茶畑神社",
+        "address": "鳥取県米子市二本木479",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          1
+        ],
+        "map_status": "not_published",
+        "precision": "目录仅提供所在地，未公布可核实的参考坐标；本版未估算位置。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号696。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 696,
+      "index_name": "茶畑神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市二本木",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/405/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/405/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "0613709b10b4fc7e6ae72c3035752a76e079525b922535178ffa5bce5ad9f232"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0697",
+    "no": 698,
+    "prefecture_code": 31,
+    "name": "上部神社",
+    "kana": "じょうぶじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "譽田別尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第697号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜上部神社",
+        "url": "https://tottori-jinjacho.jp/pages/406/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "譽田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0697:1",
+        "name": "上部神社",
+        "label": "上部神社",
+        "address": "鳥取県米子市蚊屋369",
+        "lat": 35.4238387,
+        "lon": 133.3822753,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号697。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 697,
+      "index_name": "上部神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市蚊屋",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/406/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/406/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "a281587193d41dbe800df47320f5afc2bb63e0d6cca2f09da8b9ae43359451ce"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0698",
+    "no": 699,
+    "prefecture_code": 31,
+    "name": "高畑神社",
+    "kana": "たかはたじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第698号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜高畑神社",
+        "url": "https://tottori-jinjacho.jp/pages/407/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0698:1",
+        "name": "高畑神社",
+        "label": "高畑神社",
+        "address": "鳥取県米子市蚊屋59",
+        "lat": 35.421589948144145,
+        "lon": 133.38739897177564,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号698。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 8月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 698,
+      "index_name": "高畑神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市蚊屋",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/407/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/407/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "120672e52acfaa64c0025c38361f0b7384dea32cb67abfdcaa64acd3430b80af"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0700",
+    "no": 701,
+    "prefecture_code": 31,
+    "name": "亀甲神社",
+    "kana": "かめのこじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "須佐之男命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第700号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜亀甲神社",
+        "url": "https://tottori-jinjacho.jp/pages/408/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "須佐之男命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0700:1",
+        "name": "亀甲神社",
+        "label": "亀甲神社",
+        "address": "鳥取県米子市淀江町中間６４２",
+        "lat": 35.44444134034641,
+        "lon": 133.40339995158993,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号700。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 １０月９日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 700,
+      "index_name": "亀甲神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市淀江町中間",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/408/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/408/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "13c53963964caf3b1864c9ed7cb84756f06324880e682ff0326b9d60fb098e16"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "須佐之男命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0701",
+    "no": 702,
+    "prefecture_code": 31,
+    "name": "佐陀神社",
+    "kana": "さだじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "伊弉諾尊・伊弉冉尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第701号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜佐陀神社",
+        "url": "https://tottori-jinjacho.jp/pages/409/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "伊弉諾尊",
+          "伊弉冉尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0701:1",
+        "name": "佐陀神社",
+        "label": "佐陀神社",
+        "address": "鳥取県米子市淀江町佐陀１６２",
+        "lat": 35.43982423263033,
+        "lon": 133.3954154530671,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号701。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《伯耆志》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月18日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 701,
+      "index_name": "佐陀神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市淀江町佐陀",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/409/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/409/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "0a1714a81e44f0ce9142b8990ecdc244cd7ed69ee09bc0fb556f14d1b56e205e"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊弉諾尊　伊弉冉尊",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0702",
+    "no": 703,
+    "prefecture_code": 31,
+    "name": "三輪神社",
+    "kana": "みわじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "大物主命・速須佐之男命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第702号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜三輪神社",
+        "url": "https://tottori-jinjacho.jp/pages/410/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大物主命",
+          "速須佐之男命",
+          "少名毘古那命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0702:1",
+        "name": "三輪神社",
+        "label": "三輪神社",
+        "address": "鳥取県米子市淀江町小波６３３",
+        "lat": 35.440609486520316,
+        "lon": 133.40849223711118,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号702。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：郷社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《三代实录》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 702,
+      "index_name": "三輪神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市淀江町小波",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/410/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/410/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "a7bed073477a49c8afa07bf42d7d4612c6c99a6b18ad7b7fb08a649fcda22007"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大物主命　速須佐之男命　少名毘古那命",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "tottori-0703",
+    "no": 704,
+    "prefecture_code": 31,
+    "name": "中間神社",
+    "kana": "なかまじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "須佐之男命・綿津見命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第703号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜中間神社",
+        "url": "https://tottori-jinjacho.jp/pages/411/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "須佐之男命",
+          "綿津見命",
+          "事代主命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0703:1",
+        "name": "中間神社",
+        "label": "中間神社",
+        "address": "鳥取県米子市淀江町中間492",
+        "lat": 35.439312989575505,
+        "lon": 133.40444265429048,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号703。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月14日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 703,
+      "index_name": "中間神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市淀江町中間",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/411/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/411/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "20f226ee0f0312a7c8d7f0f8087ac21c791370450b64d0fcb817606e6e6e7902"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "須佐之男命　綿津見命　事代主命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0704",
+    "no": 705,
+    "prefecture_code": 31,
+    "name": "日吉神社",
+    "kana": "ひよしじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "大己貴命・少彦名命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第704号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜日吉神社",
+        "url": "https://tottori-jinjacho.jp/pages/412/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大己貴命",
+          "少彦名命",
+          "猿田彦命",
+          "素盞嗚命",
+          "建御名方命",
+          "武甕槌神",
+          "倉稲魂命",
+          "稚産靈命",
+          "保食神",
+          "天日方奇日方神",
+          "蛭子命",
+          "稲背脛命",
+          "稲田姫命",
+          "稚日女命",
+          "天照大御神",
+          "天之佐奈咩神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0704:1",
+        "name": "日吉神社",
+        "label": "日吉神社",
+        "address": "鳥取県米子市淀江町西原767",
+        "lat": 35.450098501305305,
+        "lon": 133.4183087677302,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号704。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：郷社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《三代实录》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 5月3日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 704,
+      "index_name": "日吉神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市淀江町西原",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/412/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/412/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "243ada1d21d317cac260d39064bede8d16ca8ee57367411fc0e7490788207b77"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大己貴命　少彦名命　猿田彦命　素盞嗚命　建御名方命　武甕槌神　倉稲魂命　稚産靈命　保食神　天日方奇日方神　蛭子命　稲背脛命　稲田姫命　稚日女命　天照大御神　天之佐奈咩神",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "tottori-0705",
+    "no": 706,
+    "prefecture_code": 31,
+    "name": "上津守神社",
+    "kana": "かみつもりじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "底筒男命・表筒男命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第705号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜上津守神社",
+        "url": "https://tottori-jinjacho.jp/pages/413/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "底筒男命",
+          "表筒男命",
+          "素盞嗚命",
+          "稲田姫命",
+          "大己貴命",
+          "少彦名命",
+          "高龗命",
+          "譽田別尊",
+          "菅原道眞",
+          "大山祇命",
+          "田心姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0705:1",
+        "name": "上津守神社",
+        "label": "上津守神社",
+        "address": "鳥取県米子市淀江町稲吉38",
+        "lat": 35.438754511751114,
+        "lon": 133.44652104907377,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号705。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月8日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 705,
+      "index_name": "上津守神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市淀江町稲吉",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/413/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/413/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "2e8f95c7e0db5338d96d344a31d70cce9074c551ba7883879dba604bc3fac6f1"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "底筒男命　表筒男命　素盞嗚命　稲田姫命　大己貴命　少彦名命　高龗命　譽田別尊　菅原道眞　大山祇命　田心姫命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0706",
+    "no": 707,
+    "prefecture_code": 31,
+    "name": "本宮神社",
+    "kana": "ほんぐうじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "伊邪那岐尊・伊邪那美尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第706号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜本宮神社",
+        "url": "https://tottori-jinjacho.jp/pages/414/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "伊邪那岐尊",
+          "伊邪那美尊",
+          "天照大御神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0706:1",
+        "name": "本宮神社",
+        "label": "本宮神社",
+        "address": "鳥取県米子市淀江町本宮297",
+        "lat": 35.42283828346863,
+        "lon": 133.4572780576721,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号706。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月6日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 706,
+      "index_name": "本宮神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市淀江町本宮",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/414/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/414/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "686d2171dc56203a30810418636c896f1448780048d8b6826df563ea2c99218b"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊邪那岐尊　伊邪那美尊　天照大御神",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0707",
+    "no": 708,
+    "prefecture_code": 31,
+    "name": "武崎神社",
+    "kana": "たけざきじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "武甕槌命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第707号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜武崎神社",
+        "url": "https://tottori-jinjacho.jp/pages/415/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "武甕槌命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0707:1",
+        "name": "武崎神社",
+        "label": "武崎神社",
+        "address": "鳥取県米子市淀江町福岡315",
+        "lat": 35.45707122864861,
+        "lon": 133.44245462270183,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号707。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月12日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 707,
+      "index_name": "武崎神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市淀江町福岡",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/415/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/415/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "828b3c7d5c2125fa6f96ca96c86ffc658fcaa97cf4ee590c240792fab84d0dd5"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "武甕槌命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0708",
+    "no": 709,
+    "prefecture_code": 31,
+    "name": "宇田川神社",
+    "kana": "うだがわじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "伊邪那岐尊・伊邪那美尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第708号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜宇田川神社",
+        "url": "https://tottori-jinjacho.jp/pages/416/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "伊邪那岐尊",
+          "伊邪那美尊",
+          "天照大神",
+          "素盞嗚尊",
+          "稲田姫命",
+          "大山祇命",
+          "木花咲耶姫命",
+          "譽田別尊",
+          "蛭子尊",
+          "菅原道真公",
+          "武内宿禰命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0708:1",
+        "name": "宇田川神社",
+        "label": "宇田川神社",
+        "address": "鳥取県米子市淀江町中西尾301",
+        "lat": 35.435940519995356,
+        "lon": 133.43108775285225,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号708。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：郷社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 708,
+      "index_name": "宇田川神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市淀江町中西尾",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/416/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/416/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "a38964e0be26287feb3c2bc995db2e520c9f5ecf15d0b5219fb05072eb4fbcf3"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊邪那岐尊　伊邪那美尊　天照大神　素盞嗚尊　稲田姫命　大山祇命　木花咲耶姫命　譽田別尊　蛭子尊　菅原道真公　武内宿禰命",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "tottori-0709",
+    "no": 710,
+    "prefecture_code": 31,
+    "name": "天神垣神社",
+    "kana": "あめのかみがきじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "少彦名命・大山祇命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第709号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜天神垣神社",
+        "url": "https://tottori-jinjacho.jp/pages/418/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "少彦名命",
+          "大山祇命",
+          "譽田別尊",
+          "大己貴命",
+          "下照姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0709:1",
+        "name": "天神垣神社",
+        "label": "天神垣神社",
+        "address": "鳥取県米子市淀江町福岡1016",
+        "lat": 35.45301510424377,
+        "lon": 133.4446305432454,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号709。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月13日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 709,
+      "index_name": "天神垣神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市淀江町福岡",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/418/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/418/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "f609546fa64fe68b90a78ff278971726c1c741c798b923a969903f6a7c55623d"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "少彦名命　大山祇命　譽田別尊　大己貴命　下照姫命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0745",
+    "no": 745,
+    "prefecture_code": 31,
+    "name": "新宮神社",
+    "kana": "しんぐうじんじゃ",
+    "area": "西部",
+    "municipality": "米子市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县米子市，对应神社庁名录第745号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜米子市",
+        "url": "https://tottori-jinjacho.jp/pages/56/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜新宮神社",
+        "url": "https://tottori-jinjacho.jp/pages/419/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0745:1",
+        "name": "新宮神社",
+        "label": "新宮神社",
+        "address": "鳥取県米子市古豊千632",
+        "lat": 35.41650230397497,
+        "lon": 133.37319779598275,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“米子市”目录，编号745。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月28日；夏祭 7月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 745,
+      "index_name": "新宮神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/56/",
+      "listed_address": "米子市古豊千",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/419/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/419/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "947843c937dba36b872f69e118e12d18bb39f5152e09ee39e25b3b2eb3d42e2f"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": ""
+    }
+  }
+]

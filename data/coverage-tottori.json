@@ -1,0 +1,621 @@
+{
+  "checked": "2026-10-29",
+  "scope": "鳥取縣神社廳・22个地域目录的全部824条记录",
+  "scope_note": "覆盖该公开名录，不等同于证明县内每一处小祠、境内末社、未列名设施均已收录；不把法人登记关闭等同于社殿消失或祭祀停止。",
+  "directory_rows": 824,
+  "records": 824,
+  "directory_indexes": 22,
+  "municipalities": [
+    {
+      "municipality": "鳥取市",
+      "area": "东部",
+      "records": 270,
+      "with_deities": 270,
+      "mapped_locations": 262,
+      "without_coordinates": 8
+    },
+    {
+      "municipality": "米子市",
+      "area": "西部",
+      "records": 65,
+      "with_deities": 65,
+      "mapped_locations": 64,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "倉吉市",
+      "area": "中部",
+      "records": 59,
+      "with_deities": 58,
+      "mapped_locations": 56,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "境港市",
+      "area": "西部",
+      "records": 11,
+      "with_deities": 11,
+      "mapped_locations": 11,
+      "without_coordinates": 0
+    },
+    {
+      "municipality": "岩美町",
+      "area": "东部",
+      "records": 40,
+      "with_deities": 40,
+      "mapped_locations": 40,
+      "without_coordinates": 0
+    },
+    {
+      "municipality": "八頭町",
+      "area": "东部",
+      "records": 75,
+      "with_deities": 69,
+      "mapped_locations": 62,
+      "without_coordinates": 13
+    },
+    {
+      "municipality": "若桜町",
+      "area": "东部",
+      "records": 20,
+      "with_deities": 20,
+      "mapped_locations": 19,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "智頭町",
+      "area": "东部",
+      "records": 26,
+      "with_deities": 26,
+      "mapped_locations": 26,
+      "without_coordinates": 0
+    },
+    {
+      "municipality": "三朝町",
+      "area": "中部",
+      "records": 28,
+      "with_deities": 28,
+      "mapped_locations": 28,
+      "without_coordinates": 0
+    },
+    {
+      "municipality": "琴浦町",
+      "area": "中部",
+      "records": 27,
+      "with_deities": 27,
+      "mapped_locations": 27,
+      "without_coordinates": 0
+    },
+    {
+      "municipality": "湯梨浜町",
+      "area": "中部",
+      "records": 20,
+      "with_deities": 20,
+      "mapped_locations": 19,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "北栄町",
+      "area": "中部",
+      "records": 15,
+      "with_deities": 15,
+      "mapped_locations": 15,
+      "without_coordinates": 0
+    },
+    {
+      "municipality": "日吉津村",
+      "area": "西部",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 1,
+      "without_coordinates": 0
+    },
+    {
+      "municipality": "大山町",
+      "area": "西部",
+      "records": 41,
+      "with_deities": 41,
+      "mapped_locations": 38,
+      "without_coordinates": 3
+    },
+    {
+      "municipality": "南部町",
+      "area": "西部",
+      "records": 30,
+      "with_deities": 28,
+      "mapped_locations": 29,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "伯耆町",
+      "area": "西部",
+      "records": 43,
+      "with_deities": 42,
+      "mapped_locations": 42,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "江府町",
+      "area": "西部",
+      "records": 14,
+      "with_deities": 14,
+      "mapped_locations": 14,
+      "without_coordinates": 0
+    },
+    {
+      "municipality": "日野町",
+      "area": "西部",
+      "records": 18,
+      "with_deities": 18,
+      "mapped_locations": 18,
+      "without_coordinates": 0
+    },
+    {
+      "municipality": "日南町",
+      "area": "西部",
+      "records": 21,
+      "with_deities": 21,
+      "mapped_locations": 21,
+      "without_coordinates": 0
+    }
+  ],
+  "details_matched": 816,
+  "with_deities": 814,
+  "mapped_locations": 792,
+  "enriched_records": 12,
+  "link_corrections": [
+    {
+      "number": 259,
+      "name": "都波只知上神社",
+      "original_url": "https://tottori-jinjacho.jp/pages/876/",
+      "resolved_url": "https://tottori-jinjacho.jp/pages/881/"
+    },
+    {
+      "number": 275,
+      "name": "金刀比羅神社",
+      "original_url": null,
+      "resolved_url": "https://tottori-jinjacho.jp/pages/654/"
+    },
+    {
+      "number": 365,
+      "name": "水分神社",
+      "original_url": "https://tottori-jinjacho.jp/pages/902/",
+      "resolved_url": "https://tottori-jinjacho.jp/pages/901/"
+    },
+    {
+      "number": 475,
+      "name": "今泉神社",
+      "original_url": "https://tottori-jinjacho.jp/pages/276/",
+      "resolved_url": "https://tottori-jinjacho.jp/pages/275/"
+    }
+  ],
+  "missing_fields": [
+    {
+      "id": "tottori-0015",
+      "number": 15,
+      "name": "愛宕神社",
+      "municipality": "鳥取市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0106",
+      "number": 106,
+      "name": "稲荷神社",
+      "municipality": "鳥取市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0213",
+      "number": 213,
+      "name": "岩田神社",
+      "municipality": "八頭町",
+      "deities_missing": true,
+      "coordinates_missing": true,
+      "detail_status": "profile_unavailable"
+    },
+    {
+      "id": "tottori-0249",
+      "number": 249,
+      "name": "小畑神社",
+      "municipality": "鳥取市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0253",
+      "number": 253,
+      "name": "小倉神社",
+      "municipality": "鳥取市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0265",
+      "number": 265,
+      "name": "福井神社",
+      "municipality": "八頭町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0266",
+      "number": 266,
+      "name": "見槻神社",
+      "municipality": "八頭町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0279",
+      "number": 279,
+      "name": "清常神社",
+      "municipality": "八頭町",
+      "deities_missing": true,
+      "coordinates_missing": true,
+      "detail_status": "unlinked"
+    },
+    {
+      "id": "tottori-0282",
+      "number": 282,
+      "name": "小松神社",
+      "municipality": "八頭町",
+      "deities_missing": true,
+      "coordinates_missing": true,
+      "detail_status": "unlinked"
+    },
+    {
+      "id": "tottori-0283",
+      "number": 283,
+      "name": "保木本神社",
+      "municipality": "八頭町",
+      "deities_missing": true,
+      "coordinates_missing": true,
+      "detail_status": "unlinked"
+    },
+    {
+      "id": "tottori-0286",
+      "number": 286,
+      "name": "横田神社",
+      "municipality": "八頭町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0289",
+      "number": 289,
+      "name": "上山神社",
+      "municipality": "八頭町",
+      "deities_missing": true,
+      "coordinates_missing": true,
+      "detail_status": "unlinked"
+    },
+    {
+      "id": "tottori-0291",
+      "number": 291,
+      "name": "小畑上神社",
+      "municipality": "八頭町",
+      "deities_missing": true,
+      "coordinates_missing": true,
+      "detail_status": "unlinked"
+    },
+    {
+      "id": "tottori-0292",
+      "number": 292,
+      "name": "岩渕神社",
+      "municipality": "八頭町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0296",
+      "number": 296,
+      "name": "島神社",
+      "municipality": "八頭町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0315",
+      "number": 315,
+      "name": "岡神社",
+      "municipality": "若桜町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0326",
+      "number": 326,
+      "name": "山志谷神社",
+      "municipality": "八頭町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0331",
+      "number": 331,
+      "name": "明邊神社",
+      "municipality": "八頭町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0357",
+      "number": 357,
+      "name": "津野神社",
+      "municipality": "鳥取市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0365",
+      "number": 365,
+      "name": "水分神社",
+      "municipality": "鳥取市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "resolved_link"
+    },
+    {
+      "id": "tottori-0366",
+      "number": 366,
+      "name": "古川神社",
+      "municipality": "鳥取市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0398",
+      "number": 398,
+      "name": "湊神社",
+      "municipality": "鳥取市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0450",
+      "number": 450,
+      "name": "灘郷神社",
+      "municipality": "湯梨浜町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0515",
+      "number": 515,
+      "name": "服部神社",
+      "municipality": "倉吉市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0577",
+      "number": 577,
+      "name": "伊弉原神社",
+      "municipality": "倉吉市",
+      "deities_missing": true,
+      "coordinates_missing": true,
+      "detail_status": "unlinked"
+    },
+    {
+      "id": "tottori-0578",
+      "number": 578,
+      "name": "古川澤神社",
+      "municipality": "倉吉市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0644",
+      "number": 644,
+      "name": "鶴田神社",
+      "municipality": "南部町",
+      "deities_missing": true,
+      "coordinates_missing": false,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0645",
+      "number": 645,
+      "name": "大蔵神社",
+      "municipality": "南部町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0651",
+      "number": 651,
+      "name": "聖神社",
+      "municipality": "南部町",
+      "deities_missing": true,
+      "coordinates_missing": false,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0687",
+      "number": 687,
+      "name": "泉神社",
+      "municipality": "米子市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0696",
+      "number": 696,
+      "name": "茶畑神社",
+      "municipality": "米子市",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0736",
+      "number": 736,
+      "name": "上田神社",
+      "municipality": "大山町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0739",
+      "number": 739,
+      "name": "高橋神社",
+      "municipality": "大山町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0743",
+      "number": 743,
+      "name": "上萬神社",
+      "municipality": "大山町",
+      "deities_missing": false,
+      "coordinates_missing": true,
+      "detail_status": "matched"
+    },
+    {
+      "id": "tottori-0822",
+      "number": 822,
+      "name": "一ノ貝神社",
+      "municipality": "伯耆町",
+      "deities_missing": true,
+      "coordinates_missing": true,
+      "detail_status": "unlinked"
+    }
+  ],
+  "indexes": [
+    {
+      "label": "鳥取市（鳥取地域）",
+      "url": "https://tottori-jinjacho.jp/pages/961/",
+      "entries": 129
+    },
+    {
+      "label": "鳥取市（国府町・福部町）",
+      "url": "https://tottori-jinjacho.jp/pages/958/",
+      "entries": 42
+    },
+    {
+      "label": "鳥取市（河原町・用瀬町・佐治町）",
+      "url": "https://tottori-jinjacho.jp/pages/959/",
+      "entries": 61
+    },
+    {
+      "label": "鳥取市（気高町・鹿野町・青谷町）",
+      "url": "https://tottori-jinjacho.jp/pages/960/",
+      "entries": 38
+    },
+    {
+      "label": "米子市",
+      "url": "https://tottori-jinjacho.jp/pages/56/",
+      "entries": 65
+    },
+    {
+      "label": "倉吉市",
+      "url": "https://tottori-jinjacho.jp/pages/57/",
+      "entries": 59
+    },
+    {
+      "label": "境港市",
+      "url": "https://tottori-jinjacho.jp/pages/58/",
+      "entries": 11
+    },
+    {
+      "label": "岩美町",
+      "url": "https://tottori-jinjacho.jp/pages/59/",
+      "entries": 40
+    },
+    {
+      "label": "八頭町",
+      "url": "https://tottori-jinjacho.jp/pages/62/",
+      "entries": 75
+    },
+    {
+      "label": "若桜町",
+      "url": "https://tottori-jinjacho.jp/pages/60/",
+      "entries": 20
+    },
+    {
+      "label": "智頭町",
+      "url": "https://tottori-jinjacho.jp/pages/61/",
+      "entries": 26
+    },
+    {
+      "label": "三朝町",
+      "url": "https://tottori-jinjacho.jp/pages/63/",
+      "entries": 28
+    },
+    {
+      "label": "琴浦町",
+      "url": "https://tottori-jinjacho.jp/pages/65/",
+      "entries": 27
+    },
+    {
+      "label": "湯梨浜町",
+      "url": "https://tottori-jinjacho.jp/pages/64/",
+      "entries": 20
+    },
+    {
+      "label": "北栄町",
+      "url": "https://tottori-jinjacho.jp/pages/66/",
+      "entries": 15
+    },
+    {
+      "label": "日吉津村",
+      "url": "https://tottori-jinjacho.jp/pages/67/",
+      "entries": 1
+    },
+    {
+      "label": "大山町",
+      "url": "https://tottori-jinjacho.jp/pages/68/",
+      "entries": 41
+    },
+    {
+      "label": "南部町",
+      "url": "https://tottori-jinjacho.jp/pages/69/",
+      "entries": 30
+    },
+    {
+      "label": "伯耆町",
+      "url": "https://tottori-jinjacho.jp/pages/70/",
+      "entries": 43
+    },
+    {
+      "label": "江府町",
+      "url": "https://tottori-jinjacho.jp/pages/73/",
+      "entries": 14
+    },
+    {
+      "label": "日野町",
+      "url": "https://tottori-jinjacho.jp/pages/72/",
+      "entries": 18
+    },
+    {
+      "label": "日南町",
+      "url": "https://tottori-jinjacho.jp/pages/71/",
+      "entries": 21
+    }
+  ]
+}

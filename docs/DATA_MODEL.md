@@ -2,7 +2,7 @@
 
 ## 源数据与生成产物
 
-资料来源是 `data/catalog.json` 列出的JSON集合。初始集合是 `data/shrines/tottori.json`。每条记录使用稳定的 `id`，并有 `prefecture_code`；新增地区应使用不会与现有记录冲突的标识符，例如 `32-izumo-taisha`。
+资料来源是 `data/catalog.json` 列出的JSON集合。鸟取县分为 `data/shrines/tottori/` 下19个市町村集合，清单由 catalog 指定。每条记录使用稳定的 `id`，并有 `prefecture_code`；新增地区应使用不会与现有记录冲突的标识符，例如 `32-izumo-taisha`。
 
 `database/catalog.sqlite` 和 `offline/tottori-shrine-atlas.html` 由 `python scripts/build.py` 生成。不要只修改SQLite并将它视为已同步JSON；重建会以JSON重新生成数据库。未来转为数据库直接写入时，应先确定唯一写入入口及JSON导出流程。
 
@@ -35,7 +35,7 @@ JSON各字段的 `sources: [0, 1]` 指向同条神社记录的来源数组。界
 
 目前未建立异名统一的 `deities` 主表。后续如需比较神格，应另建受证据约束的对应关系，保留匹配理由与争议状态，再与 `deity_mentions` 关联。
 
-创立传说、最早文献、建筑年代、迁座、合祀为不同事件。机构页面引述古代史料，不等于本项目已经核验了原典。现有12社也不足以统计全县信仰比例。
+创立传说、最早文献、建筑年代、迁座、合祀为不同事件。机构页面引述古代史料，不等于本项目已经核验了原典。全县目录中的缺失和不同祭神分类仍需核对，不能将目录项目数直接解释为信仰比例。
 
 ## 媒体
 
@@ -59,3 +59,20 @@ JSON各字段的 `sources: [0, 1]` 指向同条神社记录的来源数组。界
 ```
 
 示例仅说明结构，不是本版真实媒体记录。`location_id` 和 `license_url` 可以为空；新增文件须真实存在，构建会计算SHA-256。如提供 `sha256`，构建会核对一致性。大文件和外部对象存储的具体导入流程待后续确定。
+
+## v0.3名录、缺失字段与法人资料
+
+| JSON字段 | SQLite表 | 含义 |
+| --- | --- | --- |
+| `directory` | `directory_entries` | 稳定目录编号、名称、名录所在地、原链接、修正链接、详情匹配状态及源页SHA-256 |
+| `record_status`, `availability`, `source_fields` | `record_quality` | 首批研究／目录导入，祭神及由绪可用状态，祭神原栏、旧社格 |
+| `locations[].map_status` | `locations.map_status` | `mapped`、`not_published`、`outside_prefecture_needs_review` |
+| `entity_registry` | `entity_registry` | 政府法人编号、登记关闭日期、登记地址与来源；不代表现场状态 |
+
+新条目ID为 `tottori-####`（原目录号），既有12条ID保持不变。`no` 是显示次序，`directory.number` 是原目录编号，不能混用。一个名录条目对应一条神社记录；大神山神社仍有两个地点。
+
+未公布祭神时 `kami: []`，并明确 `availability.kami: "not_published"`。坐标只允许成对为null，缺失时不得用0、县城中心或地址估算点替代。来源坐标落在县界外时保留原值但暂不绘制；详情注明异常。
+
+`source_fields.kami_verbatim` 保留原栏文本。界面按原分隔符拆分显示，原文中的错位或疑似连字另标“原表需辨读”，不擅自修补为确定的神名。
+
+`data/coverage-tottori.json` 是这一采集批次的核对报告，包含22个目录各自的条数、19市町村统计、缺失字段及链接修正。更新资料时同步核对报告；改变收录范围时应另建批次或更新范围说明。

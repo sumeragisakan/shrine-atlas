@@ -1,0 +1,7034 @@
+[
+  {
+    "id": "kamo-kurayoshi",
+    "no": 6,
+    "name": "賀茂神社",
+    "kana": "かもじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [
+      "贺茂神社",
+      "倉吉市",
+      "賀茂皇大神宮",
+      "别雷神",
+      "賀茂別雷神",
+      "仓吉市"
+    ],
+    "headline": "賀茂別雷神",
+    "tags": [
+      "贺茂信仰",
+      "地址异记"
+    ],
+    "intro": "仓吉打吹山附近的神社。神社庁记载其从京都賀茂別雷神社勧请的传承。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜賀茂神社（倉吉市）",
+        "url": "https://tottori-jinjacho.jp/pages/214/",
+        "kind": "神社庁目录",
+        "covers": "名称、读音、所在地、祭神、由绪与网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取県観光連盟｜賀茂神社",
+        "url": "https://www.tottori-guide.jp/tourism/tour/view/826",
+        "kind": "官方观光机构",
+        "covers": "祭神、地点与地方传承",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "文化庁｜賀茂神社本殿",
+        "url": "https://kunishitei.bunka.go.jp/bsys/maindetails/101/00013177",
+        "kind": "国家文化财数据库",
+        "covers": "本殿所在地",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表）",
+        "names": [
+          "賀茂別雷神"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "name": "賀茂神社（仓吉）",
+        "address": "鳥取県倉吉市葵町584",
+        "lat": 35.429124,
+        "lon": 133.828801,
+        "sources": [
+          0,
+          2
+        ],
+        "label": "賀茂神社（仓吉）",
+        "precision": "来源网页的地图参考点；用于区域分布展示，非测量坐标或导航入口。",
+        "id": "kamo-kurayoshi:1",
+        "map_status": "mapped"
+      }
+    ],
+    "facts": [
+      {
+        "label": "勧请传承",
+        "text": "神社庁将其起源叙述为勧请京都賀茂別雷神社的祭神。确切创立年代本版未据此推定。",
+        "sources": [
+          0
+        ],
+        "nature": "社传"
+      },
+      {
+        "label": "神社旧称",
+        "text": "神社庁记载近世称賀茂皇大神宮，明治初年改称賀茂神社。",
+        "sources": [
+          0
+        ],
+        "nature": "机构引述沿革"
+      }
+    ],
+    "note": "地址有异记：神社庁与文化庁本殿条目标为葵町584；县观光网页标为葵町586。本版主地址采用前者，并保留差异。",
+    "noteSources": [
+      0,
+      1,
+      2
+    ],
+    "checked": "2026-10-29",
+    "prefecture_code": 31,
+    "media": [],
+    "record_status": "research_enriched",
+    "directory": {
+      "number": 484,
+      "index_name": "賀茂神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市葵町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/214/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/214/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "76e6c0d8eb782f1305a82eef2b0126a95a4159ac5916f1c38e56ab637799f248"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "賀茂別雷神",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "hahaki",
+    "no": 7,
+    "name": "波波伎神社",
+    "kana": "ははきじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [
+      "波波岐",
+      "倉吉市",
+      "八重事代主命",
+      "仓吉市"
+    ],
+    "headline": "事代主神",
+    "tags": [
+      "事代主信仰",
+      "多祭神"
+    ],
+    "intro": "仓吉福庭的神社。神社庁由绪称主祭神为事代主大神，另在祭神表中列有多位神祇。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜波波伎神社",
+        "url": "https://tottori-jinjacho.jp/pages/211/",
+        "kind": "神社庁目录",
+        "covers": "名称、读音、所在地、祭神、由绪与网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取県観光連盟｜波波伎神社",
+        "url": "https://www.tottori-guide.jp/tourism/tour/view/811",
+        "kind": "官方观光机构",
+        "covers": "主祭神、地址与地方传承",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "主祭神（神社庁由绪）",
+        "names": [
+          "事代主神（事代主大神）"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "祭神表中的其他神（未分主配）",
+        "names": [
+          "下照姫神",
+          "天稚彦神",
+          "少彦名神",
+          "健御名方神",
+          "味耜高彦根神",
+          "狹依比賣命",
+          "多紀理比賣",
+          "多岐都比賣命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "name": "波波伎神社",
+        "address": "鳥取県倉吉市福庭654",
+        "lat": 35.465283,
+        "lon": 133.854177,
+        "sources": [
+          0,
+          1
+        ],
+        "label": "波波伎神社",
+        "precision": "来源网页的地图参考点；用于区域分布展示，非测量坐标或导航入口。",
+        "id": "hahaki:1",
+        "map_status": "mapped"
+      }
+    ],
+    "facts": [
+      {
+        "label": "创立年代",
+        "text": "神社庁记为创立年代不详。",
+        "sources": [
+          0
+        ],
+        "nature": "机构记载"
+      },
+      {
+        "label": "1916｜合并",
+        "text": "神社庁记载大正五年合并海田神社，并记其祭神为宗像三神。",
+        "sources": [
+          0
+        ],
+        "nature": "机构引述沿革"
+      }
+    ],
+    "note": "祭神表保留“健御名方神”“多紀理比賣”等原文写法，不在这一版本自动改写或合并异名。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-29",
+    "prefecture_code": 31,
+    "media": [],
+    "record_status": "research_enriched",
+    "directory": {
+      "number": 440,
+      "index_name": "波波伎神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市福庭",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/211/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/211/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "abbc65e1509479d24ad123a0978972f9f8957d005a8be3e0e0f7e328f0694dfb"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "事代主神　下照姫神　天稚彦神　少彦名神　\n健御名方神　味耜高彦根神　狹依比賣命　\n多紀理比賣　多岐都比賣命",
+      "former_rank": "県社"
+    }
+  },
+  {
+    "id": "tottori-0433",
+    "no": 440,
+    "prefecture_code": 31,
+    "name": "天高神社",
+    "kana": "あまたかじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "天津日高彦波瀲武鸕鷀草葺不合尊・倉稲魂神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第433号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜天高神社",
+        "url": "https://tottori-jinjacho.jp/pages/205/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天津日高彦波瀲武鸕鷀草葺不合尊",
+          "倉稲魂神",
+          "玉依姫命",
+          "菅原道真公"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0433:1",
+        "name": "天高神社",
+        "label": "天高神社",
+        "address": "鳥取県倉吉市八屋428",
+        "lat": 35.44124905818477,
+        "lon": 133.8523070119626,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号433。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《三代实录》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月17日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 433,
+      "index_name": "天高神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市八屋",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/205/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/205/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "d3720d80d7d8734dff0d79dd9ff7f6f48ef49c8528cf353e139fcda2caa9726a"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天津日高彦波瀲武鸕鷀草葺不合尊　倉稲魂神　玉依姫命　菅原道真公",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0434",
+    "no": 441,
+    "prefecture_code": 31,
+    "name": "鹿島神社",
+    "kana": "かしまじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "武甕槌神・倉稲魂神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第434号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜鹿島神社",
+        "url": "https://tottori-jinjacho.jp/pages/209/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "武甕槌神",
+          "倉稲魂神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0434:1",
+        "name": "鹿島神社",
+        "label": "鹿島神社",
+        "address": "鳥取県倉吉市伊木567",
+        "lat": 35.44517384083256,
+        "lon": 133.85448371870854,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号434。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月17日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 434,
+      "index_name": "鹿島神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市伊木",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/209/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/209/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "74119c1f88e15e7c174c23aba684139e44034c6bbe1dec967eface823a8cb521"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "武甕槌神　倉稲魂神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0435",
+    "no": 442,
+    "prefecture_code": 31,
+    "name": "大原神社",
+    "kana": "おおはらじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "正哉吾勝勝速日天忍穗耳神・天穂日神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第435号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜大原神社",
+        "url": "https://tottori-jinjacho.jp/pages/204/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "正哉吾勝勝速日天忍穗耳神",
+          "天穂日神",
+          "天津彦根神",
+          "活津彦根神",
+          "熊野樟日神",
+          "素盞嗚神",
+          "倉稲魂神",
+          "天満天神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0435:1",
+        "name": "大原神社",
+        "label": "大原神社",
+        "address": "鳥取県倉吉市大原619",
+        "lat": 35.42186205331332,
+        "lon": 133.85606697668646,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号435。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 １０月９日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 435,
+      "index_name": "大原神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市大原",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/204/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/204/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "99287cdac4063c5ba689638da6f141a949475390ab79bf1c6ceedde5e7dd24dd"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "正哉吾勝勝速日天忍穗耳神　天穂日神　天津彦根神　\n活津彦根神　熊野樟日神　素盞嗚神　倉稲魂神　天満天神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0436",
+    "no": 443,
+    "prefecture_code": 31,
+    "name": "新宮山神社",
+    "kana": "しんぐうやまじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "天照大神・素盞嗚尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第436号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜新宮山神社",
+        "url": "https://tottori-jinjacho.jp/pages/206/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天照大神",
+          "素盞嗚尊",
+          "稲田姫命",
+          "倉稲魂命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0436:1",
+        "name": "新宮山神社",
+        "label": "新宮山神社",
+        "address": "鳥取県倉吉市下余戸4",
+        "lat": 35.43848268051287,
+        "lon": 133.85129359999996,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号436。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 １０月７日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 436,
+      "index_name": "新宮山神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市下余戸",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/206/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/206/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "b4114586dc7541ee2e7bb047fd6ab37d9edf20102538bb91f0c394a90158d570"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天照大神　素盞嗚尊　稲田姫命　倉稲魂命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0437",
+    "no": 444,
+    "prefecture_code": 31,
+    "name": "松上神社",
+    "kana": "まつがみじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "猿田彦命・倉稲魂神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第437号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜松上神社",
+        "url": "https://tottori-jinjacho.jp/pages/207/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "猿田彦命",
+          "倉稲魂神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0437:1",
+        "name": "松上神社",
+        "label": "松上神社",
+        "address": "鳥取県倉吉市山根99",
+        "lat": 35.44873054708113,
+        "lon": 133.8556223805236,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号437。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：旧村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月17日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 437,
+      "index_name": "松上神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市山根",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/207/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/207/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "f83f1c42173ff145486d89318a21eb019c229d123a8956f3e7c09a3b79f0aef7"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "猿田彦命　倉稲魂神",
+      "former_rank": "旧村社"
+    }
+  },
+  {
+    "id": "tottori-0438",
+    "no": 445,
+    "prefecture_code": 31,
+    "name": "白山神社",
+    "kana": "はくさんじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "伊弉諾神・伊弉冉神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第438号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜白山神社",
+        "url": "https://tottori-jinjacho.jp/pages/208/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "伊弉諾神",
+          "伊弉冉神",
+          "大山祇神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0438:1",
+        "name": "白山神社",
+        "label": "白山神社",
+        "address": "鳥取県倉吉市栗尾553",
+        "lat": 35.427373868218815,
+        "lon": 133.86966221893834,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号438。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 １０月９日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 438,
+      "index_name": "白山神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市栗尾",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/208/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/208/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "1f1eb86893050e49aa64c0c96d62c760f2e6e534fc7dc2176730ff9e5eaa9b27"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊弉諾神　伊弉冉神　大山祇神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0439",
+    "no": 446,
+    "prefecture_code": 31,
+    "name": "立原神社",
+    "kana": "たちはらじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "伊弉諾命・速玉之男命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第439号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜立原神社",
+        "url": "https://tottori-jinjacho.jp/pages/210/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "伊弉諾命",
+          "速玉之男命",
+          "事解之男命",
+          "倉稲魂神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0439:1",
+        "name": "立原神社",
+        "label": "立原神社",
+        "address": "鳥取県倉吉市上余戸85",
+        "lat": 35.43219936208394,
+        "lon": 133.85944096073052,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号439。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 439,
+      "index_name": "立原神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市上余戸",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/210/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/210/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "40fad0e20231144cfa3950cc46d8808eca07a3576b2296d8f0a7a7c97ede0279"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊弉諾命　速玉之男命　事解之男命　倉稲魂神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0441",
+    "no": 447,
+    "prefecture_code": 31,
+    "name": "上里神社",
+    "kana": "うえさとじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "天津日高日子番能邇邇藝命・天兒屋根命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第441号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜上里神社",
+        "url": "https://tottori-jinjacho.jp/pages/212/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天津日高日子番能邇邇藝命",
+          "天兒屋根命",
+          "天鈿女命",
+          "日下神",
+          "新宮神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0441:1",
+        "name": "上里神社",
+        "label": "上里神社",
+        "address": "鳥取県倉吉市清谷1217",
+        "lat": 35.4711382,
+        "lon": 133.8566309,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号441。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《三代实录》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月9日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 441,
+      "index_name": "上里神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市清谷",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/212/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/212/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "f92d693c02fbbf15301edadcb1b077fe7fee5b1f433a99ef811afcf6a8e1f5bd"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天津日高日子番能邇邇藝命　天兒屋根命　天鈿女命　日下神　新宮神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0442",
+    "no": 448,
+    "prefecture_code": 31,
+    "name": "上井神社",
+    "kana": "あげいじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "國常立命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第442号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜上井神社",
+        "url": "https://tottori-jinjacho.jp/pages/213/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "國常立命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0442:1",
+        "name": "上井神社",
+        "label": "上井神社",
+        "address": "鳥取県倉吉市上井884",
+        "lat": 35.455667996480045,
+        "lon": 133.8505171760748,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号442。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月17日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 442,
+      "index_name": "上井神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市上井",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/213/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/213/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "794e84d2961f0ac240fe61a77a9565b8b51a3121d4d70131c5aad49dc61e1109"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "國常立命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0485",
+    "no": 489,
+    "prefecture_code": 31,
+    "name": "倉吉八幡宮",
+    "kana": "くらよしはちまんぐう",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "応神天皇・仲哀天皇 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第485号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜倉吉八幡宮",
+        "url": "https://tottori-jinjacho.jp/pages/215/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "応神天皇",
+          "仲哀天皇",
+          "神功皇后"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0485:1",
+        "name": "倉吉八幡宮",
+        "label": "倉吉八幡宮",
+        "address": "鳥取県倉吉市八幡町3591",
+        "lat": 35.4236233640963,
+        "lon": 133.8134127509262,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号485。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 485,
+      "index_name": "倉吉八幡宮",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市八幡町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/215/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/215/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "f69a7af07be3e17576bf85baf3615f5a7f3e5126f30b1cf74b3085078096952a"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "応神天皇　仲哀天皇　神功皇后",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0486",
+    "no": 490,
+    "prefecture_code": 31,
+    "name": "大江神社",
+    "kana": "おおえじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大江磐代君",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第486号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜大江神社",
+        "url": "https://tottori-jinjacho.jp/pages/216/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大江磐代君"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0486:1",
+        "name": "大江神社",
+        "label": "大江神社",
+        "address": "鳥取県倉吉市仲ノ町3455",
+        "lat": 35.42958107797477,
+        "lon": 133.82178214372482,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号486。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月14日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 486,
+      "index_name": "大江神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市仲ノ町字打吹山",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/216/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/216/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "a44b922bc162638a09f0d0c7daa82e3964f2ffd07ebf4ea37f9f117575169857"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大江磐代君",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0487",
+    "no": 491,
+    "prefecture_code": 31,
+    "name": "小鴨神社",
+    "kana": "おがもじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大己貴命・少彦名命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第487号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜小鴨神社",
+        "url": "https://tottori-jinjacho.jp/pages/217/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大己貴命",
+          "少彦名命",
+          "素盞嗚神",
+          "奥津彦神",
+          "土祖神",
+          "奥津姫神",
+          "倉稲魂神",
+          "瀬織津姫神",
+          "句々能智命",
+          "建御名方神",
+          "玉依姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0487:1",
+        "name": "小鴨神社",
+        "label": "小鴨神社",
+        "address": "鳥取県倉吉市大宮33",
+        "lat": 35.398154224310545,
+        "lon": 133.80232158737599,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号487。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：郷社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月10日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 487,
+      "index_name": "小鴨神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市大宮",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/217/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/217/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "55c4e9cdbdef45206ef52a6493c846ffe311208e0c3bbd12a690e0404cb2a67e"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大己貴命　少彦名命　素盞嗚神　奥津彦神　\n土祖神　奥津姫神　倉稲魂神　瀬織津姫神　\n句々能智命　建御名方神　玉依姫命",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "tottori-0488",
+    "no": 492,
+    "prefecture_code": 31,
+    "name": "北野神社",
+    "kana": "きたのじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "菅原道真公・誉田別命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第488号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜北野神社",
+        "url": "https://tottori-jinjacho.jp/pages/218/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "菅原道真公",
+          "誉田別命",
+          "保食神",
+          "少名毘古那神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0488:1",
+        "name": "北野神社",
+        "label": "北野神社",
+        "address": "鳥取県倉吉市北野712",
+        "lat": 35.420627992407915,
+        "lon": 133.79699591933755,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号488。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月25日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 488,
+      "index_name": "北野神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市北野",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/218/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/218/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "ad5438e65318a30825c239b5b5608ec15522aa3642361dd7f92d4db6007bfe17"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "菅原道真公　誉田別命　保食神　少名毘古那神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0489",
+    "no": 493,
+    "prefecture_code": 31,
+    "name": "鎭靈神社",
+    "kana": "しずみたまじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "国家公共につくした人の神霊6・200柱",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第489号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜鎭靈神社",
+        "url": "https://tottori-jinjacho.jp/pages/219/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "国家公共につくした人の神霊6",
+          "200柱"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0489:1",
+        "name": "鎭靈神社",
+        "label": "鎭靈神社",
+        "address": "鳥取県倉吉市仲ノ町3445-15",
+        "lat": 35.42930863103853,
+        "lon": 133.82365543989192,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号489。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 489,
+      "index_name": "鎭靈神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市仲ノ町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/219/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/219/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "f693a713e9877fee2e2dbde61bba3347aaa08a49d54b33ec7373fc7713b4e1a3"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "国家公共につくした人の神霊6,200柱",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0490",
+    "no": 494,
+    "prefecture_code": 31,
+    "name": "新宮神社",
+    "kana": "しんぐうじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "伊弉那岐命・伊弉那美命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第490号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜新宮神社",
+        "url": "https://tottori-jinjacho.jp/pages/220/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "伊弉那岐命",
+          "伊弉那美命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0490:1",
+        "name": "新宮神社",
+        "label": "新宮神社",
+        "address": "鳥取県倉吉市駄経寺町55",
+        "lat": 35.426922445138324,
+        "lon": 133.83648528559064,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号490。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 490,
+      "index_name": "新宮神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市駄経寺町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/220/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/220/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "55d029e6f3824a724a4b5155d4a6de55c11526ec1514caafeb40e4321a341680"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊弉那岐命　伊弉那美命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0491",
+    "no": 495,
+    "prefecture_code": 31,
+    "name": "住吉神社",
+    "kana": "すみよしじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "上筒男命・中筒男命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第491号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜住吉神社",
+        "url": "https://tottori-jinjacho.jp/pages/221/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "上筒男命",
+          "中筒男命",
+          "底筒男命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0491:1",
+        "name": "住吉神社",
+        "label": "住吉神社",
+        "address": "鳥取県倉吉市住吉町3366",
+        "lat": 35.430164133233255,
+        "lon": 133.83156406378896,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号491。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月12日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 491,
+      "index_name": "住吉神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市住吉町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/221/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/221/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "b040c6ec25e805d66ab610994d916bd261308a00716e26b5af5ec1630f82285f"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "上筒男命　中筒男命　底筒男命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0492",
+    "no": 496,
+    "prefecture_code": 31,
+    "name": "倉吉神社",
+    "kana": "くらよしじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "素盞嗚命・表筒之男命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第492号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜倉吉神社",
+        "url": "https://tottori-jinjacho.jp/pages/222/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚命",
+          "表筒之男命",
+          "中筒之男命",
+          "底筒之男命",
+          "息長足姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0492:1",
+        "name": "倉吉神社",
+        "label": "倉吉神社",
+        "address": "鳥取県倉吉市瀬崎町浅田谷3451",
+        "lat": 35.43115746123705,
+        "lon": 133.81991048486404,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号492。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 7月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 492,
+      "index_name": "倉吉神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市浅田谷",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/222/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/222/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "2857fb4468fc9ac8b58cdbadd969f187550fa79a9e0edaa98c23ce9eb08fa1d0"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚命　表筒之男命　中筒之男命　底筒之男命　息長足姫命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0493",
+    "no": 497,
+    "prefecture_code": 31,
+    "name": "勝宿禰神社",
+    "kana": "かちすくねじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "彦火火出見尊・宇迦之御魂命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第493号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜勝宿禰神社",
+        "url": "https://tottori-jinjacho.jp/pages/223/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "彦火火出見尊",
+          "宇迦之御魂命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0493:1",
+        "name": "勝宿禰神社",
+        "label": "勝宿禰神社",
+        "address": "鳥取県倉吉市下田中町113",
+        "lat": 35.43166335706059,
+        "lon": 133.845330759813,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号493。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《三代实录》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月9日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 493,
+      "index_name": "勝宿禰神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市下田中",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/223/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/223/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "a3ff980eb0e63a59b5e9e2f8a195c6cf17fc6b4381c3155f1fd97bdbe8d75d74"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "彦火火出見尊　宇迦之御魂命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0494",
+    "no": 498,
+    "prefecture_code": 31,
+    "name": "神庭神社",
+    "kana": "かんばじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "國常立命・素盞嗚命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第494号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜神庭神社",
+        "url": "https://tottori-jinjacho.jp/pages/224/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "國常立命",
+          "素盞嗚命",
+          "國狹槌命",
+          "宇迦之御魂命",
+          "菅原道眞命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0494:1",
+        "name": "神庭神社",
+        "label": "神庭神社",
+        "address": "鳥取県倉吉市円谷町252",
+        "lat": 35.419304041483144,
+        "lon": 133.84775773159527,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号494。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月9日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 494,
+      "index_name": "神庭神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市円谷",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/224/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/224/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "90f56276bd31dc2b90ded2c895f40e8641859abe74801bf7b4e47f4dcb1ec184"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "國常立命　素盞嗚命　國狹槌命　宇迦之御魂命　菅原道眞命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0495",
+    "no": 499,
+    "prefecture_code": 31,
+    "name": "村上神社",
+    "kana": "むらかみじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "土御祖之命・奥津比古命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第495号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜村上神社",
+        "url": "https://tottori-jinjacho.jp/pages/225/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "土御祖之命",
+          "奥津比古命",
+          "奥津比女命",
+          "宇迦魂命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0495:1",
+        "name": "村上神社",
+        "label": "村上神社",
+        "address": "鳥取県倉吉市巖城1536",
+        "lat": 35.43911236224567,
+        "lon": 133.83170566193894,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号495。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 495,
+      "index_name": "村上神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市巌城",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/225/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/225/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "0bc5301adc7224ea2696f871823ab46c866086b26842c11f98bc8fa10e55a38c"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "土御祖之命　奥津比古命　奥津比女命　宇迦魂命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0496",
+    "no": 500,
+    "prefecture_code": 31,
+    "name": "田内神社",
+    "kana": "たうちじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "天穂日之命・菅原道眞命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第496号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜田内神社",
+        "url": "https://tottori-jinjacho.jp/pages/226/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天穂日之命",
+          "菅原道眞命",
+          "宇迦之御魂命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0496:1",
+        "name": "田内神社",
+        "label": "田内神社",
+        "address": "鳥取県倉吉市巖城1494",
+        "lat": 35.44300370904317,
+        "lon": 133.83831730716065,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号496。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 496,
+      "index_name": "田内神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市巖城",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/226/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/226/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "8bcb1c4350789051ac82a8612fdbf0cba3268c05071c6d67d2db4d7f9f6ea5ef"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天穂日之命　菅原道眞命　宇迦之御魂命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0497",
+    "no": 501,
+    "prefecture_code": 31,
+    "name": "東山神社",
+    "kana": "ひがしやまじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "素盞嗚命・大山祇命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第497号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜東山神社",
+        "url": "https://tottori-jinjacho.jp/pages/227/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚命",
+          "大山祇命",
+          "宇迦之御魂命",
+          "菅原道眞命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0497:1",
+        "name": "東山神社",
+        "label": "東山神社",
+        "address": "鳥取県倉吉市米田町568-4",
+        "lat": 35.422471225033846,
+        "lon": 133.84449832790116,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号497。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 497,
+      "index_name": "東山神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市米田町",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/227/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/227/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "28f98348c42609bb82139f4bcb5f7f94c643767cd98ae0aefb1020c42937ff14"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚命　大山祇命　宇迦之御魂命　菅原道眞命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0498",
+    "no": 502,
+    "prefecture_code": 31,
+    "name": "廣瀬神社",
+    "kana": "ひろせじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "高皇産靈神・伊弉冉命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第498号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜廣瀬神社",
+        "url": "https://tottori-jinjacho.jp/pages/228/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "高皇産靈神",
+          "伊弉冉命",
+          "菊理媛尊",
+          "大己貴尊",
+          "倉稲魂命",
+          "句句迺馳命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0498:1",
+        "name": "廣瀬神社",
+        "label": "廣瀬神社",
+        "address": "鳥取県​倉吉市広瀬1314",
+        "lat": 35.37108067357905,
+        "lon": 133.79177612807655,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号498。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月23日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 498,
+      "index_name": "廣瀬神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市広瀬",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/228/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/228/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "aa324abc4640c4270e33b6a1bc05676a312b894b04fe2dceb08f1600ee2acae1"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "高皇産靈神　伊弉冉命　菊理媛尊　\n大己貴尊　倉稲魂命　句句迺馳命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0499",
+    "no": 503,
+    "prefecture_code": 31,
+    "name": "上小鴨神社",
+    "kana": "かみおがもじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "素盞嗚尊・豊斟渟尊 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第499号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜上小鴨神社",
+        "url": "https://tottori-jinjacho.jp/pages/229/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊",
+          "豊斟渟尊",
+          "事解男神",
+          "建御名方神",
+          "品陀和気命",
+          "土之御祖神",
+          "速玉男命",
+          "菅原道真朝臣",
+          "奥津日子神",
+          "奥津比賣神",
+          "倉稲魂神",
+          "國常立尊",
+          "大日靈尊",
+          "伊弉冉尊",
+          "別雷神",
+          "国狭土尊",
+          "大國主神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0499:1",
+        "name": "上小鴨神社",
+        "label": "上小鴨神社",
+        "address": "鳥取県倉吉市鴨河内441",
+        "lat": 35.39010123829462,
+        "lon": 133.7884551826477,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号499。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月11日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 499,
+      "index_name": "上小鴨神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市鴨河内",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/229/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/229/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "79cc5b684dc7e0a32db0957a2eec5448bab77f8abc1a42dd9c3acb2e006c6c1d"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊　豊斟渟尊　事解男神　建御名方神　\n品陀和気命　土之御祖神　速玉男命　菅原道真朝臣　\n奥津日子神　奥津比賣神　倉稲魂神　國常立尊　\n大日靈尊　伊弉冉尊　別雷神　国狭土尊　大國主神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0500",
+    "no": 504,
+    "prefecture_code": 31,
+    "name": "矢送神社",
+    "kana": "やおくりじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "天児屋根命・瓊瓊杵命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第500号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜矢送神社",
+        "url": "https://tottori-jinjacho.jp/pages/230/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天児屋根命",
+          "瓊瓊杵命",
+          "天太玉命",
+          "素盞嗚命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0500:1",
+        "name": "矢送神社",
+        "label": "矢送神社",
+        "address": "鳥取県倉吉市関金町山口447",
+        "lat": 35.3464708325111,
+        "lon": 133.74431122489722,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号500。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 9月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 500,
+      "index_name": "矢送神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市関金町山口",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/230/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/230/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "2442073d977bd30dec480b20d37da2e46e9a9503c82c3c68c8f8fba0fda03f15"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天児屋根命　瓊瓊杵命　天太玉命　素盞嗚命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0501",
+    "no": 505,
+    "prefecture_code": 31,
+    "name": "日吉神社",
+    "kana": "ひよしじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大己貴神・國常立神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第501号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜日吉神社",
+        "url": "https://tottori-jinjacho.jp/pages/231/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大己貴神",
+          "國常立神",
+          "正哉吾勝神",
+          "国狭槌神",
+          "伊邪奈美神",
+          "瓊瓊杵神",
+          "惶根神",
+          "建御名方神",
+          "大山祇神",
+          "道眞神",
+          "倉稲魂神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0501:1",
+        "name": "日吉神社",
+        "label": "日吉神社",
+        "address": "鳥取県倉吉市関金町関金宿325",
+        "lat": 35.36577223592262,
+        "lon": 133.75695824508048,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号501。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 9月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 501,
+      "index_name": "日吉神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市関金町関金宿",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/231/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/231/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "95b812d0142e6ffcd14d92494664126f8fa0cca2ab8128bea476d1be08734964"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大己貴神　國常立神　正哉吾勝神　国狭槌神　\n伊邪奈美神　瓊瓊杵神　惶根神　建御名方神　\n大山祇神　道眞神　倉稲魂神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0502",
+    "no": 506,
+    "prefecture_code": 31,
+    "name": "松河原神社",
+    "kana": "まつがわらじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "譽田別神・菅原神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第502号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜松河原神社",
+        "url": "https://tottori-jinjacho.jp/pages/232/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "譽田別神",
+          "菅原神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0502:1",
+        "name": "松河原神社",
+        "label": "松河原神社",
+        "address": "鳥取県倉吉市関金町松河原133-2",
+        "lat": 35.37264870167708,
+        "lon": 133.73680922838057,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号502。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月7日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 502,
+      "index_name": "松河原神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市関金町松河原",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/232/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/232/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "3b31a5747c7c8498e8cf385d5dd49c354becd876de788426a5299cfb6dd8b889"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別神　菅原神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0503",
+    "no": 507,
+    "prefecture_code": 31,
+    "name": "大鳥居神社",
+    "kana": "おおとりいじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "天御中主神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第503号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜大鳥居神社",
+        "url": "https://tottori-jinjacho.jp/pages/233/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天御中主神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0503:1",
+        "name": "大鳥居神社",
+        "label": "大鳥居神社",
+        "address": "鳥取県​倉吉市関金町大鳥居321",
+        "lat": 35.36932906200983,
+        "lon": 133.75044101476726,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号503。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 9月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 503,
+      "index_name": "大鳥居神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市関金町大鳥居",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/233/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/233/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "6cf47459c5d0c4e491eb2c56499ac7419cffcbc2b700e18cfbb61f630cb7eae1"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天御中主神",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0504",
+    "no": 508,
+    "prefecture_code": 31,
+    "name": "神田神社",
+    "kana": "かんだじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "天照日大御神・天忍穂耳命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第504号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜神田神社",
+        "url": "https://tottori-jinjacho.jp/pages/234/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "天照日大御神",
+          "天忍穂耳命",
+          "日子番能迩迩藝命",
+          "日子穂穂手見命",
+          "鵜草葺不合命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0504:1",
+        "name": "神田神社",
+        "label": "神田神社",
+        "address": "鳥取県倉吉市関金町泰久寺632",
+        "lat": 35.36756425306117,
+        "lon": 133.72768726502974,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号504。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月7日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 504,
+      "index_name": "神田神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市関金町泰久寺",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/234/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/234/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "1796b0e0b0fc9f510e0cbef8381d8741b6ae14484c995bba3ae9eba59220f9be"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "天照日大御神　天忍穂耳命　日子番能迩迩藝命　\n日子穂穂手見命　鵜草葺不合命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0505",
+    "no": 509,
+    "prefecture_code": 31,
+    "name": "黒谷神社",
+    "kana": "くろだにじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大山祇神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第505号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜黒谷神社",
+        "url": "https://tottori-jinjacho.jp/pages/235/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大山祇神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0505:1",
+        "name": "黒谷神社",
+        "label": "黒谷神社",
+        "address": "鳥取県倉吉市関金町安歩636",
+        "lat": 35.37331332858859,
+        "lon": 133.76398995123208,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号505。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 9月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 505,
+      "index_name": "黒谷神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市関金町安歩",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/235/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/235/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "ccf9a98956dc1d56b90b707629ac37aff2708426631f85bfb2ad4858aad25884"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大山祇神",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0506",
+    "no": 510,
+    "prefecture_code": 31,
+    "name": "山守神社",
+    "kana": "やまもりじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大己貴命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第506号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜山守神社",
+        "url": "https://tottori-jinjacho.jp/pages/236/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大己貴命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0506:1",
+        "name": "山守神社",
+        "label": "山守神社",
+        "address": "鳥取県倉吉市関金町今西515",
+        "lat": 35.3584565721275,
+        "lon": 133.71832439129753,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号506。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 11月3日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 506,
+      "index_name": "山守神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市関金町今西",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/236/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/236/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "69e17a08bae775f56e1e6f927992845050d046eaed64b4f12fcb118b0b94970c"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大己貴命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0507",
+    "no": 511,
+    "prefecture_code": 31,
+    "name": "山郷神社",
+    "kana": "やまさとじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "譽田別尊・菅原神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第507号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜山郷神社",
+        "url": "https://tottori-jinjacho.jp/pages/237/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "譽田別尊",
+          "菅原神",
+          "須佐之男命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0507:1",
+        "name": "山郷神社",
+        "label": "山郷神社",
+        "address": "鳥取県倉吉市関金町堀3298",
+        "lat": 35.3636511531679,
+        "lon": 133.70052172790116,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号507。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 11月3日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 507,
+      "index_name": "山郷神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市関金町堀",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/237/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/237/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "2d30c852d418fe2c6915ec063ae2164dd506e092b34e0e3a8cfcb6e5cc2609c4"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別尊　菅原神　須佐之男命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0508",
+    "no": 512,
+    "prefecture_code": 31,
+    "name": "中原神社",
+    "kana": "なかばらじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大山祇命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第508号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜中原神社",
+        "url": "https://tottori-jinjacho.jp/pages/238/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大山祇命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0508:1",
+        "name": "中原神社",
+        "label": "中原神社",
+        "address": "鳥取県倉吉市関金町明高903―2",
+        "lat": 35.36593858086255,
+        "lon": 133.6808146623513,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号508。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月10日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 508,
+      "index_name": "中原神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市関金町明高",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/238/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/238/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "69e4d4e123f0a9600fe941be2aa5c009424bd732492fa92b6101d9f02759556e"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大山祇命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0509",
+    "no": 513,
+    "prefecture_code": 31,
+    "name": "倭文神社",
+    "kana": "しどりじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "経津主神・武葉槌神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第509号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜倭文神社",
+        "url": "https://tottori-jinjacho.jp/pages/239/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "経津主神",
+          "武葉槌神",
+          "下照姫神",
+          "伊弉諾命",
+          "伊弉冉命",
+          "誉田別命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0509:1",
+        "name": "倭文神社",
+        "label": "倭文神社",
+        "address": "鳥取県倉吉市志津209",
+        "lat": 35.393820481875466,
+        "lon": 133.75607868284044,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号509。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：県社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《延喜式》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月29日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 509,
+      "index_name": "倭文神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市志津",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/239/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/239/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "84f5adea60b897ec24ea1e5e40fa9931b27f65d7312534f97eef87b16eb752f9"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "経津主神　武葉槌神　下照姫神　\n伊弉諾命　伊弉冉命　誉田別命",
+      "former_rank": "県社"
+    }
+  },
+  {
+    "id": "tottori-0510",
+    "no": 514,
+    "prefecture_code": 31,
+    "name": "山長神社",
+    "kana": "やまおさじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "句句迺馳神・大山祇命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第510号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜山長神社",
+        "url": "https://tottori-jinjacho.jp/pages/240/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "句句迺馳神",
+          "大山祇命",
+          "素盞嗚尊",
+          "菅原道真公",
+          "大己貴命",
+          "伊弉諾命",
+          "句句奴志神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0510:1",
+        "name": "山長神社",
+        "label": "山長神社",
+        "address": "鳥取県倉吉市森142",
+        "lat": 35.385997688325936,
+        "lon": 133.72877386932888,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号510。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月9日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 510,
+      "index_name": "山長神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市森",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/240/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/240/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "717fcb4e19de94cc6f199310dc4c98d5589fd70a933d5c73b955bf6a5ba106db"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "句句迺馳神　大山祇命　素盞嗚尊　菅原道真公　\n大己貴命　伊弉諾命　句句奴志神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0511",
+    "no": 515,
+    "prefecture_code": 31,
+    "name": "三江神社",
+    "kana": "みえじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "國常立尊・倉稲魂神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第511号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜三江神社",
+        "url": "https://tottori-jinjacho.jp/pages/241/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "國常立尊",
+          "倉稲魂神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0511:1",
+        "name": "三江神社",
+        "label": "三江神社",
+        "address": "鳥取県倉吉市三江1166",
+        "lat": 35.41498430878153,
+        "lon": 133.76664077288825,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号511。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月21日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 511,
+      "index_name": "三江神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市三江",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/241/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/241/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "2887693d1a6b29642f1b8cb05d7f29091a806493e901e117a51e2cdc8fb68db5"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "國常立尊　倉稲魂神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0512",
+    "no": 516,
+    "prefecture_code": 31,
+    "name": "風宮神社",
+    "kana": "かぜのみやじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "稲田媛神・句句迺馳神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第512号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜風宮神社",
+        "url": "https://tottori-jinjacho.jp/pages/242/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "稲田媛神",
+          "句句迺馳神",
+          "瀬織津媛命",
+          "志那都比古神",
+          "須佐之男命",
+          "山神",
+          "稲荷神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0512:1",
+        "name": "風宮神社",
+        "label": "風宮神社",
+        "address": "鳥取県倉吉市岡19",
+        "lat": 35.41791552628764,
+        "lon": 133.7272148509304,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号512。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月13日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 512,
+      "index_name": "風宮神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市岡",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/242/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/242/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "6d8e4cb0bc99fa9438f455ec161ce9d2b4d1609b9ce7264d86861dd88343895f"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "稲田媛神　句句迺馳神　瀬織津媛命　\n志那都比古神　須佐之男命　山神　稲荷神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0513",
+    "no": 517,
+    "prefecture_code": 31,
+    "name": "上市神社",
+    "kana": "かみいちじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "伊弉諾命・伊弉冉命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第513号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜上市神社",
+        "url": "https://tottori-jinjacho.jp/pages/243/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "伊弉諾命",
+          "伊弉冉命",
+          "天照大神",
+          "山神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0513:1",
+        "name": "上市神社",
+        "label": "上市神社",
+        "address": "鳥取県倉吉市河来見812",
+        "lat": 35.40601329774477,
+        "lon": 133.667004973962,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号513。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月14日；夏祭 7月14日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 513,
+      "index_name": "上市神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市河来見",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/243/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/243/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "cc1039c97550d603cdb91db54f81632949e6e8c7df64748c1eda1e2674e1f876"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "伊弉諾命　伊弉冉命　天照大神　山神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0514",
+    "no": 518,
+    "prefecture_code": 31,
+    "name": "櫻神社",
+    "kana": "さくらじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "素盞嗚命・稲荷神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第514号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜櫻神社",
+        "url": "https://tottori-jinjacho.jp/pages/244/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚命",
+          "稲荷神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0514:1",
+        "name": "櫻神社",
+        "label": "櫻神社",
+        "address": "鳥取県倉吉市桜378",
+        "lat": 35.42684021785327,
+        "lon": 133.71324043901805,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号514。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 514,
+      "index_name": "櫻神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市桜",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/244/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/244/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "93c928635c3c3a92c31f885ecad6a7629c4106734f446a04d1780385636adc0b"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚命　稲荷神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0515",
+    "no": 519,
+    "prefecture_code": 31,
+    "name": "服部神社",
+    "kana": "はっとりじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大國主神・保食神",
+    "tags": [
+      "神社庁名录",
+      "未定位"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第515号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜服部神社",
+        "url": "https://tottori-jinjacho.jp/pages/245/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大國主神",
+          "保食神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0515:1",
+        "name": "服部神社",
+        "label": "服部神社",
+        "address": "鳥取県倉吉市服部1182",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          1
+        ],
+        "map_status": "not_published",
+        "precision": "目录仅提供所在地，未公布可核实的参考坐标；本版未估算位置。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号515。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月18日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 515,
+      "index_name": "服部神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市服部",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/245/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/245/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "476c011251f6ca56580f488a5fea60348b2de4902500dcfbc606488f0212f6c0"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大國主神　保食神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0516",
+    "no": 520,
+    "prefecture_code": 31,
+    "name": "西阪神社",
+    "kana": "にしざかじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大山祇神・素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第516号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜西阪神社",
+        "url": "https://tottori-jinjacho.jp/pages/246/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大山祇神",
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0516:1",
+        "name": "西阪神社",
+        "label": "西阪神社",
+        "address": "鳥取県倉吉市大立810",
+        "lat": 35.41868911086062,
+        "lon": 133.70712395503443,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号516。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月11日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 516,
+      "index_name": "西阪神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市大立",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/246/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/246/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "552f6fb8d982c53f50e479bb5193e4a01f68b5d009003c7ca9b8bb5296696710"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大山祇神　素盞嗚尊",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0517",
+    "no": 521,
+    "prefecture_code": 31,
+    "name": "楯縫神社",
+    "kana": "たてぬいじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "底津少童命・中津少童命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第517号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜楯縫神社",
+        "url": "https://tottori-jinjacho.jp/pages/247/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "底津少童命",
+          "中津少童命",
+          "上津少童命",
+          "瓊瓊杵命",
+          "別雷神",
+          "保食神",
+          "国狭槌命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0517:1",
+        "name": "楯縫神社",
+        "label": "楯縫神社",
+        "address": "鳥取県倉吉市上福田182",
+        "lat": 35.42600561749285,
+        "lon": 133.7483651641122,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号517。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：県社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月29日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 517,
+      "index_name": "楯縫神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市上福田",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/247/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/247/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "4f529d9ef65402699ee4a625ede107b7ad25dd81c94a34d696a72d1b9f531ab1"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "底津少童命　中津少童命　上津少童命　\n瓊瓊杵命　別雷神　保食神　国狭槌命",
+      "former_rank": "県社"
+    }
+  },
+  {
+    "id": "tottori-0518",
+    "no": 522,
+    "prefecture_code": 31,
+    "name": "福積神社",
+    "kana": "ふくづみじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "事代主神",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第518号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜福積神社",
+        "url": "https://tottori-jinjacho.jp/pages/248/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "事代主神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0518:1",
+        "name": "福積神社",
+        "label": "福積神社",
+        "address": "鳥取県倉吉市福積719",
+        "lat": 35.422727199832984,
+        "lon": 133.73669750307582,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号518。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月7日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 518,
+      "index_name": "福積神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市福積",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/248/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/248/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "b20e63e15d676f6e96d92ef625e2ff29f319ead8553e9d6568eb6cf3693dd1ff"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "事代主神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0519",
+    "no": 523,
+    "prefecture_code": 31,
+    "name": "國廳裏神社",
+    "kana": "こくちょうりじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大己貴命・少彦名命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第519号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜國廳裏神社",
+        "url": "https://tottori-jinjacho.jp/pages/249/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大己貴命",
+          "少彦名命",
+          "木花開耶姫命",
+          "保食神",
+          "大山祇神",
+          "素盞嗚命",
+          "奇稲田姫命",
+          "大國主神",
+          "譽田別尊",
+          "玉依姫命",
+          "天兒屋根命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0519:1",
+        "name": "國廳裏神社",
+        "label": "國廳裏神社",
+        "address": "鳥取県倉吉市国分寺426",
+        "lat": 35.431423947310925,
+        "lon": 133.7864502364995,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号519。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：県社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《三代实录》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月21日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 519,
+      "index_name": "國廳裏神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市国分寺",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/249/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/249/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "30e9c9b2d34a8c560955caa151989be20139221b0f2ae46edcbfae5e2d583f21"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大己貴命　少彦名命　木花開耶姫命　保食神　\n大山祇神　素盞嗚命　奇稲田姫命　大國主神　\n譽田別尊　玉依姫命　天兒屋根命",
+      "former_rank": "県社"
+    }
+  },
+  {
+    "id": "tottori-0520",
+    "no": 524,
+    "prefecture_code": 31,
+    "name": "大和山神社",
+    "kana": "おおわやまじんしゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大物主命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第520号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜大和山神社",
+        "url": "https://tottori-jinjacho.jp/pages/250/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大物主命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0520:1",
+        "name": "大和山神社",
+        "label": "大和山神社",
+        "address": "鳥取県倉吉市別所220",
+        "lat": 35.46054872428928,
+        "lon": 133.77182186497765,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号520。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 520,
+      "index_name": "大和山神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市別所",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/250/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/250/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "662a21d051a5a208ef52920268e183c4585bec9b04866a27ffc144088d979856"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大物主命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0521",
+    "no": 525,
+    "prefecture_code": 31,
+    "name": "灘手神社",
+    "kana": "なだてじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大日孁神・高御産巣日神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第521号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜灘手神社",
+        "url": "https://tottori-jinjacho.jp/pages/251/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大日孁神",
+          "高御産巣日神",
+          "素盞嗚命",
+          "大己貴神",
+          "天稚比古神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0521:1",
+        "name": "灘手神社",
+        "label": "灘手神社",
+        "address": "鳥取県倉吉市穴沢69",
+        "lat": 35.464288498318794,
+        "lon": 133.77914155145766,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号521。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月17日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 521,
+      "index_name": "灘手神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市穴沢",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/251/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/251/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "9af4f953ef72e0fae26faa06589984e9e2e285a44b78c2f9a487027eb272a253"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大日孁神　高御産巣日神　素盞嗚命　大己貴神　天稚比古神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0522",
+    "no": 526,
+    "prefecture_code": 31,
+    "name": "尾崎神社",
+    "kana": "おさきじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第522号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜尾崎神社",
+        "url": "https://tottori-jinjacho.jp/pages/252/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0522:1",
+        "name": "尾崎神社",
+        "label": "尾崎神社",
+        "address": "鳥取県倉吉市鋤228",
+        "lat": 35.461790474597194,
+        "lon": 133.76435083675986,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号522。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：県社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 522,
+      "index_name": "尾崎神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市鋤",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/252/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/252/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "b52a714eaa043e16abf4226df4a5ca2b6adca96cd1f86b876517891bc70e4092"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": "県社"
+    }
+  },
+  {
+    "id": "tottori-0523",
+    "no": 527,
+    "prefecture_code": 31,
+    "name": "朝日神社",
+    "kana": "あさひじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "素盞嗚命・菅相蒸",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第523号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜朝日神社",
+        "url": "https://tottori-jinjacho.jp/pages/253/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚命",
+          "菅相蒸"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0523:1",
+        "name": "朝日神社",
+        "label": "朝日神社",
+        "address": "鳥取県倉吉市谷338",
+        "lat": 35.46447974711322,
+        "lon": 133.75828777265843,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号523。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 523,
+      "index_name": "朝日神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市谷",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/253/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/253/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "499928e5709505f00fcfa56bced8b89e5a598fa9b16d219655d7e98d209c56d8"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚命　菅相蒸",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0529",
+    "no": 533,
+    "prefecture_code": 31,
+    "name": "小田神社",
+    "kana": "こだじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "大山祇命・宇迦之御魂命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第529号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜小田神社",
+        "url": "https://tottori-jinjacho.jp/pages/254/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大山祇命",
+          "宇迦之御魂命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0529:1",
+        "name": "小田神社",
+        "label": "小田神社",
+        "address": "鳥取県倉吉市小田135",
+        "lat": 35.45822411916417,
+        "lon": 133.8363805775238,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号529。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 529,
+      "index_name": "小田神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市小田",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/254/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/254/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "612ddb2d6a0cfb9b60d6824350565602d4991cd9b67e46c22c4a64ef792ec1b8"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大山祇命　宇迦之御魂命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0530",
+    "no": 534,
+    "prefecture_code": 31,
+    "name": "八幡神社",
+    "kana": "はちまんじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "譽田別尊",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第530号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜八幡神社",
+        "url": "https://tottori-jinjacho.jp/pages/255/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "譽田別尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0530:1",
+        "name": "八幡神社",
+        "label": "八幡神社",
+        "address": "鳥取県倉吉市穴窪174",
+        "lat": 35.47785119205218,
+        "lon": 133.8314631431305,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号530。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 530,
+      "index_name": "八幡神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市穴窪",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/255/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/255/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "5c81b97641102918ce050d955c05dbb5352361de753a6eac48e61c89c561f117"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別尊",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0531",
+    "no": 535,
+    "prefecture_code": 31,
+    "name": "船内神社",
+    "kana": "ふないじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "猿田彦命・倉稲魂命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第531号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜船内神社",
+        "url": "https://tottori-jinjacho.jp/pages/256/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "猿田彦命",
+          "倉稲魂命",
+          "須佐之男命",
+          "経津主命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0531:1",
+        "name": "船内神社",
+        "label": "船内神社",
+        "address": "鳥取県倉吉市下古川160",
+        "lat": 35.465394663566286,
+        "lon": 133.8330728113509,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号531。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 531,
+      "index_name": "船内神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市下古川",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/256/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/256/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "437dddacacb43839def2e4503ddcf17b6ec3da817e87d3fea4649e8d336a7a0d"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "猿田彦命　倉稲魂命　須佐之男命　経津主命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0532",
+    "no": 536,
+    "prefecture_code": 31,
+    "name": "高見神社",
+    "kana": "たかみじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "須佐之男命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第532号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜高見神社",
+        "url": "https://tottori-jinjacho.jp/pages/257/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "須佐之男命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0532:1",
+        "name": "高見神社",
+        "label": "高見神社",
+        "address": "鳥取県倉吉市新田94",
+        "lat": 35.46806347107145,
+        "lon": 133.83858553974886,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号532。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月19日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 532,
+      "index_name": "高見神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市新田",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/257/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/257/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "60866fa8c18378d0d5ef15491e4acc6d1772ef033420224c0e9e9f18161922bd"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "須佐之男命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0577",
+    "no": 581,
+    "prefecture_code": 31,
+    "name": "伊弉原神社",
+    "kana": "",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "祭神未公布",
+    "tags": [
+      "神社庁名录",
+      "祭神未公布",
+      "未定位",
+      "法人登记已关闭"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第577号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "经济产业省 gBizINFO｜法人基本信息",
+        "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1270005004299",
+        "kind": "政府法人资料",
+        "covers": "法人编号、所在地、登记关闭的日期与原因；不证明社殿或祭祀的现状",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [],
+    "locations": [
+      {
+        "id": "tottori-0577:1",
+        "name": "伊弉原神社",
+        "label": "伊弉原神社",
+        "address": "鳥取県倉吉市大谷",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "目录仅提供所在地，未公布可核实的参考坐标；本版未估算位置。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号577。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "法人登记资料",
+        "text": "政府法人资料显示，编号1270005004299的登记记录于2025-04-07因“合併による解散等”关闭。登记所在地：鳥取県倉吉市大谷８７７番地１（此为法人登记地址，未作现场定位）。登记关闭不等于社殿已拆除或祭祀已经停止。",
+        "sources": [
+          1
+        ],
+        "nature": "法人登记状态"
+      }
+    ],
+    "note": "当前来源仅能支持已显示的名录字段，尚未取得可核实的完整由绪；未依据社名推测祭神或创立年代。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 577,
+      "index_name": "伊弉原神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市大谷",
+      "original_detail_url": null,
+      "detail_url": null,
+      "detail_status": "unlinked",
+      "checked": "2026-10-29",
+      "source_sha256": null
+    },
+    "availability": {
+      "kami": "not_published",
+      "history": "not_published"
+    },
+    "source_fields": {
+      "kami_verbatim": "",
+      "former_rank": ""
+    },
+    "entity_registry": {
+      "state": "closed_by_merger",
+      "corporate_number": "1270005004299",
+      "closed_date": "2025-04-07",
+      "registered_address": "鳥取県倉吉市大谷８７７番地１"
+    }
+  },
+  {
+    "id": "tottori-0578",
+    "no": 582,
+    "prefecture_code": 31,
+    "name": "古川澤神社",
+    "kana": "ふるかわさわじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "素盞嗚尊",
+    "tags": [
+      "神社庁名录",
+      "未定位"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第578号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜古川澤神社",
+        "url": "https://tottori-jinjacho.jp/pages/259/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚尊"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0578:1",
+        "name": "古川澤神社",
+        "label": "古川澤神社",
+        "address": "鳥取県倉吉市古川沢203",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          1
+        ],
+        "map_status": "not_published",
+        "precision": "目录仅提供所在地，未公布可核实的参考坐标；本版未估算位置。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号578。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月9日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 578,
+      "index_name": "古川澤神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市古川沢",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/259/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/259/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "57accbb5d885221ff01481df9460ae4da058372e75aa3d664a54d812e7e963b5"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚尊",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0579",
+    "no": 583,
+    "prefecture_code": 31,
+    "name": "福富神社",
+    "kana": "ふくどみじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "国狭槌命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第579号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜福富神社",
+        "url": "https://tottori-jinjacho.jp/pages/260/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "国狭槌命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0579:1",
+        "name": "福富神社",
+        "label": "福富神社",
+        "address": "鳥取県倉吉市福富326",
+        "lat": 35.41082516740999,
+        "lon": 133.7572270524554,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号579。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月13日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 579,
+      "index_name": "福富神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市福富",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/260/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/260/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "45ad5c9c3f66af33ea29693a63f4135b7fb3cbb438c3273eb3428bedb6aea125"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "国狭槌命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0580",
+    "no": 584,
+    "prefecture_code": 31,
+    "name": "中野神社",
+    "kana": "なかのじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "瀬織津姫命・日智理神 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第580号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜中野神社",
+        "url": "https://tottori-jinjacho.jp/pages/261/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "瀬織津姫命",
+          "日智理神",
+          "倉稲魂神"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0580:1",
+        "name": "中野神社",
+        "label": "中野神社",
+        "address": "鳥取県倉吉市中野55－1",
+        "lat": 35.39801077403781,
+        "lon": 133.74116461951112,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号580。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 4月2日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 580,
+      "index_name": "中野神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市中野字宮ノ上",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/261/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/261/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "47016d4bb2b2e03c13914d8d4129b74aa1b90800398d491baefbda5e9929b8fe"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "瀬織津姫命　日智理神　倉稲魂神",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0581",
+    "no": 585,
+    "prefecture_code": 31,
+    "name": "七峰神社",
+    "kana": "ななみねじんじゃ",
+    "area": "中部",
+    "municipality": "倉吉市",
+    "aliases": [],
+    "headline": "須佐之男命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县倉吉市，对应神社庁名录第581号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜倉吉市",
+        "url": "https://tottori-jinjacho.jp/pages/57/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜七峰神社",
+        "url": "https://tottori-jinjacho.jp/pages/262/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "須佐之男命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0581:1",
+        "name": "七峰神社",
+        "label": "七峰神社",
+        "address": "鳥取県倉吉市大塚206",
+        "lat": 35.47486295590133,
+        "lon": 133.84015406502968,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“倉吉市”目录，编号581。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月10日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 581,
+      "index_name": "七峰神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/57/",
+      "listed_address": "倉吉市大塚",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/262/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/262/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "95728db23fa269bac8602798e18c339beb5c980942989cd977d4c9fa02350f81"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "須佐之男命",
+      "former_rank": ""
+    }
+  }
+]

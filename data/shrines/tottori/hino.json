@@ -1,0 +1,2246 @@
+[
+  {
+    "id": "kamochi",
+    "no": 11,
+    "name": "金持神社",
+    "kana": "かもちじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [
+      "天常立命",
+      "天之常立尊",
+      "意美豆努命",
+      "八束水臣津奴命",
+      "天香语山"
+    ],
+    "headline": "天之常立命 等",
+    "tags": [
+      "三体妙见",
+      "合祀记录"
+    ],
+    "intro": "日野町金持的神社。官网列举三位祭神，另以“合神”栏目记录天香語山命。",
+    "sources": [
+      {
+        "label": "金持神社｜歴史",
+        "url": "https://www.kamochijinja.jp/history/",
+        "kind": "神社官网",
+        "covers": "御祭神、合神、社记及创立传承",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "金持神社｜交通",
+        "url": "https://www.kamochijinja.jp/access/",
+        "kind": "神社官网",
+        "covers": "神社地址；须与外地社务所区分",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜金持神社",
+        "url": "https://tottori-jinjacho.jp/pages/811/",
+        "kind": "神社庁目录",
+        "covers": "名称、读音、所在地、祭神、由绪与网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "御祭神（官网列举）",
+        "names": [
+          "天之常立命",
+          "八束水臣津努命",
+          "淤美豆奴命"
+        ],
+        "sources": [
+          0
+        ]
+      },
+      {
+        "role": "合神（官网原栏目）",
+        "names": [
+          "天香語山命"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "name": "金持神社",
+        "address": "鳥取県日野郡日野町金持74",
+        "lat": 35.216217,
+        "lon": 133.454714,
+        "sources": [
+          1,
+          2
+        ],
+        "label": "金持神社",
+        "precision": "来源网页的地图参考点；用于区域分布展示，非测量坐标或导航入口。",
+        "id": "kamochi:1",
+        "map_status": "mapped"
+      }
+    ],
+    "facts": [
+      {
+        "label": "创立传承",
+        "text": "官网社记以810年为玉石与神梦故事的年代；神社庁则记创立年代不详。此处并存记录。",
+        "sources": [
+          0,
+          2
+        ],
+        "nature": "社传与机构记载"
+      },
+      {
+        "label": "1915｜合并",
+        "text": "神社庁记载大正四年合并村内野々尾神社（天香語山命）。",
+        "sources": [
+          2
+        ],
+        "nature": "机构引述沿革"
+      }
+    ],
+    "note": "两份资料存在神名异写，如“淤美豆奴命／意美豆努命”。官网分列的神名按原表保留，本版暂不自动归并神名身份。地图标神社本体，不标江府町的社务所。",
+    "noteSources": [
+      0,
+      1,
+      2
+    ],
+    "checked": "2026-10-29",
+    "prefecture_code": 31,
+    "media": [],
+    "record_status": "research_enriched",
+    "directory": {
+      "number": 788,
+      "index_name": "金持神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町金持",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/811/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/811/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "9c1763ddc7b670433ee1ebf21ea766852606027eaa2220dd330e41d3aac8cb22"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "八束水臣津奴命　天常立命　意美豆努命　天香語山命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0754",
+    "no": 754,
+    "prefecture_code": 31,
+    "name": "稲荷神社",
+    "kana": "いなりじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "倉稲魂命・大己貴命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第754号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜稲荷神社",
+        "url": "https://tottori-jinjacho.jp/pages/507/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "倉稲魂命",
+          "大己貴命",
+          "大宮比賣命 大山祇命",
+          "事代主命",
+          "猿田彦命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0754:1",
+        "name": "稲荷神社",
+        "label": "稲荷神社",
+        "address": "鳥取県日野町黒坂1995",
+        "lat": 35.20560392249387,
+        "lon": 133.38268022241513,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号754。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 754,
+      "index_name": "稲荷神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町黒坂",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/507/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/507/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "86a926ce4c8046026bff5a63efe2049cd8b349ed33be2c418f32f696324aff1e"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "倉稲魂命　大己貴命　大宮比賣命 大山祇命　事代主命　猿田彦命",
+      "former_rank": ""
+    }
+  },
+  {
+    "id": "tottori-0755",
+    "no": 755,
+    "prefecture_code": 31,
+    "name": "神田神社",
+    "kana": "かんだじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "譽田別命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第755号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜神田神社",
+        "url": "https://tottori-jinjacho.jp/pages/799/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "譽田別命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0755:1",
+        "name": "神田神社",
+        "label": "神田神社",
+        "address": "鳥取県日野町下黒坂922",
+        "lat": 35.21904335841597,
+        "lon": 133.38876246663253,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号755。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 11月23日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 755,
+      "index_name": "神田神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町下黒坂",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/799/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/799/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "2e71a5949508fb80e4a87a11cd71a71422add6575e6d28cde3973008bf2e8b9d"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "譽田別命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0756",
+    "no": 756,
+    "prefecture_code": 31,
+    "name": "菅福神社",
+    "kana": "すげふくじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "大日本根子彦太瓊命・細姫命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第756号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜菅福神社",
+        "url": "https://tottori-jinjacho.jp/pages/800/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大日本根子彦太瓊命",
+          "細姫命",
+          "阿禮姫命 吉備津彦命",
+          "百襲姫命",
+          "稚屋姫命",
+          "彦狹島命",
+          "稚武彦命 大歳命",
+          "素盞嗚命",
+          "活須姫命",
+          "倉稲魂命",
+          "大宮姫命 太田命",
+          "大山祇命",
+          "建御名方命",
+          "大己貴命",
+          "少彦名命 猿田彦命",
+          "大物主命",
+          "大國主命",
+          "磐長姫命 木花咲耶姫命",
+          "罔象女命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0756:1",
+        "name": "菅福神社",
+        "label": "菅福神社",
+        "address": "鳥取県日野町上菅250",
+        "lat": 35.19333513505478,
+        "lon": 133.35090727055226,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号756。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月28日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 756,
+      "index_name": "菅福神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町上菅",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/800/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/800/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "14bbb28ac8040cd01562d52384f96c453413e3f8742811c38844bf9d70ead7b8"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大日本根子彦太瓊命　細姫命　阿禮姫命 吉備津彦命　百襲姫命　稚屋姫命　彦狹島命　稚武彦命 大歳命　　　素盞嗚命　活須姫命　倉稲魂命　大宮姫命 太田命　大山祇命　建御名方命　大己貴命　少彦名命 猿田彦命　　大物主命　大國主命　磐長姫命 木花咲耶姫命　罔象女命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0757",
+    "no": 757,
+    "prefecture_code": 31,
+    "name": "下菅神社",
+    "kana": "しもすげじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "大國主命・天児屋根命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第757号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜下菅神社",
+        "url": "https://tottori-jinjacho.jp/pages/801/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大國主命",
+          "天児屋根命",
+          "上中底筒男命 別雷命",
+          "海童命",
+          "市杵嶋姫命",
+          "大山祇命 菅原道眞",
+          "猿田彦命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0757:1",
+        "name": "下菅神社",
+        "label": "下菅神社",
+        "address": "鳥取県日野町下菅116",
+        "lat": 35.213483078473985,
+        "lon": 133.39176621901436,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号757。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《伯耆志》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月2日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 757,
+      "index_name": "下菅神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町下菅",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/801/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/801/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "246059f63a1461b971e6c616be0ef88bb4cbf0c2b64967cc2f0d25978b4d3e10"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大國主命　天児屋根命　上中底筒男命 別雷命　海童命　市杵嶋姫命　大山祇命 菅原道眞　猿田彦命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0758",
+    "no": 758,
+    "prefecture_code": 31,
+    "name": "瀧山神社",
+    "kana": "たきやまじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "三保津姫命・大日貴命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第758号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜瀧山神社",
+        "url": "https://tottori-jinjacho.jp/pages/802/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "三保津姫命",
+          "大日貴命",
+          "誉田別命",
+          "大山祇命",
+          "猿田彦命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0758:1",
+        "name": "瀧山神社",
+        "label": "瀧山神社",
+        "address": "鳥取県日野町中菅574",
+        "lat": 35.18580260344696,
+        "lon": 133.38575077535478,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号758。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 5月1日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 758,
+      "index_name": "瀧山神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町中菅",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/802/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/802/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "b2b84cdc3393d40a499be543f6ed6801e6aa2804dcc68dc56fcc122a22e2d9d6"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "三保津姫命　大日貴命　誉田別命　大山祇命　猿田彦命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0759",
+    "no": 759,
+    "prefecture_code": 31,
+    "name": "藤森神社",
+    "kana": "ふじもりじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "大鷦鷯命・后磐姫命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第759号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜藤森神社",
+        "url": "https://tottori-jinjacho.jp/pages/803/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大鷦鷯命",
+          "后磐姫命",
+          "倉稲魂命",
+          "大日貴命",
+          "大山祇命",
+          "金山彦命",
+          "事代主命",
+          "猿田彦命",
+          "菅原道眞",
+          "大宮姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0759:1",
+        "name": "藤森神社",
+        "label": "藤森神社",
+        "address": "鳥取県日野町黒坂1297",
+        "lat": 35.21143056844252,
+        "lon": 133.38488271687348,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号759。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月17日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 759,
+      "index_name": "藤森神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町黒坂",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/803/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/803/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "e435758ef6c6563d5f403c84532b3a36e553384f7994d5b1e3285c7dbcc10b95"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大鷦鷯命　后磐姫命　倉稲魂命　大日貴命　大山祇命　金山彦命　事代主命　猿田彦命　菅原道眞　大宮姫命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0760",
+    "no": 760,
+    "prefecture_code": 31,
+    "name": "聖神社",
+    "kana": "ひじりじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "大國魂命 大日貴命 市杵島姫命 猿田彦命 経津主命 武甕槌命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第760号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜聖神社",
+        "url": "https://tottori-jinjacho.jp/pages/804/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大國魂命 大日貴命 市杵島姫命 猿田彦命 経津主命 武甕槌命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0760:1",
+        "name": "聖神社",
+        "label": "聖神社",
+        "address": "鳥取県日野町黒坂1796",
+        "lat": 35.205106442543226,
+        "lon": 133.3824037635005,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号760。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：郷社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 11月3日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 760,
+      "index_name": "聖神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町黒坂",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/804/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/804/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "9e0bd418d0c6f9c8dea8aa626b39d04c85fb921b84dd7b4d69f98d58c779e2b6"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大國魂命 大日貴命 市杵島姫命 猿田彦命 経津主命 武甕槌命",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "tottori-0782",
+    "no": 782,
+    "prefecture_code": 31,
+    "name": "嚴島神社",
+    "kana": "いつくしまじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "市杵島比賣命 田心比賣命 多岐都比賣命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第782号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜嚴島神社",
+        "url": "https://tottori-jinjacho.jp/pages/805/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "市杵島比賣命 田心比賣命 多岐都比賣命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0782:1",
+        "name": "嚴島神社",
+        "label": "嚴島神社",
+        "address": "鳥取県日野町舟場８５１",
+        "lat": 35.24798896361721,
+        "lon": 133.44656839239104,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号782。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月17日；春祭 4月17日；夏祭 7月17日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 782,
+      "index_name": "嚴島神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町舟場",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/805/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/805/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "4cb8ca78eee2c4dbcc4323bde8e65c6c79649521f552d9b74116cd168300fd59"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "市杵島比賣命 田心比賣命 多岐都比賣命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0783",
+    "no": 783,
+    "prefecture_code": 31,
+    "name": "堀八幡宮",
+    "kana": "ほりはちまんぐう",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "息長帯比賣命 品陀和気命 武内宿禰 素盞嗚命 大日命 大山祇命 猿田彦命 天鈿女命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第783号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜堀八幡宮",
+        "url": "https://tottori-jinjacho.jp/pages/806/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "息長帯比賣命 品陀和気命 武内宿禰 素盞嗚命 大日命 大山祇命 猿田彦命 天鈿女命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0783:1",
+        "name": "堀八幡宮",
+        "label": "堀八幡宮",
+        "address": "鳥取県日野町別所190",
+        "lat": 35.206305138696145,
+        "lon": 133.4271604172924,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号783。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《伯耆志》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月9日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 783,
+      "index_name": "堀八幡宮",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町別所",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/806/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/806/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "9d07a5d39ecde865ddffcdf6f0185abd8c4bd39ab5e07bd29303977e458fb465"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "息長帯比賣命 品陀和気命 武内宿禰 素盞嗚命 大日命 大山祇命 猿田彦命 天鈿女命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0784",
+    "no": 784,
+    "prefecture_code": 31,
+    "name": "賀茂神社",
+    "kana": "かもじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "別雷命 健角身命 玉依姫命 表津海童命 中津海童命 底津海童命 建御名方命 素盞嗚命 保食命大日命 大山祇命    金山彦命…",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第784号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜賀茂神社",
+        "url": "https://tottori-jinjacho.jp/pages/807/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "別雷命 健角身命 玉依姫命 表津海童命 中津海童命 底津海童命 建御名方命 素盞嗚命 保食命大日命 大山祇命    金山彦命 天穂日命 市杵島姫命 猿田彦命 海代彦命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0784:1",
+        "name": "賀茂神社",
+        "label": "賀茂神社",
+        "address": "鳥取県日野郡日野町本郷７２",
+        "lat": 35.2350060640113,
+        "lon": 133.4386037807863,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号784。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月5日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 784,
+      "index_name": "賀茂神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町本郷",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/807/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/807/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "83fdd867541fc1e98d1f0eac1a2e1ecaa267b72d78736ee20587e6a50ab7296d"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "別雷命 健角身命 玉依姫命 表津海童命 中津海童命 底津海童命 建御名方命 素盞嗚命 保食命大日命 大山祇命    金山彦命 天穂日命 市杵島姫命 猿田彦命 海代彦命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0785",
+    "no": 785,
+    "prefecture_code": 31,
+    "name": "安井神社",
+    "kana": "やすいじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "誉田別命 足仲彦命 息長足姫命 正哉吾勝勝速日天忍穗耳命 天穂日命 天津日子根命 活津日子根命 熊野久須毘命多紀理姫命 市杵…",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第785号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜安井神社",
+        "url": "https://tottori-jinjacho.jp/pages/808/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "誉田別命 足仲彦命 息長足姫命 正哉吾勝勝速日天忍穗耳命 天穂日命 天津日子根命 活津日子根命 熊野久須毘命多紀理姫命 市杵島姫命 多岐都比賣命 猿田彦命 大帶日子淤斯呂和氣命 若帶日子命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0785:1",
+        "name": "安井神社",
+        "label": "安井神社",
+        "address": "鳥取県日野町津地423",
+        "lat": 35.24173868201166,
+        "lon": 133.42475710582838,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号785。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 785,
+      "index_name": "安井神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町津地",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/808/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/808/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "22a99572d9dd083bb016f7935fc741f388cbeba331a297a0c6a224c94c063f3e"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "誉田別命 足仲彦命 息長足姫命 正哉吾勝勝速日天忍穗耳命 天穂日命 天津日子根命 活津日子根命 熊野久須毘命多紀理姫命 市杵島姫命 多岐都比賣命 猿田彦命 大帶日子淤斯呂和氣命 若帶日子命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0786",
+    "no": 786,
+    "prefecture_code": 31,
+    "name": "嚴島神社",
+    "kana": "いつくしまじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "多紀理比賣命・市杵島比賣命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第786号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜嚴島神社",
+        "url": "https://tottori-jinjacho.jp/pages/809/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "多紀理比賣命",
+          "市杵島比賣命",
+          "多岐都比賣命",
+          "國常立命",
+          "熊野久須毘命",
+          "大物主命",
+          "天穂日命",
+          "天津彦根命",
+          "活津彦根命",
+          "正哉吾勝勝速日天忍穗耳命",
+          "倉稲魂命",
+          "建御名方命",
+          "表筒之男命",
+          "中筒之男命",
+          "底筒之男命",
+          "猿田彦命",
+          "大山祇命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0786:1",
+        "name": "嚴島神社",
+        "label": "嚴島神社",
+        "address": "鳥取県日野町下榎838",
+        "lat": 35.2242595261127,
+        "lon": 133.40668303527613,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号786。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月17日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 786,
+      "index_name": "嚴島神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町下榎",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/809/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/809/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "8ba290691b8cd0ff1b36951433556a2cbcd9edc146f48f9a3e7e870c9537b0aa"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "多紀理比賣命　市杵島比賣命　多岐都比賣命　國常立命　熊野久須毘命　大物主命　天穂日命　天津彦根命　活津彦根命　正哉吾勝勝速日天忍穗耳命　倉稲魂命　建御名方命　表筒之男命　中筒之男命　底筒之男命　　　　猿田彦命　大山祇命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0787",
+    "no": 787,
+    "prefecture_code": 31,
+    "name": "板井原神社",
+    "kana": "いたいばらじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "大己貴命・須勢理姫命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第787号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜板井原神社",
+        "url": "https://tottori-jinjacho.jp/pages/810/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "大己貴命",
+          "須勢理姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0787:1",
+        "name": "板井原神社",
+        "label": "板井原神社",
+        "address": "鳥取県日野町板井原996",
+        "lat": 35.20228002059171,
+        "lon": 133.49444714846214,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号787。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《伯耆志》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月26日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 787,
+      "index_name": "板井原神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町板井原",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/810/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/810/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "31fed7d294bf94fe8304fa511ce7b73db1ea72503b24605e97b6e991c7a6c8e1"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "大己貴命　須勢理姫命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0789",
+    "no": 788,
+    "prefecture_code": 31,
+    "name": "根雨神社",
+    "kana": "ねうじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "素盞嗚命・誉田別命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第789号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜根雨神社",
+        "url": "https://tottori-jinjacho.jp/pages/812/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "素盞嗚命",
+          "誉田別命",
+          "息長足姫命",
+          "武内宿禰",
+          "倉稲魂命",
+          "大山祇命",
+          "高靇命",
+          "八衢命",
+          "事代主命",
+          "瀬織津姫命",
+          "猿田彦命",
+          "大物主命",
+          "菅原道眞",
+          "天之冬衣命",
+          "刺國若比賣命",
+          "蛤貝比賣命",
+          "蚶貝比賣命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0789:1",
+        "name": "根雨神社",
+        "label": "根雨神社",
+        "address": "鳥取県日野町根雨697",
+        "lat": 35.23781180916985,
+        "lon": 133.44003078422182,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号789。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：郷社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 7月15日；春祭 4月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 789,
+      "index_name": "根雨神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町根雨",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/812/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/812/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "f874ebb73baeaf9b7d3d09027de4529d7d053c1f1bb03b7895a918d2f4165d37"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "素盞嗚命　誉田別命　息長足姫命　武内宿禰　倉稲魂命　大山祇命　高靇命　八衢命　事代主命　瀬織津姫命　猿田彦命　大物主命　菅原道眞　天之冬衣命　刺國若比賣命　蛤貝比賣命　蚶貝比賣命",
+      "former_rank": "郷社"
+    }
+  },
+  {
+    "id": "tottori-0790",
+    "no": 789,
+    "prefecture_code": 31,
+    "name": "高圀神社",
+    "kana": "たかくにじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "思兼命・月読命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第790号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜高圀神社",
+        "url": "https://tottori-jinjacho.jp/pages/813/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "思兼命",
+          "月読命",
+          "須佐之男命",
+          "大山祇命",
+          "天香山命",
+          "猿田彦命",
+          "大國主命",
+          "事代主命",
+          "海代彦命",
+          "湍津姫命",
+          "宇津佐津命",
+          "菅原道眞",
+          "大日命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0790:1",
+        "name": "高圀神社",
+        "label": "高圀神社",
+        "address": "鳥取県日野町秋縄915",
+        "lat": 35.197652083638644,
+        "lon": 133.44950417537632,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号790。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《伯耆志》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月9日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 790,
+      "index_name": "高圀神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町秋縄",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/813/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/813/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "4acdbdadae1bfc701f0798068b6c50eb6df1cec2f2e817b209a7c08a1ad5de8b"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "思兼命　月読命　須佐之男命　大山祇命　天香山命　猿田彦命　大國主命　事代主命　海代彦命　湍津姫命\n宇津佐津命　菅原道眞　大日命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0823",
+    "no": 822,
+    "prefecture_code": 31,
+    "name": "倉智神社",
+    "kana": "くらちじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "倉稲魂命",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第823号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜倉智神社",
+        "url": "https://tottori-jinjacho.jp/pages/814/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "倉稲魂命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0823:1",
+        "name": "倉智神社",
+        "label": "倉智神社",
+        "address": "鳥取県日野町久住393",
+        "lat": 35.2398208986945,
+        "lon": 133.36291584166412,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号823。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "旧社格",
+        "text": "原目录“旧社格”栏记为：村社",
+        "sources": [
+          1
+        ],
+        "nature": "来源原栏"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 11月15日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 823,
+      "index_name": "倉智神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町久住",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/814/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/814/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "d294ffa6cc144a7f57debd4403d829f5ed1547f9d2f9f3883a615e02d57346c6"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "倉稲魂命",
+      "former_rank": "村社"
+    }
+  },
+  {
+    "id": "tottori-0825",
+    "no": 824,
+    "prefecture_code": 31,
+    "name": "賀茂神社",
+    "kana": "かもじんじゃ",
+    "area": "西部",
+    "municipality": "日野町",
+    "aliases": [],
+    "headline": "神日本磐余彦尊・大山祇命 等",
+    "tags": [
+      "神社庁名录"
+    ],
+    "intro": "位于鸟取县日野町，对应神社庁名录第825号。",
+    "sources": [
+      {
+        "label": "鳥取縣神社廳｜日野町",
+        "url": "https://tottori-jinjacho.jp/pages/72/",
+        "kind": "神社庁目录",
+        "covers": "市町村名录中的名称、所在地及条目编号",
+        "checked": "2026-10-29",
+        "published": null
+      },
+      {
+        "label": "鳥取縣神社廳｜賀茂神社",
+        "url": "https://tottori-jinjacho.jp/pages/815/",
+        "kind": "神社庁目录",
+        "covers": "神社基本资料、祭神原表、旧社格与来源网页地图参考点",
+        "checked": "2026-10-29",
+        "published": null
+      }
+    ],
+    "kami": [
+      {
+        "role": "祭神（神社庁原表，未另判主配）",
+        "names": [
+          "神日本磐余彦尊",
+          "大山祇命",
+          "八衢神湍津姫命"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "tottori-0825:1",
+        "name": "賀茂神社",
+        "label": "賀茂神社",
+        "address": "鳥取県日野町野田129-1",
+        "lat": 35.2384181354443,
+        "lon": 133.4347032187085,
+        "sources": [
+          1
+        ],
+        "map_status": "mapped",
+        "precision": "神社庁网页地图参考点，非测量坐标或导航入口。"
+      }
+    ],
+    "facts": [
+      {
+        "label": "名录收录",
+        "text": "收录于神社庁“日野町”目录，编号825。",
+        "sources": [
+          0
+        ],
+        "nature": "名录事实"
+      },
+      {
+        "label": "创立年代",
+        "text": "目录由绪将创立年代记为不详。",
+        "sources": [
+          1
+        ],
+        "nature": "来源记载"
+      },
+      {
+        "label": "文献检索线索",
+        "text": "该页由绪提及《伯耆志》；这表示来源页面存在相关叙述，本版未逐条核验古籍原卷及比定。",
+        "sources": [
+          1
+        ],
+        "nature": "来源中的文献线索"
+      },
+      {
+        "label": "祭典日期线索",
+        "text": "目录列示：例祭 10月18日。具体举行方式及当年安排请向神社核实。",
+        "sources": [
+          1
+        ],
+        "nature": "来源列示日期"
+      }
+    ],
+    "note": "本条依据神社庁公开资料录入。源页面另有由绪；创立、合祀、迁座与文献比定尚未逐社作独立历史考证。",
+    "noteSources": [
+      1
+    ],
+    "checked": "2026-10-29",
+    "media": [],
+    "record_status": "directory_imported",
+    "directory": {
+      "number": 825,
+      "index_name": "賀茂神社",
+      "index_url": "https://tottori-jinjacho.jp/pages/72/",
+      "listed_address": "日野町野田",
+      "original_detail_url": "https://tottori-jinjacho.jp/pages/815/",
+      "detail_url": "https://tottori-jinjacho.jp/pages/815/",
+      "detail_status": "matched",
+      "checked": "2026-10-29",
+      "source_sha256": "6333294f089f0606c7d0fd1f4aa2e3fe94ba1bc15a49580e17aa41ac3765be24"
+    },
+    "availability": {
+      "kami": "published",
+      "history": "source_available"
+    },
+    "source_fields": {
+      "kami_verbatim": "神日本磐余彦尊　大山祇命　八衢神湍津姫命",
+      "former_rank": ""
+    }
+  }
+]

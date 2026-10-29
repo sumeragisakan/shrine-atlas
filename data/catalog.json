@@ -1,9 +1,28 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "checked": "2026-10-29",
   "collections": [
-    "data/shrines/tottori.json"
+    "data/shrines/tottori/tottori-city.json",
+    "data/shrines/tottori/yonago.json",
+    "data/shrines/tottori/kurayoshi.json",
+    "data/shrines/tottori/sakaiminato.json",
+    "data/shrines/tottori/iwami.json",
+    "data/shrines/tottori/yazu.json",
+    "data/shrines/tottori/wakasa.json",
+    "data/shrines/tottori/chizu.json",
+    "data/shrines/tottori/misasa.json",
+    "data/shrines/tottori/kotoura.json",
+    "data/shrines/tottori/yurihama.json",
+    "data/shrines/tottori/hokuei.json",
+    "data/shrines/tottori/hiezu.json",
+    "data/shrines/tottori/daisen.json",
+    "data/shrines/tottori/nanbu.json",
+    "data/shrines/tottori/houki.json",
+    "data/shrines/tottori/kofu.json",
+    "data/shrines/tottori/hino.json",
+    "data/shrines/tottori/nichinan.json"
   ],
   "map": "data/maps/prefectures.json",
-  "coverage_note": "鸟取县首批12社；其余都道府县待收录，不代表当地没有神社。"
+  "coverage_note": "鳥取縣神社廳・22个地域目录的全部824条记录；原资料缺失或有差异的字段另行标注。",
+  "coverage": "data/coverage-tottori.json"
 }

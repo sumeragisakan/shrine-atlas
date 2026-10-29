@@ -33,8 +33,10 @@ def validate(rows, prefectures):
         ids.add(row['id'])
         if row['prefecture_code'] not in known:
             raise ValueError(f'Unknown prefecture: {row["id"]}')
-        if not row['sources'] or not row['locations'] or not row['kami']:
-            raise ValueError(f'Missing evidence, location or deity list: {row["id"]}')
+        if not row['sources'] or not row['locations']:
+            raise ValueError(f'Missing evidence or location record: {row["id"]}')
+        if not row['kami'] and row.get('availability',{}).get('kami') != 'not_published':
+            raise ValueError(f'Unexplained empty deity list: {row["id"]}')
         for source in row['sources']:
             if not source['url'].startswith('https://'):
                 raise ValueError('Source URL must use HTTPS.')
@@ -47,7 +49,10 @@ def validate(rows, prefectures):
             if location['id'] in location_ids:
                 raise ValueError(f'Duplicate location id: {location["id"]}')
             location_ids.add(location['id'])
-            if not (-90 <= location['lat'] <= 90 and -180 <= location['lon'] <= 180):
+            lat,lon=location['lat'],location['lon']
+            if (lat is None) != (lon is None) or (lat is None and location['map_status'] != 'not_published'):
+                raise ValueError(f'Unexplained missing reference point: {location["id"]}')
+            if lat is not None and not (-90 <= lat <= 90 and -180 <= lon <= 180):
                 raise ValueError(f'Invalid reference point: {location["id"]}')
         for media in row.get('media', []):
             for key in ('id', 'kind', 'path', 'caption', 'source_url', 'creator', 'license', 'checked_at'):
@@ -99,8 +104,8 @@ def build_database(rows, prefectures, catalog):
                         known_sources[source]=s['url']
                     db.execute('INSERT INTO shrine_sources VALUES (?,?,?)',(sid,i,source))
                 for i,l in enumerate(r['locations']):
-                    db.execute('INSERT INTO locations VALUES (?,?,?,?,?,?,?,?,?)',
-                               (l['id'],sid,i,l['name'],l['label'],l['address'],l['lat'],l['lon'],l['precision']))
+                    db.execute('INSERT INTO locations VALUES (?,?,?,?,?,?,?,?,?,?)',
+                               (l['id'],sid,i,l['name'],l['label'],l['address'],l['lat'],l['lon'],l['precision'],l['map_status']))
                     db.executemany('INSERT INTO location_sources VALUES (?,?,?)',
                                    [(l['id'],refs[ref],n) for n,ref in enumerate(l['sources'])])
                 for i,g in enumerate(r['kami']):
@@ -113,6 +118,19 @@ def build_database(rows, prefectures, catalog):
                     db.execute('INSERT INTO historical_notes VALUES (?,?,?,?,?,?)',(note,sid,i,f['label'],f['text'],f['nature']))
                     db.executemany('INSERT INTO historical_note_sources VALUES (?,?,?)',[(note,refs[ref],n) for n,ref in enumerate(f['sources'])])
                 db.executemany('INSERT INTO research_note_sources VALUES (?,?,?)',[(sid,refs[ref],n) for n,ref in enumerate(r['noteSources'])])
+                if r.get('directory'):
+                    d=r['directory']
+                    db.execute('INSERT INTO directory_entries VALUES (?,?,?,?,?,?,?,?,?,?)',(
+                        sid,d['number'],d['index_name'],d['index_url'],d['listed_address'],d['original_detail_url'],
+                        d['detail_url'],d['detail_status'],d['source_sha256'],d['checked']))
+                q=r.get('availability',{});f=r.get('source_fields',{})
+                db.execute('INSERT INTO record_quality VALUES (?,?,?,?,?,?)',(
+                    sid,r.get('record_status','research_enriched'),q.get('kami','published'),q.get('history','source_available'),
+                    f.get('kami_verbatim',''),f.get('former_rank','')))
+                if r.get('entity_registry'):
+                    e=r['entity_registry'];s=next(s for s in r['sources'] if 'info.gbiz.go.jp' in s['url'])
+                    db.execute('INSERT INTO entity_registry VALUES (?,?,?,?,?,?)',(
+                        sid,e['corporate_number'],e['state'],e.get('closed_date'),e.get('registered_address'),source_id(s['url'])))
                 for m in r.get('media',[]):
                     checksum=hashlib.sha256((ROOT/m['path']).read_bytes()).hexdigest()
                     db.execute('INSERT INTO media_assets VALUES (?,?,?,?,?,?,?,?,?,?,?,?)',(
@@ -138,15 +156,15 @@ def build_database(rows, prefectures, catalog):
     return output
 
 
-def build_offline(rows, prefectures):
+def build_offline(rows, prefectures, coverage):
     html=(ROOT/'index.html').read_text(encoding='utf-8')
     css=(ROOT/'web/atlas.css').read_text(encoding='utf-8')
     js=(ROOT/'web/atlas.js').read_text(encoding='utf-8')
-    inline=json.dumps({'shrines':rows,'prefectures':prefectures},ensure_ascii=False,separators=(',',':')).replace('</','<\\/')
+    inline=json.dumps({'shrines':rows,'prefectures':prefectures,'coverage':coverage},ensure_ascii=False,separators=(',',':')).replace('</','<\\/')
     html=html.replace('<link rel="stylesheet" href="web/atlas.css">','<style>\n'+css+'\n</style>')
     html=html.replace('<script src="web/atlas.js" defer></script>',
                       '<script>window.ATLAS_INLINE_DATA='+inline+';</script>\n<script>\n'+js+'\n</script>')
-    html=html.replace('资料分离版 v0.2','单文件离线版 v0.2').replace(
+    html=html.replace('资料分离版 v0.3','单文件离线版 v0.3').replace(
         '页面读取独立资料文件；另提供单文件离线版本。','资料与地图均已内嵌；打开外部来源页面时需要联网。')
     output=ROOT/'offline/tottori-shrine-atlas.html'
     output.write_text(html,encoding='utf-8')
@@ -159,7 +177,25 @@ def main():
     prefectures=read_json(catalog['map'])
     validate(rows,prefectures)
     database=build_database(rows,prefectures,catalog)
-    offline=build_offline(rows,prefectures)
+    coverage=read_json(catalog['coverage'])
+    if len(rows)!=coverage['directory_rows'] or len({r['directory']['number'] for r in rows})!=len(rows):
+        raise ValueError('Full directory reconciliation failed')
+    if len({r['no'] for r in rows})!=len(rows):
+        raise ValueError('Duplicate display order')
+    profiles=[r['directory']['detail_url'] for r in rows if r['directory']['detail_url']]
+    if len(profiles)!=len(set(profiles)):
+        raise ValueError('Two directory records share a resolved profile')
+    actual={'records':len(rows),'details_matched':len(profiles),
+        'with_deities':sum(bool(r['kami']) for r in rows),
+        'mapped_locations':sum(l['map_status']=='mapped' for r in rows for l in r['locations']),
+        'enriched_records':sum(r['record_status']=='research_enriched' for r in rows)}
+    if any(coverage[k]!=value for k,value in actual.items()):
+        raise ValueError('Coverage report totals do not match the records')
+    for m in coverage['municipalities']:
+        group=[r for r in rows if r['municipality']==m['municipality']]
+        if len(group)!=m['records'] or sum(bool(r['kami']) for r in group)!=m['with_deities']:
+            raise ValueError('Municipality report does not match records')
+    offline=build_offline(rows,prefectures,coverage)
     print(json.dumps({'shrines':len(rows),'locations':sum(len(r['locations']) for r in rows),
         'prefectures':len(prefectures),'database':str(database.relative_to(ROOT)),
         'offline':str(offline.relative_to(ROOT))},ensure_ascii=False))
