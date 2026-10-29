@@ -1241,16 +1241,28 @@
       "code": 36,
       "name": "徳島県",
       "slug": "tokushima",
-      "status": "pending",
-      "records": 0,
+      "status": "ready",
+      "records": 1324,
       "mapped_locations": 0,
-      "with_deities": 0,
-      "collections": [],
-      "coverage": null,
-      "database": null,
-      "offline": null,
-      "historical_only_records": 0,
-      "agency_rows": 0
+      "with_deities": 1313,
+      "collections": [
+        "data/shrines/36-tokushima/history-001.json",
+        "data/shrines/36-tokushima/history-002.json",
+        "data/shrines/36-tokushima/history-003.json",
+        "data/shrines/36-tokushima/history-004.json",
+        "data/shrines/36-tokushima/history-005.json",
+        "data/shrines/36-tokushima/history-006.json",
+        "data/shrines/36-tokushima/history-007.json",
+        "data/shrines/36-tokushima/history-008.json",
+        "data/shrines/36-tokushima/history-009.json"
+      ],
+      "coverage": "data/coverage/36-tokushima.json",
+      "database": "database/prefectures/36-tokushima.sqlite.gz",
+      "offline": "offline/prefectures/36-tokushima.html",
+      "historical_only_records": 1324,
+      "agency_rows": 0,
+      "checked": "2026-10-30",
+      "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。"
     },
     {
       "code": 37,
@@ -2020,14 +2032,23 @@
     "data/shrines/35-yamaguchi/history-002.json",
     "data/shrines/35-yamaguchi/history-003.json",
     "data/shrines/35-yamaguchi/history-004.json",
-    "data/shrines/35-yamaguchi/history-005.json"
+    "data/shrines/35-yamaguchi/history-005.json",
+    "data/shrines/36-tokushima/history-001.json",
+    "data/shrines/36-tokushima/history-002.json",
+    "data/shrines/36-tokushima/history-003.json",
+    "data/shrines/36-tokushima/history-004.json",
+    "data/shrines/36-tokushima/history-005.json",
+    "data/shrines/36-tokushima/history-006.json",
+    "data/shrines/36-tokushima/history-007.json",
+    "data/shrines/36-tokushima/history-008.json",
+    "data/shrines/36-tokushima/history-009.json"
   ],
   "coverage_note": "机构公开名录与明确标记的研究会历史条目；不同来源的范围和缺失字段逐地区说明。",
   "totals": {
-    "regions": 35,
-    "records": 84002,
+    "regions": 36,
+    "records": 85326,
     "mapped_locations": 13815,
-    "with_deities": 66945,
-    "historical_only_records": 39272
+    "with_deities": 68258,
+    "historical_only_records": 40596
   }
 }
