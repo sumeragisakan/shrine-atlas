@@ -5,8 +5,8 @@
   "checked": "2026-10-30",
   "scope": "神奈川県・机构公开资料与研究会检索名录",
   "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
-  "directory_rows": 2249,
-  "records": 2249,
+  "directory_rows": 1765,
+  "records": 1765,
   "directory_indexes": 39,
   "baseline_rows": 1128,
   "agency_rows": 1121,
@@ -17,5541 +17,53 @@
       "reason": "来源未公布可辨识社名，不虚构名称导入"
     }
   ],
-  "matched_historical_rows": 0,
-  "historical_only_records": 1128,
-  "with_deities": 2039,
+  "matched_historical_rows": 484,
+  "historical_only_records": 644,
+  "with_deities": 1561,
   "mapped_locations": 0,
   "enriched_records": 0,
   "details_matched": 0,
-  "records_with_detail_links": 2249,
+  "records_with_detail_links": 1765,
   "municipalities": [
-    {
-      "municipality": "〒210-0004川崎市川崎区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒210-0802川崎市川崎区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒210-0806川崎市川崎区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒210-0818川崎市川崎区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒210-0821川崎市川崎区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒210-0822川崎市川崎区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒210-0824川崎市川崎区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒210-0826川崎市川崎区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒210-0832川崎市川崎区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒210-0834川崎市川崎区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒210-0837川崎市川崎区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒210-0846川崎市川崎区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0002川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0011川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0012川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0013川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0016川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0022川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0025川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0035川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0041川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0043川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0051川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0053川崎市中原区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒211-0067川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒211-0068川崎市中原区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0004川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0011川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0022川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0024川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0025川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0026川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0051川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0053川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0054川崎市幸区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒212-0055川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0057川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒212-0058川崎市幸区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0001川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0002川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0004川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0005川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0011川崎市高津区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒213-0012川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0013川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0014川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 0,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0015川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0022川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0023川崎市高津区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒213-0025川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0031川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0032川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0033川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒213-0034川崎市高津区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒214-0001川崎市多摩区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒214-0008川崎市多摩区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒214-0012川崎市多摩区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒214-0014川崎市多摩区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒214-0021川崎市多摩区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒214-0022川崎市多摩区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒214-0023川崎市多摩区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒214-0032川崎市多摩区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒214-0034川崎市多摩区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒214-0037川崎市多摩区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0000川崎市多摩区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 0,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0001川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0003川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0004川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0013川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0014川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0016川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0021川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0024川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0026川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0027川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0033川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒215-0035川崎市麻生区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒216-0000川崎市高津区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒216-0003川崎市宮前区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒216-0005川崎市宮前区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒216-0015川崎市宮前区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒216-0022川崎市宮前区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒216-0031川崎市宮前区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒216-0035川崎市宮前区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒216-0041川崎市宮前区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒220-0023横浜市西区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒220-0031横浜市西区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒220-0051横浜市西区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒220-0061横浜市西区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒220-0072横浜市西区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒220-0073横浜市西区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒220-0412相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0001横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0005横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0014横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0044横浜市神奈川区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒221-0057横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0071横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0801横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0802横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0834横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0862横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0863横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒221-0864横浜市神奈川区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒221-0865横浜市神奈川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒222-0001横浜市港北区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒222-0002横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒222-0003横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒222-0011横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒222-0026横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒222-0032横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒222-0034横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒222-0035横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒222-0036横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒222-0037横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒223-0051横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒223-0052横浜市港北区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒223-0056横浜市港北区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒223-0057横浜市港北区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒223-0061横浜市港北区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒223-0062横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒223-0064横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒223-0066横浜市港北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0002横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0011横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0029横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0032横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0034横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0042横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0043横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0044横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0045横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0053横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0054横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒224-0057横浜市都筑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒225-0002横浜市青葉区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒225-0003横浜市青葉区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒225-0004横浜市青葉区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒225-0011横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒225-0013横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒225-0021横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒225-0023横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒225-0024横浜市青葉区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒225-0025横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0000横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0002横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0004横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0006横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0011横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0012横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0013横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0014横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0015横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0017横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0021横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0022横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0023横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0024横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0025横浜市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒226-0027横浜市緑区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒227-0033横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒227-0038横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒227-0046横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒227-0047横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒227-0048横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒227-0051横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒227-0054横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒227-0065横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒227-0066横浜市青葉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒228-0025座間市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒228-0026座間市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒228-0029座間市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒229-0015相模原市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒229-0034相模原市中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0001横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0002横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0011横浜市鶴見区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒230-0012横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0015横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0022横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0027横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0041横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0051横浜市鶴見区",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒230-0052横浜市鶴見区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒230-0063横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0071横浜市鶴見区",
-      "area": "全域",
-      "records": 6,
-      "with_deities": 6,
-      "mapped_locations": 0,
-      "without_coordinates": 6
-    },
-    {
-      "municipality": "〒230-0073横浜市鶴見区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒230-0074横浜市鶴見区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒230-0075横浜市鶴見区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒230-0076横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0077横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒230-0078横浜市鶴見区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒231-0047横浜市中区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒231-0066横浜市中区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒231-0806横浜市中区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒231-0821横浜市中区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒231-0827横浜市中区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒231-0844横浜市中区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒231-0861横浜市中区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒231-0863横浜市中区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 0,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒231-0868横浜市中区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒232-0006横浜市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒232-0013横浜市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒232-0016横浜市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒232-0021横浜市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒232-0037横浜市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒232-0042横浜市南区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒232-0051横浜市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒232-0061横浜市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒232-0064横浜市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒232-0066横浜市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒232-0072横浜市南区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒233-0002横浜市港南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒233-0003横浜市港南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒233-0007横浜市港南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒233-0012横浜市港南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒233-0016横浜市港南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒233-0051横浜市港南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒234-0056横浜市港南区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒235-0007横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0008横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0016横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0021横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0023横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0033横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0035横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0036横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0041横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0042横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0043横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0044横浜市磯子区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒235-0045横浜市磯子区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒236-0012横浜市金沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒236-0014横浜市金沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒236-0016横浜市金沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒236-0022横浜市金沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒236-0025横浜市金沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒236-0027横浜市金沢区",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒236-0028横浜市金沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒236-0034横浜市金沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒236-0045横浜市金沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒236-0051横浜市金沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒237-0062横須賀市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒237-0068横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒237-0072横須賀市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒237-0075横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒237-0076横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0007横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0012横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0014横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0016横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0017横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0018横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0024横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0026横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0032横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0033横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0035横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0042横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0043横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0046横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0051横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0052横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0101三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0102三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0103三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0104三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0105三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0111三浦市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒238-0112三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0114三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0115三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0223三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0224三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0225三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0231三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0233三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0237三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0243三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0244三浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0311横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0313横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0314横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0315横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒238-0316横須賀市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒239-0804横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0808横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0811横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0813横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0821横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0824横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0828横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0831横須賀市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒239-0834横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0835横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0841横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0842横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0843横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒239-0844横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0003横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0005横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0006横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0022横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0024横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒240-0035横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0042横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0043横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0044横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0045横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0051横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0053横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0065横浜市保土ケ谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0101横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0103横須賀市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0104横須賀市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒240-0105横須賀市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒240-0111三浦郡葉山町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0112三浦郡葉山町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒240-0113三浦郡葉山町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0114三浦郡葉山町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0115三浦郡葉山町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒240-0116三浦郡葉山町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0002横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0005横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0013横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0014横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0015横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0023横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0024横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0031横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0802横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0804横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0806横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0822横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0823横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0826横浜市旭区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒241-0833横浜市旭区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒242-0001大和市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒242-0011大和市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒242-0014大和市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒242-0015大和市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒242-0021大和市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒242-0024大和市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒242-0027大和市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒242-0029大和市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0007厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0021厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0022厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0023厚木市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒243-0024厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0025厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0026厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0031厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0032厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0033厚木市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒243-0034厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0035厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0036厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0038厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0111愛甲郡清川村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0112愛甲郡清川村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0121厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0125厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0126厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0201厚木市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒243-0202厚木市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒243-0203厚木市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒243-0205厚木市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒243-0206厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0212厚木市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒243-0213厚木市",
-      "area": "全域",
-      "records": 6,
-      "with_deities": 6,
-      "mapped_locations": 0,
-      "without_coordinates": 6
-    },
-    {
-      "municipality": "〒243-0214厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-02厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0301愛甲郡愛川町",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒243-0305愛甲郡愛川町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0306愛甲郡愛川町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0307愛甲郡愛川町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒243-0308愛甲郡愛川町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒243-0404海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 0,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0406海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0410海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0416海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0417海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0418海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0419海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0422海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0423海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0424海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0425海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0426海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0434海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0435海老名市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0801厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0802厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0803厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0804厚木市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒243-0805厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0806厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0807厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0815厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒243-0816厚木市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0002横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0003横浜市戸塚区",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒244-0004横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0801横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0803横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0804横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0805横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0811横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0812横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0813横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0815横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0816横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0817横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0841横浜市栄区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0842横浜市栄区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0843横浜市栄区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0844横浜市栄区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒244-0845横浜市栄区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒245-0003横浜市泉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒245-0009横浜市泉区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒245-0011横浜市泉区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒245-0016横浜市泉区",
-      "area": "全域",
-      "records": 7,
-      "with_deities": 7,
-      "mapped_locations": 0,
-      "without_coordinates": 7
-    },
-    {
-      "municipality": "〒245-0017横浜市泉区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒245-0018横浜市泉区",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒245-0023横浜市泉区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒245-0051横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒245-0052横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒245-0053横浜市戸塚区",
-      "area": "全域",
-      "records": 6,
-      "with_deities": 6,
-      "mapped_locations": 0,
-      "without_coordinates": 6
-    },
-    {
-      "municipality": "〒245-0061横浜市戸塚区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒245-0063横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒245-0064横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒245-0065横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒245-0066横浜市戸塚区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒245-0067横浜市戸塚区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒246-0006横浜市瀬谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒246-0013横浜市瀬谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒246-0015横浜市瀬谷区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒246-0021横浜市瀬谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒246-0024横浜市瀬谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒246-0033横浜市瀬谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒246-0037横浜市瀬谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0003横浜市栄区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0006横浜市栄区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒247-0007横浜市栄区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0012横浜市栄区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0013横浜市栄区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0014横浜市栄区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0021横浜市栄区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0036鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0051鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0052鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0055鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0056鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0061鎌倉市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒247-0062鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0063鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0064鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0065鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0066鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0072鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒247-0073鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0001鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0003鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0006鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0007鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0011鎌倉市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒248-0013鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0016鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0017鎌倉市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒248-0021鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0022鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0023鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0027鎌倉市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒248-0032鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒248-0033鎌倉市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒248-0036鎌倉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒249-0001逗子市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒249-0002逗子市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒249-0003逗子市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒249-0004逗子市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒249-0005逗子市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒249-0006逗子市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒249-0008逗子市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0002藤沢市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒251-0003藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0011藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0012藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0013藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0014藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0015藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0021藤沢市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒251-0031藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0032藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0036藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0037藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0043藤沢市",
-      "area": "全域",
-      "records": 7,
-      "with_deities": 7,
-      "mapped_locations": 0,
-      "without_coordinates": 7
-    },
-    {
-      "municipality": "〒251-0052藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0056藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0057藤沢市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒251-0802藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒251-0861藤沢市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒251-0862藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0000藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0014座間市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0027座間市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0029座間市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0111相模原市緑区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0114相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0115相模原市緑区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒252-0117相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0134相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0135相模原市緑区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0137相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0141相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0151相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0152相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0153相模原市緑区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0154相模原市緑区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0155相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0156相模原市緑区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒252-0157相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0158相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0159相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0161相模原市緑区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0171相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0173相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0174相模原市緑区",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒252-0181相模原市緑区",
-      "area": "全域",
-      "records": 6,
-      "with_deities": 6,
-      "mapped_locations": 0,
-      "without_coordinates": 6
-    },
-    {
-      "municipality": "〒252-0182相模原市緑区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒252-0183相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0184相模原市緑区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0185相模原市緑区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0186相模原市緑区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0201相模原市中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0202相模原市中央区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0211相模原市中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0216相模原市中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0232相模原市中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0243相模原市中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0246相模原市中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0301相模原市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0303相模原市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0311相模原市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0314相模原市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0318相模原市南区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒252-0326相模原市南区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒252-0327相模原市南区",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒252-0333相模原市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0335相模原市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0336相模原市南区",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒252-0344相模原市南区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0801藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0802藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0804藤沢市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0807藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0812藤沢市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0813藤沢市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0815藤沢市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒252-0816藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0817相模原市緑区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒252-0821藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0822藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0823藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0824藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-0826藤沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-1105綾瀬市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-1107綾瀬市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-1113綾瀬市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-1115綾瀬市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-1121綾瀬市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-1123綾瀬市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-1124綾瀬市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒252-1132綾瀬市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0000茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0001茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0002茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0004茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0006茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0008茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0011茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0012茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0018茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0041茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0042茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0044茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0045茅ケ崎市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒253-0061茅ケ崎市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒253-0064茅ケ崎市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒253-0065茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0071茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0072茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0073茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0083茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0084茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0085茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0086茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0087茅ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0101高座郡寒川町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0102高座郡寒川町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0104高座郡寒川町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0105高座郡寒川町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0111高座郡寒川町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒253-0113高座郡寒川町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒253-0195高座郡寒川町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0001平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0002平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0003平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0004平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0005平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0012平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0013平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0014平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0016平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0018平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0026平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0041平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0052平塚市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒254-0054平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0065平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0075平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0085平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0803平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0805平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0901平塚市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒254-0902平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0903平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0904平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0911平塚市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒254-0912平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒254-0913平塚市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒254-0915平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒255-0001中郡大磯町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒255-0003中郡大磯町",
-      "area": "全域",
-      "records": 7,
-      "with_deities": 7,
-      "mapped_locations": 0,
-      "without_coordinates": 7
-    },
-    {
-      "municipality": "〒255-0004中郡大磯町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒255-0005中郡大磯町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒259-0101中郡大磯町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-0102中郡大磯町",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒259-0103中郡大磯町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-0104中郡大磯町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-0105中郡大磯町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-0111中郡大磯町",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒259-0123中郡二宮町",
-      "area": "全域",
-      "records": 6,
-      "with_deities": 6,
-      "mapped_locations": 0,
-      "without_coordinates": 6
-    },
-    {
-      "municipality": "〒259-0124中郡二宮町",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒259-0131中郡二宮町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒259-0134中郡二宮町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒259-1101伊勢原市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒259-1103伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1104伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1111伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1112伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1113伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1114伊勢原市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒259-1116伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1118伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1121伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1122伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1123伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1124伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1125伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1126伊勢原市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒259-1127伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1131伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1133伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1135伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1136伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1137伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1138伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1141伊勢原市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒259-1142伊勢原市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒259-1143伊勢原市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒259-1144伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1145伊勢原市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1201平塚市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒259-1202平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1203平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1204平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1205平塚市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒259-1206平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1207平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1212平塚市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒259-1213平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1214平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1215平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1216平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒259-1217平塚市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
     {
       "municipality": "三浦市",
       "area": "全域",
-      "records": 18,
-      "with_deities": 18,
+      "records": 21,
+      "with_deities": 21,
       "mapped_locations": 0,
-      "without_coordinates": 18
+      "without_coordinates": 21
     },
     {
       "municipality": "三浦郡葉山町",
       "area": "全域",
-      "records": 7,
-      "with_deities": 7,
+      "records": 8,
+      "with_deities": 8,
       "mapped_locations": 0,
-      "without_coordinates": 7
+      "without_coordinates": 8
     },
     {
       "municipality": "中郡二宮町",
       "area": "全域",
-      "records": 16,
-      "with_deities": 16,
+      "records": 32,
+      "with_deities": 32,
       "mapped_locations": 0,
-      "without_coordinates": 16
+      "without_coordinates": 32
     },
     {
       "municipality": "中郡大磯町",
       "area": "全域",
-      "records": 25,
-      "with_deities": 25,
+      "records": 37,
+      "with_deities": 37,
       "mapped_locations": 0,
-      "without_coordinates": 25
+      "without_coordinates": 37
     },
     {
       "municipality": "伊勢原市",
       "area": "全域",
-      "records": 40,
-      "with_deities": 38,
+      "records": 56,
+      "with_deities": 56,
       "mapped_locations": 0,
-      "without_coordinates": 40
+      "without_coordinates": 56
     },
     {
       "municipality": "南足柄市",
@@ -5564,18 +76,18 @@
     {
       "municipality": "厚木市",
       "area": "全域",
-      "records": 57,
-      "with_deities": 57,
+      "records": 79,
+      "with_deities": 78,
       "mapped_locations": 0,
-      "without_coordinates": 57
+      "without_coordinates": 79
     },
     {
       "municipality": "大和市",
       "area": "全域",
-      "records": 14,
-      "with_deities": 14,
+      "records": 17,
+      "with_deities": 17,
       "mapped_locations": 0,
-      "without_coordinates": 14
+      "without_coordinates": 17
     },
     {
       "municipality": "小田原市",
@@ -5588,74 +100,74 @@
     {
       "municipality": "川崎市中原区",
       "area": "全域",
-      "records": 15,
-      "with_deities": 15,
+      "records": 24,
+      "with_deities": 24,
       "mapped_locations": 0,
-      "without_coordinates": 15
+      "without_coordinates": 24
     },
     {
       "municipality": "川崎市多摩区",
       "area": "全域",
-      "records": 12,
+      "records": 13,
       "with_deities": 12,
       "mapped_locations": 0,
-      "without_coordinates": 12
+      "without_coordinates": 13
     },
     {
       "municipality": "川崎市宮前区",
       "area": "全域",
-      "records": 7,
-      "with_deities": 7,
+      "records": 10,
+      "with_deities": 10,
       "mapped_locations": 0,
-      "without_coordinates": 7
+      "without_coordinates": 10
     },
     {
       "municipality": "川崎市川崎区",
       "area": "全域",
-      "records": 15,
-      "with_deities": 15,
+      "records": 16,
+      "with_deities": 16,
       "mapped_locations": 0,
-      "without_coordinates": 15
+      "without_coordinates": 16
     },
     {
       "municipality": "川崎市幸区",
       "area": "全域",
-      "records": 14,
-      "with_deities": 14,
+      "records": 22,
+      "with_deities": 22,
       "mapped_locations": 0,
-      "without_coordinates": 14
+      "without_coordinates": 22
     },
     {
       "municipality": "川崎市高津区",
       "area": "全域",
-      "records": 20,
-      "with_deities": 20,
+      "records": 29,
+      "with_deities": 29,
       "mapped_locations": 0,
-      "without_coordinates": 20
+      "without_coordinates": 29
     },
     {
       "municipality": "川崎市麻生区",
       "area": "全域",
-      "records": 12,
-      "with_deities": 12,
+      "records": 16,
+      "with_deities": 16,
       "mapped_locations": 0,
-      "without_coordinates": 12
+      "without_coordinates": 16
     },
     {
       "municipality": "平塚市",
       "area": "全域",
-      "records": 57,
-      "with_deities": 57,
+      "records": 78,
+      "with_deities": 78,
       "mapped_locations": 0,
-      "without_coordinates": 57
+      "without_coordinates": 78
     },
     {
       "municipality": "座間市",
       "area": "全域",
-      "records": 7,
-      "with_deities": 7,
+      "records": 10,
+      "with_deities": 10,
       "mapped_locations": 0,
-      "without_coordinates": 7
+      "without_coordinates": 10
     },
     {
       "municipality": "愛甲郡愛川町",
@@ -5668,10 +180,10 @@
     {
       "municipality": "愛甲郡清川村",
       "area": "全域",
-      "records": 2,
-      "with_deities": 2,
+      "records": 3,
+      "with_deities": 3,
       "mapped_locations": 0,
-      "without_coordinates": 2
+      "without_coordinates": 3
     },
     {
       "municipality": "所在地未详",
@@ -5684,37 +196,21 @@
     {
       "municipality": "横浜市中区",
       "area": "全域",
-      "records": 9,
-      "with_deities": 8,
+      "records": 10,
+      "with_deities": 9,
       "mapped_locations": 0,
-      "without_coordinates": 9
+      "without_coordinates": 10
     },
     {
       "municipality": "横浜市保土ケ谷区",
       "area": "全域",
-      "records": 13,
-      "with_deities": 13,
+      "records": 18,
+      "with_deities": 17,
       "mapped_locations": 0,
-      "without_coordinates": 13
+      "without_coordinates": 18
     },
     {
       "municipality": "横浜市南区",
-      "area": "全域",
-      "records": 14,
-      "with_deities": 14,
-      "mapped_locations": 0,
-      "without_coordinates": 14
-    },
-    {
-      "municipality": "横浜市戸塚区",
-      "area": "全域",
-      "records": 33,
-      "with_deities": 33,
-      "mapped_locations": 0,
-      "without_coordinates": 33
-    },
-    {
-      "municipality": "横浜市旭区",
       "area": "全域",
       "records": 16,
       "with_deities": 16,
@@ -5722,68 +218,84 @@
       "without_coordinates": 16
     },
     {
+      "municipality": "横浜市戸塚区",
+      "area": "全域",
+      "records": 39,
+      "with_deities": 39,
+      "mapped_locations": 0,
+      "without_coordinates": 39
+    },
+    {
+      "municipality": "横浜市旭区",
+      "area": "全域",
+      "records": 22,
+      "with_deities": 22,
+      "mapped_locations": 0,
+      "without_coordinates": 22
+    },
+    {
       "municipality": "横浜市栄区",
       "area": "全域",
-      "records": 14,
-      "with_deities": 14,
+      "records": 24,
+      "with_deities": 24,
       "mapped_locations": 0,
-      "without_coordinates": 14
+      "without_coordinates": 24
     },
     {
       "municipality": "横浜市泉区",
       "area": "全域",
-      "records": 19,
-      "with_deities": 19,
+      "records": 25,
+      "with_deities": 25,
       "mapped_locations": 0,
-      "without_coordinates": 19
+      "without_coordinates": 25
     },
     {
       "municipality": "横浜市港北区",
       "area": "全域",
-      "records": 29,
-      "with_deities": 29,
+      "records": 38,
+      "with_deities": 38,
       "mapped_locations": 0,
-      "without_coordinates": 29
+      "without_coordinates": 38
     },
     {
       "municipality": "横浜市港南区",
       "area": "全域",
-      "records": 8,
-      "with_deities": 8,
+      "records": 10,
+      "with_deities": 10,
       "mapped_locations": 0,
-      "without_coordinates": 8
+      "without_coordinates": 10
     },
     {
       "municipality": "横浜市瀬谷区",
       "area": "全域",
-      "records": 8,
-      "with_deities": 8,
+      "records": 11,
+      "with_deities": 11,
       "mapped_locations": 0,
-      "without_coordinates": 8
+      "without_coordinates": 11
     },
     {
       "municipality": "横浜市磯子区",
       "area": "全域",
-      "records": 13,
+      "records": 14,
       "with_deities": 13,
       "mapped_locations": 0,
-      "without_coordinates": 13
+      "without_coordinates": 14
     },
     {
       "municipality": "横浜市神奈川区",
       "area": "全域",
-      "records": 20,
-      "with_deities": 20,
+      "records": 27,
+      "with_deities": 27,
       "mapped_locations": 0,
-      "without_coordinates": 20
+      "without_coordinates": 27
     },
     {
       "municipality": "横浜市緑区",
       "area": "全域",
-      "records": 47,
-      "with_deities": 47,
+      "records": 54,
+      "with_deities": 54,
       "mapped_locations": 0,
-      "without_coordinates": 47
+      "without_coordinates": 54
     },
     {
       "municipality": "横浜市西区",
@@ -5794,28 +306,44 @@
       "without_coordinates": 6
     },
     {
+      "municipality": "横浜市都筑区",
+      "area": "全域",
+      "records": 12,
+      "with_deities": 12,
+      "mapped_locations": 0,
+      "without_coordinates": 12
+    },
+    {
       "municipality": "横浜市金沢区",
       "area": "全域",
-      "records": 10,
-      "with_deities": 10,
+      "records": 16,
+      "with_deities": 12,
       "mapped_locations": 0,
-      "without_coordinates": 10
+      "without_coordinates": 16
+    },
+    {
+      "municipality": "横浜市青葉区",
+      "area": "全域",
+      "records": 24,
+      "with_deities": 24,
+      "mapped_locations": 0,
+      "without_coordinates": 24
     },
     {
       "municipality": "横浜市鶴見区",
       "area": "全域",
-      "records": 33,
-      "with_deities": 33,
+      "records": 58,
+      "with_deities": 57,
       "mapped_locations": 0,
-      "without_coordinates": 33
+      "without_coordinates": 58
     },
     {
       "municipality": "横須賀市",
       "area": "全域",
-      "records": 55,
-      "with_deities": 55,
+      "records": 80,
+      "with_deities": 80,
       "mapped_locations": 0,
-      "without_coordinates": 55
+      "without_coordinates": 80
     },
     {
       "municipality": "津久井郡城山町",
@@ -5852,10 +380,10 @@
     {
       "municipality": "海老名市",
       "area": "全域",
-      "records": 13,
-      "with_deities": 13,
+      "records": 25,
+      "with_deities": 24,
       "mapped_locations": 0,
-      "without_coordinates": 13
+      "without_coordinates": 25
     },
     {
       "municipality": "相模原市",
@@ -5864,6 +392,30 @@
       "with_deities": 46,
       "mapped_locations": 0,
       "without_coordinates": 46
+    },
+    {
+      "municipality": "相模原市中央区",
+      "area": "全域",
+      "records": 9,
+      "with_deities": 9,
+      "mapped_locations": 0,
+      "without_coordinates": 9
+    },
+    {
+      "municipality": "相模原市南区",
+      "area": "全域",
+      "records": 23,
+      "with_deities": 23,
+      "mapped_locations": 0,
+      "without_coordinates": 23
+    },
+    {
+      "municipality": "相模原市緑区",
+      "area": "全域",
+      "records": 52,
+      "with_deities": 52,
+      "mapped_locations": 0,
+      "without_coordinates": 52
     },
     {
       "municipality": "秦野市",
@@ -5876,18 +428,18 @@
     {
       "municipality": "綾瀬市",
       "area": "全域",
-      "records": 8,
-      "with_deities": 8,
+      "records": 12,
+      "with_deities": 12,
       "mapped_locations": 0,
-      "without_coordinates": 8
+      "without_coordinates": 12
     },
     {
       "municipality": "茅ケ崎市",
       "area": "全域",
-      "records": 22,
-      "with_deities": 22,
+      "records": 36,
+      "with_deities": 36,
       "mapped_locations": 0,
-      "without_coordinates": 22
+      "without_coordinates": 36
     },
     {
       "municipality": "茅ヶ崎市",
@@ -5900,10 +452,10 @@
     {
       "municipality": "藤沢市",
       "area": "全域",
-      "records": 56,
-      "with_deities": 56,
+      "records": 76,
+      "with_deities": 76,
       "mapped_locations": 0,
-      "without_coordinates": 56
+      "without_coordinates": 76
     },
     {
       "municipality": "足柄上郡中井町",
@@ -5972,26 +524,26 @@
     {
       "municipality": "逗子市",
       "area": "全域",
-      "records": 7,
-      "with_deities": 7,
+      "records": 10,
+      "with_deities": 10,
       "mapped_locations": 0,
-      "without_coordinates": 7
+      "without_coordinates": 10
     },
     {
       "municipality": "鎌倉市",
       "area": "全域",
-      "records": 41,
-      "with_deities": 37,
+      "records": 58,
+      "with_deities": 56,
       "mapped_locations": 0,
-      "without_coordinates": 41
+      "without_coordinates": 58
     },
     {
       "municipality": "高座郡寒川町",
       "area": "全域",
-      "records": 9,
-      "with_deities": 9,
+      "records": 11,
+      "with_deities": 11,
       "mapped_locations": 0,
-      "without_coordinates": 9
+      "without_coordinates": 11
     }
   ],
   "collections": [
@@ -6007,10 +559,7 @@
     "data/shrines/14-kanagawa/history-002.json",
     "data/shrines/14-kanagawa/history-003.json",
     "data/shrines/14-kanagawa/history-004.json",
-    "data/shrines/14-kanagawa/history-005.json",
-    "data/shrines/14-kanagawa/history-006.json",
-    "data/shrines/14-kanagawa/history-007.json",
-    "data/shrines/14-kanagawa/history-008.json"
+    "data/shrines/14-kanagawa/history-005.json"
   ],
   "indexes": [
     {
@@ -6267,10 +816,2198 @@
     }
   ],
   "coordinate_quarantine": [],
-  "duplicate_candidates": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "14-agency-23af7bd971c027",
+        "14-history-9742584c71903a"
+      ],
+      "name": "大師稲荷神社",
+      "municipality": "川崎市川崎区"
+    },
+    {
+      "ids": [
+        "14-agency-8bf7d531c51d56",
+        "14-history-2e7377e359a166"
+      ],
+      "name": "鹿島大神",
+      "municipality": "川崎市幸区"
+    },
+    {
+      "ids": [
+        "14-agency-6750332704d8f2",
+        "14-history-643bdcf62f71c9"
+      ],
+      "name": "御嶽大神",
+      "municipality": "川崎市幸区"
+    },
+    {
+      "ids": [
+        "14-agency-e1b1dcdbf46ea6",
+        "14-history-71ca8780fe8982",
+        "14-history-af4a597c990fd0"
+      ],
+      "name": "神明大神",
+      "municipality": "川崎市幸区"
+    },
+    {
+      "ids": [
+        "14-agency-3a7d17267b23ce",
+        "14-history-dad3b5bbe67042"
+      ],
+      "name": "杉山大神",
+      "municipality": "川崎市幸区"
+    },
+    {
+      "ids": [
+        "14-agency-e5a59a0af278a3",
+        "14-history-200f0cc9fc6d12"
+      ],
+      "name": "小倉神社",
+      "municipality": "川崎市幸区"
+    },
+    {
+      "ids": [
+        "14-agency-3b5a8247801ae7",
+        "14-history-413e0a62047bc1"
+      ],
+      "name": "椎木稲荷神社",
+      "municipality": "川崎市幸区"
+    },
+    {
+      "ids": [
+        "14-agency-87e17c104a69b7",
+        "14-history-0e5accb1bc3e6d"
+      ],
+      "name": "熊野神社",
+      "municipality": "川崎市幸区"
+    },
+    {
+      "ids": [
+        "14-agency-f1327782ba4c7b",
+        "14-agency-fe688142176724",
+        "14-history-066e15fff8437a"
+      ],
+      "name": "八幡大神",
+      "municipality": "川崎市中原区"
+    },
+    {
+      "ids": [
+        "14-agency-c59b0ed92e478e",
+        "14-history-6d4c9498274adf"
+      ],
+      "name": "三社宮",
+      "municipality": "川崎市中原区"
+    },
+    {
+      "ids": [
+        "14-agency-81a1ed4267aa0a",
+        "14-history-0cac39c9290ae7"
+      ],
+      "name": "住吉神社",
+      "municipality": "川崎市中原区"
+    },
+    {
+      "ids": [
+        "14-agency-3411b5a0492fb0",
+        "14-history-30d122d9985c76"
+      ],
+      "name": "春日神社",
+      "municipality": "川崎市中原区"
+    },
+    {
+      "ids": [
+        "14-agency-72e7ba5857c490",
+        "14-history-3b63a7039bfbcf"
+      ],
+      "name": "天照皇大神宮",
+      "municipality": "川崎市中原区"
+    },
+    {
+      "ids": [
+        "14-agency-d9464b89cc1ffb",
+        "14-history-603cc3068f4296"
+      ],
+      "name": "今井神社",
+      "municipality": "川崎市中原区"
+    },
+    {
+      "ids": [
+        "14-agency-deeea7e58399d0",
+        "14-history-e63c0002276bbc"
+      ],
+      "name": "神明神社",
+      "municipality": "川崎市中原区"
+    },
+    {
+      "ids": [
+        "14-agency-422aae508094cd",
+        "14-history-03fa103bb2662a"
+      ],
+      "name": "関神社",
+      "municipality": "川崎市中原区"
+    },
+    {
+      "ids": [
+        "14-agency-b19cbbb3111c54",
+        "14-history-a916e0732d8ffd"
+      ],
+      "name": "新城神社",
+      "municipality": "川崎市中原区"
+    },
+    {
+      "ids": [
+        "14-agency-07c3ce6d273ea4",
+        "14-history-347636ca361b06"
+      ],
+      "name": "土橋神社",
+      "municipality": "川崎市宮前区"
+    },
+    {
+      "ids": [
+        "14-agency-2c78e330b3d515",
+        "14-history-64cad719993b74"
+      ],
+      "name": "馬絹神社",
+      "municipality": "川崎市宮前区"
+    },
+    {
+      "ids": [
+        "14-agency-08fe0c3cdf3ce6",
+        "14-history-26c4f3b76bddfc"
+      ],
+      "name": "神明社",
+      "municipality": "川崎市宮前区"
+    },
+    {
+      "ids": [
+        "14-agency-84e075d727b3d2",
+        "14-agency-95669fe91fbd99",
+        "14-history-7c3cfe9faa5958"
+      ],
+      "name": "神明神社",
+      "municipality": "川崎市高津区"
+    },
+    {
+      "ids": [
+        "14-agency-866b9e5c593a52",
+        "14-history-a473f03d2b085f"
+      ],
+      "name": "溝口神社",
+      "municipality": "川崎市高津区"
+    },
+    {
+      "ids": [
+        "14-agency-ea089159601ae3",
+        "14-history-43403ca3a8f0f3"
+      ],
+      "name": "久本神社",
+      "municipality": "川崎市高津区"
+    },
+    {
+      "ids": [
+        "14-agency-a4326a79caf035",
+        "14-history-e8af59f4a1e177"
+      ],
+      "name": "二子神社",
+      "municipality": "川崎市高津区"
+    },
+    {
+      "ids": [
+        "14-agency-a458819d156ef8",
+        "14-history-f4bac839e031dc"
+      ],
+      "name": "久地神社",
+      "municipality": "川崎市高津区"
+    },
+    {
+      "ids": [
+        "14-agency-6c37f7deba0f03",
+        "14-history-bbf95e4447d3bd"
+      ],
+      "name": "御嶽神社",
+      "municipality": "川崎市高津区"
+    },
+    {
+      "ids": [
+        "14-agency-9e5584f133ad6d",
+        "14-history-702fd148358b87"
+      ],
+      "name": "諏訪神社",
+      "municipality": "川崎市高津区"
+    },
+    {
+      "ids": [
+        "14-agency-4cbde827cc9d53",
+        "14-history-558ffadd056c12"
+      ],
+      "name": "白髭神社",
+      "municipality": "川崎市高津区"
+    },
+    {
+      "ids": [
+        "14-agency-b34bc58d6c2d45",
+        "14-history-c8c660fa2c8587"
+      ],
+      "name": "杉山神社",
+      "municipality": "川崎市高津区"
+    },
+    {
+      "ids": [
+        "14-agency-719be8f39ab3e0",
+        "14-history-192a67a6ded44d"
+      ],
+      "name": "月読神社",
+      "municipality": "川崎市麻生区"
+    },
+    {
+      "ids": [
+        "14-agency-30656b0d9c608d",
+        "14-history-e20575f5220a93"
+      ],
+      "name": "十二神社",
+      "municipality": "川崎市麻生区"
+    },
+    {
+      "ids": [
+        "14-agency-c1a398adc81705",
+        "14-history-b43c381567ecab"
+      ],
+      "name": "御嶽神社",
+      "municipality": "川崎市麻生区"
+    },
+    {
+      "ids": [
+        "14-agency-eb57be1b4947ee",
+        "14-history-39b98f31e27520"
+      ],
+      "name": "杉山神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-718dfacbfd9a98",
+        "14-history-82010d17d64063"
+      ],
+      "name": "水神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-e9abfbf4584adb",
+        "14-agency-17cf2f7b481a0e",
+        "14-agency-399cb5e2a1826d",
+        "14-history-237446bf5ef648",
+        "14-history-b1acb4db7993ef"
+      ],
+      "name": "稲荷神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-45a43b9c49933f",
+        "14-agency-d5d2456d947aaa",
+        "14-agency-03a739e84980f4",
+        "14-agency-8220181d7fe248",
+        "14-agency-9e753c7dc49c05",
+        "14-agency-ddf044a89cadbe",
+        "14-history-2b86a3a5a20935",
+        "14-history-53d75802291486",
+        "14-history-fcf66b22f208b2",
+        "14-history-2fc9c583780015",
+        "14-history-7f8d7556fbcef8"
+      ],
+      "name": "神明社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-6c35f19bea817d",
+        "14-agency-70cd600e51e348",
+        "14-agency-0be532232f4e52",
+        "14-history-5cd75fbd5ab4f6"
+      ],
+      "name": "八幡神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-ce1d1c50843f3c",
+        "14-agency-29e0cfaf99ce9b",
+        "14-agency-5071a3a4f811b6",
+        "14-history-f86ab658014c55",
+        "14-history-142cbc81e88dc8"
+      ],
+      "name": "熊野神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-2855ea15065ca0",
+        "14-history-2289fb77c5d8ee"
+      ],
+      "name": "潮田神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-96a7565df79e43",
+        "14-history-168c35dd00bb8c"
+      ],
+      "name": "日枝神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-9d58b51ee50835",
+        "14-history-d60b589e77ea8d"
+      ],
+      "name": "秋葉神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-c72e2e884e83f1",
+        "14-history-9553a74d7869a1"
+      ],
+      "name": "白幡神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-4b049b9f95f56a",
+        "14-agency-f4fa1a8df179b1",
+        "14-agency-897695aaaa77cb",
+        "14-history-f8117f60daf073",
+        "14-history-0d62c4fd677bdc",
+        "14-history-43b629caf905df"
+      ],
+      "name": "稲荷社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-168bb9af5e18ff",
+        "14-history-ef93df38c6fb6b"
+      ],
+      "name": "厳島神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-7e770c31458bd4",
+        "14-history-fee3f50036fe83"
+      ],
+      "name": "八幡大神",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-6b79142b85ba0d",
+        "14-history-f3ad09506fb33d"
+      ],
+      "name": "浅間神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-d7335ea9666854",
+        "14-history-d3d9111b0cc58b"
+      ],
+      "name": "末吉神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-3d0fcace539e5d",
+        "14-history-69037205fc11c5"
+      ],
+      "name": "愛宕神社",
+      "municipality": "横浜市鶴見区"
+    },
+    {
+      "ids": [
+        "14-agency-d53879f96caafe",
+        "14-history-efa424a464dae9"
+      ],
+      "name": "日枝神社",
+      "municipality": "横浜市神奈川区"
+    },
+    {
+      "ids": [
+        "14-agency-f024c5428bfc54",
+        "14-history-b1243f46be26f8"
+      ],
+      "name": "熊野神社",
+      "municipality": "横浜市神奈川区"
+    },
+    {
+      "ids": [
+        "14-agency-c4a2f51488c11a",
+        "14-history-03a2f18fa915ad"
+      ],
+      "name": "杉山大神",
+      "municipality": "横浜市神奈川区"
+    },
+    {
+      "ids": [
+        "14-agency-9ec5f6c07d5cef",
+        "14-agency-5b25a4bdde34c9",
+        "14-history-3d881b23414611"
+      ],
+      "name": "八幡神社",
+      "municipality": "横浜市神奈川区"
+    },
+    {
+      "ids": [
+        "14-agency-1f8b620cf668d0",
+        "14-history-bb69cf97b28917"
+      ],
+      "name": "駒形天満宮",
+      "municipality": "横浜市神奈川区"
+    },
+    {
+      "ids": [
+        "14-agency-c507055ea5f7c5",
+        "14-history-ebbbee1e5aa9c5"
+      ],
+      "name": "杉山神社",
+      "municipality": "横浜市神奈川区"
+    },
+    {
+      "ids": [
+        "14-agency-33391fbff8b339",
+        "14-history-4f14cc0fde615c"
+      ],
+      "name": "杉山社",
+      "municipality": "横浜市神奈川区"
+    },
+    {
+      "ids": [
+        "14-agency-6308a1fbe5fb3c",
+        "14-agency-2b2480efc0f9b6",
+        "14-history-344186ad9a25f5"
+      ],
+      "name": "熊野神社",
+      "municipality": "横浜市港北区"
+    },
+    {
+      "ids": [
+        "14-agency-9e0b799c078f95",
+        "14-history-04eed9183a98ba"
+      ],
+      "name": "太尾神社",
+      "municipality": "横浜市港北区"
+    },
+    {
+      "ids": [
+        "14-agency-10ea931918632a",
+        "14-agency-87613fbaca88ad",
+        "14-agency-e3f5bc3cbb96ad",
+        "14-agency-afaf8924ffd0d1",
+        "14-agency-69bb5c7cc78511",
+        "14-history-e0ec36c755d532",
+        "14-history-c8077cccb78adb",
+        "14-history-f8caa001726119",
+        "14-history-8bacd6b509e2c8",
+        "14-history-a3fdf141596602",
+        "14-history-e9db798f167419"
+      ],
+      "name": "杉山神社",
+      "municipality": "横浜市港北区"
+    },
+    {
+      "ids": [
+        "14-agency-56ebef4e2499fb",
+        "14-agency-e80671c5b6ff4a",
+        "14-agency-cc03812ead6d9c",
+        "14-history-a033384efc29be",
+        "14-history-727e051b5f3514",
+        "14-history-28e5043eaa902a"
+      ],
+      "name": "神明社",
+      "municipality": "横浜市港北区"
+    },
+    {
+      "ids": [
+        "14-agency-30d392a5084a4e",
+        "14-history-aa8be1dc70dde1"
+      ],
+      "name": "天満宮",
+      "municipality": "横浜市港北区"
+    },
+    {
+      "ids": [
+        "14-agency-6f4e9183a545e0",
+        "14-agency-a81b8bf3187bdc",
+        "14-agency-b501c44b77304b",
+        "14-agency-c3cf13349ff165",
+        "14-agency-f12786a004ccad",
+        "14-agency-749e6c9d45c00b",
+        "14-history-0d050f31184057",
+        "14-history-96d3b53dcb9750",
+        "14-history-ca766bb0031694",
+        "14-history-545929ed361bc1",
+        "14-history-9e940cae0dd241",
+        "14-history-d63ef47f1fa11f",
+        "14-history-8dc11f4290c68b",
+        "14-history-2e497b61a27097"
+      ],
+      "name": "杉山神社",
+      "municipality": "横浜市緑区"
+    },
+    {
+      "ids": [
+        "14-agency-063a9b1964b6c4",
+        "14-history-eb373691ef084f"
+      ],
+      "name": "大石社",
+      "municipality": "横浜市緑区"
+    },
+    {
+      "ids": [
+        "14-agency-aacbeab0643ecc",
+        "14-history-be3634934f10ae"
+      ],
+      "name": "王子神社",
+      "municipality": "横浜市緑区"
+    },
+    {
+      "ids": [
+        "14-agency-b3948e8684ebf9",
+        "14-history-bf39a5f2506ec4"
+      ],
+      "name": "日向山神社",
+      "municipality": "横浜市緑区"
+    },
+    {
+      "ids": [
+        "14-agency-5afc0296be648a",
+        "14-history-de0fecfee4314e",
+        "14-history-4889618fc108a4"
+      ],
+      "name": "神明社",
+      "municipality": "横浜市緑区"
+    },
+    {
+      "ids": [
+        "14-agency-4ce73dba100533",
+        "14-agency-e05bae2951a288",
+        "14-history-446e9d9ddde0d4",
+        "14-history-58ddb392d79f99"
+      ],
+      "name": "八幡神社",
+      "municipality": "横浜市緑区"
+    },
+    {
+      "ids": [
+        "14-agency-292c68fedb5226",
+        "14-history-58557f6c6a341b"
+      ],
+      "name": "白山神社",
+      "municipality": "横浜市緑区"
+    },
+    {
+      "ids": [
+        "14-agency-52b4924d8ece3f",
+        "14-history-78f05fd24ec3db"
+      ],
+      "name": "本郷神社",
+      "municipality": "横浜市緑区"
+    },
+    {
+      "ids": [
+        "14-agency-a5d4fc3c3cd337",
+        "14-history-e01585fb78f0cf"
+      ],
+      "name": "本牧神社",
+      "municipality": "横浜市中区"
+    },
+    {
+      "ids": [
+        "14-agency-2f3586a656aa90",
+        "14-history-00818cb3f86b65"
+      ],
+      "name": "神明社",
+      "municipality": "横浜市泉区"
+    },
+    {
+      "ids": [
+        "14-agency-c24462bf94d23e",
+        "14-history-8d8d8aa863954c"
+      ],
+      "name": "御霊神社",
+      "municipality": "横浜市泉区"
+    },
+    {
+      "ids": [
+        "14-agency-4199edb2c8d9af",
+        "14-history-8d50580a8e49b2"
+      ],
+      "name": "須賀神社",
+      "municipality": "横浜市泉区"
+    },
+    {
+      "ids": [
+        "14-agency-80050308f66bab",
+        "14-agency-cde543fc8eba22",
+        "14-history-f6365415bfc2a8"
+      ],
+      "name": "日枝神社",
+      "municipality": "横浜市泉区"
+    },
+    {
+      "ids": [
+        "14-agency-b9121524433c6c",
+        "14-agency-67f68509b9b448",
+        "14-agency-a73bea7e3bcd2b",
+        "14-history-c6d457b28da2fa",
+        "14-history-825c81b7f9344d"
+      ],
+      "name": "杉山神社",
+      "municipality": "横浜市保土ケ谷区"
+    },
+    {
+      "ids": [
+        "14-agency-b16a3ff4beb20b",
+        "14-agency-719bdd0bdcf196",
+        "14-agency-0296e2ba0f42e1",
+        "14-history-11acbe84e9dc9f",
+        "14-history-7fcc5f41f0dec9"
+      ],
+      "name": "杉山社",
+      "municipality": "横浜市保土ケ谷区"
+    },
+    {
+      "ids": [
+        "14-agency-de7ec815142381",
+        "14-agency-9eae4ddf711a43",
+        "14-agency-d7fb204afe9e82",
+        "14-agency-b49ff2130b0b54",
+        "14-agency-bab1862067e4f6",
+        "14-agency-f02998de90b86b",
+        "14-agency-2a6d1cd26e50e8",
+        "14-agency-a88e33736fa5b1",
+        "14-history-7f67f61f307160",
+        "14-history-960ccfe32fe174",
+        "14-history-8a6d54c55bdd9c"
+      ],
+      "name": "神明社",
+      "municipality": "横浜市旭区"
+    },
+    {
+      "ids": [
+        "14-agency-5e01199bcec02b",
+        "14-history-d0ff7049ea3db2"
+      ],
+      "name": "白根神社",
+      "municipality": "横浜市旭区"
+    },
+    {
+      "ids": [
+        "14-agency-8c90684ad28e40",
+        "14-agency-889843fea9dcf2",
+        "14-agency-5c895aa6e6fad0",
+        "14-history-b604fa93f37835"
+      ],
+      "name": "神明社",
+      "municipality": "横浜市瀬谷区"
+    },
+    {
+      "ids": [
+        "14-agency-75b5f405f456fc",
+        "14-history-a502b3b52ea36a"
+      ],
+      "name": "日枝社",
+      "municipality": "横浜市瀬谷区"
+    },
+    {
+      "ids": [
+        "14-agency-21fd903d453d88",
+        "14-history-1853c720cf7918"
+      ],
+      "name": "熊野神社",
+      "municipality": "横浜市瀬谷区"
+    },
+    {
+      "ids": [
+        "14-agency-658ba4869fdb8c",
+        "14-history-7f9a7e777dbc23"
+      ],
+      "name": "住吉神社",
+      "municipality": "横浜市南区"
+    },
+    {
+      "ids": [
+        "14-agency-f0a390a1fb6505",
+        "14-history-dc29f31716711d"
+      ],
+      "name": "春日神社",
+      "municipality": "横浜市港南区"
+    },
+    {
+      "ids": [
+        "14-agency-6e6d781aaa0bbc",
+        "14-agency-9c785a45dbc936",
+        "14-history-1c38ff238559a4"
+      ],
+      "name": "神明社",
+      "municipality": "横浜市港南区"
+    },
+    {
+      "ids": [
+        "14-agency-975cce8e3d8073",
+        "14-history-9bb388a51a600e"
+      ],
+      "name": "手子神社",
+      "municipality": "横浜市金沢区"
+    },
+    {
+      "ids": [
+        "14-agency-685af57e11cd53",
+        "14-history-60393523229825"
+      ],
+      "name": "青木神社",
+      "municipality": "横浜市栄区"
+    },
+    {
+      "ids": [
+        "14-agency-7b54d5dc646852",
+        "14-history-d1f72e73e423d2"
+      ],
+      "name": "鹿島神社",
+      "municipality": "横浜市栄区"
+    },
+    {
+      "ids": [
+        "14-agency-637f1324988702",
+        "14-agency-f083853c497a6f",
+        "14-history-2d3f18bb95a9e4",
+        "14-history-16da5e72db9238"
+      ],
+      "name": "八幡社",
+      "municipality": "横浜市栄区"
+    },
+    {
+      "ids": [
+        "14-agency-32e1df2ad8e4f5",
+        "14-history-394f250b26a2a7"
+      ],
+      "name": "八坂神社",
+      "municipality": "横浜市栄区"
+    },
+    {
+      "ids": [
+        "14-agency-6490dad9aa8762",
+        "14-history-2f5c60d5a2a4cc"
+      ],
+      "name": "日枝社",
+      "municipality": "横浜市栄区"
+    },
+    {
+      "ids": [
+        "14-agency-b2b4fbae9deaf1",
+        "14-history-94e0eada38af66"
+      ],
+      "name": "八幡神社",
+      "municipality": "横浜市栄区"
+    },
+    {
+      "ids": [
+        "14-agency-527d88762e7967",
+        "14-history-4c722614198088"
+      ],
+      "name": "春日神社",
+      "municipality": "横浜市栄区"
+    },
+    {
+      "ids": [
+        "14-agency-333dfb74bd6831",
+        "14-history-bfcb8ae05d3950"
+      ],
+      "name": "白山神社",
+      "municipality": "横浜市栄区"
+    },
+    {
+      "ids": [
+        "14-agency-54beb58bcf3b65",
+        "14-history-ea5e5488c4fd76"
+      ],
+      "name": "八幡神社",
+      "municipality": "横浜市戸塚区"
+    },
+    {
+      "ids": [
+        "14-agency-510724cd2227a7",
+        "14-agency-cdd7d464c6cc5f",
+        "14-history-f7a14f1c60289b",
+        "14-history-e4340305d0dcb1"
+      ],
+      "name": "第六社",
+      "municipality": "横浜市戸塚区"
+    },
+    {
+      "ids": [
+        "14-agency-528ef0310350f4",
+        "14-agency-bece53d79fa052",
+        "14-agency-7b78865759517b",
+        "14-history-58c5fb44664833"
+      ],
+      "name": "八幡社",
+      "municipality": "横浜市戸塚区"
+    },
+    {
+      "ids": [
+        "14-agency-9515333628ef7c",
+        "14-history-329adf53653a72"
+      ],
+      "name": "八坂神社",
+      "municipality": "横浜市戸塚区"
+    },
+    {
+      "ids": [
+        "14-agency-7f0206fed0aa77",
+        "14-history-b6af24cab74e88"
+      ],
+      "name": "三島神社",
+      "municipality": "横浜市戸塚区"
+    },
+    {
+      "ids": [
+        "14-agency-bb529ac0c638e8",
+        "14-history-52c748df5d1e96"
+      ],
+      "name": "浅間社",
+      "municipality": "横浜市戸塚区"
+    },
+    {
+      "ids": [
+        "14-agency-8dc6cc3f5b6c8c",
+        "14-agency-faaa341fe51aef",
+        "14-agency-8bc0a4e4e04ba0",
+        "14-history-b999197c8176c7",
+        "14-history-8305832912f942"
+      ],
+      "name": "八雲神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-822064d93c92bf",
+        "14-agency-747ad8a65e0462",
+        "14-agency-0c334747c24a96",
+        "14-history-e904aaf7e7705e",
+        "14-history-948a044e694e95"
+      ],
+      "name": "熊野神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-a06e617d943ed4",
+        "14-agency-39c725e321546f",
+        "14-history-2e4ff59b4faa9e",
+        "14-history-029bbf7cdd1990"
+      ],
+      "name": "御霊神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-81503becbb3e5e",
+        "14-history-bdb0b1e6f7ff56"
+      ],
+      "name": "北野神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-633fefe5c69fa3",
+        "14-history-aee23972fabe84"
+      ],
+      "name": "三嶋神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-200a8412422baf",
+        "14-history-d6b362ca475a69"
+      ],
+      "name": "天満宮",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-3f34d1cdcacba9",
+        "14-history-ea4a192e335e5e"
+      ],
+      "name": "駒形神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-70581e67982965",
+        "14-history-4fe0c431d23f41"
+      ],
+      "name": "子守神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-fc3d44894c0fe8",
+        "14-history-e0afaa95a51e8a"
+      ],
+      "name": "鎌倉山神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-0e9575507df9e7",
+        "14-agency-399a213255d539",
+        "14-agency-8c0d0bf287868f",
+        "14-history-ab364fff7cac96"
+      ],
+      "name": "稲荷神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-b0ec4cbba006d3",
+        "14-agency-a6bf514ef6ab00",
+        "14-history-76b53e4b9e358c"
+      ],
+      "name": "神明神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-5a4293cf0cc4a8",
+        "14-history-a2c0ba509b51c6"
+      ],
+      "name": "八坂大神",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-e25a98e099c21b",
+        "14-history-d2d3e619311653"
+      ],
+      "name": "巽神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-8eac818f621e34",
+        "14-history-aa9b6d0ca4ac51"
+      ],
+      "name": "龍口明神社",
+      "municipality": "鎌倉市"
+    },
+    {
+      "ids": [
+        "14-agency-41fa84b19a3756",
+        "14-history-4263d97d03120f"
+      ],
+      "name": "大六天神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-ae71816442b22b",
+        "14-history-3c5c1053286ffd"
+      ],
+      "name": "鹿島神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-caa71abf9af2e0",
+        "14-agency-32caf1ec9402c5",
+        "14-agency-b8301247bd7432",
+        "14-agency-dfd09ecc6908d8",
+        "14-history-f993d0de23a25d"
+      ],
+      "name": "八幡神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-bce07868a9318c",
+        "14-history-dee903a2b9b2a1"
+      ],
+      "name": "衣笠神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-89a8f489f72ac1",
+        "14-agency-02b2d5b922aaea",
+        "14-agency-acd37e4e21bd77",
+        "14-history-8a9e39ace39e8a",
+        "14-history-a6b89da3a2cddb"
+      ],
+      "name": "諏訪神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-9be638aa037155",
+        "14-history-78dbc696efe24f"
+      ],
+      "name": "平作神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-0e3a63c2e7973d",
+        "14-history-ba32fe622b668c"
+      ],
+      "name": "近殿神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-2c6464f8c0bbf3",
+        "14-agency-e1ebc1b9832f43",
+        "14-history-f76072f6ec5b3b"
+      ],
+      "name": "住吉神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-99cb320966b5b4",
+        "14-agency-dccd653dfc04c8",
+        "14-history-98526fe07e121f",
+        "14-history-deea0a35318d7d"
+      ],
+      "name": "叶神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-3c0c64d55f5712",
+        "14-history-9d6449eff5ff42"
+      ],
+      "name": "安房口神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-3ba703d379f93d",
+        "14-history-76da581f3b62b7"
+      ],
+      "name": "天照大神",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-dd849fd05e7ec4",
+        "14-agency-be97ce386f03bf",
+        "14-history-c678c484e751b4"
+      ],
+      "name": "諏訪神社",
+      "municipality": "三浦市"
+    },
+    {
+      "ids": [
+        "14-agency-90b8216634f67d",
+        "14-history-4b9dedeef43650"
+      ],
+      "name": "原稲荷神社",
+      "municipality": "三浦市"
+    },
+    {
+      "ids": [
+        "14-agency-9ba92375423025",
+        "14-history-b2125a7d3683af"
+      ],
+      "name": "飯森神社",
+      "municipality": "三浦市"
+    },
+    {
+      "ids": [
+        "14-agency-c5be306348302d",
+        "14-history-54bc3d9444b30c"
+      ],
+      "name": "浅間神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-1a2a9c984ee125",
+        "14-agency-03ff650913dc74",
+        "14-agency-6f4ea220558f3e",
+        "14-history-06bc95553aacbb"
+      ],
+      "name": "熊野神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-23bc5765b70c69",
+        "14-history-293163aff29036"
+      ],
+      "name": "八雲神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-817fe866675a3f",
+        "14-history-ec46dd2aa86f6e"
+      ],
+      "name": "八幡社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-7b0e41708e9633",
+        "14-history-c0255d82e842d0"
+      ],
+      "name": "三浦正八幡宮",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-fb878f7072ab37",
+        "14-history-7ddc0b4f239013"
+      ],
+      "name": "熊野社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-b583ecf4530c52",
+        "14-history-821c5c73b43cb3"
+      ],
+      "name": "祖母神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-c152af1834d504",
+        "14-history-fc2647416b7830"
+      ],
+      "name": "三島社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-7e7db8402658f1",
+        "14-agency-63a88b19025f25",
+        "14-history-4b8be9804717d2"
+      ],
+      "name": "神明社",
+      "municipality": "三浦郡葉山町"
+    },
+    {
+      "ids": [
+        "14-agency-f428ec388a7c1c",
+        "14-history-afa91ce7fd5487"
+      ],
+      "name": "十二所神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-53b6f3bc9ee95d",
+        "14-history-32931458e34ec2"
+      ],
+      "name": "淡島神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-ba147b87352dfc",
+        "14-history-ba3ab121f601b4"
+      ],
+      "name": "御霊神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-f2c8c6a21d6162",
+        "14-history-460f3916a7b692"
+      ],
+      "name": "御滝神社",
+      "municipality": "横須賀市"
+    },
+    {
+      "ids": [
+        "14-agency-27681edc7b8826",
+        "14-history-1c701f6112afd9"
+      ],
+      "name": "天照大神社",
+      "municipality": "逗子市"
+    },
+    {
+      "ids": [
+        "14-agency-265336fa4aa788",
+        "14-history-bdf2f1f1993984"
+      ],
+      "name": "久木神社",
+      "municipality": "逗子市"
+    },
+    {
+      "ids": [
+        "14-agency-49f21042b15792",
+        "14-history-ae2f2800b41c3f"
+      ],
+      "name": "荒神神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-4516cc77a25884",
+        "14-history-0260ea334af7a7"
+      ],
+      "name": "大神宮",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-496497f851b0e5",
+        "14-agency-a7dc69e21fd198",
+        "14-agency-c4aeea451e1a49",
+        "14-history-6ef911148bbd60",
+        "14-history-b0f7df8be2d214",
+        "14-history-d92013434bd32d"
+      ],
+      "name": "日枝神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-419d34a3f04ec4",
+        "14-history-a6506366b225c3"
+      ],
+      "name": "地神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-f3181dfda38f97",
+        "14-history-c32e54e9c93e17"
+      ],
+      "name": "鯖神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-7d4d8e0a9c951d",
+        "14-history-7fc4ab86b82a68"
+      ],
+      "name": "白山大神",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-3067699b19ff44",
+        "14-agency-5f46abf51c8b41",
+        "14-agency-647aeedb7c0478",
+        "14-agency-9a82de6ae2817b",
+        "14-agency-e823368588fe46",
+        "14-history-80e698659c92d8",
+        "14-history-8b11527a445206",
+        "14-history-c1e9aba240bf8b"
+      ],
+      "name": "諏訪神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-a945998a535621",
+        "14-agency-d65052be330be9",
+        "14-history-ba83307796ad06"
+      ],
+      "name": "熊野神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-7ae632db07459f",
+        "14-history-9ade42b9625372"
+      ],
+      "name": "市杵島神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-cce395c74e0a74",
+        "14-history-69fda429de4d38"
+      ],
+      "name": "八松稲荷神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-4df7077380457a",
+        "14-history-7a939ebb854cbc"
+      ],
+      "name": "八幡神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-feaa1794fbd543",
+        "14-history-a6c234cdd67f4f"
+      ],
+      "name": "白山神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-34986c06414b6d",
+        "14-history-6a778af0fb3a4f"
+      ],
+      "name": "社宮神",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-75cd2d178900c4",
+        "14-history-e967a6bfe3665b"
+      ],
+      "name": "子ノ神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-b02217c367e7ee",
+        "14-history-15d97557b6ebae"
+      ],
+      "name": "天神社",
+      "municipality": "藤沢市"
+    },
+    {
+      "ids": [
+        "14-agency-05c30cec7c0016",
+        "14-history-406877517e33da"
+      ],
+      "name": "中瀬大神",
+      "municipality": "高座郡寒川町"
+    },
+    {
+      "ids": [
+        "14-agency-e9f963ff61453f",
+        "14-agency-023be577d3ee7a",
+        "14-history-ac41043bf5460c",
+        "14-history-999d66dbef08d3"
+      ],
+      "name": "神明神社",
+      "municipality": "茅ケ崎市"
+    },
+    {
+      "ids": [
+        "14-agency-1bf0cf8e9b541d",
+        "14-agency-2badc1cfbb1a0c",
+        "14-history-76d5756effcf45",
+        "14-history-b656796affc1fc"
+      ],
+      "name": "八幡宮",
+      "municipality": "茅ケ崎市"
+    },
+    {
+      "ids": [
+        "14-agency-1ccf5d1eb3b523",
+        "14-history-fde00aa7951d4d"
+      ],
+      "name": "金刀比羅神社",
+      "municipality": "茅ケ崎市"
+    },
+    {
+      "ids": [
+        "14-agency-983dc0f579a311",
+        "14-history-ff338f99d1216d"
+      ],
+      "name": "豊受大神",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-48a6efb9f2d4e6",
+        "14-history-eef5108de6d1f4"
+      ],
+      "name": "渋谷神社",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-ea6b78d38a7b6e",
+        "14-history-36f25fc10f7973"
+      ],
+      "name": "正八幡宮",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-f5ba6f4f6d9006",
+        "14-history-8c34e59fb95d2a"
+      ],
+      "name": "八幡宮",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-51d0c449b7ac06",
+        "14-history-b8c37536a9d109"
+      ],
+      "name": "本郷神社",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-e7ee33c027fd18",
+        "14-history-0f9385467ccaeb"
+      ],
+      "name": "弥生神社",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-29a831056b4289",
+        "14-history-613ad9c4bb4847"
+      ],
+      "name": "有鹿神社",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-bfbf007541a546",
+        "14-history-9df1eb8713b9fb"
+      ],
+      "name": "諏訪神社",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-9f50d3eee9c91a",
+        "14-history-1901a884f8eaea"
+      ],
+      "name": "浅間大神",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-f3770f57416c1c",
+        "14-history-e7dbd48efc97fe"
+      ],
+      "name": "神明社",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-c76ed51952b262",
+        "14-history-e93e6fc7b54047"
+      ],
+      "name": "大谷八幡宮",
+      "municipality": "海老名市"
+    },
+    {
+      "ids": [
+        "14-agency-a7ddb7042ec413",
+        "14-agency-5e1af8f8a25d20",
+        "14-history-4f17211baf44fc"
+      ],
+      "name": "諏訪明神",
+      "municipality": "座間市"
+    },
+    {
+      "ids": [
+        "14-agency-a2d4c811ae091d",
+        "14-history-97981025599467"
+      ],
+      "name": "鈴鹿明神社",
+      "municipality": "座間市"
+    },
+    {
+      "ids": [
+        "14-agency-b163d3e9a50c15",
+        "14-history-2784689c610e4f"
+      ],
+      "name": "栗原神社",
+      "municipality": "座間市"
+    },
+    {
+      "ids": [
+        "14-agency-0995edb3b56c0e",
+        "14-history-da68245f54c668"
+      ],
+      "name": "深谷神社",
+      "municipality": "綾瀬市"
+    },
+    {
+      "ids": [
+        "14-agency-34fde08575bfab",
+        "14-history-ba0441cc2984b8"
+      ],
+      "name": "稲著社",
+      "municipality": "綾瀬市"
+    },
+    {
+      "ids": [
+        "14-agency-1de3327e3b7d66",
+        "14-history-2ae1ffb7277cc6"
+      ],
+      "name": "熊野社",
+      "municipality": "綾瀬市"
+    },
+    {
+      "ids": [
+        "14-agency-3f58f7c8faa30d",
+        "14-history-c628f0ca1825bb"
+      ],
+      "name": "蓼川神社",
+      "municipality": "綾瀬市"
+    },
+    {
+      "ids": [
+        "14-agency-cffc469e3693eb",
+        "14-history-c3e274c27ee873"
+      ],
+      "name": "田中八幡宮",
+      "municipality": "大和市"
+    },
+    {
+      "ids": [
+        "14-agency-633339a0f610d1",
+        "14-history-9c658334fcc2e9"
+      ],
+      "name": "山神社",
+      "municipality": "大和市"
+    },
+    {
+      "ids": [
+        "14-agency-eca8667d7cc776",
+        "14-history-b89ed962d6f174"
+      ],
+      "name": "林神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-71c02fee35e7e6",
+        "14-agency-642be8e7ad94e0",
+        "14-agency-2432de8f4e68a0",
+        "14-agency-0bb74eae10b48c",
+        "14-agency-9988c3d6433385",
+        "14-history-4fd68f833a6545"
+      ],
+      "name": "八幡神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-af9ef77c7b0faa",
+        "14-agency-d2bfca95ddd8b9",
+        "14-agency-ab1630f5ad645d",
+        "14-agency-e8de7c0bf0a654",
+        "14-history-c5e79eb9638db5",
+        "14-history-d0708100e0088c"
+      ],
+      "name": "三島神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-c13c5a644aa322",
+        "14-agency-005fca9016fd7f",
+        "14-agency-95db6a46e2adcf",
+        "14-agency-5709e53fff7c7e",
+        "14-history-d21683b0bbcda2"
+      ],
+      "name": "諏訪神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-b038f978db9c65",
+        "14-history-733990cedb1dee"
+      ],
+      "name": "熊野神社",
+      "municipality": "愛甲郡清川村"
+    },
+    {
+      "ids": [
+        "14-agency-2a1ca23d9040e5",
+        "14-agency-9f594d4cb2b422",
+        "14-agency-34ce6dcbf30e6f",
+        "14-agency-a3b7ebde7fe10c",
+        "14-agency-6b260299b7a2f7",
+        "14-history-60cf51fd40d11c"
+      ],
+      "name": "日枝神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-52514bfbb03f9d",
+        "14-agency-ba6238f3a5f108",
+        "14-agency-6039283fd72827",
+        "14-history-0d9573af2d819f",
+        "14-history-77fbe41c086028"
+      ],
+      "name": "熊野神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-998a3b80d06b93",
+        "14-history-875bf9e3259c13"
+      ],
+      "name": "子神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-9434a38a08845c",
+        "14-history-84dccbec4c0073"
+      ],
+      "name": "子安神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-319c02537bef59",
+        "14-history-769214cea06d0e"
+      ],
+      "name": "吾妻神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-6baf88365a86bb",
+        "14-history-80bdfd894e171d"
+      ],
+      "name": "山際神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-78642c91d0c345",
+        "14-agency-c7f33d7c679222",
+        "14-history-251f3050b6c92a"
+      ],
+      "name": "浅間神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-71883ef2250798",
+        "14-agency-a4dda35411b2fb",
+        "14-history-3bcdc442735aa0"
+      ],
+      "name": "稲荷神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-b21b131019040f",
+        "14-agency-59a7cfd488952b",
+        "14-history-ea54e01a34f635"
+      ],
+      "name": "日吉神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-496aa5101bdb2f",
+        "14-history-29ec00f912d154"
+      ],
+      "name": "鐘鋳神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-f0251362980be4",
+        "14-history-df3a87babc95a8"
+      ],
+      "name": "厳島神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-e389613035bc45",
+        "14-history-39453965efade4"
+      ],
+      "name": "荒井神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-746654b3864bba",
+        "14-history-59840282f28cbb"
+      ],
+      "name": "御嶽神社",
+      "municipality": "厚木市"
+    },
+    {
+      "ids": [
+        "14-agency-1de2be481d27f7",
+        "14-agency-3b16b9a0abf8c5",
+        "14-history-dee35b5b16ab4b"
+      ],
+      "name": "神明神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-921b0a4dd2fe77",
+        "14-agency-1da559dc27ee6e",
+        "14-agency-28cd1eba87aa15",
+        "14-agency-43dd15d1223ae2",
+        "14-agency-c345a9f07f858f",
+        "14-history-71ff6e1ba9ee50",
+        "14-history-9189fd128763b1"
+      ],
+      "name": "八坂神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-d5677f53266671",
+        "14-agency-d60218360ed78a",
+        "14-agency-7a132447844513",
+        "14-agency-88d6d7d3d07b94",
+        "14-agency-d5c8436b33ec1c",
+        "14-agency-3730d9bb7f1b10",
+        "14-agency-ebfdad4f002d78",
+        "14-agency-7f9d23a239869a",
+        "14-agency-4b3f98bf2cd6a9",
+        "14-history-60cec40627d749"
+      ],
+      "name": "八幡神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-782d60e4a11b73",
+        "14-history-b29761a477c1d6"
+      ],
+      "name": "八坂神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-f37a94bf4fe5b7",
+        "14-agency-661360ae59562f",
+        "14-history-920811a313651a"
+      ],
+      "name": "日枝神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-8af768b9259058",
+        "14-history-5901fc72c29606"
+      ],
+      "name": "八雲神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-2bb0d26af10466",
+        "14-agency-d447e5670dfa0e",
+        "14-agency-2d1ce6f1544451",
+        "14-agency-930f4b178cacb4",
+        "14-agency-8aedbc2b0d4d8c",
+        "14-history-daf457fab10c6c",
+        "14-history-dac2d5a10491f3"
+      ],
+      "name": "八幡神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-1210311b240873",
+        "14-agency-83e1a2d82fbddf",
+        "14-history-5389a6462978ce"
+      ],
+      "name": "愛宕神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-e9a13504ce8041",
+        "14-history-1a7d677895cd72"
+      ],
+      "name": "比比多神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-db5bd5a9108280",
+        "14-history-49b2b7a29d4b62"
+      ],
+      "name": "寄木神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-93559b58da9148",
+        "14-history-68f08e23f97600"
+      ],
+      "name": "五霊神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-008a4e7dfc3ba7",
+        "14-history-42afffeda7e7ed"
+      ],
+      "name": "真田神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-674c1b1a7f46d8",
+        "14-history-32776a89bfd5d8"
+      ],
+      "name": "北金目神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-ec55a80ec27ef7",
+        "14-history-84177be7983670"
+      ],
+      "name": "八剱神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-6119cc24346c2c",
+        "14-history-e4e653d52eb838"
+      ],
+      "name": "十二柱神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-fa68d2be7c2cd1",
+        "14-agency-bf3c5adc8f0d38",
+        "14-history-0b2712c9a28b3b"
+      ],
+      "name": "御嶽神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-e61dcc0a8c0d0b",
+        "14-history-d78164e4ea805d",
+        "14-history-d1d3b4e424f9c8"
+      ],
+      "name": "神明社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-84e92effa1d083",
+        "14-history-d3dcd33b862999"
+      ],
+      "name": "日月神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-72019a24424b8d",
+        "14-history-3a21dda72aa04c"
+      ],
+      "name": "日向神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-f99fcc5b025877",
+        "14-history-341814e0f73615"
+      ],
+      "name": "飯綱神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-e89fcea637fffe",
+        "14-history-37042cf7de3564"
+      ],
+      "name": "諏訪神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-f40fb7b9b20177",
+        "14-history-86fd48d1cb0532"
+      ],
+      "name": "白山神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-d5c5c769396e0b",
+        "14-history-11c3dc94bbfaf9"
+      ],
+      "name": "前鳥神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-5a6915cd6d42a4",
+        "14-history-e94b2da8bad53d"
+      ],
+      "name": "真土神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-d424ce1cd09524",
+        "14-history-540743dc05d1db"
+      ],
+      "name": "諏訪神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-1f0f2323e6e405",
+        "14-history-039238d911dd3f"
+      ],
+      "name": "松延神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-58b34f5af2740a",
+        "14-history-953c40afcff998"
+      ],
+      "name": "川勾神社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-cc899768189324",
+        "14-history-d3aa32526eacc1"
+      ],
+      "name": "吾妻神社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-31ef6b84849062",
+        "14-history-8225dfaeabb52b"
+      ],
+      "name": "秋葉神社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-325ed98a96da79",
+        "14-history-c33bfcdaefccd8"
+      ],
+      "name": "守宮神社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-380f1c9d9f77b7",
+        "14-history-db8fc6a1cd3dc4"
+      ],
+      "name": "浅間神社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-ba6657ee178ae3",
+        "14-history-97804e1957742b"
+      ],
+      "name": "八幡神社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-293022a9656f47",
+        "14-agency-d5934d330b12a7",
+        "14-agency-aed5d1f1e75082",
+        "14-agency-785a4357eb9090",
+        "14-history-40a7da05939ba2",
+        "14-history-a2831fb0cd63b6",
+        "14-history-ab6523c173be9e",
+        "14-history-1e2b181c5a1786"
+      ],
+      "name": "八坂神社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-9b52c238fe8c92",
+        "14-history-46c347808808f4"
+      ],
+      "name": "明星神社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-5b448b9a8931a3",
+        "14-agency-7005372283795e",
+        "14-history-fc5a149f9a4252",
+        "14-history-4e20602af8f07a"
+      ],
+      "name": "天津神社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-f58a6d37db00e9",
+        "14-history-e39ddba0f47338"
+      ],
+      "name": "神明神社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-d969a669962771",
+        "14-history-869afc15322d7e"
+      ],
+      "name": "神明社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-ed56938951fb12",
+        "14-history-3aceb9c13f1043"
+      ],
+      "name": "八幡社",
+      "municipality": "中郡二宮町"
+    },
+    {
+      "ids": [
+        "14-agency-5fc7f40099a5d9",
+        "14-history-f1581dbcae49bf"
+      ],
+      "name": "飯綱神社",
+      "municipality": "中郡大磯町"
+    },
+    {
+      "ids": [
+        "14-agency-2b6037ac9fa4c5",
+        "14-history-83e20a3c702c13"
+      ],
+      "name": "六所神社",
+      "municipality": "中郡大磯町"
+    },
+    {
+      "ids": [
+        "14-agency-45456194b52865",
+        "14-history-12fb961b008e62"
+      ],
+      "name": "鷹取神社",
+      "municipality": "中郡大磯町"
+    },
+    {
+      "ids": [
+        "14-agency-822d54d438a25f",
+        "14-agency-1dfef8334f0908",
+        "14-agency-f205c8dafd1bce",
+        "14-history-3976f134fed649",
+        "14-history-27ba305f8dfcbb"
+      ],
+      "name": "八坂神社",
+      "municipality": "中郡大磯町"
+    },
+    {
+      "ids": [
+        "14-agency-12b879f45e4f28",
+        "14-history-fe8625c5ea95d2"
+      ],
+      "name": "天神社",
+      "municipality": "中郡大磯町"
+    },
+    {
+      "ids": [
+        "14-agency-7dd63bdc2fe4cb",
+        "14-history-f6681d7eee01ae"
+      ],
+      "name": "池野神社",
+      "municipality": "中郡大磯町"
+    },
+    {
+      "ids": [
+        "14-agency-5ac041a062e19f",
+        "14-history-2a95722161b6d1"
+      ],
+      "name": "粟津神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-6592efcefdadc5",
+        "14-agency-2620b350f47ce3",
+        "14-history-c3e4173f0184f9",
+        "14-history-0c6109d3bba55e"
+      ],
+      "name": "八劔神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-6e1b93ee9189f3",
+        "14-history-f94bbd5e46be2a"
+      ],
+      "name": "諏訪神社",
+      "municipality": "中郡大磯町"
+    },
+    {
+      "ids": [
+        "14-agency-03891fa3463069",
+        "14-agency-d96f40cf83db8e",
+        "14-history-2acd9ed4532040"
+      ],
+      "name": "御嶽神社",
+      "municipality": "中郡大磯町"
+    },
+    {
+      "ids": [
+        "14-agency-ae8d4f677a7e37",
+        "14-agency-a41843b962bfe5",
+        "14-history-95c04acbb2f484",
+        "14-history-79bd369ef064ff"
+      ],
+      "name": "厳島神社",
+      "municipality": "中郡大磯町"
+    },
+    {
+      "ids": [
+        "14-agency-ba348ce3567d4e",
+        "14-history-7b8b9356101531"
+      ],
+      "name": "西町稲荷神社",
+      "municipality": "平塚市"
+    },
+    {
+      "ids": [
+        "14-agency-318fca76ed8920",
+        "14-history-5c92927491ba28"
+      ],
+      "name": "高来神社",
+      "municipality": "中郡大磯町"
+    },
+    {
+      "ids": [
+        "14-agency-995f5bfb9ca9cc",
+        "14-history-ead02648fd5efa"
+      ],
+      "name": "高部屋神社",
+      "municipality": "伊勢原市"
+    },
+    {
+      "ids": [
+        "14-agency-fadec718bdef42",
+        "14-history-c444e1e4a7aad8"
+      ],
+      "name": "若宮神社",
+      "municipality": "伊勢原市"
+    }
+  ],
   "link_corrections": [],
   "missing_fields_summary": {
-    "deities": 210,
-    "unmapped_records": 2249
+    "deities": 204,
+    "unmapped_records": 1765
   }
 }

@@ -5,2148 +5,20 @@
   "checked": "2026-10-30",
   "scope": "東京都・机构公开资料与研究会检索名录",
   "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
-  "directory_rows": 1724,
-  "records": 1724,
+  "directory_rows": 1446,
+  "records": 1446,
   "directory_indexes": 29,
   "baseline_rows": 1411,
   "agency_rows": 313,
   "excluded_source_rows": [],
-  "matched_historical_rows": 0,
-  "historical_only_records": 1411,
-  "with_deities": 1649,
+  "matched_historical_rows": 278,
+  "historical_only_records": 1133,
+  "with_deities": 1379,
   "mapped_locations": 0,
   "enriched_records": 0,
   "details_matched": 0,
-  "records_with_detail_links": 1724,
+  "records_with_detail_links": 1446,
   "municipalities": [
-    {
-      "municipality": "〒100-0014東京都千代田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒100-0104東京都大島町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒100-0301東京都利島村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒100-0402東京都新島村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒100-0601東京都神津島村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒100-1212東京都三宅村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒100-1301東京都御蔵島村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒100-1401東京都八丈島八丈町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒100-2101東京都小笠原村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒101-0021東京都千代田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒101-0041東京都千代田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒101-0061東京都千代田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒102-0071東京都千代田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒102-0073東京都千代田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒102-0093東京都千代田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒103-0012東京都中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒103-0013東京都中央区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒103-0014東京都中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒103-0015東京都中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒103-0016東京都中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒103-0022東京都中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒104-0033東京都中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒104-0043東京都中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒104-0045東京都中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒104-0051東京都中央区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒105-0001東京都港区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒105-0002東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒105-0004東京都港区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒105-0011東京都港区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒105-0012東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒105-0013東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒105-0021東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒106-0031東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒106-0032東京都港区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒106-0045東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒106-0046東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒106-0047東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒107-0052東京都港区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒108-0014東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒108-0072東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒108-0073東京都港区",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒108-0074東京都港区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒110-0003東京都台東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒110-0004東京都台東区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒110-0007東京都台東区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒110-0012東京都台東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒110-0015東京都台東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒111-0022東京都台東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒111-0024東京都台東区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒111-0031東京都台東区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒111-0032東京都台東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒111-0036東京都台東区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒111-0042東京都台東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒111-0043東京都台東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒111-0051東京都台東区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒111-0053東京都台東区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒111-0054東京都台東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒112-0001東京都文京区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒112-0003東京都文京区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒112-0006東京都文京区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒112-0011東京都文京区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒112-0012東京都文京区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒112-0013東京都文京区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒112-0014東京都文京区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒112-0015東京都文京区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒113-0021東京都文京区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒113-0031東京都文京区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒113-0033東京都文京区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒113-0034東京都文京区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒114-0003東京都北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒114-0004東京都北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒114-0014東京都北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒114-0016東京都北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒114-0021東京都北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒114-0022東京都北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒114-0023東京都北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒114-0024東京都北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒115-0053東京都北区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒116-0003東京都荒川区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒116-0011東京都荒川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒116-0013東京都荒川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒120-0005東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒120-0015東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒120-0022東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒120-0034東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒120-0036東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒120-0037東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒120-0043東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒120-0815東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒121-0061東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒121-0812東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒123-0851東京都足立区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒123-0872東京都足立区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒124-0006東京都葛飾区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒124-0012東京都葛飾区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒124-0014東京都葛飾区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒124-0023東京都葛飾区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒124-0024東京都葛飾区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒125-0041東京都葛飾区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒125-0051東京都葛飾区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒125-0054東京都葛飾区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒125-0061東京都葛飾区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒130-0014東京都墨田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒130-0021東京都墨田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒130-0025東京都墨田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒131-0031東京都墨田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒131-0032東京都墨田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒131-0033東京都墨田区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒131-0034東京都墨田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒131-0041東京都墨田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒131-0043東京都墨田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒131-0044東京都墨田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒131-0045東京都墨田区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒132-0021東京都江戸川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒132-0035東京都江戸川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒133-0052東京都江戸川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒133-0054東京都江戸川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒134-0081東京都江戸川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒134-0084東京都江戸川区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒135-0003東京都江東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒135-0004東京都江東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒135-0006東京都江東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒135-0013東京都江東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒135-0024東京都江東区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒135-0031東京都江東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒135-0042東京都江東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒135-0046東京都江東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒136-0071東京都江東区",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒136-0072東京都江東区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒136-0073東京都江東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒136-0076東京都江東区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒140-0001東京都品川区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒140-0011東京都品川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒140-0013東京都品川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒140-0014東京都品川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒141-0022東京都品川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒141-0031東京都品川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒141-0032東京都品川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒141-0033東京都品川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒142-0041東京都品川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒142-0043東京都品川区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒142-0062東京都品川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒142-0063東京都品川区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒142-0064東京都品川区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒143-0012東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒143-0015東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒143-0016東京都大田区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒143-0023東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒143-0025東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒144-0032東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒144-0043東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒144-0044東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒144-0046東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒144-0052東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒145-0063東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒145-0065東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒145-0071東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒145-0073東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒146-0081東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒146-0082東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒146-0093東京都大田区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒150-0001東京都渋谷区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒150-0002東京都渋谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒150-0011東京都渋谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒150-0041東京都渋谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒151-0051東京都渋谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒151-0053東京都渋谷区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒151-0071東京都渋谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒151-8557東京都渋谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒152-0001東京都目黒区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒152-0003東京都目黒区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒152-0023東京都目黒区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒152-0035東京都目黒区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒153-0044東京都目黒区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒153-0051東京都目黒区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒153-0061東京都目黒区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒153-0064東京都目黒区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒154-0001東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒154-0002東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒154-0004東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒154-0014東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒154-0023東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒155-0032東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒156-0041東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒156-0043東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒156-0044東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒156-0045東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒156-0051東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒156-0052東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒157-0064東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒157-0067東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒158-0081東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒158-0082東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒158-0083東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒158-0084東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒158-0086東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒158-0095東京都世田谷区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒160-0018東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒160-0021東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒160-0022東京都新宿区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒160-0023東京都新宿区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒161-0031東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒161-0033東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒161-0034東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒161-0035東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒162-0051東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒162-0815東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒162-0817東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒162-0827東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒164-0002東京都中野区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒164-0003東京都中野区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒164-0012東京都中野区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒164-0013東京都中野区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒164-0014東京都中野区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒165-0022東京都中野区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒165-0025東京都中野区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒165-0026東京都中野区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒165-0034東京都中野区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒165-0035東京都中野区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒166-0001東京都杉並区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒166-0003東京都杉並区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒166-0004東京都杉並区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒167-0032東京都杉並区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒167-0041東京都杉並区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒167-0043東京都杉並区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒168-0063東京都杉並区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒168-0064東京都杉並区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒168-0073東京都杉並区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒168-8570東京都杉並区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒169-0051東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒169-0073東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒169-0074東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒169-0075東京都新宿区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒170-0003東京都豊島区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒170-0004東京都豊島区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒170-0005東京都豊島区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒170-0011東京都豊島区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒170-0012東京都豊島区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒171-0014東京都豊島区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒171-0032東京都豊島区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒171-0033東京都豊島区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒171-0051東京都豊島区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒173-0004東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒173-0011東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒173-0013東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒173-0025東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒174-0054東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒174-0056東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒174-0063東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒174-0065東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒174-0072東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒174-0074東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒175-0045東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒175-0083東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒175-0092東京都板橋区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒176-0004東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒176-0006東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒176-0014東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒177-0033東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒177-0042東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒177-0045東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒177-0051東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒178-0062東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒178-0063東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒179-0076東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒179-0084東京都練馬区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
     {
       "municipality": "三宅村",
       "area": "全域",
@@ -2166,18 +38,18 @@
     {
       "municipality": "世田谷区",
       "area": "全域",
-      "records": 51,
-      "with_deities": 51,
+      "records": 54,
+      "with_deities": 54,
       "mapped_locations": 0,
-      "without_coordinates": 51
+      "without_coordinates": 54
     },
     {
       "municipality": "中央区",
       "area": "全域",
-      "records": 30,
-      "with_deities": 30,
+      "records": 31,
+      "with_deities": 31,
       "mapped_locations": 0,
-      "without_coordinates": 30
+      "without_coordinates": 31
     },
     {
       "municipality": "中野区",
@@ -2194,6 +66,14 @@
       "with_deities": 4,
       "mapped_locations": 0,
       "without_coordinates": 5
+    },
+    {
+      "municipality": "八丈島八丈町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
     },
     {
       "municipality": "八丈町",
@@ -2222,34 +102,34 @@
     {
       "municipality": "北区",
       "area": "全域",
-      "records": 18,
-      "with_deities": 18,
+      "records": 20,
+      "with_deities": 20,
       "mapped_locations": 0,
-      "without_coordinates": 18
+      "without_coordinates": 20
     },
     {
       "municipality": "千代田区",
       "area": "全域",
-      "records": 14,
-      "with_deities": 14,
+      "records": 15,
+      "with_deities": 15,
       "mapped_locations": 0,
-      "without_coordinates": 14
+      "without_coordinates": 15
     },
     {
       "municipality": "台東区",
       "area": "全域",
-      "records": 38,
-      "with_deities": 33,
+      "records": 40,
+      "with_deities": 37,
       "mapped_locations": 0,
-      "without_coordinates": 38
+      "without_coordinates": 40
     },
     {
       "municipality": "品川区",
       "area": "全域",
-      "records": 34,
-      "with_deities": 34,
+      "records": 37,
+      "with_deities": 37,
       "mapped_locations": 0,
-      "without_coordinates": 34
+      "without_coordinates": 37
     },
     {
       "municipality": "国分寺市",
@@ -2294,10 +174,10 @@
     {
       "municipality": "大田区",
       "area": "全域",
-      "records": 97,
-      "with_deities": 97,
+      "records": 98,
+      "with_deities": 98,
       "mapped_locations": 0,
-      "without_coordinates": 97
+      "without_coordinates": 98
     },
     {
       "municipality": "小平市",
@@ -2335,33 +215,33 @@
       "municipality": "御蔵島村",
       "area": "全域",
       "records": 1,
-      "with_deities": 0,
+      "with_deities": 1,
       "mapped_locations": 0,
       "without_coordinates": 1
     },
     {
       "municipality": "文京区",
       "area": "全域",
-      "records": 24,
-      "with_deities": 24,
+      "records": 25,
+      "with_deities": 25,
       "mapped_locations": 0,
-      "without_coordinates": 24
+      "without_coordinates": 25
     },
     {
       "municipality": "新宿区",
       "area": "全域",
-      "records": 35,
-      "with_deities": 35,
+      "records": 37,
+      "with_deities": 37,
       "mapped_locations": 0,
-      "without_coordinates": 35
+      "without_coordinates": 37
     },
     {
       "municipality": "新島村",
       "area": "全域",
-      "records": 4,
-      "with_deities": 4,
+      "records": 5,
+      "with_deities": 5,
       "mapped_locations": 0,
-      "without_coordinates": 4
+      "without_coordinates": 5
     },
     {
       "municipality": "日野市",
@@ -2382,10 +262,10 @@
     {
       "municipality": "杉並区",
       "area": "全域",
-      "records": 25,
-      "with_deities": 25,
+      "records": 26,
+      "with_deities": 26,
       "mapped_locations": 0,
-      "without_coordinates": 25
+      "without_coordinates": 26
     },
     {
       "municipality": "東久留米市",
@@ -2438,18 +318,18 @@
     {
       "municipality": "江戸川区",
       "area": "全域",
-      "records": 59,
-      "with_deities": 58,
+      "records": 61,
+      "with_deities": 60,
       "mapped_locations": 0,
-      "without_coordinates": 59
+      "without_coordinates": 61
     },
     {
       "municipality": "江東区",
       "area": "全域",
-      "records": 33,
-      "with_deities": 31,
+      "records": 34,
+      "with_deities": 34,
       "mapped_locations": 0,
-      "without_coordinates": 33
+      "without_coordinates": 34
     },
     {
       "municipality": "清瀬市",
@@ -2462,18 +342,18 @@
     {
       "municipality": "渋谷区",
       "area": "全域",
-      "records": 16,
-      "with_deities": 16,
+      "records": 20,
+      "with_deities": 20,
       "mapped_locations": 0,
-      "without_coordinates": 16
+      "without_coordinates": 20
     },
     {
       "municipality": "港区",
       "area": "全域",
-      "records": 40,
-      "with_deities": 39,
+      "records": 43,
+      "with_deities": 43,
       "mapped_locations": 0,
-      "without_coordinates": 40
+      "without_coordinates": 43
     },
     {
       "municipality": "狛江市",
@@ -2566,10 +446,10 @@
     {
       "municipality": "練馬区",
       "area": "全域",
-      "records": 46,
-      "with_deities": 45,
+      "records": 48,
+      "with_deities": 47,
       "mapped_locations": 0,
-      "without_coordinates": 46
+      "without_coordinates": 48
     },
     {
       "municipality": "羽村市",
@@ -2582,10 +462,10 @@
     {
       "municipality": "荒川区",
       "area": "全域",
-      "records": 8,
-      "with_deities": 8,
+      "records": 9,
+      "with_deities": 9,
       "mapped_locations": 0,
-      "without_coordinates": 8
+      "without_coordinates": 9
     },
     {
       "municipality": "葛飾区",
@@ -2654,10 +534,10 @@
     {
       "municipality": "足立区",
       "area": "全域",
-      "records": 86,
-      "with_deities": 57,
+      "records": 89,
+      "with_deities": 62,
       "mapped_locations": 0,
-      "without_coordinates": 86
+      "without_coordinates": 89
     },
     {
       "municipality": "青梅市",
@@ -2679,9 +559,7 @@
     "data/shrines/13-tokyo/history-005.json",
     "data/shrines/13-tokyo/history-006.json",
     "data/shrines/13-tokyo/history-007.json",
-    "data/shrines/13-tokyo/history-008.json",
-    "data/shrines/13-tokyo/history-009.json",
-    "data/shrines/13-tokyo/history-010.json"
+    "data/shrines/13-tokyo/history-008.json"
   ],
   "indexes": [
     {
@@ -5375,10 +3253,641 @@
       "reason": "source_map_viewport"
     }
   ],
-  "duplicate_candidates": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "13-agency-2f8b180c8b30d6",
+        "13-agency-07e8480f88d709",
+        "13-agency-154182644d94b2",
+        "13-agency-5655d5aa2e59e8",
+        "13-history-e2e77eec4cde04",
+        "13-history-c935a2cb31e89d",
+        "13-history-9e164fbd842e58",
+        "13-history-78aaef0c2e372d",
+        "13-history-0ac6c61b7cb4f2",
+        "13-history-3d5b17c1e6a52c",
+        "13-history-70b47fd5207e29",
+        "13-history-97666a966014d9",
+        "13-history-08ba5c231411ad",
+        "13-history-2dca1ba845f6d6",
+        "13-history-53ddfd6bd0a05e",
+        "13-history-87b3d1f08b3d03",
+        "13-history-7dac1772167805",
+        "13-history-42cbbc8ba2bb46",
+        "13-history-c32e995cbee8af",
+        "13-history-bee50d4aa7fac8"
+      ],
+      "name": "稲荷神社",
+      "municipality": "足立区"
+    },
+    {
+      "ids": [
+        "13-agency-73b0dbd04e404a",
+        "13-agency-73d7d71cd825df",
+        "13-agency-ff74fae7e29442",
+        "13-history-4d64aecc916316",
+        "13-history-f966b84f8d9f66",
+        "13-history-2f84d6b507793d",
+        "13-history-f87bd297ce6acb",
+        "13-history-d2ea63e8804210",
+        "13-history-68b58c388ad295",
+        "13-history-22141960852295",
+        "13-history-359d213d624a57",
+        "13-history-b99ed0cdffb997",
+        "13-history-a78edca2cc8c97",
+        "13-history-f97939c2595b96",
+        "13-history-7720759ccd703a",
+        "13-history-ea68df87c6f672",
+        "13-history-86071db864858b",
+        "13-history-de84c0ad810bc2"
+      ],
+      "name": "氷川神社",
+      "municipality": "足立区"
+    },
+    {
+      "ids": [
+        "13-agency-9f221d4195fdb3",
+        "13-history-35c2ce7a910e0e"
+      ],
+      "name": "大鷲神社",
+      "municipality": "足立区"
+    },
+    {
+      "ids": [
+        "13-agency-f1e9de2f463fd1",
+        "13-history-cd60fdccc479c9"
+      ],
+      "name": "胡録神社",
+      "municipality": "荒川区"
+    },
+    {
+      "ids": [
+        "13-agency-9ac975e800bea7",
+        "13-agency-90babc6def3159",
+        "13-history-919b07d44ff49b",
+        "13-history-363a13d9b764b0"
+      ],
+      "name": "稲荷神社",
+      "municipality": "文京区"
+    },
+    {
+      "ids": [
+        "13-agency-d63cdc9e84fa74",
+        "13-history-f9a112f77fba1d"
+      ],
+      "name": "柳森神社",
+      "municipality": "千代田区"
+    },
+    {
+      "ids": [
+        "13-agency-828c1eff1cce05",
+        "13-history-91fd94bdcbbceb"
+      ],
+      "name": "永久稲荷神社",
+      "municipality": "中央区"
+    },
+    {
+      "ids": [
+        "13-agency-8121aa4b4228e6",
+        "13-history-a1e9affab4e8c1"
+      ],
+      "name": "浅間神社",
+      "municipality": "江戸川区"
+    },
+    {
+      "ids": [
+        "13-agency-dd0945c4cfb140",
+        "13-agency-c5dd2bef2b96a5",
+        "13-history-be3ff0e799cff7",
+        "13-history-8eb37982fc126b",
+        "13-history-4c1e783bc88c1d",
+        "13-history-3bfc9d5d55a797",
+        "13-history-9ce94af155c98c",
+        "13-history-f826245acacd81"
+      ],
+      "name": "香取神社",
+      "municipality": "江戸川区"
+    },
+    {
+      "ids": [
+        "13-agency-54ad34cdbdd0db",
+        "13-history-747140a8a38c69",
+        "13-history-949beb2f7bb708",
+        "13-history-57a72fc87a7923",
+        "13-history-71e6e3b6a3510d",
+        "13-history-f2edbdb9aeaa38",
+        "13-history-2376bb88bafcea",
+        "13-history-26631faf130e9c",
+        "13-history-8788fae3f80abc",
+        "13-history-0daef18d9e1ec6",
+        "13-history-418b8dac1e2297",
+        "13-history-4ad988734caf07",
+        "13-history-f60fccedbec841",
+        "13-history-133f2d30e3f708",
+        "13-history-4a102c13b50149",
+        "13-history-1f953409469a3e",
+        "13-history-044c3d55385c1f"
+      ],
+      "name": "天祖神社",
+      "municipality": "江戸川区"
+    },
+    {
+      "ids": [
+        "13-agency-67cde42f99be4e",
+        "13-history-0580e1c1080b8e",
+        "13-history-3760f6ed64da90",
+        "13-history-744c6ee5a81068",
+        "13-history-8e5f962d0404f9",
+        "13-history-deb37db514d221",
+        "13-history-93fee030d96bf4",
+        "13-history-ab0370a23e7723",
+        "13-history-a907f295a0fb0a",
+        "13-history-d7205033205e2b"
+      ],
+      "name": "稲荷神社",
+      "municipality": "江戸川区"
+    },
+    {
+      "ids": [
+        "13-agency-a4e7714775e474",
+        "13-agency-538c6f47e5be82",
+        "13-agency-64a3ca14ad3a9a",
+        "13-agency-ed2217c2920401",
+        "13-history-c22dc1ff5567b1",
+        "13-history-dd46288ef59e3c",
+        "13-history-84b01e68e472a0",
+        "13-history-fe88cbbe920910"
+      ],
+      "name": "氷川神社",
+      "municipality": "板橋区"
+    },
+    {
+      "ids": [
+        "13-agency-c6f0b54d509b0a",
+        "13-agency-3ad0079b090a36",
+        "13-agency-fd817320323c6d",
+        "13-history-21a4bdb16e83bb"
+      ],
+      "name": "熊野神社",
+      "municipality": "板橋区"
+    },
+    {
+      "ids": [
+        "13-agency-9b9e08b17207f7",
+        "13-agency-f5cfbb4bf82fb2",
+        "13-history-9b288ee3d73e22",
+        "13-history-ed5910cc0d794d",
+        "13-history-a75e8ae64f5b48"
+      ],
+      "name": "稲荷神社",
+      "municipality": "板橋区"
+    },
+    {
+      "ids": [
+        "13-agency-6f4c74ca772704",
+        "13-history-0bbf3845468a90",
+        "13-history-156a1c517374ad"
+      ],
+      "name": "香取神社",
+      "municipality": "葛飾区"
+    },
+    {
+      "ids": [
+        "13-agency-86842ffaab9142",
+        "13-history-544e0c5e207643"
+      ],
+      "name": "日枝神社",
+      "municipality": "葛飾区"
+    },
+    {
+      "ids": [
+        "13-agency-aef9f9b8fac2e9",
+        "13-history-e98434ea94d59d"
+      ],
+      "name": "白髭神社",
+      "municipality": "葛飾区"
+    },
+    {
+      "ids": [
+        "13-agency-89f1de6bb640cb",
+        "13-agency-62b446588dfc2f",
+        "13-agency-9ad3865ee0757c",
+        "13-history-13145765869a01",
+        "13-history-e77bf065d66a31",
+        "13-history-d048ffb8582540",
+        "13-history-0835b76f7c9ec1"
+      ],
+      "name": "天祖神社",
+      "municipality": "葛飾区"
+    },
+    {
+      "ids": [
+        "13-agency-7027637138fc6d",
+        "13-history-72976d5bc82f4b"
+      ],
+      "name": "熊野神社",
+      "municipality": "葛飾区"
+    },
+    {
+      "ids": [
+        "13-agency-da101368903c3b",
+        "13-agency-9f2b3d23ea1f74",
+        "13-history-834aa3a5fd4d37"
+      ],
+      "name": "八幡神社",
+      "municipality": "北区"
+    },
+    {
+      "ids": [
+        "13-agency-8a86569c977507",
+        "13-history-9a35a68644dffd"
+      ],
+      "name": "七社神社",
+      "municipality": "北区"
+    },
+    {
+      "ids": [
+        "13-agency-1f257794390f5e",
+        "13-history-c41e07644fc564"
+      ],
+      "name": "紀州神社",
+      "municipality": "北区"
+    },
+    {
+      "ids": [
+        "13-agency-5665952713e47c",
+        "13-history-6b297910274d42",
+        "13-history-b5cecc7fcb67c5"
+      ],
+      "name": "天祖神社",
+      "municipality": "江東区"
+    },
+    {
+      "ids": [
+        "13-agency-b858c8229d50f6",
+        "13-history-1fe0c62c74d6d6"
+      ],
+      "name": "愛宕神社",
+      "municipality": "江東区"
+    },
+    {
+      "ids": [
+        "13-agency-69ca011f87f90a",
+        "13-agency-e3de22df7c5ec3",
+        "13-history-3c81aa90defe0f",
+        "13-history-ffe80f7b52d30b"
+      ],
+      "name": "稲荷神社",
+      "municipality": "江東区"
+    },
+    {
+      "ids": [
+        "13-agency-1789b1bf0236cb",
+        "13-history-f70a0580af95f9"
+      ],
+      "name": "日比谷神社",
+      "municipality": "港区"
+    },
+    {
+      "ids": [
+        "13-agency-cd3d9051abbfcf",
+        "13-agency-abba1ce03dee8a",
+        "13-history-aef07479847d83",
+        "13-history-a2eaf52abc4c8a",
+        "13-history-61ee532b075166",
+        "13-history-5b6b5780d7607c",
+        "13-history-bb80216f23153c"
+      ],
+      "name": "稲荷神社",
+      "municipality": "港区"
+    },
+    {
+      "ids": [
+        "13-agency-1b99803097be6f",
+        "13-history-b0f3cdeeba138a"
+      ],
+      "name": "御穂神社",
+      "municipality": "港区"
+    },
+    {
+      "ids": [
+        "13-agency-d9d8315d8eab85",
+        "13-history-882d7a158e7b3d"
+      ],
+      "name": "櫻田神社",
+      "municipality": "港区"
+    },
+    {
+      "ids": [
+        "13-agency-f97babd78c0d8b",
+        "13-history-59a83a16032104",
+        "13-history-a7aca009d11722",
+        "13-history-a0e763d4d906ba"
+      ],
+      "name": "北野神社",
+      "municipality": "中野区"
+    },
+    {
+      "ids": [
+        "13-agency-e44b790540ae18",
+        "13-agency-b5a6dd32833352",
+        "13-agency-e017f8f4ab05a9",
+        "13-agency-cf2c7f4cedbf7f",
+        "13-agency-b746bc824b8e18",
+        "13-history-de6479946126df"
+      ],
+      "name": "氷川神社",
+      "municipality": "練馬区"
+    },
+    {
+      "ids": [
+        "13-agency-c66463decce0ae",
+        "13-history-a8030342f9491d"
+      ],
+      "name": "八雲神社",
+      "municipality": "練馬区"
+    },
+    {
+      "ids": [
+        "13-agency-b1efb7b1a8da8c",
+        "13-history-64873e4b02d0d6"
+      ],
+      "name": "武蔵野稲荷神社",
+      "municipality": "練馬区"
+    },
+    {
+      "ids": [
+        "13-agency-7baa8e313484b6",
+        "13-history-b7d3aa72845a45",
+        "13-history-ca2b01146ee968",
+        "13-history-118d81a6ba490b"
+      ],
+      "name": "熊野神社",
+      "municipality": "大田区"
+    },
+    {
+      "ids": [
+        "13-agency-a6a58a6c5adab4",
+        "13-agency-0f1444f12c0111",
+        "13-history-9020db4e393095"
+      ],
+      "name": "浅間神社",
+      "municipality": "大田区"
+    },
+    {
+      "ids": [
+        "13-agency-6bd04c880fccc8",
+        "13-agency-389ae161cb0d20",
+        "13-agency-c9a3a2d449fbf8",
+        "13-agency-a665b605545a24",
+        "13-history-c15300c9fd8fb8",
+        "13-history-e74d12d9bdb311",
+        "13-history-8d3dc3a216efbc",
+        "13-history-bb9f201d9da6b4",
+        "13-history-213e89cf21890a",
+        "13-history-66d2d514177b72",
+        "13-history-da17b3f593e7f1",
+        "13-history-d04a3cbba8dc39"
+      ],
+      "name": "八幡神社",
+      "municipality": "大田区"
+    },
+    {
+      "ids": [
+        "13-agency-c1755e03860d9a",
+        "13-history-92264f7d58c01e"
+      ],
+      "name": "御嶽神社",
+      "municipality": "大田区"
+    },
+    {
+      "ids": [
+        "13-agency-2abdda62d57e11",
+        "13-history-18f5df968eac41",
+        "13-history-8504916bdf84dd"
+      ],
+      "name": "玉川神社",
+      "municipality": "世田谷区"
+    },
+    {
+      "ids": [
+        "13-agency-7f249ee5e82e5f",
+        "13-agency-83b28e53aec860",
+        "13-history-cd98e40ee8774e"
+      ],
+      "name": "六所神社",
+      "municipality": "世田谷区"
+    },
+    {
+      "ids": [
+        "13-agency-7608c459c2fc6e",
+        "13-agency-4528ba58203138",
+        "13-history-91daba0e21353f",
+        "13-history-6fa575476f9950",
+        "13-history-94ada01b1a47cd"
+      ],
+      "name": "八幡神社",
+      "municipality": "世田谷区"
+    },
+    {
+      "ids": [
+        "13-agency-85a036a5aae905",
+        "13-history-bc9aecef5b25d5",
+        "13-history-ffade0d5fd3159"
+      ],
+      "name": "氷川神社",
+      "municipality": "世田谷区"
+    },
+    {
+      "ids": [
+        "13-agency-5511b55fe2851c",
+        "13-agency-68f654788db391",
+        "13-history-8d25447afc7560",
+        "13-history-63e7f57667680d",
+        "13-history-b08f8d0ea76f81",
+        "13-history-062193b608ccd6",
+        "13-history-e522db13a0c30f",
+        "13-history-536c16659f9888",
+        "13-history-cecb839ac84f6a",
+        "13-history-e3ce6bae0995a4"
+      ],
+      "name": "稲荷神社",
+      "municipality": "世田谷区"
+    },
+    {
+      "ids": [
+        "13-agency-3c3c2d6a7351fb",
+        "13-history-fae678acd164cf",
+        "13-history-4cb274bf152464"
+      ],
+      "name": "天祖神社",
+      "municipality": "世田谷区"
+    },
+    {
+      "ids": [
+        "13-agency-cee4e09a3cb6a3",
+        "13-history-595dd88e33b467"
+      ],
+      "name": "明治神宮",
+      "municipality": "渋谷区"
+    },
+    {
+      "ids": [
+        "13-agency-1be761aca6aea2",
+        "13-history-f416248cd569ad"
+      ],
+      "name": "代々木八幡宮",
+      "municipality": "渋谷区"
+    },
+    {
+      "ids": [
+        "13-agency-6651483911a57f",
+        "13-history-bfb48c56281ec5"
+      ],
+      "name": "八幡神社",
+      "municipality": "渋谷区"
+    },
+    {
+      "ids": [
+        "13-agency-3fa7a42d74005d",
+        "13-history-5f1f5d48560a3d"
+      ],
+      "name": "平田神社",
+      "municipality": "渋谷区"
+    },
+    {
+      "ids": [
+        "13-agency-2409c0ad8dbd08",
+        "13-agency-b69bdb8f8fbdf6",
+        "13-agency-5204deb7fa83e8",
+        "13-history-098a5aa4cbeff9",
+        "13-history-7bfc5fe568e755"
+      ],
+      "name": "八幡神社",
+      "municipality": "品川区"
+    },
+    {
+      "ids": [
+        "13-agency-8e486f78a70b5e",
+        "13-agency-11e73823ced626",
+        "13-history-3475915ef6b261"
+      ],
+      "name": "天祖神社",
+      "municipality": "品川区"
+    },
+    {
+      "ids": [
+        "13-agency-4d13b6278ba4c5",
+        "13-history-878f671cf02260",
+        "13-history-e9ac00f38686f6",
+        "13-history-cf0d5e97ab4207"
+      ],
+      "name": "稲荷神社",
+      "municipality": "杉並区"
+    },
+    {
+      "ids": [
+        "13-agency-2eed0489706ec4",
+        "13-history-a56e0a6f5e7f9e"
+      ],
+      "name": "白山神社",
+      "municipality": "杉並区"
+    },
+    {
+      "ids": [
+        "13-agency-fe12f3af046759",
+        "13-agency-c8ed4ca1fa0782",
+        "13-history-74d8bf6e47fb50",
+        "13-history-8a816441e476b3",
+        "13-history-ad31af1204abd8"
+      ],
+      "name": "熊野神社",
+      "municipality": "杉並区"
+    },
+    {
+      "ids": [
+        "13-agency-dcbcc8cd384c2b",
+        "13-history-c4db756a1e07b5"
+      ],
+      "name": "天祖神社",
+      "municipality": "杉並区"
+    },
+    {
+      "ids": [
+        "13-agency-38f1aa92f65d94",
+        "13-history-c33a7b34ff62f3"
+      ],
+      "name": "牛嶋神社",
+      "municipality": "墨田区"
+    },
+    {
+      "ids": [
+        "13-agency-0f49ad5d3eb12d",
+        "13-agency-3a58a180b7ba5a",
+        "13-history-cd9a604689366a",
+        "13-history-5960e48245a088",
+        "13-history-29dc23a339f439",
+        "13-history-4d4c2761b139fe"
+      ],
+      "name": "稲荷神社",
+      "municipality": "墨田区"
+    },
+    {
+      "ids": [
+        "13-agency-626df239c6efd7",
+        "13-history-33185d1c1d2be4"
+      ],
+      "name": "白髭神社",
+      "municipality": "墨田区"
+    },
+    {
+      "ids": [
+        "13-agency-02258a4855ef1f",
+        "13-history-754ed01517ed16"
+      ],
+      "name": "三島神社",
+      "municipality": "台東区"
+    },
+    {
+      "ids": [
+        "13-agency-23f65843b1f2a2",
+        "13-history-2996b62f17fb44",
+        "13-history-8a428f9a3d299d",
+        "13-history-33022ab5857a0c",
+        "13-history-a8423b9bdd1a2f",
+        "13-history-459b65913cacfa"
+      ],
+      "name": "稲荷神社",
+      "municipality": "台東区"
+    },
+    {
+      "ids": [
+        "13-agency-1c451c795b33ae",
+        "13-history-272ffd398d8b9e"
+      ],
+      "name": "天祖神社",
+      "municipality": "豊島区"
+    },
+    {
+      "ids": [
+        "13-agency-9f47edc8f1547a",
+        "13-history-01346b7968ffda"
+      ],
+      "name": "稲荷神社",
+      "municipality": "豊島区"
+    },
+    {
+      "ids": [
+        "13-agency-f146efc0a3cc92",
+        "13-history-954d9ed0024d6e"
+      ],
+      "name": "十三社神社",
+      "municipality": "新島村"
+    }
+  ],
   "link_corrections": [],
   "missing_fields_summary": {
-    "deities": 75,
-    "unmapped_records": 1724
+    "deities": 67,
+    "unmapped_records": 1446
   }
 }

@@ -15,16 +15,21 @@ SLUGS='hokkaido aomori iwate miyagi akita yamagata fukushima ibaraki tochigi gun
 def norm(s):return re.sub(r'\s+','',unicodedata.normalize('NFKC',s or ''))
 def name_key(s):
     return re.split(r'[（(＜<]',norm(s))[0].translate(str.maketrans({'稻':'稲','瀧':'滝','竃':'竈','嶋':'島','髙':'高','冨':'富','﨑':'崎'}))
-def address_key(s,pref):
-    s=norm(s).removeprefix(pref).replace('大字','')
+def clean_address(s,name=None):
+    s=(s or '').strip()
+    if name and s.startswith(name) and s[len(name):].lstrip().startswith('〒'):s=s[len(name):].lstrip()
+    s=re.sub(r'^[（(][^）)]{1,12}[）)]\s*(?=〒|[0-9０-９]{3}[-－−ー])','',s)
+    return re.sub(r'^(?:〒\s*[0-9０-９-－−ー]{3,8}|[0-9０-９]{3}[-－−ー][0-9０-９]{4}\s*〒?|[0-9０-９]{7}\s*〒?)\s*','',s).strip()
+def address_key(s,pref,name=None):
+    s=norm(clean_address(s,name)).removeprefix(pref).replace('大字','')
     s=re.sub(r'[‐‑‒–—―−ーｰ]','-',s).replace('丁目','-').replace('番地の','-').replace('番地','-').replace('番','-').replace('号','')
     return s.strip('-')
 def municipality(address,pref,listed=None):
-    s=norm(address).removeprefix(pref)
+    s=norm(clean_address(address)).removeprefix(pref)
     for pattern in [r'^(.+?郡.+?[町村])',r'^(.+?市[^郡市町村]*?区)',r'^(.+?市)',r'^(.+?区)',r'^(.+?[町村])']:
         m=re.match(pattern,s)
         if m:return m[1]
-    return listed or '所在地未详'
+    return '所在地未详'
 def published(s):return bool(s and not re.fullmatch(r'[\sー―－—–-]+',s)and norm(s)not in['不明','不詳','不祥','未詳','なし'])
 def office(name):return bool(re.fullmatch(r'(?:北海道|.{2,3}[都府県])?神社庁|神社本庁',norm(name)))
 def split_names(s):
@@ -83,9 +88,9 @@ def import_prefecture(code,baseline_path,agency_paths,geo_path):
     old=baseline['records'];old_keys=defaultdict(list);new_keys=defaultdict(list)
     for i,r in enumerate(old):
         for address in [r.get('address'),r.get('address_legacy')]:
-            if address:old_keys[(name_key(r['name']),address_key(address,pref))].append(i)
+            if address:old_keys[(name_key(r['name']),address_key(address,pref,r['name']))].append(i)
     for i,(agency,r)in enumerate(agency_rows):
-        if r.get('address')and r.get('address_precision')!='town':new_keys[(name_key(r['name']),address_key(r['address'],pref))].append(i)
+        if r.get('address')and r.get('address_precision')!='town':new_keys[(name_key(r['name']),address_key(r['address'],pref,r['name']))].append(i)
     pairs={};used_old=set()
     for key,ids in new_keys.items():
         candidates=set(old_keys.get(key,[]))
@@ -134,7 +139,10 @@ def import_prefecture(code,baseline_path,agency_paths,geo_path):
                 if oldraw and oldraw!=raw:groups+=kami_groups(oldraw,oldref,True);tags.append('含历史祭神表')
                 old_address=legacy.get('address_legacy')or None
                 facts.append({'label':'历史检索表对应','text':'同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。','nature':'资料对应','sources':[oldref,ref]})
-        if not address:address=old_address or '所在地未公布'
+        address=clean_address(address,a['name'])
+        if not address:address=clean_address(old_address,a['name'])or '所在地未公布'
+        if not historical and a.get('listed_region'):
+            facts.append({'label':'来源列示地区','text':'来源原栏：'+a['listed_region']+'。可能是氏子区域或检索区域，不据此确认神社所在地。','nature':'来源区域','sources':[ref]})
         if address!='所在地未公布'and not re.match(r'^(北海道|東京都|京都府|大阪府|.{2,3}県)',address):address=pref+address
         lat=a.get('lat');lon=a.get('lon');status='not_published'
         if lat is not None or lon is not None:
@@ -158,7 +166,7 @@ def import_prefecture(code,baseline_path,agency_paths,geo_path):
             'record_status':'historical_directory'if historical else'directory_imported',
             'availability':{'kami':'published'if groups else'not_published','history':'not_independently_researched'},
             'source_fields':{'kami_verbatim':raw,'historical_kami_verbatim':(legacy.get('kami_verbatim')or'')if legacy else raw if historical else'',
-                'former_rank':a.get('rank')or'','source_address_current':a.get('address')or'','source_address_historical':old_address or''},
+                'former_rank':a.get('rank')or'','listed_region':a.get('listed_region'),'source_address_current':a.get('address')or'','source_address_historical':old_address or''},
             'directory':{'number':('H-'if historical else'A-')+source_identity,'display_number':f'{code:02d}-{len(rows)+1:05d}','index_name':a['name'],
                 'index_url':a.get('index_url')or a['profile_url'],'listed_address':address,'original_detail_url':a.get('profile_url'),
                 'detail_url':a.get('profile_url'),'detail_status':'result_link_not_individually_fetched'if historical else'published_agency_record',

@@ -5,875 +5,27 @@
   "checked": "2026-10-30",
   "scope": "茨城県・机构公开资料与研究会检索名录",
   "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
-  "directory_rows": 4128,
-  "records": 4128,
+  "directory_rows": 4077,
+  "records": 4077,
   "directory_indexes": 50,
   "baseline_rows": 2467,
   "agency_rows": 2472,
   "excluded_source_rows": [],
-  "matched_historical_rows": 811,
-  "historical_only_records": 1656,
-  "with_deities": 2567,
+  "matched_historical_rows": 862,
+  "historical_only_records": 1605,
+  "with_deities": 2514,
   "mapped_locations": 0,
   "enriched_records": 0,
   "details_matched": 0,
-  "records_with_detail_links": 1763,
+  "records_with_detail_links": 1712,
   "municipalities": [
-    {
-      "municipality": "300-0011土浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "300-1403稲敷郡河内町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "301-0004龍ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "309-1431桜川市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "309-1604笠間市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "309-1611笠間市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "311-0105那珂市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-0045常総市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-0051土浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-0134茨城県かすみがうら市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-0404稲敷郡美浦村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-0511稲敷市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-0849茨城県土浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-1405稲敷郡河内町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-1514取手市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-1616北相馬郡利根町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-3255つくば市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-3518結城郡八千代町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-3525結城郡八千代町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-3545結城郡八千代町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-4244つくば市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-4352つくば市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300-4406桜川市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒300−4107茨城県土浦市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒301-0842龍ケ崎市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒302-0005取手市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒302-0109守谷市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒302-0109石岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒303-0003常総市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒304-0022下妻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒304-0813下妻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒306-0111古河市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒306-0232古河市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒306-0303猿島郡五霞町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒306-0405猿島郡境町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒307-0001結城市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒307-0021結城市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒309-1107筑西市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒309-1201茨城県桜川市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒309-1244桜川市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒309-1453茨城県桜川市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒309-1457桜川市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒309-1613笠間市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒309-1635茨城県笠間市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒310-0004水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒310-0015水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒310-0033水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒310-0065水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒310-0834水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒310-0843水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒310-0912水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-0108那珂市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-0133那珂市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-0324常陸太田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-0325常陸太田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-0505常陸太田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-1115水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-1202ひたちなか市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-1218ひたちなか市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-1229ひたちなか市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-1301東茨城郡大洗町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-1311東茨城郡大洗大貫町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-1313茨城県東茨城郡大洗町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-1712行方市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-3133東茨城郡茨城町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-3423小美玉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-3824行方市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-4135水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-4142水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-4144水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-4201水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-4206水戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-4316城里町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒311-4503常陸大宮市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒312-0021ひたちなか市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒313-0006常陸太田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒313-0022常陸太田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒313-0111常陸太田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒313-0131常陸太田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒313-0211常陸太田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒313-0352常陸太田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒314-0031鹿嶋市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒315-0056茨城県かすみがうら市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒315−0014茨城県石岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒315−0031茨城県石岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒316-0515坂東市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒317-0055日立市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒318-0021茨城県高萩市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-0106小美玉市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-1234茨城県日立市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-1303茨城県日立市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-1702茨城県北茨城市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-1714茨城県北茨城市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-1721茨城県北茨城市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-2133常陸大宮市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-2212常陸大宮市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-2214常陸大宮市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-2226常陸大宮市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-2401常陸大宮市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-2512常陸大宮市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-2603常陸大宮市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-3111常陸大宮市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-3361久慈郡大子町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-3512久慈郡大子町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-3542久慈郡大子町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒319-3556久慈郡大子町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
     {
       "municipality": "かすみがうら市",
       "area": "全域",
-      "records": 53,
-      "with_deities": 0,
+      "records": 55,
+      "with_deities": 2,
       "mapped_locations": 0,
-      "without_coordinates": 53
+      "without_coordinates": 55
     },
     {
       "municipality": "つくばみらい市",
@@ -886,26 +38,26 @@
     {
       "municipality": "つくば市",
       "area": "全域",
-      "records": 179,
-      "with_deities": 153,
+      "records": 180,
+      "with_deities": 154,
       "mapped_locations": 0,
-      "without_coordinates": 179
+      "without_coordinates": 180
     },
     {
       "municipality": "ひたちなか市",
       "area": "全域",
-      "records": 42,
-      "with_deities": 0,
+      "records": 46,
+      "with_deities": 4,
       "mapped_locations": 0,
-      "without_coordinates": 42
+      "without_coordinates": 46
     },
     {
       "municipality": "下妻市",
       "area": "全域",
-      "records": 62,
-      "with_deities": 46,
+      "records": 63,
+      "with_deities": 47,
       "mapped_locations": 0,
-      "without_coordinates": 62
+      "without_coordinates": 63
     },
     {
       "municipality": "下館市",
@@ -918,10 +70,10 @@
     {
       "municipality": "久慈郡大子町",
       "area": "全域",
-      "records": 45,
-      "with_deities": 42,
+      "records": 46,
+      "with_deities": 43,
       "mapped_locations": 0,
-      "without_coordinates": 45
+      "without_coordinates": 46
     },
     {
       "municipality": "久慈郡水府村",
@@ -958,10 +110,10 @@
     {
       "municipality": "北相馬郡利根町",
       "area": "全域",
-      "records": 14,
-      "with_deities": 14,
+      "records": 15,
+      "with_deities": 15,
       "mapped_locations": 0,
-      "without_coordinates": 14
+      "without_coordinates": 15
     },
     {
       "municipality": "北相馬郡守谷町",
@@ -982,42 +134,50 @@
     {
       "municipality": "北茨城市",
       "area": "全域",
-      "records": 46,
-      "with_deities": 43,
+      "records": 47,
+      "with_deities": 44,
       "mapped_locations": 0,
-      "without_coordinates": 46
+      "without_coordinates": 47
     },
     {
       "municipality": "取手市",
       "area": "全域",
-      "records": 72,
-      "with_deities": 31,
+      "records": 73,
+      "with_deities": 32,
       "mapped_locations": 0,
-      "without_coordinates": 72
+      "without_coordinates": 73
     },
     {
       "municipality": "古河市",
       "area": "全域",
-      "records": 82,
-      "with_deities": 25,
+      "records": 85,
+      "with_deities": 28,
       "mapped_locations": 0,
-      "without_coordinates": 82
+      "without_coordinates": 85
     },
     {
       "municipality": "土浦市",
       "area": "全域",
-      "records": 62,
-      "with_deities": 40,
+      "records": 63,
+      "with_deities": 41,
       "mapped_locations": 0,
-      "without_coordinates": 62
+      "without_coordinates": 63
     },
     {
       "municipality": "坂東市",
       "area": "全域",
-      "records": 60,
-      "with_deities": 3,
+      "records": 62,
+      "with_deities": 4,
       "mapped_locations": 0,
-      "without_coordinates": 60
+      "without_coordinates": 62
+    },
+    {
+      "municipality": "城里町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
     },
     {
       "municipality": "多賀郡十王町",
@@ -1030,18 +190,18 @@
     {
       "municipality": "守谷市",
       "area": "全域",
-      "records": 15,
-      "with_deities": 0,
+      "records": 16,
+      "with_deities": 1,
       "mapped_locations": 0,
-      "without_coordinates": 15
+      "without_coordinates": 16
     },
     {
       "municipality": "小美玉市",
       "area": "全域",
-      "records": 56,
-      "with_deities": 1,
+      "records": 58,
+      "with_deities": 3,
       "mapped_locations": 0,
-      "without_coordinates": 56
+      "without_coordinates": 58
     },
     {
       "municipality": "岩井市",
@@ -1062,18 +222,18 @@
     {
       "municipality": "常陸大宮市",
       "area": "全域",
-      "records": 78,
-      "with_deities": 6,
+      "records": 86,
+      "with_deities": 14,
       "mapped_locations": 0,
-      "without_coordinates": 78
+      "without_coordinates": 86
     },
     {
       "municipality": "常陸太田市",
       "area": "全域",
-      "records": 121,
-      "with_deities": 64,
+      "records": 127,
+      "with_deities": 69,
       "mapped_locations": 0,
-      "without_coordinates": 121
+      "without_coordinates": 127
     },
     {
       "municipality": "新治郡八郷町",
@@ -1148,6 +308,14 @@
       "without_coordinates": 29
     },
     {
+      "municipality": "東茨城郡大洗大貫町",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
       "municipality": "東茨城郡大洗町",
       "area": "全域",
       "records": 17,
@@ -1198,18 +366,18 @@
     {
       "municipality": "東茨城郡茨城町",
       "area": "全域",
-      "records": 61,
-      "with_deities": 55,
+      "records": 62,
+      "with_deities": 56,
       "mapped_locations": 0,
-      "without_coordinates": 61
+      "without_coordinates": 62
     },
     {
       "municipality": "桜川市",
       "area": "全域",
-      "records": 71,
-      "with_deities": 6,
+      "records": 74,
+      "with_deities": 9,
       "mapped_locations": 0,
-      "without_coordinates": 71
+      "without_coordinates": 74
     },
     {
       "municipality": "桜川市東区",
@@ -1222,10 +390,10 @@
     {
       "municipality": "水戸市",
       "area": "全域",
-      "records": 134,
-      "with_deities": 96,
+      "records": 138,
+      "with_deities": 100,
       "mapped_locations": 0,
-      "without_coordinates": 134
+      "without_coordinates": 138
     },
     {
       "municipality": "水海道市",
@@ -1270,10 +438,10 @@
     {
       "municipality": "猿島郡五霞町",
       "area": "全域",
-      "records": 19,
-      "with_deities": 0,
+      "records": 20,
+      "with_deities": 1,
       "mapped_locations": 0,
-      "without_coordinates": 19
+      "without_coordinates": 20
     },
     {
       "municipality": "猿島郡境町",
@@ -1342,10 +510,10 @@
     {
       "municipality": "石岡市",
       "area": "全域",
-      "records": 88,
-      "with_deities": 32,
+      "records": 89,
+      "with_deities": 33,
       "mapped_locations": 0,
-      "without_coordinates": 88
+      "without_coordinates": 89
     },
     {
       "municipality": "神栖市",
@@ -1406,18 +574,18 @@
     {
       "municipality": "稲敷郡河内町",
       "area": "全域",
-      "records": 35,
-      "with_deities": 0,
+      "records": 37,
+      "with_deities": 2,
       "mapped_locations": 0,
-      "without_coordinates": 35
+      "without_coordinates": 37
     },
     {
       "municipality": "稲敷郡美浦村",
       "area": "全域",
-      "records": 13,
-      "with_deities": 13,
+      "records": 14,
+      "with_deities": 14,
       "mapped_locations": 0,
-      "without_coordinates": 13
+      "without_coordinates": 14
     },
     {
       "municipality": "稲敷郡茎崎町",
@@ -1462,18 +630,18 @@
     {
       "municipality": "筑西市",
       "area": "全域",
-      "records": 128,
-      "with_deities": 0,
+      "records": 129,
+      "with_deities": 1,
       "mapped_locations": 0,
-      "without_coordinates": 128
+      "without_coordinates": 129
     },
     {
       "municipality": "結城市",
       "area": "全域",
-      "records": 78,
-      "with_deities": 74,
+      "records": 80,
+      "with_deities": 76,
       "mapped_locations": 0,
-      "without_coordinates": 78
+      "without_coordinates": 80
     },
     {
       "municipality": "結城郡八千代町",
@@ -1502,10 +670,10 @@
     {
       "municipality": "行方市",
       "area": "全域",
-      "records": 70,
-      "with_deities": 0,
+      "records": 72,
+      "with_deities": 2,
       "mapped_locations": 0,
-      "without_coordinates": 70
+      "without_coordinates": 72
     },
     {
       "municipality": "行方郡北浦村",
@@ -1734,10 +902,10 @@
     {
       "municipality": "鹿嶋市",
       "area": "全域",
-      "records": 53,
-      "with_deities": 0,
+      "records": 54,
+      "with_deities": 1,
       "mapped_locations": 0,
-      "without_coordinates": 53
+      "without_coordinates": 54
     },
     {
       "municipality": "龍ケ崎市",
@@ -1776,8 +944,7 @@
     "data/shrines/08-ibaraki/history-008.json",
     "data/shrines/08-ibaraki/history-009.json",
     "data/shrines/08-ibaraki/history-010.json",
-    "data/shrines/08-ibaraki/history-011.json",
-    "data/shrines/08-ibaraki/history-012.json"
+    "data/shrines/08-ibaraki/history-011.json"
   ],
   "indexes": [
     {
@@ -2096,16 +1263,6 @@
   "duplicate_candidates": [
     {
       "ids": [
-        "08-agency-d36a8ec8626f59",
-        "08-agency-f4d836b37e3df1",
-        "08-agency-957cb4018f862d",
-        "08-history-6497394933364b"
-      ],
-      "name": "諏訪神社",
-      "municipality": "久慈郡大子町"
-    },
-    {
-      "ids": [
         "08-agency-67db37b0d6854d",
         "08-agency-fe39eb670b411a",
         "08-history-8b65b8b2512068"
@@ -2116,6 +1273,7 @@
     {
       "ids": [
         "08-agency-84be7249eef743",
+        "08-agency-de4eb644d6efab",
         "08-history-88153fe7305bc5"
       ],
       "name": "八龍神社",
@@ -2127,14 +1285,6 @@
         "08-history-cb885913f3e5bf"
       ],
       "name": "大鈴神社",
-      "municipality": "久慈郡大子町"
-    },
-    {
-      "ids": [
-        "08-agency-4421b625d5667c",
-        "08-history-bc550a659c4393"
-      ],
-      "name": "鹿嶋神社",
       "municipality": "久慈郡大子町"
     },
     {
@@ -2337,27 +1487,6 @@
     },
     {
       "ids": [
-        "08-agency-6891c112d39df9",
-        "08-agency-e17e45b2ae881c",
-        "08-agency-c823413d6f513b",
-        "08-agency-c0484332849733",
-        "08-agency-a09880b4a32f21",
-        "08-agency-0193193202e0d9",
-        "08-agency-74630d9d0430b7",
-        "08-agency-03beaba85022b4",
-        "08-agency-9f62aeba4e0b0a",
-        "08-agency-a5dac1253047e0",
-        "08-agency-1c376850556904",
-        "08-agency-48e0c88abf326d",
-        "08-agency-0d7167fd9f8e55",
-        "08-agency-9c2834e6659f04",
-        "08-history-7259b1841dc917"
-      ],
-      "name": "鹿島神社",
-      "municipality": "常陸大宮市"
-    },
-    {
-      "ids": [
         "08-agency-173eb5b98b520b",
         "08-agency-048d6412e0d825",
         "08-agency-df3a82990c9495",
@@ -2408,6 +1537,7 @@
     {
       "ids": [
         "08-agency-667856a0aead3c",
+        "08-agency-066d0f33a673f6",
         "08-history-dff3b6a628ff08"
       ],
       "name": "伊勢神社",
@@ -2468,6 +1598,15 @@
     },
     {
       "ids": [
+        "08-agency-33849d7a173dd1",
+        "08-agency-4cfdcbaf1a61a0",
+        "08-history-a96885b5df61ca"
+      ],
+      "name": "大中神社",
+      "municipality": "常陸太田市"
+    },
+    {
+      "ids": [
         "08-agency-e5effe562d85bd",
         "08-agency-36cce1958413c0",
         "08-history-092b30cd74384a"
@@ -2489,6 +1628,7 @@
         "08-agency-903d973bebfc17",
         "08-agency-a06586c922d276",
         "08-agency-2fd7ca47f76d0b",
+        "08-agency-0de1777a39c551",
         "08-agency-d9fde581cf3c35",
         "08-agency-a36bfe9239c2ac",
         "08-agency-181dd3b40effde",
@@ -2496,24 +1636,6 @@
       ],
       "name": "八幡神社",
       "municipality": "北茨城市"
-    },
-    {
-      "ids": [
-        "08-agency-6b11391c19164f",
-        "08-history-23fcab578a71a7"
-      ],
-      "name": "稲荷神社",
-      "municipality": "北茨城市"
-    },
-    {
-      "ids": [
-        "08-agency-11dc81e415bfff",
-        "08-agency-0ce2e4fbaf6a6a",
-        "08-agency-b8994472e595f2",
-        "08-history-9bf97d7fb44b2d"
-      ],
-      "name": "鹿島神社",
-      "municipality": "那珂市"
     },
     {
       "ids": [
@@ -2538,6 +1660,14 @@
       ],
       "name": "阿弥神社",
       "municipality": "稲敷郡阿見町"
+    },
+    {
+      "ids": [
+        "08-agency-2425fbc41ae436",
+        "08-history-01ae2dcfcdf291"
+      ],
+      "name": "總社神社",
+      "municipality": "石岡市"
     },
     {
       "ids": [
@@ -2616,20 +1746,11 @@
     },
     {
       "ids": [
-        "08-agency-4692cc24d3e753",
-        "08-agency-48fe1a2ad92a46",
-        "08-agency-c7d09095f8fead",
-        "08-agency-ce1189e1e51991",
-        "08-agency-1df5a9895b07e5",
-        "08-agency-4adeeb2cac2132",
-        "08-agency-65a147725ccde1",
-        "08-agency-644dcaf0acada4",
-        "08-agency-e6f26970d6a191",
-        "08-agency-65742a03143f9a",
-        "08-history-c2accc25341fc8"
+        "08-agency-06b4bedc872fb5",
+        "08-history-951d0ca11ff31f"
       ],
-      "name": "香取神社",
-      "municipality": "石岡市"
+      "name": "大宮大神",
+      "municipality": "稲敷郡美浦村"
     },
     {
       "ids": [
@@ -2811,14 +1932,6 @@
     },
     {
       "ids": [
-        "08-agency-c0cec244850aab",
-        "08-history-74bb3685ac756f"
-      ],
-      "name": "八坂神社",
-      "municipality": "取手市"
-    },
-    {
-      "ids": [
         "08-agency-d8bd4fc1976fa5",
         "08-agency-469073c3e4f5b7",
         "08-agency-de472242f1d4cb",
@@ -2831,8 +1944,8 @@
         "08-agency-8b4932e6369a25",
         "08-agency-cb7ae6c75c4434",
         "08-agency-75ef364fe4cbc7",
-        "08-history-4eb814fac91cef",
-        "08-history-72757e8b4f9737"
+        "08-agency-636cb53da8031f",
+        "08-history-4eb814fac91cef"
       ],
       "name": "鹿島神社",
       "municipality": "土浦市"
@@ -2866,19 +1979,6 @@
         "08-history-1ee686200d308e"
       ],
       "name": "愛宕神社",
-      "municipality": "土浦市"
-    },
-    {
-      "ids": [
-        "08-agency-ff2cd7767ae11d",
-        "08-agency-f46f13b16a765a",
-        "08-agency-3065cda9fc340d",
-        "08-agency-7421b6bb262943",
-        "08-agency-921357e06125de",
-        "08-agency-71c1454766c01f",
-        "08-history-84630e0730b481"
-      ],
-      "name": "八坂神社",
       "municipality": "土浦市"
     },
     {
@@ -2995,6 +2095,14 @@
     },
     {
       "ids": [
+        "08-agency-00d18fd6e6613a",
+        "08-history-6980bcf41a9ae9"
+      ],
+      "name": "筑波山神社",
+      "municipality": "つくば市"
+    },
+    {
+      "ids": [
         "08-agency-6c0828057659f7",
         "08-agency-f306b619b9de62",
         "08-agency-214f930c3b3ebc",
@@ -3029,14 +2137,6 @@
         "08-history-f64cfc85824acf"
       ],
       "name": "天神社",
-      "municipality": "つくば市"
-    },
-    {
-      "ids": [
-        "08-agency-0f58f2cf561ac8",
-        "08-history-05a7b9c88f90d2"
-      ],
-      "name": "日枝神社",
       "municipality": "つくば市"
     },
     {
@@ -3086,6 +2186,7 @@
         "08-agency-87e6fdf38190aa",
         "08-agency-70c671e0295c9d",
         "08-agency-38f74696f4ec6f",
+        "08-agency-bb5ea8cbac7739",
         "08-agency-89599f2e827f36",
         "08-agency-3d7ebf2a133de4",
         "08-history-dc865a91059cca",
@@ -3269,6 +2370,7 @@
         "08-agency-0ac42a303173f6",
         "08-agency-92e1bbc5f0711f",
         "08-agency-6ddb0209a32288",
+        "08-agency-06dd225433fc78",
         "08-agency-6e9861c098ec8a",
         "08-agency-075f69a75d097a",
         "08-agency-9f86d9267a1ba6",
@@ -3277,8 +2379,7 @@
         "08-agency-8972886730b58b",
         "08-agency-615a2546da5dbe",
         "08-agency-2951968cb9d99b",
-        "08-history-3a2cf0aace07db",
-        "08-history-d2ea4ffa44bf3e"
+        "08-history-3a2cf0aace07db"
       ],
       "name": "鹿島神社",
       "municipality": "水戸市"
@@ -3293,25 +2394,18 @@
     },
     {
       "ids": [
-        "08-agency-68f1d8355d36b2",
-        "08-agency-c370634dbb7c98",
-        "08-agency-b69b7c7c373732",
-        "08-agency-27be6789fa89d2",
-        "08-agency-46de271a6fa820",
-        "08-agency-8c88f93f56f3dc",
-        "08-agency-4ca65f57bd04e1",
-        "08-history-7d388dbac9f7c2",
-        "08-history-69e8e69f8ca37a"
-      ],
-      "name": "吉田神社",
-      "municipality": "水戸市"
-    },
-    {
-      "ids": [
         "08-agency-d69ad415595235",
         "08-history-d338a14475ff0e"
       ],
       "name": "金刀比羅神社",
+      "municipality": "水戸市"
+    },
+    {
+      "ids": [
+        "08-agency-29bd4d99a98a4a",
+        "08-history-745356661f5dea"
+      ],
+      "name": "八幡宮",
       "municipality": "水戸市"
     },
     {
@@ -3321,6 +2415,7 @@
         "08-agency-8e736c30fc483a",
         "08-agency-fc767e38c3604d",
         "08-agency-85a1ddd4cbe820",
+        "08-agency-e8543c072a6dd6",
         "08-agency-df401a813ce30e",
         "08-history-d00195cd0114a7",
         "08-history-04d1a72cb8ad54",
@@ -3363,6 +2458,16 @@
     },
     {
       "ids": [
+        "08-agency-2bb138195e3b5a",
+        "08-agency-78ff440de15d42",
+        "08-agency-85c0d04a3d5dee",
+        "08-history-cadd55c73310ae"
+      ],
+      "name": "鹿島香取神社",
+      "municipality": "水戸市"
+    },
+    {
+      "ids": [
         "08-agency-66f22cc2aeb629",
         "08-history-7692a023ca82bb"
       ],
@@ -3371,10 +2476,19 @@
     },
     {
       "ids": [
-        "08-agency-9f247bd17d59aa",
-        "08-history-b03c02ca1710ca"
+        "08-agency-516ae82aaec173",
+        "08-agency-dde88590f92e17",
+        "08-history-b36e87107d2f33"
       ],
-      "name": "常磐神社",
+      "name": "手子后神社",
+      "municipality": "水戸市"
+    },
+    {
+      "ids": [
+        "08-agency-f5d713f9ac6251",
+        "08-history-c6c4101f014461"
+      ],
+      "name": "飯綱神社",
       "municipality": "水戸市"
     },
     {
@@ -3391,16 +2505,6 @@
         "08-history-33ef06cbdcf0f6"
       ],
       "name": "水雷稲荷神社",
-      "municipality": "水戸市"
-    },
-    {
-      "ids": [
-        "08-agency-78ff440de15d42",
-        "08-agency-85c0d04a3d5dee",
-        "08-history-4db4aa47d981bd",
-        "08-history-cadd55c73310ae"
-      ],
-      "name": "鹿島香取神社",
       "municipality": "水戸市"
     },
     {
@@ -3422,45 +2526,31 @@
     },
     {
       "ids": [
-        "08-agency-dde88590f92e17",
-        "08-history-b36e87107d2f33"
+        "08-agency-9fe1721050dded",
+        "08-agency-681c72dda18c92",
+        "08-agency-3e0874becdafab",
+        "08-agency-3897112d582520",
+        "08-agency-c39cb1a68aec1f",
+        "08-agency-64ed6d3c9ceb21",
+        "08-agency-cf8248070b1db7",
+        "08-agency-c8d31ecfc39f9f",
+        "08-agency-ecdb7a55be946a",
+        "08-agency-50e4d38b61e309",
+        "08-agency-a02158c7af1b86",
+        "08-agency-8bff8a11b46024",
+        "08-agency-4698a21610e373",
+        "08-agency-ae5dcbfa92fa4d",
+        "08-agency-cd62d68688bb0e",
+        "08-agency-321c08b5e6b12c",
+        "08-agency-3fbda2f9d55ea2",
+        "08-agency-1e3711e405c64a",
+        "08-agency-112b8e248d1e2c",
+        "08-agency-03ee51954be34e",
+        "08-agency-4b47dd9ebe0742",
+        "08-history-7b15e62b44bddd"
       ],
-      "name": "手子后神社",
-      "municipality": "水戸市"
-    },
-    {
-      "ids": [
-        "08-agency-b03ce72eb647aa",
-        "08-agency-00a1127aab72dd",
-        "08-agency-736505499a9d66",
-        "08-history-0435575eff2ad6"
-      ],
-      "name": "稲荷神社",
-      "municipality": "東茨城郡大洗町"
-    },
-    {
-      "ids": [
-        "08-agency-940eae3885ee05",
-        "08-agency-e8e8824e6781d7",
-        "08-agency-1a0f84acd395e3",
-        "08-agency-0988916e6f0bb0",
-        "08-agency-ef1bf5f319ef85",
-        "08-agency-dd5a474c1e2746",
-        "08-agency-0aff0757d521ef",
-        "08-agency-c277246e7843a5",
-        "08-agency-0687d619fe1490",
-        "08-agency-2a8c496a8e6c78",
-        "08-agency-2ebec449134e74",
-        "08-agency-b6a1b993e06314",
-        "08-agency-b3179c1843d96b",
-        "08-agency-c7e0c75877ee0b",
-        "08-agency-0a4d223b51b9e7",
-        "08-agency-d3d5e8c31a4f2e",
-        "08-agency-d28f13ab79f2be",
-        "08-history-533b7ea24c505b"
-      ],
-      "name": "八幡神社",
-      "municipality": "常総市"
+      "name": "香取神社",
+      "municipality": "坂東市"
     },
     {
       "ids": [
@@ -3518,6 +2608,7 @@
     {
       "ids": [
         "08-agency-b7cbe25fb742bf",
+        "08-agency-04cf4b9c9f3dc8",
         "08-history-246bf30d9f2e11"
       ],
       "name": "日月神社",
@@ -3566,12 +2657,12 @@
         "08-agency-126e6ddcae4253",
         "08-agency-5cd7a3562e49b4",
         "08-agency-082c0e013e610a",
+        "08-agency-6adfdae88ca60b",
         "08-agency-90194701b9395b",
         "08-agency-486a87ec37571f",
         "08-history-fb838082f23424",
         "08-history-67c7f9238a7e3b",
-        "08-history-b604406e5c8ee6",
-        "08-history-7c929e422a160d"
+        "08-history-b604406e5c8ee6"
       ],
       "name": "香取神社",
       "municipality": "猿島郡境町"
@@ -3579,6 +2670,7 @@
     {
       "ids": [
         "08-agency-52b7427abe8d7c",
+        "08-agency-b8be1702f85987",
         "08-agency-ea27eafc9f90d1",
         "08-agency-7cca6e1ff7d444",
         "08-agency-fd26782a1a4203",
@@ -3586,14 +2678,6 @@
       ],
       "name": "香取神社",
       "municipality": "桜川市"
-    },
-    {
-      "ids": [
-        "08-agency-f53f4dde8c38e6",
-        "08-history-5ef29d28525920"
-      ],
-      "name": "宗任神社",
-      "municipality": "下妻市"
     },
     {
       "ids": [
@@ -3618,20 +2702,11 @@
     },
     {
       "ids": [
-        "08-agency-ae686927f77954",
-        "08-agency-07f424fe0e63fb",
-        "08-history-4db05dfddde57a"
+        "08-agency-575b7c531c54a4",
+        "08-history-759636766687bd"
       ],
-      "name": "鷲神社",
-      "municipality": "結城郡八千代町"
-    },
-    {
-      "ids": [
-        "08-agency-495c7e69ef216a",
-        "08-history-f4697e925bc25c"
-      ],
-      "name": "鹿嶋神社",
-      "municipality": "結城郡八千代町"
+      "name": "健田須賀神社",
+      "municipality": "結城市"
     },
     {
       "ids": [
@@ -3679,6 +2754,7 @@
     },
     {
       "ids": [
+        "08-agency-b625a6618221f2",
         "08-agency-1012f5489188c6",
         "08-history-07f771dfbe9193"
       ],
@@ -3696,7 +2772,7 @@
   ],
   "link_corrections": [],
   "missing_fields_summary": {
-    "deities": 1561,
-    "unmapped_records": 4128
+    "deities": 1563,
+    "unmapped_records": 4077
   }
 }

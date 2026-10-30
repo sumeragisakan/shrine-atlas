@@ -1,131 +1,7 @@
 [
   {
-    "id": "39-history-b2450c25a6634d",
-    "no": 1239,
-    "prefecture_code": 39,
-    "name": "桑田山神社",
-    "kana": "",
-    "area": "全域",
-    "municipality": "須崎市",
-    "aliases": [],
-    "headline": "历史表 · 天津瓊瓊杵尊・木華開耶姫命 等",
-    "tags": [
-      "研究会名录",
-      "历史资料待核",
-      "历史地址",
-      "未定位"
-    ],
-    "intro": "高知県須崎市的来源记录；具体所在地与祭神保留逐项出处。",
-    "sources": [
-      {
-        "label": "神社史研究会｜高知県・条目20972",
-        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=20972",
-        "kind": "研究会检索资料（含历史调查）",
-        "covers": "神社名、当前／平成5年当时地址栏及祭神原表，读取自该地区完整检索结果；详情入口由公开结果提供，未逐页确认现况。",
-        "checked": "2026-10-30",
-        "published": null,
-        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
-        "request": {
-          "method": "POST",
-          "parameters": {
-            "data_item": "shibu",
-            "data_choice": "39"
-          }
-        },
-        "profile_fetched": false
-      }
-    ],
-    "kami": [
-      {
-        "role": "原表《主》 · 历史检索表，非现况确认",
-        "names": [
-          "天津瓊瓊杵尊",
-          "木華開耶姫命",
-          "天津彦火火出見命"
-        ],
-        "sources": [
-          0
-        ]
-      }
-    ],
-    "locations": [
-      {
-        "id": "39-history-b2450c25a6634d:1",
-        "name": "桑田山神社",
-        "label": "桑田山神社",
-        "address": "高知県須崎市桑田山乙753.2456番地",
-        "lat": null,
-        "lon": null,
-        "sources": [
-          0
-        ],
-        "map_status": "not_published",
-        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
-        "address_status": "legacy_only",
-        "legacy_address": "高知県須崎市桑田山乙753.2456番地"
-      }
-    ],
-    "facts": [
-      {
-        "label": "来源版本",
-        "text": "研究会结果页同时列示当前地址栏与平成5年当时地址栏；本项目保留来源原栏，不自动把旧地址更新为现址。",
-        "nature": "来源范围",
-        "sources": [
-          0
-        ]
-      }
-    ],
-    "note": "研究会检索资料包括平成5年（1993）调查及合并前地址。本条未与当地机构名录作可靠同址匹配，不能当作现今神社状态、现址或当前祭神确认。",
-    "noteSources": [
-      0
-    ],
-    "checked": "2026-10-30",
-    "media": [],
-    "record_status": "historical_directory",
-    "availability": {
-      "kami": "published",
-      "history": "not_independently_researched"
-    },
-    "source_fields": {
-      "kami_verbatim": "《主》天津瓊瓊杵尊、木華開耶姫命、天津彦火火出見命",
-      "historical_kami_verbatim": "《主》天津瓊瓊杵尊、木華開耶姫命、天津彦火火出見命",
-      "former_rank": "",
-      "source_address_current": "",
-      "source_address_historical": "高知県須崎市桑田山乙753.2456番地"
-    },
-    "directory": {
-      "number": "H-20972",
-      "display_number": "39-01239",
-      "index_name": "桑田山神社",
-      "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
-      "listed_address": "高知県須崎市桑田山乙753.2456番地",
-      "original_detail_url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=20972",
-      "detail_url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=20972",
-      "detail_status": "result_link_not_individually_fetched",
-      "checked": "2026-10-30",
-      "source_sha256": "9697ecc082ca28d3875d9f6c3f842b05422079f0b4c0256ae3b0be221d2d8907"
-    },
-    "provenance": {
-      "agency_source_id": null,
-      "national_source_id": "20972",
-      "identity_match": "not_merged",
-      "historical_only": true,
-      "address_precision": null,
-      "source_vintage": null,
-      "coordinate_kind": null,
-      "source_field_anomalies": null,
-      "source_fields": {
-        "kami_verbatim": "《主》天津瓊瓊杵尊、木華開耶姫命、天津彦火火出見命",
-        "historical_kami_verbatim": "《主》天津瓊瓊杵尊、木華開耶姫命、天津彦火火出見命",
-        "former_rank": "",
-        "source_address_current": "",
-        "source_address_historical": "高知県須崎市桑田山乙753.2456番地"
-      }
-    }
-  },
-  {
     "id": "39-history-6b627995729462",
-    "no": 1240,
+    "no": 1239,
     "prefecture_code": 39,
     "name": "天満宮",
     "kana": "",
@@ -222,12 +98,13 @@
       "kami_verbatim": "《主》菅原神、《配》市杵島姫神、倉稲魂神",
       "historical_kami_verbatim": "《主》菅原神、《配》市杵島姫神、倉稲魂神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分丙1119番地"
     },
     "directory": {
       "number": "H-20973",
-      "display_number": "39-01240",
+      "display_number": "39-01239",
       "index_name": "天満宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分丙1119番地",
@@ -250,6 +127,7 @@
         "kami_verbatim": "《主》菅原神、《配》市杵島姫神、倉稲魂神",
         "historical_kami_verbatim": "《主》菅原神、《配》市杵島姫神、倉稲魂神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分丙1119番地"
       }
@@ -257,7 +135,7 @@
   },
   {
     "id": "39-history-8777d16926d8de",
-    "no": 1241,
+    "no": 1240,
     "prefecture_code": 39,
     "name": "竈戸神社",
     "kana": "",
@@ -359,12 +237,13 @@
       "kami_verbatim": "《合》保食神、大物主神、春日大神、八坂大神、《主》火産霊神、火産霊命、澳津彦命、奥津姫命",
       "historical_kami_verbatim": "《合》保食神、大物主神、春日大神、八坂大神、《主》火産霊神、火産霊命、澳津彦命、奥津姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分乙40番地ﾉロ"
     },
     "directory": {
       "number": "H-20974",
-      "display_number": "39-01241",
+      "display_number": "39-01240",
       "index_name": "竈戸神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分乙40番地ﾉロ",
@@ -387,6 +266,7 @@
         "kami_verbatim": "《合》保食神、大物主神、春日大神、八坂大神、《主》火産霊神、火産霊命、澳津彦命、奥津姫命",
         "historical_kami_verbatim": "《合》保食神、大物主神、春日大神、八坂大神、《主》火産霊神、火産霊命、澳津彦命、奥津姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分乙40番地ﾉロ"
       }
@@ -394,7 +274,7 @@
   },
   {
     "id": "39-history-778130923838f0",
-    "no": 1242,
+    "no": 1241,
     "prefecture_code": 39,
     "name": "天満宮",
     "kana": "",
@@ -481,12 +361,13 @@
       "kami_verbatim": "《主》菅原道真",
       "historical_kami_verbatim": "《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分丙313番地"
     },
     "directory": {
       "number": "H-20975",
-      "display_number": "39-01242",
+      "display_number": "39-01241",
       "index_name": "天満宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分丙313番地",
@@ -509,6 +390,7 @@
         "kami_verbatim": "《主》菅原道真",
         "historical_kami_verbatim": "《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分丙313番地"
       }
@@ -516,7 +398,7 @@
   },
   {
     "id": "39-history-6943874fd3bc93",
-    "no": 1243,
+    "no": 1242,
     "prefecture_code": 39,
     "name": "日室天神宮",
     "kana": "",
@@ -614,12 +496,13 @@
       "kami_verbatim": "《合》水波女神、八幡大神、大山祇神、《主》菅原道真",
       "historical_kami_verbatim": "《合》水波女神、八幡大神、大山祇神、《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分甲55番地"
     },
     "directory": {
       "number": "H-20976",
-      "display_number": "39-01243",
+      "display_number": "39-01242",
       "index_name": "日室天神宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分甲55番地",
@@ -642,6 +525,7 @@
         "kami_verbatim": "《合》水波女神、八幡大神、大山祇神、《主》菅原道真",
         "historical_kami_verbatim": "《合》水波女神、八幡大神、大山祇神、《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分甲55番地"
       }
@@ -649,7 +533,7 @@
   },
   {
     "id": "39-history-51b5800f64f528",
-    "no": 1244,
+    "no": 1243,
     "prefecture_code": 39,
     "name": "熊野神社",
     "kana": "",
@@ -749,12 +633,13 @@
       "kami_verbatim": "《主》熊野久須毘神、《配》水波女神、宇賀神、市杵島姫神、王子神、琴平神",
       "historical_kami_verbatim": "《主》熊野久須毘神、《配》水波女神、宇賀神、市杵島姫神、王子神、琴平神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分甲1820"
     },
     "directory": {
       "number": "H-20977",
-      "display_number": "39-01244",
+      "display_number": "39-01243",
       "index_name": "熊野神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分甲1820",
@@ -777,6 +662,7 @@
         "kami_verbatim": "《主》熊野久須毘神、《配》水波女神、宇賀神、市杵島姫神、王子神、琴平神",
         "historical_kami_verbatim": "《主》熊野久須毘神、《配》水波女神、宇賀神、市杵島姫神、王子神、琴平神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分甲1820"
       }
@@ -784,7 +670,7 @@
   },
   {
     "id": "39-history-f2b6646edd52e3",
-    "no": 1245,
+    "no": 1244,
     "prefecture_code": 39,
     "name": "伊気神社",
     "kana": "",
@@ -877,12 +763,13 @@
       "kami_verbatim": "《主》宇賀魂神、菅原神、火産霊神、応神天皇、玉依姫神、妙見大神、今宮大神",
       "historical_kami_verbatim": "《主》宇賀魂神、菅原神、火産霊神、応神天皇、玉依姫神、妙見大神、今宮大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分甲110番地"
     },
     "directory": {
       "number": "H-20978",
-      "display_number": "39-01245",
+      "display_number": "39-01244",
       "index_name": "伊気神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分甲110番地",
@@ -905,6 +792,7 @@
         "kami_verbatim": "《主》宇賀魂神、菅原神、火産霊神、応神天皇、玉依姫神、妙見大神、今宮大神",
         "historical_kami_verbatim": "《主》宇賀魂神、菅原神、火産霊神、応神天皇、玉依姫神、妙見大神、今宮大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分甲110番地"
       }
@@ -912,7 +800,7 @@
   },
   {
     "id": "39-history-11d3f8a85e0e2d",
-    "no": 1246,
+    "no": 1245,
     "prefecture_code": 39,
     "name": "伊気神社",
     "kana": "",
@@ -1008,12 +896,13 @@
       "kami_verbatim": "《主》保食神、《配》手力男神",
       "historical_kami_verbatim": "《主》保食神、《配》手力男神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分甲1225番地"
     },
     "directory": {
       "number": "H-20979",
-      "display_number": "39-01246",
+      "display_number": "39-01245",
       "index_name": "伊気神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分甲1225番地",
@@ -1036,6 +925,7 @@
         "kami_verbatim": "《主》保食神、《配》手力男神",
         "historical_kami_verbatim": "《主》保食神、《配》手力男神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分甲1225番地"
       }
@@ -1043,7 +933,7 @@
   },
   {
     "id": "39-history-e6205bf47de69d",
-    "no": 1247,
+    "no": 1246,
     "prefecture_code": 39,
     "name": "横山神社",
     "kana": "",
@@ -1130,12 +1020,13 @@
       "kami_verbatim": "《主》横山落人",
       "historical_kami_verbatim": "《主》横山落人",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分甲2726番地"
     },
     "directory": {
       "number": "H-20980",
-      "display_number": "39-01247",
+      "display_number": "39-01246",
       "index_name": "横山神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分甲2726番地",
@@ -1158,6 +1049,7 @@
         "kami_verbatim": "《主》横山落人",
         "historical_kami_verbatim": "《主》横山落人",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分甲2726番地"
       }
@@ -1165,7 +1057,7 @@
   },
   {
     "id": "39-history-32bea51a0ab56e",
-    "no": 1248,
+    "no": 1247,
     "prefecture_code": 39,
     "name": "住吉神社",
     "kana": "",
@@ -1265,12 +1157,13 @@
       "kami_verbatim": "《合》大日?貴神、大物主神、火産霊神、《主》表筒之男命、中筒之男命、底筒之男命",
       "historical_kami_verbatim": "《合》大日?貴神、大物主神、火産霊神、《主》表筒之男命、中筒之男命、底筒之男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分甲2868番地"
     },
     "directory": {
       "number": "H-20982",
-      "display_number": "39-01248",
+      "display_number": "39-01247",
       "index_name": "住吉神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分甲2868番地",
@@ -1293,6 +1186,7 @@
         "kami_verbatim": "《合》大日?貴神、大物主神、火産霊神、《主》表筒之男命、中筒之男命、底筒之男命",
         "historical_kami_verbatim": "《合》大日?貴神、大物主神、火産霊神、《主》表筒之男命、中筒之男命、底筒之男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分甲2868番地"
       }
@@ -1300,7 +1194,7 @@
   },
   {
     "id": "39-history-c2f6379aa04e36",
-    "no": 1249,
+    "no": 1248,
     "prefecture_code": 39,
     "name": "日室天神社",
     "kana": "",
@@ -1401,12 +1295,13 @@
       "kami_verbatim": "《合》天御中主神、火産霊神、保食神、市杵島姫神、大物主神、大山祇神、《主》菅原神",
       "historical_kami_verbatim": "《合》天御中主神、火産霊神、保食神、市杵島姫神、大物主神、大山祇神、《主》菅原神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分乙2245番地ロ号"
     },
     "directory": {
       "number": "H-20983",
-      "display_number": "39-01249",
+      "display_number": "39-01248",
       "index_name": "日室天神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分乙2245番地ロ号",
@@ -1429,6 +1324,7 @@
         "kami_verbatim": "《合》天御中主神、火産霊神、保食神、市杵島姫神、大物主神、大山祇神、《主》菅原神",
         "historical_kami_verbatim": "《合》天御中主神、火産霊神、保食神、市杵島姫神、大物主神、大山祇神、《主》菅原神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分乙2245番地ロ号"
       }
@@ -1436,7 +1332,7 @@
   },
   {
     "id": "39-history-961782f133753f",
-    "no": 1250,
+    "no": 1249,
     "prefecture_code": 39,
     "name": "神明宮",
     "kana": "",
@@ -1534,12 +1430,13 @@
       "kami_verbatim": "《合》火産霊神、手力男神、大物主神、《主》大日?貴神",
       "historical_kami_verbatim": "《合》火産霊神、手力男神、大物主神、《主》大日?貴神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分乙485番地"
     },
     "directory": {
       "number": "H-20984",
-      "display_number": "39-01250",
+      "display_number": "39-01249",
       "index_name": "神明宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分乙485番地",
@@ -1562,6 +1459,7 @@
         "kami_verbatim": "《合》火産霊神、手力男神、大物主神、《主》大日?貴神",
         "historical_kami_verbatim": "《合》火産霊神、手力男神、大物主神、《主》大日?貴神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分乙485番地"
       }
@@ -1569,7 +1467,7 @@
   },
   {
     "id": "39-history-819b34f49cfc09",
-    "no": 1251,
+    "no": 1250,
     "prefecture_code": 39,
     "name": "津野神社",
     "kana": "",
@@ -1670,12 +1568,13 @@
       "kami_verbatim": "《合》大山祇神、住吉大神、火産霊神、八幡大神、味耜高彦根神、保食神、《主》津野十八公霊",
       "historical_kami_verbatim": "《合》大山祇神、住吉大神、火産霊神、八幡大神、味耜高彦根神、保食神、《主》津野十八公霊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分丙77番4号"
     },
     "directory": {
       "number": "H-20985",
-      "display_number": "39-01251",
+      "display_number": "39-01250",
       "index_name": "津野神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分丙77番4号",
@@ -1698,6 +1597,7 @@
         "kami_verbatim": "《合》大山祇神、住吉大神、火産霊神、八幡大神、味耜高彦根神、保食神、《主》津野十八公霊",
         "historical_kami_verbatim": "《合》大山祇神、住吉大神、火産霊神、八幡大神、味耜高彦根神、保食神、《主》津野十八公霊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分丙77番4号"
       }
@@ -1705,7 +1605,7 @@
   },
   {
     "id": "39-history-82aabb4b215cf9",
-    "no": 1252,
+    "no": 1251,
     "prefecture_code": 39,
     "name": "宇賀神社",
     "kana": "",
@@ -1792,12 +1692,13 @@
       "kami_verbatim": "《主》宇賀美多麻神",
       "historical_kami_verbatim": "《主》宇賀美多麻神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分丙160番14号"
     },
     "directory": {
       "number": "H-20986",
-      "display_number": "39-01252",
+      "display_number": "39-01251",
       "index_name": "宇賀神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分丙160番14号",
@@ -1820,6 +1721,7 @@
         "kami_verbatim": "《主》宇賀美多麻神",
         "historical_kami_verbatim": "《主》宇賀美多麻神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分丙160番14号"
       }
@@ -1827,7 +1729,7 @@
   },
   {
     "id": "39-history-6826b0b19cc3b5",
-    "no": 1253,
+    "no": 1252,
     "prefecture_code": 39,
     "name": "竈戸神社",
     "kana": "",
@@ -1918,12 +1820,13 @@
       "kami_verbatim": "《主》火産霊神、興津彦神、澳津姫神、素盞嗚神、応神天皇",
       "historical_kami_verbatim": "《主》火産霊神、興津彦神、澳津姫神、素盞嗚神、応神天皇",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県須崎市上分丙142のﾛ"
     },
     "directory": {
       "number": "H-20987",
-      "display_number": "39-01253",
+      "display_number": "39-01252",
       "index_name": "竈戸神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県須崎市上分丙142のﾛ",
@@ -1946,6 +1849,7 @@
         "kami_verbatim": "《主》火産霊神、興津彦神、澳津姫神、素盞嗚神、応神天皇",
         "historical_kami_verbatim": "《主》火産霊神、興津彦神、澳津姫神、素盞嗚神、応神天皇",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県須崎市上分丙142のﾛ"
       }
@@ -1953,7 +1857,7 @@
   },
   {
     "id": "39-history-15cd28498b5b25",
-    "no": 1254,
+    "no": 1253,
     "prefecture_code": 39,
     "name": "鳴川神社",
     "kana": "",
@@ -2040,12 +1944,13 @@
       "kami_verbatim": "《主》安閑天皇",
       "historical_kami_verbatim": "《主》安閑天皇",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡丁2998番地"
     },
     "directory": {
       "number": "H-20988",
-      "display_number": "39-01254",
+      "display_number": "39-01253",
       "index_name": "鳴川神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡丁2998番地",
@@ -2068,6 +1973,7 @@
         "kami_verbatim": "《主》安閑天皇",
         "historical_kami_verbatim": "《主》安閑天皇",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡丁2998番地"
       }
@@ -2075,7 +1981,7 @@
   },
   {
     "id": "39-history-f74786d9e74a0d",
-    "no": 1255,
+    "no": 1254,
     "prefecture_code": 39,
     "name": "伊気神社",
     "kana": "",
@@ -2162,12 +2068,13 @@
       "kami_verbatim": "《主》保食神",
       "historical_kami_verbatim": "《主》保食神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡甲466"
     },
     "directory": {
       "number": "H-20989",
-      "display_number": "39-01255",
+      "display_number": "39-01254",
       "index_name": "伊気神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡甲466",
@@ -2190,6 +2097,7 @@
         "kami_verbatim": "《主》保食神",
         "historical_kami_verbatim": "《主》保食神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡甲466"
       }
@@ -2197,7 +2105,7 @@
   },
   {
     "id": "39-history-2b51f69249b16a",
-    "no": 1256,
+    "no": 1255,
     "prefecture_code": 39,
     "name": "竈戸神社",
     "kana": "",
@@ -2286,12 +2194,13 @@
       "kami_verbatim": "《主》澳津彦神、澳津姫神、火産霊神",
       "historical_kami_verbatim": "《主》澳津彦神、澳津姫神、火産霊神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡甲390番地"
     },
     "directory": {
       "number": "H-20991",
-      "display_number": "39-01256",
+      "display_number": "39-01255",
       "index_name": "竈戸神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡甲390番地",
@@ -2314,6 +2223,7 @@
         "kami_verbatim": "《主》澳津彦神、澳津姫神、火産霊神",
         "historical_kami_verbatim": "《主》澳津彦神、澳津姫神、火産霊神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡甲390番地"
       }
@@ -2321,7 +2231,7 @@
   },
   {
     "id": "39-history-a10c20ed142561",
-    "no": 1257,
+    "no": 1256,
     "prefecture_code": 39,
     "name": "真光神社",
     "kana": "",
@@ -2419,12 +2329,13 @@
       "kami_verbatim": "《主》真光大神、《配》保食神、罔象女神、倉賀御魂神",
       "historical_kami_verbatim": "《主》真光大神、《配》保食神、罔象女神、倉賀御魂神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡乙2613番地"
     },
     "directory": {
       "number": "H-20992",
-      "display_number": "39-01257",
+      "display_number": "39-01256",
       "index_name": "真光神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡乙2613番地",
@@ -2447,6 +2358,7 @@
         "kami_verbatim": "《主》真光大神、《配》保食神、罔象女神、倉賀御魂神",
         "historical_kami_verbatim": "《主》真光大神、《配》保食神、罔象女神、倉賀御魂神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡乙2613番地"
       }
@@ -2454,7 +2366,7 @@
   },
   {
     "id": "39-history-ff8c749ab99e47",
-    "no": 1258,
+    "no": 1257,
     "prefecture_code": 39,
     "name": "星神社",
     "kana": "",
@@ -2543,12 +2455,13 @@
       "kami_verbatim": "《主》手置帆負命、天彦狭知命、妙見大明神",
       "historical_kami_verbatim": "《主》手置帆負命、天彦狭知命、妙見大明神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡甲879番地"
     },
     "directory": {
       "number": "H-20993",
-      "display_number": "39-01258",
+      "display_number": "39-01257",
       "index_name": "星神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡甲879番地",
@@ -2571,6 +2484,7 @@
         "kami_verbatim": "《主》手置帆負命、天彦狭知命、妙見大明神",
         "historical_kami_verbatim": "《主》手置帆負命、天彦狭知命、妙見大明神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡甲879番地"
       }
@@ -2578,7 +2492,7 @@
   },
   {
     "id": "39-history-058a5ee0be3ed4",
-    "no": 1259,
+    "no": 1258,
     "prefecture_code": 39,
     "name": "井関神社",
     "kana": "",
@@ -2665,12 +2579,13 @@
       "kami_verbatim": "《主》素盞男命",
       "historical_kami_verbatim": "《主》素盞男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡甲1099番地"
     },
     "directory": {
       "number": "H-20994",
-      "display_number": "39-01259",
+      "display_number": "39-01258",
       "index_name": "井関神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡甲1099番地",
@@ -2693,6 +2608,7 @@
         "kami_verbatim": "《主》素盞男命",
         "historical_kami_verbatim": "《主》素盞男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡甲1099番地"
       }
@@ -2700,7 +2616,7 @@
   },
   {
     "id": "39-history-e149bb57e3c863",
-    "no": 1260,
+    "no": 1259,
     "prefecture_code": 39,
     "name": "伊気神社",
     "kana": "",
@@ -2787,12 +2703,13 @@
       "kami_verbatim": "《主》保食神",
       "historical_kami_verbatim": "《主》保食神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡丙215番地"
     },
     "directory": {
       "number": "H-20995",
-      "display_number": "39-01260",
+      "display_number": "39-01259",
       "index_name": "伊気神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡丙215番地",
@@ -2815,6 +2732,7 @@
         "kami_verbatim": "《主》保食神",
         "historical_kami_verbatim": "《主》保食神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡丙215番地"
       }
@@ -2822,7 +2740,7 @@
   },
   {
     "id": "39-history-c4afa3ea6bfebe",
-    "no": 1261,
+    "no": 1260,
     "prefecture_code": 39,
     "name": "曽我神社",
     "kana": "",
@@ -2910,12 +2828,13 @@
       "kami_verbatim": "《主》曽我十郎祐成、曽我五郎時致",
       "historical_kami_verbatim": "《主》曽我十郎祐成、曽我五郎時致",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡丁2197番地"
     },
     "directory": {
       "number": "H-20996",
-      "display_number": "39-01261",
+      "display_number": "39-01260",
       "index_name": "曽我神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡丁2197番地",
@@ -2938,6 +2857,7 @@
         "kami_verbatim": "《主》曽我十郎祐成、曽我五郎時致",
         "historical_kami_verbatim": "《主》曽我十郎祐成、曽我五郎時致",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡丁2197番地"
       }
@@ -2945,7 +2865,7 @@
   },
   {
     "id": "39-history-4b9987a6117c12",
-    "no": 1262,
+    "no": 1261,
     "prefecture_code": 39,
     "name": "琴平神社",
     "kana": "",
@@ -3041,12 +2961,13 @@
       "kami_verbatim": "《主》大物主神、《配》崇徳天皇",
       "historical_kami_verbatim": "《主》大物主神、《配》崇徳天皇",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡丁566番地"
     },
     "directory": {
       "number": "H-20997",
-      "display_number": "39-01262",
+      "display_number": "39-01261",
       "index_name": "琴平神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡丁566番地",
@@ -3069,6 +2990,7 @@
         "kami_verbatim": "《主》大物主神、《配》崇徳天皇",
         "historical_kami_verbatim": "《主》大物主神、《配》崇徳天皇",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡丁566番地"
       }
@@ -3076,7 +2998,7 @@
   },
   {
     "id": "39-history-28ac3aa35952c6",
-    "no": 1263,
+    "no": 1262,
     "prefecture_code": 39,
     "name": "伊気神社",
     "kana": "",
@@ -3167,12 +3089,13 @@
       "kami_verbatim": "《主》保食神、若宮大神、澳津彦神、澳津姫神、火産霊神",
       "historical_kami_verbatim": "《主》保食神、若宮大神、澳津彦神、澳津姫神、火産霊神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡丙541番地"
     },
     "directory": {
       "number": "H-20998",
-      "display_number": "39-01263",
+      "display_number": "39-01262",
       "index_name": "伊気神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡丙541番地",
@@ -3195,6 +3118,7 @@
         "kami_verbatim": "《主》保食神、若宮大神、澳津彦神、澳津姫神、火産霊神",
         "historical_kami_verbatim": "《主》保食神、若宮大神、澳津彦神、澳津姫神、火産霊神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡丙541番地"
       }
@@ -3202,7 +3126,7 @@
   },
   {
     "id": "39-history-e77b0854b7fb43",
-    "no": 1264,
+    "no": 1263,
     "prefecture_code": 39,
     "name": "伊気神社",
     "kana": "",
@@ -3289,12 +3213,13 @@
       "kami_verbatim": "《主》保食神",
       "historical_kami_verbatim": "《主》保食神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡甲1190番地"
     },
     "directory": {
       "number": "H-20999",
-      "display_number": "39-01264",
+      "display_number": "39-01263",
       "index_name": "伊気神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡甲1190番地",
@@ -3317,6 +3242,7 @@
         "kami_verbatim": "《主》保食神",
         "historical_kami_verbatim": "《主》保食神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡甲1190番地"
       }
@@ -3324,7 +3250,7 @@
   },
   {
     "id": "39-history-f90ce730b12507",
-    "no": 1265,
+    "no": 1264,
     "prefecture_code": 39,
     "name": "素鵞神社",
     "kana": "",
@@ -3414,12 +3340,13 @@
       "kami_verbatim": "《主》素盞嗚尊、澳津彦神、澳津姫神、火産霊神",
       "historical_kami_verbatim": "《主》素盞嗚尊、澳津彦神、澳津姫神、火産霊神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡丙452番地"
     },
     "directory": {
       "number": "H-21000",
-      "display_number": "39-01265",
+      "display_number": "39-01264",
       "index_name": "素鵞神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡丙452番地",
@@ -3442,6 +3369,7 @@
         "kami_verbatim": "《主》素盞嗚尊、澳津彦神、澳津姫神、火産霊神",
         "historical_kami_verbatim": "《主》素盞嗚尊、澳津彦神、澳津姫神、火産霊神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡丙452番地"
       }
@@ -3449,7 +3377,7 @@
   },
   {
     "id": "39-history-2c1fec9f749ced",
-    "no": 1266,
+    "no": 1265,
     "prefecture_code": 39,
     "name": "太子神社",
     "kana": "",
@@ -3527,12 +3455,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡乙3126番地"
     },
     "directory": {
       "number": "H-21001",
-      "display_number": "39-01266",
+      "display_number": "39-01265",
       "index_name": "太子神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡乙3126番地",
@@ -3555,6 +3484,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡乙3126番地"
       }
@@ -3562,7 +3492,7 @@
   },
   {
     "id": "39-history-34c3d591e8f4d8",
-    "no": 1267,
+    "no": 1266,
     "prefecture_code": 39,
     "name": "三島神社",
     "kana": "",
@@ -3650,12 +3580,13 @@
       "kami_verbatim": "《主》大山祇命、市杵島姫命",
       "historical_kami_verbatim": "《主》大山祇命、市杵島姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡丁1992番地"
     },
     "directory": {
       "number": "H-21002",
-      "display_number": "39-01267",
+      "display_number": "39-01266",
       "index_name": "三島神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡丁1992番地",
@@ -3678,6 +3609,7 @@
         "kami_verbatim": "《主》大山祇命、市杵島姫命",
         "historical_kami_verbatim": "《主》大山祇命、市杵島姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡丁1992番地"
       }
@@ -3685,7 +3617,7 @@
   },
   {
     "id": "39-history-265c2749ff67e5",
-    "no": 1268,
+    "no": 1267,
     "prefecture_code": 39,
     "name": "恵美酒神社",
     "kana": "",
@@ -3772,12 +3704,13 @@
       "kami_verbatim": "《主》事代主命",
       "historical_kami_verbatim": "《主》事代主命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡乙162番地"
     },
     "directory": {
       "number": "H-21003",
-      "display_number": "39-01268",
+      "display_number": "39-01267",
       "index_name": "恵美酒神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡乙162番地",
@@ -3800,6 +3733,7 @@
         "kami_verbatim": "《主》事代主命",
         "historical_kami_verbatim": "《主》事代主命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡乙162番地"
       }
@@ -3807,7 +3741,7 @@
   },
   {
     "id": "39-history-eb1d718c3a7af4",
-    "no": 1269,
+    "no": 1268,
     "prefecture_code": 39,
     "name": "天崎神社",
     "kana": "",
@@ -3894,12 +3828,13 @@
       "kami_verbatim": "《主》伊弉諾尊",
       "historical_kami_verbatim": "《主》伊弉諾尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡丁117番地"
     },
     "directory": {
       "number": "H-21004",
-      "display_number": "39-01269",
+      "display_number": "39-01268",
       "index_name": "天崎神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡丁117番地",
@@ -3922,6 +3857,7 @@
         "kami_verbatim": "《主》伊弉諾尊",
         "historical_kami_verbatim": "《主》伊弉諾尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡丁117番地"
       }
@@ -3929,7 +3865,7 @@
   },
   {
     "id": "39-history-98dc93671852a1",
-    "no": 1270,
+    "no": 1269,
     "prefecture_code": 39,
     "name": "八幡宮",
     "kana": "",
@@ -4007,12 +3943,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡953番地"
     },
     "directory": {
       "number": "H-21005",
-      "display_number": "39-01270",
+      "display_number": "39-01269",
       "index_name": "八幡宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡953番地",
@@ -4035,6 +3972,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡953番地"
       }
@@ -4042,7 +3980,7 @@
   },
   {
     "id": "39-history-e4b0eee7680730",
-    "no": 1271,
+    "no": 1270,
     "prefecture_code": 39,
     "name": "鎌倉若宮八幡宮",
     "kana": "",
@@ -4139,12 +4077,13 @@
       "kami_verbatim": "《主》応神天皇、《配》仲哀天皇、神功皇后",
       "historical_kami_verbatim": "《主》応神天皇、《配》仲哀天皇、神功皇后",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡1051番地"
     },
     "directory": {
       "number": "H-21006",
-      "display_number": "39-01271",
+      "display_number": "39-01270",
       "index_name": "鎌倉若宮八幡宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡1051番地",
@@ -4167,6 +4106,7 @@
         "kami_verbatim": "《主》応神天皇、《配》仲哀天皇、神功皇后",
         "historical_kami_verbatim": "《主》応神天皇、《配》仲哀天皇、神功皇后",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡1051番地"
       }
@@ -4174,7 +4114,7 @@
   },
   {
     "id": "39-history-dad62505daabf5",
-    "no": 1272,
+    "no": 1271,
     "prefecture_code": 39,
     "name": "西宮八幡宮",
     "kana": "",
@@ -4273,12 +4213,13 @@
       "kami_verbatim": "《主》誉田別天皇、《配》保食神、曽我十郎祐成、小村大神、曽我五郎時致",
       "historical_kami_verbatim": "《主》誉田別天皇、《配》保食神、曽我十郎祐成、小村大神、曽我五郎時致",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡1947ﾉロ"
     },
     "directory": {
       "number": "H-21007",
-      "display_number": "39-01272",
+      "display_number": "39-01271",
       "index_name": "西宮八幡宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡1947ﾉロ",
@@ -4301,6 +4242,7 @@
         "kami_verbatim": "《主》誉田別天皇、《配》保食神、曽我十郎祐成、小村大神、曽我五郎時致",
         "historical_kami_verbatim": "《主》誉田別天皇、《配》保食神、曽我十郎祐成、小村大神、曽我五郎時致",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡1947ﾉロ"
       }
@@ -4308,7 +4250,7 @@
   },
   {
     "id": "39-history-07831739b77496",
-    "no": 1273,
+    "no": 1272,
     "prefecture_code": 39,
     "name": "吉良神社",
     "kana": "",
@@ -4395,12 +4337,13 @@
       "kami_verbatim": "《主》吉良親実",
       "historical_kami_verbatim": "《主》吉良親実",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡924番地ﾉロ"
     },
     "directory": {
       "number": "H-21008",
-      "display_number": "39-01273",
+      "display_number": "39-01272",
       "index_name": "吉良神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡924番地ﾉロ",
@@ -4423,6 +4366,7 @@
         "kami_verbatim": "《主》吉良親実",
         "historical_kami_verbatim": "《主》吉良親実",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡924番地ﾉロ"
       }
@@ -4430,7 +4374,7 @@
   },
   {
     "id": "39-history-341a0e88245f8c",
-    "no": 1274,
+    "no": 1273,
     "prefecture_code": 39,
     "name": "若一王子宮",
     "kana": "",
@@ -4508,12 +4452,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡891番地ﾉロ"
     },
     "directory": {
       "number": "H-21009",
-      "display_number": "39-01274",
+      "display_number": "39-01273",
       "index_name": "若一王子宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡891番地ﾉロ",
@@ -4536,6 +4481,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡891番地ﾉロ"
       }
@@ -4543,7 +4489,7 @@
   },
   {
     "id": "39-history-44375b188b1556",
-    "no": 1275,
+    "no": 1274,
     "prefecture_code": 39,
     "name": "十二所神社",
     "kana": "",
@@ -4630,12 +4576,13 @@
       "kami_verbatim": "《主》伊弉冊尊",
       "historical_kami_verbatim": "《主》伊弉冊尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡町4116番地"
     },
     "directory": {
       "number": "H-21010",
-      "display_number": "39-01275",
+      "display_number": "39-01274",
       "index_name": "十二所神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡町4116番地",
@@ -4658,6 +4605,7 @@
         "kami_verbatim": "《主》伊弉冊尊",
         "historical_kami_verbatim": "《主》伊弉冊尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡町4116番地"
       }
@@ -4665,7 +4613,7 @@
   },
   {
     "id": "39-history-ca31857632f634",
-    "no": 1276,
+    "no": 1275,
     "prefecture_code": 39,
     "name": "琴平神社",
     "kana": "",
@@ -4753,12 +4701,13 @@
       "kami_verbatim": "《主》大己貴命、崇徳天皇",
       "historical_kami_verbatim": "《主》大己貴命、崇徳天皇",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市甲原1605番地ﾉ1"
     },
     "directory": {
       "number": "H-21011",
-      "display_number": "39-01276",
+      "display_number": "39-01275",
       "index_name": "琴平神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市甲原1605番地ﾉ1",
@@ -4781,6 +4730,7 @@
         "kami_verbatim": "《主》大己貴命、崇徳天皇",
         "historical_kami_verbatim": "《主》大己貴命、崇徳天皇",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市甲原1605番地ﾉ1"
       }
@@ -4788,7 +4738,7 @@
   },
   {
     "id": "39-history-5bcf375fb5daa6",
-    "no": 1277,
+    "no": 1276,
     "prefecture_code": 39,
     "name": "白河天神社",
     "kana": "",
@@ -4887,12 +4837,13 @@
       "kami_verbatim": "《主》菅原道真、《配》海神、天抑穂耳神、大山祇神、青木神",
       "historical_kami_verbatim": "《主》菅原道真、《配》海神、天抑穂耳神、大山祇神、青木神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市甲原1476番地"
     },
     "directory": {
       "number": "H-21012",
-      "display_number": "39-01277",
+      "display_number": "39-01276",
       "index_name": "白河天神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市甲原1476番地",
@@ -4915,6 +4866,7 @@
         "kami_verbatim": "《主》菅原道真、《配》海神、天抑穂耳神、大山祇神、青木神",
         "historical_kami_verbatim": "《主》菅原道真、《配》海神、天抑穂耳神、大山祇神、青木神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市甲原1476番地"
       }
@@ -4922,7 +4874,7 @@
   },
   {
     "id": "39-history-e69796e5db16fd",
-    "no": 1278,
+    "no": 1277,
     "prefecture_code": 39,
     "name": "松尾八幡宮",
     "kana": "",
@@ -5019,12 +4971,13 @@
       "kami_verbatim": "《主》誉田別天皇、《配》帯仲津彦天皇、息長足媛尊",
       "historical_kami_verbatim": "《主》誉田別天皇、《配》帯仲津彦天皇、息長足媛尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市甲原238番地"
     },
     "directory": {
       "number": "H-21013",
-      "display_number": "39-01278",
+      "display_number": "39-01277",
       "index_name": "松尾八幡宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市甲原238番地",
@@ -5047,6 +5000,7 @@
         "kami_verbatim": "《主》誉田別天皇、《配》帯仲津彦天皇、息長足媛尊",
         "historical_kami_verbatim": "《主》誉田別天皇、《配》帯仲津彦天皇、息長足媛尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市甲原238番地"
       }
@@ -5054,7 +5008,7 @@
   },
   {
     "id": "39-history-4593a94807b6c7",
-    "no": 1279,
+    "no": 1278,
     "prefecture_code": 39,
     "name": "闇?神社",
     "kana": "",
@@ -5141,12 +5095,13 @@
       "kami_verbatim": "《主》闇?神",
       "historical_kami_verbatim": "《主》闇?神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡谷地79番地"
     },
     "directory": {
       "number": "H-21014",
-      "display_number": "39-01279",
+      "display_number": "39-01278",
       "index_name": "闇?神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡谷地79番地",
@@ -5169,6 +5124,7 @@
         "kami_verbatim": "《主》闇?神",
         "historical_kami_verbatim": "《主》闇?神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡谷地79番地"
       }
@@ -5176,7 +5132,7 @@
   },
   {
     "id": "39-history-0387448e9e0596",
-    "no": 1280,
+    "no": 1279,
     "prefecture_code": 39,
     "name": "天満宮",
     "kana": "",
@@ -5263,12 +5219,13 @@
       "kami_verbatim": "《主》菅原道真",
       "historical_kami_verbatim": "《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡谷地164番地ﾉロ"
     },
     "directory": {
       "number": "H-21015",
-      "display_number": "39-01280",
+      "display_number": "39-01279",
       "index_name": "天満宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡谷地164番地ﾉロ",
@@ -5291,6 +5248,7 @@
         "kami_verbatim": "《主》菅原道真",
         "historical_kami_verbatim": "《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡谷地164番地ﾉロ"
       }
@@ -5298,7 +5256,7 @@
   },
   {
     "id": "39-history-53150b4e138d60",
-    "no": 1281,
+    "no": 1280,
     "prefecture_code": 39,
     "name": "神明宮",
     "kana": "",
@@ -5394,12 +5352,13 @@
       "kami_verbatim": "《主》天照大神、《配》豊受大神",
       "historical_kami_verbatim": "《主》天照大神、《配》豊受大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡甲原2440番地"
     },
     "directory": {
       "number": "H-21016",
-      "display_number": "39-01281",
+      "display_number": "39-01280",
       "index_name": "神明宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡甲原2440番地",
@@ -5422,6 +5381,7 @@
         "kami_verbatim": "《主》天照大神、《配》豊受大神",
         "historical_kami_verbatim": "《主》天照大神、《配》豊受大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡甲原2440番地"
       }
@@ -5429,7 +5389,7 @@
   },
   {
     "id": "39-history-db4c58df75e550",
-    "no": 1282,
+    "no": 1281,
     "prefecture_code": 39,
     "name": "琴弾八幡宮",
     "kana": "",
@@ -5516,12 +5476,13 @@
       "kami_verbatim": "《主》応神天皇",
       "historical_kami_verbatim": "《主》応神天皇",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市太郎丸91番地ロ"
     },
     "directory": {
       "number": "H-21017",
-      "display_number": "39-01282",
+      "display_number": "39-01281",
       "index_name": "琴弾八幡宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市太郎丸91番地ロ",
@@ -5544,6 +5505,7 @@
         "kami_verbatim": "《主》応神天皇",
         "historical_kami_verbatim": "《主》応神天皇",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市太郎丸91番地ロ"
       }
@@ -5551,7 +5513,7 @@
   },
   {
     "id": "39-history-4ad4c793cc9413",
-    "no": 1283,
+    "no": 1282,
     "prefecture_code": 39,
     "name": "大元神社",
     "kana": "",
@@ -5629,12 +5591,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市浅井1176番地ロ"
     },
     "directory": {
       "number": "H-21018",
-      "display_number": "39-01283",
+      "display_number": "39-01282",
       "index_name": "大元神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市浅井1176番地ロ",
@@ -5657,6 +5620,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市浅井1176番地ロ"
       }
@@ -5664,7 +5628,7 @@
   },
   {
     "id": "39-history-76ce61ea00e78e",
-    "no": 1284,
+    "no": 1283,
     "prefecture_code": 39,
     "name": "天満宮",
     "kana": "",
@@ -5742,12 +5706,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市戸波1627番地"
     },
     "directory": {
       "number": "H-21019",
-      "display_number": "39-01284",
+      "display_number": "39-01283",
       "index_name": "天満宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市戸波1627番地",
@@ -5770,6 +5735,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市戸波1627番地"
       }
@@ -5777,7 +5743,7 @@
   },
   {
     "id": "39-history-e1ecef913b6e65",
-    "no": 1285,
+    "no": 1284,
     "prefecture_code": 39,
     "name": "天満宮",
     "kana": "",
@@ -5855,12 +5821,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市宮ﾉ内400番地"
     },
     "directory": {
       "number": "H-21020",
-      "display_number": "39-01285",
+      "display_number": "39-01284",
       "index_name": "天満宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市宮ﾉ内400番地",
@@ -5883,6 +5850,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市宮ﾉ内400番地"
       }
@@ -5890,7 +5858,7 @@
   },
   {
     "id": "39-history-6944ed0f40e2a3",
-    "no": 1286,
+    "no": 1285,
     "prefecture_code": 39,
     "name": "天満天神宮",
     "kana": "",
@@ -5977,12 +5945,13 @@
       "kami_verbatim": "《主》菅原道真",
       "historical_kami_verbatim": "《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡浅井2166番地"
     },
     "directory": {
       "number": "H-21021",
-      "display_number": "39-01286",
+      "display_number": "39-01285",
       "index_name": "天満天神宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡浅井2166番地",
@@ -6005,6 +5974,7 @@
         "kami_verbatim": "《主》菅原道真",
         "historical_kami_verbatim": "《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡浅井2166番地"
       }
@@ -6012,7 +5982,7 @@
   },
   {
     "id": "39-history-e655326e36626e",
-    "no": 1287,
+    "no": 1286,
     "prefecture_code": 39,
     "name": "池田神社",
     "kana": "",
@@ -6090,12 +6060,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市太郎丸434番地"
     },
     "directory": {
       "number": "H-21022",
-      "display_number": "39-01287",
+      "display_number": "39-01286",
       "index_name": "池田神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市太郎丸434番地",
@@ -6118,6 +6089,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市太郎丸434番地"
       }
@@ -6125,7 +6097,7 @@
   },
   {
     "id": "39-history-5b56270f53f951",
-    "no": 1288,
+    "no": 1287,
     "prefecture_code": 39,
     "name": "一宮神社",
     "kana": "",
@@ -6203,12 +6175,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市永野128番地ﾉ2"
     },
     "directory": {
       "number": "H-21023",
-      "display_number": "39-01288",
+      "display_number": "39-01287",
       "index_name": "一宮神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市永野128番地ﾉ2",
@@ -6231,6 +6204,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市永野128番地ﾉ2"
       }
@@ -6238,7 +6212,7 @@
   },
   {
     "id": "39-history-222c914396a583",
-    "no": 1289,
+    "no": 1288,
     "prefecture_code": 39,
     "name": "天神宮",
     "kana": "",
@@ -6316,12 +6290,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市永野940番地ﾉ2"
     },
     "directory": {
       "number": "H-21024",
-      "display_number": "39-01289",
+      "display_number": "39-01288",
       "index_name": "天神宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市永野940番地ﾉ2",
@@ -6344,6 +6319,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市永野940番地ﾉ2"
       }
@@ -6351,7 +6327,7 @@
   },
   {
     "id": "39-history-03f7fed6bf2772",
-    "no": 1290,
+    "no": 1289,
     "prefecture_code": 39,
     "name": "白皇神社",
     "kana": "",
@@ -6429,12 +6405,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市永野2229番地ﾉ2"
     },
     "directory": {
       "number": "H-21025",
-      "display_number": "39-01290",
+      "display_number": "39-01289",
       "index_name": "白皇神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市永野2229番地ﾉ2",
@@ -6457,6 +6434,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市永野2229番地ﾉ2"
       }
@@ -6464,7 +6442,7 @@
   },
   {
     "id": "39-history-69cabe273fc589",
-    "no": 1291,
+    "no": 1290,
     "prefecture_code": 39,
     "name": "二宮神社",
     "kana": "",
@@ -6542,12 +6520,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市西鴨地770番地"
     },
     "directory": {
       "number": "H-21026",
-      "display_number": "39-01291",
+      "display_number": "39-01290",
       "index_name": "二宮神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市西鴨地770番地",
@@ -6570,6 +6549,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市西鴨地770番地"
       }
@@ -6577,7 +6557,7 @@
   },
   {
     "id": "39-history-9564436e2ab12c",
-    "no": 1292,
+    "no": 1291,
     "prefecture_code": 39,
     "name": "琴平神社",
     "kana": "",
@@ -6655,12 +6635,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市戸波家俊1067番地"
     },
     "directory": {
       "number": "H-21027",
-      "display_number": "39-01292",
+      "display_number": "39-01291",
       "index_name": "琴平神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市戸波家俊1067番地",
@@ -6683,6 +6664,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市戸波家俊1067番地"
       }
@@ -6690,7 +6672,7 @@
   },
   {
     "id": "39-history-e7fff33bf76183",
-    "no": 1293,
+    "no": 1292,
     "prefecture_code": 39,
     "name": "氷室天神社",
     "kana": "",
@@ -6768,12 +6750,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市戸波家俊2508ﾉロ"
     },
     "directory": {
       "number": "H-21028",
-      "display_number": "39-01293",
+      "display_number": "39-01292",
       "index_name": "氷室天神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市戸波家俊2508ﾉロ",
@@ -6796,6 +6779,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市戸波家俊2508ﾉロ"
       }
@@ -6803,7 +6787,7 @@
   },
   {
     "id": "39-history-944288257d2233",
-    "no": 1294,
+    "no": 1293,
     "prefecture_code": 39,
     "name": "厳島神社",
     "kana": "",
@@ -6881,12 +6865,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市戸波積善寺775番地"
     },
     "directory": {
       "number": "H-21029",
-      "display_number": "39-01294",
+      "display_number": "39-01293",
       "index_name": "厳島神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市戸波積善寺775番地",
@@ -6909,6 +6894,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市戸波積善寺775番地"
       }
@@ -6916,7 +6902,7 @@
   },
   {
     "id": "39-history-2ed2c503118703",
-    "no": 1295,
+    "no": 1294,
     "prefecture_code": 39,
     "name": "西平神社",
     "kana": "",
@@ -7003,12 +6989,13 @@
       "kami_verbatim": "《主》祭神不詳",
       "historical_kami_verbatim": "《主》祭神不詳",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市太郎丸941番地"
     },
     "directory": {
       "number": "H-21030",
-      "display_number": "39-01295",
+      "display_number": "39-01294",
       "index_name": "西平神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市太郎丸941番地",
@@ -7031,6 +7018,7 @@
         "kami_verbatim": "《主》祭神不詳",
         "historical_kami_verbatim": "《主》祭神不詳",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市太郎丸941番地"
       }
@@ -7038,7 +7026,7 @@
   },
   {
     "id": "39-history-08903f177c9bc6",
-    "no": 1296,
+    "no": 1295,
     "prefecture_code": 39,
     "name": "海津見神社",
     "kana": "",
@@ -7116,12 +7104,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市戸波積善寺20番地"
     },
     "directory": {
       "number": "H-21031",
-      "display_number": "39-01296",
+      "display_number": "39-01295",
       "index_name": "海津見神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市戸波積善寺20番地",
@@ -7144,6 +7133,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市戸波積善寺20番地"
       }
@@ -7151,7 +7141,7 @@
   },
   {
     "id": "39-history-3cfc3b943e86ee",
-    "no": 1297,
+    "no": 1296,
     "prefecture_code": 39,
     "name": "宗像神社",
     "kana": "",
@@ -7229,12 +7219,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市本村940番地ﾉ2"
     },
     "directory": {
       "number": "H-21032",
-      "display_number": "39-01297",
+      "display_number": "39-01296",
       "index_name": "宗像神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市本村940番地ﾉ2",
@@ -7257,6 +7248,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市本村940番地ﾉ2"
       }
@@ -7264,7 +7256,7 @@
   },
   {
     "id": "39-history-1471ec83b6e2ef",
-    "no": 1298,
+    "no": 1297,
     "prefecture_code": 39,
     "name": "八坂神社",
     "kana": "",
@@ -7342,12 +7334,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市戸波家俊1187番地"
     },
     "directory": {
       "number": "H-21033",
-      "display_number": "39-01298",
+      "display_number": "39-01297",
       "index_name": "八坂神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市戸波家俊1187番地",
@@ -7370,6 +7363,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市戸波家俊1187番地"
       }
@@ -7377,7 +7371,7 @@
   },
   {
     "id": "39-history-49fbe25b60ca6a",
-    "no": 1299,
+    "no": 1298,
     "prefecture_code": 39,
     "name": "日吉神社",
     "kana": "",
@@ -7455,12 +7449,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市本村632番地ﾉロ"
     },
     "directory": {
       "number": "H-21034",
-      "display_number": "39-01299",
+      "display_number": "39-01298",
       "index_name": "日吉神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市本村632番地ﾉロ",
@@ -7483,6 +7478,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市本村632番地ﾉロ"
       }
@@ -7490,7 +7486,7 @@
   },
   {
     "id": "39-history-155239b560a52f",
-    "no": 1300,
+    "no": 1299,
     "prefecture_code": 39,
     "name": "竈戸神社",
     "kana": "",
@@ -7568,12 +7564,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市本村542番地"
     },
     "directory": {
       "number": "H-21035",
-      "display_number": "39-01300",
+      "display_number": "39-01299",
       "index_name": "竈戸神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市本村542番地",
@@ -7596,6 +7593,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市本村542番地"
       }
@@ -7603,7 +7601,7 @@
   },
   {
     "id": "39-history-10d468b726b4a1",
-    "no": 1301,
+    "no": 1300,
     "prefecture_code": 39,
     "name": "神明宮",
     "kana": "",
@@ -7681,12 +7679,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市鷹巣285番地ﾉロ"
     },
     "directory": {
       "number": "H-21036",
-      "display_number": "39-01301",
+      "display_number": "39-01300",
       "index_name": "神明宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市鷹巣285番地ﾉロ",
@@ -7709,6 +7708,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市鷹巣285番地ﾉロ"
       }
@@ -7716,7 +7716,7 @@
   },
   {
     "id": "39-history-4fd49d8a702621",
-    "no": 1302,
+    "no": 1301,
     "prefecture_code": 39,
     "name": "天満宮",
     "kana": "",
@@ -7794,12 +7794,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡出間1416番地"
     },
     "directory": {
       "number": "H-21037",
-      "display_number": "39-01302",
+      "display_number": "39-01301",
       "index_name": "天満宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡出間1416番地",
@@ -7822,6 +7823,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡出間1416番地"
       }
@@ -7829,7 +7831,7 @@
   },
   {
     "id": "39-history-64d7d330e02c74",
-    "no": 1303,
+    "no": 1302,
     "prefecture_code": 39,
     "name": "若一王子宮",
     "kana": "",
@@ -7916,12 +7918,13 @@
       "kami_verbatim": "《主》天忍穂耳命",
       "historical_kami_verbatim": "《主》天忍穂耳命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡出間1878番地"
     },
     "directory": {
       "number": "H-21038",
-      "display_number": "39-01303",
+      "display_number": "39-01302",
       "index_name": "若一王子宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡出間1878番地",
@@ -7944,6 +7947,7 @@
         "kami_verbatim": "《主》天忍穂耳命",
         "historical_kami_verbatim": "《主》天忍穂耳命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡出間1878番地"
       }
@@ -7951,7 +7955,7 @@
   },
   {
     "id": "39-history-8a14367c28445a",
-    "no": 1304,
+    "no": 1303,
     "prefecture_code": 39,
     "name": "六十余社",
     "kana": "",
@@ -8029,12 +8033,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市波介5358番地"
     },
     "directory": {
       "number": "H-21039",
-      "display_number": "39-01304",
+      "display_number": "39-01303",
       "index_name": "六十余社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市波介5358番地",
@@ -8057,6 +8062,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市波介5358番地"
       }
@@ -8064,7 +8070,7 @@
   },
   {
     "id": "39-history-8d0e22306b216a",
-    "no": 1305,
+    "no": 1304,
     "prefecture_code": 39,
     "name": "天神宮",
     "kana": "",
@@ -8151,12 +8157,13 @@
       "kami_verbatim": "《主》菅原道真",
       "historical_kami_verbatim": "《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡岩戸899番地"
     },
     "directory": {
       "number": "H-21040",
-      "display_number": "39-01305",
+      "display_number": "39-01304",
       "index_name": "天神宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡岩戸899番地",
@@ -8179,6 +8186,7 @@
         "kami_verbatim": "《主》菅原道真",
         "historical_kami_verbatim": "《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡岩戸899番地"
       }
@@ -8186,7 +8194,7 @@
   },
   {
     "id": "39-history-917333c47cd539",
-    "no": 1306,
+    "no": 1305,
     "prefecture_code": 39,
     "name": "宇佐八幡宮",
     "kana": "",
@@ -8273,12 +8281,13 @@
       "kami_verbatim": "《主》応神天皇",
       "historical_kami_verbatim": "《主》応神天皇",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡波介5092番地"
     },
     "directory": {
       "number": "H-21041",
-      "display_number": "39-01306",
+      "display_number": "39-01305",
       "index_name": "宇佐八幡宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡波介5092番地",
@@ -8301,6 +8310,7 @@
         "kami_verbatim": "《主》応神天皇",
         "historical_kami_verbatim": "《主》応神天皇",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡波介5092番地"
       }
@@ -8308,7 +8318,7 @@
   },
   {
     "id": "39-history-faa6df99e6fb44",
-    "no": 1307,
+    "no": 1306,
     "prefecture_code": 39,
     "name": "竈戸神社",
     "kana": "",
@@ -8395,12 +8405,13 @@
       "kami_verbatim": "《主》竃戸大神",
       "historical_kami_verbatim": "《主》竃戸大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市高岡中島104番地"
     },
     "directory": {
       "number": "H-21042",
-      "display_number": "39-01307",
+      "display_number": "39-01306",
       "index_name": "竈戸神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市高岡中島104番地",
@@ -8423,6 +8434,7 @@
         "kami_verbatim": "《主》竃戸大神",
         "historical_kami_verbatim": "《主》竃戸大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市高岡中島104番地"
       }
@@ -8430,7 +8442,7 @@
   },
   {
     "id": "39-history-58bd6f9e645bca",
-    "no": 1308,
+    "no": 1307,
     "prefecture_code": 39,
     "name": "高石神社",
     "kana": "",
@@ -8517,12 +8529,13 @@
       "kami_verbatim": "《主》高石大神",
       "historical_kami_verbatim": "《主》高石大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市用石446番地"
     },
     "directory": {
       "number": "H-21043",
-      "display_number": "39-01308",
+      "display_number": "39-01307",
       "index_name": "高石神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市用石446番地",
@@ -8545,6 +8558,7 @@
         "kami_verbatim": "《主》高石大神",
         "historical_kami_verbatim": "《主》高石大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市用石446番地"
       }
@@ -8552,7 +8566,7 @@
   },
   {
     "id": "39-history-5b8179fac7aa1f",
-    "no": 1309,
+    "no": 1308,
     "prefecture_code": 39,
     "name": "熊野神社",
     "kana": "",
@@ -8641,12 +8655,13 @@
       "kami_verbatim": "《主》予母都事解之男命、伊佐奈美命、速玉之男命",
       "historical_kami_verbatim": "《主》予母都事解之男命、伊佐奈美命、速玉之男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市用石字別当寺中50番地"
     },
     "directory": {
       "number": "H-21044",
-      "display_number": "39-01309",
+      "display_number": "39-01308",
       "index_name": "熊野神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市用石字別当寺中50番地",
@@ -8669,6 +8684,7 @@
         "kami_verbatim": "《主》予母都事解之男命、伊佐奈美命、速玉之男命",
         "historical_kami_verbatim": "《主》予母都事解之男命、伊佐奈美命、速玉之男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市用石字別当寺中50番地"
       }
@@ -8676,7 +8692,7 @@
   },
   {
     "id": "39-history-f0281f1b61f027",
-    "no": 1310,
+    "no": 1309,
     "prefecture_code": 39,
     "name": "神明宮",
     "kana": "",
@@ -8754,12 +8770,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市西鴨地490番地"
     },
     "directory": {
       "number": "H-21045",
-      "display_number": "39-01310",
+      "display_number": "39-01309",
       "index_name": "神明宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市西鴨地490番地",
@@ -8782,6 +8799,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市西鴨地490番地"
       }
@@ -8789,7 +8807,7 @@
   },
   {
     "id": "39-history-a6d980a44ff9b3",
-    "no": 1311,
+    "no": 1310,
     "prefecture_code": 39,
     "name": "天満天神宮",
     "kana": "",
@@ -8876,12 +8894,13 @@
       "kami_verbatim": "《主》菅原道真",
       "historical_kami_verbatim": "《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市用石2302番地"
     },
     "directory": {
       "number": "H-21046",
-      "display_number": "39-01311",
+      "display_number": "39-01310",
       "index_name": "天満天神宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市用石2302番地",
@@ -8904,6 +8923,7 @@
         "kami_verbatim": "《主》菅原道真",
         "historical_kami_verbatim": "《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市用石2302番地"
       }
@@ -8911,7 +8931,7 @@
   },
   {
     "id": "39-history-9e62777f3b0454",
-    "no": 1312,
+    "no": 1311,
     "prefecture_code": 39,
     "name": "伊気神社",
     "kana": "",
@@ -8998,12 +9018,13 @@
       "kami_verbatim": "《主》宇迦之御魂命",
       "historical_kami_verbatim": "《主》宇迦之御魂命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市塚地558番地"
     },
     "directory": {
       "number": "H-21047",
-      "display_number": "39-01312",
+      "display_number": "39-01311",
       "index_name": "伊気神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市塚地558番地",
@@ -9026,6 +9047,7 @@
         "kami_verbatim": "《主》宇迦之御魂命",
         "historical_kami_verbatim": "《主》宇迦之御魂命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市塚地558番地"
       }
@@ -9033,7 +9055,7 @@
   },
   {
     "id": "39-history-bc95ebc6844a43",
-    "no": 1313,
+    "no": 1312,
     "prefecture_code": 39,
     "name": "琴平神社",
     "kana": "",
@@ -9120,12 +9142,13 @@
       "kami_verbatim": "《主》大物主神",
       "historical_kami_verbatim": "《主》大物主神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市宇佐町宇佐2965番地"
     },
     "directory": {
       "number": "H-21048",
-      "display_number": "39-01313",
+      "display_number": "39-01312",
       "index_name": "琴平神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市宇佐町宇佐2965番地",
@@ -9148,6 +9171,7 @@
         "kami_verbatim": "《主》大物主神",
         "historical_kami_verbatim": "《主》大物主神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市宇佐町宇佐2965番地"
       }
@@ -9155,7 +9179,7 @@
   },
   {
     "id": "39-history-cbea4b91db49df",
-    "no": 1314,
+    "no": 1313,
     "prefecture_code": 39,
     "name": "若一王子宮",
     "kana": "",
@@ -9242,12 +9266,13 @@
       "kami_verbatim": "《主》天照大神",
       "historical_kami_verbatim": "《主》天照大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市宇佐町宇佐1416番地"
     },
     "directory": {
       "number": "H-21050",
-      "display_number": "39-01314",
+      "display_number": "39-01313",
       "index_name": "若一王子宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市宇佐町宇佐1416番地",
@@ -9270,6 +9295,7 @@
         "kami_verbatim": "《主》天照大神",
         "historical_kami_verbatim": "《主》天照大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市宇佐町宇佐1416番地"
       }
@@ -9277,7 +9303,7 @@
   },
   {
     "id": "39-history-dc1eae314082dc",
-    "no": 1315,
+    "no": 1314,
     "prefecture_code": 39,
     "name": "神明宮",
     "kana": "",
@@ -9364,12 +9390,13 @@
       "kami_verbatim": "《主》神明宮",
       "historical_kami_verbatim": "《主》神明宮",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市宇佐町宇佐3058番地"
     },
     "directory": {
       "number": "H-21051",
-      "display_number": "39-01315",
+      "display_number": "39-01314",
       "index_name": "神明宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市宇佐町宇佐3058番地",
@@ -9392,6 +9419,7 @@
         "kami_verbatim": "《主》神明宮",
         "historical_kami_verbatim": "《主》神明宮",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市宇佐町宇佐3058番地"
       }
@@ -9399,7 +9427,7 @@
   },
   {
     "id": "39-history-742261e797212d",
-    "no": 1316,
+    "no": 1315,
     "prefecture_code": 39,
     "name": "白山神社",
     "kana": "",
@@ -9488,12 +9516,13 @@
       "kami_verbatim": "《主》伊弉奈伎命、伊弉奈美命、菊理姫命",
       "historical_kami_verbatim": "《主》伊弉奈伎命、伊弉奈美命、菊理姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市宇佐町竜600番地"
     },
     "directory": {
       "number": "H-21052",
-      "display_number": "39-01316",
+      "display_number": "39-01315",
       "index_name": "白山神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市宇佐町竜600番地",
@@ -9516,6 +9545,7 @@
         "kami_verbatim": "《主》伊弉奈伎命、伊弉奈美命、菊理姫命",
         "historical_kami_verbatim": "《主》伊弉奈伎命、伊弉奈美命、菊理姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市宇佐町竜600番地"
       }
@@ -9523,7 +9553,7 @@
   },
   {
     "id": "39-history-93c621dcd4d040",
-    "no": 1317,
+    "no": 1316,
     "prefecture_code": 39,
     "name": "丹生神社",
     "kana": "",
@@ -9610,12 +9640,13 @@
       "kami_verbatim": "《主》罔象女命",
       "historical_kami_verbatim": "《主》罔象女命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市宇佐町井尻327番地"
     },
     "directory": {
       "number": "H-21053",
-      "display_number": "39-01317",
+      "display_number": "39-01316",
       "index_name": "丹生神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市宇佐町井尻327番地",
@@ -9638,6 +9669,7 @@
         "kami_verbatim": "《主》罔象女命",
         "historical_kami_verbatim": "《主》罔象女命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市宇佐町井尻327番地"
       }
@@ -9645,7 +9677,7 @@
   },
   {
     "id": "39-history-615d8a7aa98892",
-    "no": 1318,
+    "no": 1317,
     "prefecture_code": 39,
     "name": "厳島神社",
     "kana": "",
@@ -9732,12 +9764,13 @@
       "kami_verbatim": "《主》市杵島姫命",
       "historical_kami_verbatim": "《主》市杵島姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市宇佐渭浜264番地"
     },
     "directory": {
       "number": "H-21054",
-      "display_number": "39-01318",
+      "display_number": "39-01317",
       "index_name": "厳島神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市宇佐渭浜264番地",
@@ -9760,6 +9793,7 @@
         "kami_verbatim": "《主》市杵島姫命",
         "historical_kami_verbatim": "《主》市杵島姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市宇佐渭浜264番地"
       }
@@ -9767,7 +9801,7 @@
   },
   {
     "id": "39-history-ce90ddc86fdff0",
-    "no": 1319,
+    "no": 1318,
     "prefecture_code": 39,
     "name": "新居神社",
     "kana": "",
@@ -9863,12 +9897,13 @@
       "kami_verbatim": "《主》品陀和気尊、《配》菅原道真",
       "historical_kami_verbatim": "《主》品陀和気尊、《配》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市新居968番地ﾉイ"
     },
     "directory": {
       "number": "H-21055",
-      "display_number": "39-01319",
+      "display_number": "39-01318",
       "index_name": "新居神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市新居968番地ﾉイ",
@@ -9891,6 +9926,7 @@
         "kami_verbatim": "《主》品陀和気尊、《配》菅原道真",
         "historical_kami_verbatim": "《主》品陀和気尊、《配》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市新居968番地ﾉイ"
       }
@@ -9898,7 +9934,7 @@
   },
   {
     "id": "39-history-c77ae95e407d07",
-    "no": 1320,
+    "no": 1319,
     "prefecture_code": 39,
     "name": "若宮神社",
     "kana": "",
@@ -9985,12 +10021,13 @@
       "kami_verbatim": "《主》若宮大神",
       "historical_kami_verbatim": "《主》若宮大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市新居671番地"
     },
     "directory": {
       "number": "H-21056",
-      "display_number": "39-01320",
+      "display_number": "39-01319",
       "index_name": "若宮神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市新居671番地",
@@ -10013,6 +10050,7 @@
         "kami_verbatim": "《主》若宮大神",
         "historical_kami_verbatim": "《主》若宮大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市新居671番地"
       }
@@ -10020,7 +10058,7 @@
   },
   {
     "id": "39-history-7a8ed39a6a7916",
-    "no": 1321,
+    "no": 1320,
     "prefecture_code": 39,
     "name": "杉王神社",
     "kana": "",
@@ -10107,12 +10145,13 @@
       "kami_verbatim": "《主》三輪大物主神",
       "historical_kami_verbatim": "《主》三輪大物主神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市新居4801番地"
     },
     "directory": {
       "number": "H-21057",
-      "display_number": "39-01321",
+      "display_number": "39-01320",
       "index_name": "杉王神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市新居4801番地",
@@ -10135,6 +10174,7 @@
         "kami_verbatim": "《主》三輪大物主神",
         "historical_kami_verbatim": "《主》三輪大物主神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市新居4801番地"
       }
@@ -10142,7 +10182,7 @@
   },
   {
     "id": "39-history-cfa3cce839bc11",
-    "no": 1322,
+    "no": 1321,
     "prefecture_code": 39,
     "name": "神明宮",
     "kana": "",
@@ -10230,12 +10270,13 @@
       "kami_verbatim": "《主》天照皇大神、豊受大神",
       "historical_kami_verbatim": "《主》天照皇大神、豊受大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市新居1753番地"
     },
     "directory": {
       "number": "H-21058",
-      "display_number": "39-01322",
+      "display_number": "39-01321",
       "index_name": "神明宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市新居1753番地",
@@ -10258,6 +10299,7 @@
         "kami_verbatim": "《主》天照皇大神、豊受大神",
         "historical_kami_verbatim": "《主》天照皇大神、豊受大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市新居1753番地"
       }
@@ -10265,7 +10307,7 @@
   },
   {
     "id": "39-history-aa72f7dada395a",
-    "no": 1323,
+    "no": 1322,
     "prefecture_code": 39,
     "name": "越坂七所神社",
     "kana": "",
@@ -10352,12 +10394,13 @@
       "kami_verbatim": "《主》倉稲魂神",
       "historical_kami_verbatim": "《主》倉稲魂神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市新居越坂4913番地"
     },
     "directory": {
       "number": "H-21059",
-      "display_number": "39-01323",
+      "display_number": "39-01322",
       "index_name": "越坂七所神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市新居越坂4913番地",
@@ -10380,6 +10423,7 @@
         "kami_verbatim": "《主》倉稲魂神",
         "historical_kami_verbatim": "《主》倉稲魂神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市新居越坂4913番地"
       }
@@ -10387,7 +10431,7 @@
   },
   {
     "id": "39-history-cad9613bfd0a41",
-    "no": 1324,
+    "no": 1323,
     "prefecture_code": 39,
     "name": "五社神社",
     "kana": "",
@@ -10486,12 +10530,13 @@
       "kami_verbatim": "《主》大日本根子彦太瓊尊、《配》磯城細姫尊、大山積吉備彦狭男尊、伊予二名島小千尊、伊予島天狭貫尊",
       "historical_kami_verbatim": "《主》大日本根子彦太瓊尊、《配》磯城細姫尊、大山積吉備彦狭男尊、伊予二名島小千尊、伊予島天狭貫尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市新居2034番地"
     },
     "directory": {
       "number": "H-21060",
-      "display_number": "39-01324",
+      "display_number": "39-01323",
       "index_name": "五社神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市新居2034番地",
@@ -10514,6 +10559,7 @@
         "kami_verbatim": "《主》大日本根子彦太瓊尊、《配》磯城細姫尊、大山積吉備彦狭男尊、伊予二名島小千尊、伊予島天狭貫尊",
         "historical_kami_verbatim": "《主》大日本根子彦太瓊尊、《配》磯城細姫尊、大山積吉備彦狭男尊、伊予二名島小千尊、伊予島天狭貫尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市新居2034番地"
       }
@@ -10521,7 +10567,7 @@
   },
   {
     "id": "39-history-24b9340dd13918",
-    "no": 1325,
+    "no": 1324,
     "prefecture_code": 39,
     "name": "若一王子宮",
     "kana": "",
@@ -10608,12 +10654,13 @@
       "kami_verbatim": "《主》正哉吾勝勝速日天之忍穂耳命",
       "historical_kami_verbatim": "《主》正哉吾勝勝速日天之忍穂耳命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県土佐市新居5057番地"
     },
     "directory": {
       "number": "H-21061",
-      "display_number": "39-01325",
+      "display_number": "39-01324",
       "index_name": "若一王子宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県土佐市新居5057番地",
@@ -10636,6 +10683,7 @@
         "kami_verbatim": "《主》正哉吾勝勝速日天之忍穂耳命",
         "historical_kami_verbatim": "《主》正哉吾勝勝速日天之忍穂耳命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県土佐市新居5057番地"
       }
@@ -10643,7 +10691,7 @@
   },
   {
     "id": "39-history-c14b21a80eed8b",
-    "no": 1326,
+    "no": 1325,
     "prefecture_code": 39,
     "name": "天満宮",
     "kana": "",
@@ -10742,12 +10790,13 @@
       "kami_verbatim": "《合》興津彦神、奥津姫神、須佐之男神、水波乃女神、《主》菅原道真",
       "historical_kami_verbatim": "《合》興津彦神、奥津姫神、須佐之男神、水波乃女神、《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町東大奈路515番地"
     },
     "directory": {
       "number": "H-21062",
-      "display_number": "39-01326",
+      "display_number": "39-01325",
       "index_name": "天満宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町東大奈路515番地",
@@ -10770,6 +10819,7 @@
         "kami_verbatim": "《合》興津彦神、奥津姫神、須佐之男神、水波乃女神、《主》菅原道真",
         "historical_kami_verbatim": "《合》興津彦神、奥津姫神、須佐之男神、水波乃女神、《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町東大奈路515番地"
       }
@@ -10777,7 +10827,7 @@
   },
   {
     "id": "39-history-8f5e6b3a4243f7",
-    "no": 1327,
+    "no": 1326,
     "prefecture_code": 39,
     "name": "三熊野神社",
     "kana": "",
@@ -10880,12 +10930,13 @@
       "kami_verbatim": "《合》宇賀能美魂神、猿田彦神、大田神、奥津彦神、奥津姫神、水波女神、《主》天照皇大神、伊邪那伎神、月夜見神",
       "historical_kami_verbatim": "《合》宇賀能美魂神、猿田彦神、大田神、奥津彦神、奥津姫神、水波女神、《主》天照皇大神、伊邪那伎神、月夜見神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町窪川1326番地"
     },
     "directory": {
       "number": "H-21063",
-      "display_number": "39-01327",
+      "display_number": "39-01326",
       "index_name": "三熊野神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町窪川1326番地",
@@ -10908,6 +10959,7 @@
         "kami_verbatim": "《合》宇賀能美魂神、猿田彦神、大田神、奥津彦神、奥津姫神、水波女神、《主》天照皇大神、伊邪那伎神、月夜見神",
         "historical_kami_verbatim": "《合》宇賀能美魂神、猿田彦神、大田神、奥津彦神、奥津姫神、水波女神、《主》天照皇大神、伊邪那伎神、月夜見神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町窪川1326番地"
       }
@@ -10915,7 +10967,7 @@
   },
   {
     "id": "39-history-38cd51cf2bc4d8",
-    "no": 1328,
+    "no": 1327,
     "prefecture_code": 39,
     "name": "琴平神社",
     "kana": "",
@@ -11004,12 +11056,13 @@
       "kami_verbatim": "《主》大国主大神、大海津見神、崇徳天皇",
       "historical_kami_verbatim": "《主》大国主大神、大海津見神、崇徳天皇",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町窪川519番地"
     },
     "directory": {
       "number": "H-21064",
-      "display_number": "39-01328",
+      "display_number": "39-01327",
       "index_name": "琴平神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町窪川519番地",
@@ -11032,6 +11085,7 @@
         "kami_verbatim": "《主》大国主大神、大海津見神、崇徳天皇",
         "historical_kami_verbatim": "《主》大国主大神、大海津見神、崇徳天皇",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町窪川519番地"
       }
@@ -11039,7 +11093,7 @@
   },
   {
     "id": "39-history-38c940e56bd669",
-    "no": 1329,
+    "no": 1328,
     "prefecture_code": 39,
     "name": "惣河内神社",
     "kana": "",
@@ -11137,12 +11191,13 @@
       "kami_verbatim": "《合》若宮八幡神、水波女神、《主》天津彦根神、国津彦根神",
       "historical_kami_verbatim": "《合》若宮八幡神、水波女神、《主》天津彦根神、国津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町窪川652番地"
     },
     "directory": {
       "number": "H-21065",
-      "display_number": "39-01329",
+      "display_number": "39-01328",
       "index_name": "惣河内神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町窪川652番地",
@@ -11165,6 +11220,7 @@
         "kami_verbatim": "《合》若宮八幡神、水波女神、《主》天津彦根神、国津彦根神",
         "historical_kami_verbatim": "《合》若宮八幡神、水波女神、《主》天津彦根神、国津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町窪川652番地"
       }
@@ -11172,7 +11228,7 @@
   },
   {
     "id": "39-history-b20baf97ade6d7",
-    "no": 1330,
+    "no": 1329,
     "prefecture_code": 39,
     "name": "大三嶋神社",
     "kana": "",
@@ -11259,12 +11315,13 @@
       "kami_verbatim": "《主》大山祇神",
       "historical_kami_verbatim": "《主》大山祇神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町仕出原56番地"
     },
     "directory": {
       "number": "H-21066",
-      "display_number": "39-01330",
+      "display_number": "39-01329",
       "index_name": "大三嶋神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町仕出原56番地",
@@ -11287,6 +11344,7 @@
         "kami_verbatim": "《主》大山祇神",
         "historical_kami_verbatim": "《主》大山祇神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町仕出原56番地"
       }
@@ -11294,7 +11352,7 @@
   },
   {
     "id": "39-history-b5dd2ffb34bbb5",
-    "no": 1331,
+    "no": 1330,
     "prefecture_code": 39,
     "name": "野地神社",
     "kana": "",
@@ -11397,12 +11455,13 @@
       "kami_verbatim": "《合》伊邪那美命、天照大神、月読命、大国主命、大山積命、天目一箇神、奥津彦命、奥津姫命、《主》天津彦根神",
       "historical_kami_verbatim": "《合》伊邪那美命、天照大神、月読命、大国主命、大山積命、天目一箇神、奥津彦命、奥津姫命、《主》天津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町野地841番地のロ"
     },
     "directory": {
       "number": "H-21067",
-      "display_number": "39-01331",
+      "display_number": "39-01330",
       "index_name": "野地神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町野地841番地のロ",
@@ -11425,6 +11484,7 @@
         "kami_verbatim": "《合》伊邪那美命、天照大神、月読命、大国主命、大山積命、天目一箇神、奥津彦命、奥津姫命、《主》天津彦根神",
         "historical_kami_verbatim": "《合》伊邪那美命、天照大神、月読命、大国主命、大山積命、天目一箇神、奥津彦命、奥津姫命、《主》天津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町野地841番地のロ"
       }
@@ -11432,7 +11492,7 @@
   },
   {
     "id": "39-history-8f8caed28b1fb3",
-    "no": 1332,
+    "no": 1331,
     "prefecture_code": 39,
     "name": "白皇神社",
     "kana": "",
@@ -11529,12 +11589,13 @@
       "kami_verbatim": "《合》国々ノ一宮ノ神、《主》大己貴神、少彦名神",
       "historical_kami_verbatim": "《合》国々ノ一宮ノ神、《主》大己貴神、少彦名神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町宮内66番地"
     },
     "directory": {
       "number": "H-21068",
-      "display_number": "39-01332",
+      "display_number": "39-01331",
       "index_name": "白皇神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町宮内66番地",
@@ -11557,6 +11618,7 @@
         "kami_verbatim": "《合》国々ノ一宮ノ神、《主》大己貴神、少彦名神",
         "historical_kami_verbatim": "《合》国々ノ一宮ノ神、《主》大己貴神、少彦名神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町宮内66番地"
       }
@@ -11564,7 +11626,7 @@
   },
   {
     "id": "39-history-ed4d70bc897819",
-    "no": 1333,
+    "no": 1332,
     "prefecture_code": 39,
     "name": "成川神社",
     "kana": "",
@@ -11666,12 +11728,13 @@
       "kami_verbatim": "《合》月弓命、宇賀之魂神、興津彦神、奥津姫神、大山祇神、水波女神、大山祇神、《主》天御中主神",
       "historical_kami_verbatim": "《合》月弓命、宇賀之魂神、興津彦神、奥津姫神、大山祇神、水波女神、大山祇神、《主》天御中主神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町金上野722番地"
     },
     "directory": {
       "number": "H-21069",
-      "display_number": "39-01333",
+      "display_number": "39-01332",
       "index_name": "成川神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町金上野722番地",
@@ -11694,6 +11757,7 @@
         "kami_verbatim": "《合》月弓命、宇賀之魂神、興津彦神、奥津姫神、大山祇神、水波女神、大山祇神、《主》天御中主神",
         "historical_kami_verbatim": "《合》月弓命、宇賀之魂神、興津彦神、奥津姫神、大山祇神、水波女神、大山祇神、《主》天御中主神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町金上野722番地"
       }
@@ -11701,7 +11765,7 @@
   },
   {
     "id": "39-history-b8a1a7e61bb2a6",
-    "no": 1334,
+    "no": 1333,
     "prefecture_code": 39,
     "name": "志和峯神社",
     "kana": "",
@@ -11799,12 +11863,13 @@
       "kami_verbatim": "《主》天津彦根神、《配》須佐之男命、宇賀魂神、大山積神",
       "historical_kami_verbatim": "《主》天津彦根神、《配》須佐之男命、宇賀魂神、大山積神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町志和峰354番地"
     },
     "directory": {
       "number": "H-21070",
-      "display_number": "39-01334",
+      "display_number": "39-01333",
       "index_name": "志和峯神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町志和峰354番地",
@@ -11827,6 +11892,7 @@
         "kami_verbatim": "《主》天津彦根神、《配》須佐之男命、宇賀魂神、大山積神",
         "historical_kami_verbatim": "《主》天津彦根神、《配》須佐之男命、宇賀魂神、大山積神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町志和峰354番地"
       }
@@ -11834,7 +11900,7 @@
   },
   {
     "id": "39-history-4c4cfa0e96a79f",
-    "no": 1335,
+    "no": 1334,
     "prefecture_code": 39,
     "name": "岩谷神社",
     "kana": "",
@@ -11934,12 +12000,13 @@
       "kami_verbatim": "《合》火火出見神、澳津彦神、澳津姫神、大山咋神、大山祇神、《主》豊受大神",
       "historical_kami_verbatim": "《合》火火出見神、澳津彦神、澳津姫神、大山咋神、大山祇神、《主》豊受大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町向川278番地"
     },
     "directory": {
       "number": "H-21071",
-      "display_number": "39-01335",
+      "display_number": "39-01334",
       "index_name": "岩谷神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町向川278番地",
@@ -11962,6 +12029,7 @@
         "kami_verbatim": "《合》火火出見神、澳津彦神、澳津姫神、大山咋神、大山祇神、《主》豊受大神",
         "historical_kami_verbatim": "《合》火火出見神、澳津彦神、澳津姫神、大山咋神、大山祇神、《主》豊受大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町向川278番地"
       }
@@ -11969,7 +12037,7 @@
   },
   {
     "id": "39-history-9994fbb9b9cce8",
-    "no": 1336,
+    "no": 1335,
     "prefecture_code": 39,
     "name": "嶋神社",
     "kana": "",
@@ -12079,12 +12147,13 @@
       "kami_verbatim": "《合》素盞嗚神、大山祇神、彦火火出見神、菅原道真、西原東兵衛、護国の英霊、諸国一宮所祭神、天御中主神、健速須佐男神、興津彦神、興津姫神、天香香世男神、《主》伊予都彦神、伊予都姫神、大己貴神、少彦名神",
       "historical_kami_verbatim": "《合》素盞嗚神、大山祇神、彦火火出見神、菅原道真、西原東兵衛、護国の英霊、諸国一宮所祭神、天御中主神、健速須佐男神、興津彦神、興津姫神、天香香世男神、《主》伊予都彦神、伊予都姫神、大己貴神、少彦名神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町与津地28番地"
     },
     "directory": {
       "number": "H-21072",
-      "display_number": "39-01336",
+      "display_number": "39-01335",
       "index_name": "嶋神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町与津地28番地",
@@ -12107,6 +12176,7 @@
         "kami_verbatim": "《合》素盞嗚神、大山祇神、彦火火出見神、菅原道真、西原東兵衛、護国の英霊、諸国一宮所祭神、天御中主神、健速須佐男神、興津彦神、興津姫神、天香香世男神、《主》伊予都彦神、伊予都姫神、大己貴神、少彦名神",
         "historical_kami_verbatim": "《合》素盞嗚神、大山祇神、彦火火出見神、菅原道真、西原東兵衛、護国の英霊、諸国一宮所祭神、天御中主神、健速須佐男神、興津彦神、興津姫神、天香香世男神、《主》伊予都彦神、伊予都姫神、大己貴神、少彦名神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町与津地28番地"
       }
@@ -12114,7 +12184,7 @@
   },
   {
     "id": "39-history-f65c183c089874",
-    "no": 1337,
+    "no": 1336,
     "prefecture_code": 39,
     "name": "白皇神社",
     "kana": "",
@@ -12192,12 +12262,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町八千数607番地"
     },
     "directory": {
       "number": "H-21073",
-      "display_number": "39-01337",
+      "display_number": "39-01336",
       "index_name": "白皇神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町八千数607番地",
@@ -12220,6 +12291,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町八千数607番地"
       }
@@ -12227,7 +12299,7 @@
   },
   {
     "id": "39-history-6c1ae2aa73d890",
-    "no": 1338,
+    "no": 1337,
     "prefecture_code": 39,
     "name": "稲荷神社",
     "kana": "",
@@ -12327,12 +12399,13 @@
       "kami_verbatim": "《合》興津彦神、水波乃女神、興津姫神、《主》宇賀能魂神、猿田彦神、大田神",
       "historical_kami_verbatim": "《合》興津彦神、水波乃女神、興津姫神、《主》宇賀能魂神、猿田彦神、大田神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡窪川町親ｹ内341番地"
     },
     "directory": {
       "number": "H-21074",
-      "display_number": "39-01338",
+      "display_number": "39-01337",
       "index_name": "稲荷神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡窪川町親ｹ内341番地",
@@ -12355,6 +12428,7 @@
         "kami_verbatim": "《合》興津彦神、水波乃女神、興津姫神、《主》宇賀能魂神、猿田彦神、大田神",
         "historical_kami_verbatim": "《合》興津彦神、水波乃女神、興津姫神、《主》宇賀能魂神、猿田彦神、大田神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡窪川町親ｹ内341番地"
       }
@@ -12362,7 +12436,7 @@
   },
   {
     "id": "39-history-7c53da60fb50e4",
-    "no": 1339,
+    "no": 1338,
     "prefecture_code": 39,
     "name": "八坂神社",
     "kana": "",
@@ -12461,12 +12535,13 @@
       "kami_verbatim": "《合》埴山姫神、火産霊神、《主》須佐之男命、大己貴命、稲田姫之命",
       "historical_kami_verbatim": "《合》埴山姫神、火産霊神、《主》須佐之男命、大己貴命、稲田姫之命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町黒石1164番地"
     },
     "directory": {
       "number": "H-21075",
-      "display_number": "39-01339",
+      "display_number": "39-01338",
       "index_name": "八坂神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町黒石1164番地",
@@ -12489,6 +12564,7 @@
         "kami_verbatim": "《合》埴山姫神、火産霊神、《主》須佐之男命、大己貴命、稲田姫之命",
         "historical_kami_verbatim": "《合》埴山姫神、火産霊神、《主》須佐之男命、大己貴命、稲田姫之命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町黒石1164番地"
       }
@@ -12496,7 +12572,7 @@
   },
   {
     "id": "39-history-56fdb9a9447c98",
-    "no": 1340,
+    "no": 1339,
     "prefecture_code": 39,
     "name": "大元神社",
     "kana": "",
@@ -12583,12 +12659,13 @@
       "kami_verbatim": "《主》天御中主大神",
       "historical_kami_verbatim": "《主》天御中主大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町黒石1184番地"
     },
     "directory": {
       "number": "H-21076",
-      "display_number": "39-01340",
+      "display_number": "39-01339",
       "index_name": "大元神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町黒石1184番地",
@@ -12611,6 +12688,7 @@
         "kami_verbatim": "《主》天御中主大神",
         "historical_kami_verbatim": "《主》天御中主大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町黒石1184番地"
       }
@@ -12618,7 +12696,7 @@
   },
   {
     "id": "39-history-d759ad81e01afe",
-    "no": 1341,
+    "no": 1340,
     "prefecture_code": 39,
     "name": "島神社",
     "kana": "",
@@ -12724,12 +12802,13 @@
       "kami_verbatim": "《合》天照皇大神、《主》伊予津彦神、《配》大山祇神、応神天皇",
       "historical_kami_verbatim": "《合》天照皇大神、《主》伊予津彦神、《配》大山祇神、応神天皇",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町土居16番地ﾉ2"
     },
     "directory": {
       "number": "H-21077",
-      "display_number": "39-01341",
+      "display_number": "39-01340",
       "index_name": "島神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町土居16番地ﾉ2",
@@ -12752,6 +12831,7 @@
         "kami_verbatim": "《合》天照皇大神、《主》伊予津彦神、《配》大山祇神、応神天皇",
         "historical_kami_verbatim": "《合》天照皇大神、《主》伊予津彦神、《配》大山祇神、応神天皇",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町土居16番地ﾉ2"
       }
@@ -12759,7 +12839,7 @@
   },
   {
     "id": "39-history-c336663c335047",
-    "no": 1342,
+    "no": 1341,
     "prefecture_code": 39,
     "name": "大元神社",
     "kana": "",
@@ -12866,12 +12946,13 @@
       "kami_verbatim": "《合》大山津見命、大山津見神、《主》天御中主神、《配》澳津彦神、澳津姫神",
       "historical_kami_verbatim": "《合》大山津見命、大山津見神、《主》天御中主神、《配》澳津彦神、澳津姫神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町弘見602番地ﾉロ"
     },
     "directory": {
       "number": "H-21078",
-      "display_number": "39-01342",
+      "display_number": "39-01341",
       "index_name": "大元神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町弘見602番地ﾉロ",
@@ -12894,6 +12975,7 @@
         "kami_verbatim": "《合》大山津見命、大山津見神、《主》天御中主神、《配》澳津彦神、澳津姫神",
         "historical_kami_verbatim": "《合》大山津見命、大山津見神、《主》天御中主神、《配》澳津彦神、澳津姫神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町弘見602番地ﾉロ"
       }
@@ -12901,7 +12983,7 @@
   },
   {
     "id": "39-history-a6944ccfaf5239",
-    "no": 1343,
+    "no": 1342,
     "prefecture_code": 39,
     "name": "八坂神社",
     "kana": "",
@@ -12988,12 +13070,13 @@
       "kami_verbatim": "《主》須佐之男神",
       "historical_kami_verbatim": "《主》須佐之男神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町道徳311番地ﾉロ"
     },
     "directory": {
       "number": "H-21079",
-      "display_number": "39-01343",
+      "display_number": "39-01342",
       "index_name": "八坂神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町道徳311番地ﾉロ",
@@ -13016,6 +13099,7 @@
         "kami_verbatim": "《主》須佐之男神",
         "historical_kami_verbatim": "《主》須佐之男神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町道徳311番地ﾉロ"
       }
@@ -13023,7 +13107,7 @@
   },
   {
     "id": "39-history-1c3bbdb57f2fac",
-    "no": 1344,
+    "no": 1343,
     "prefecture_code": 39,
     "name": "長野神社",
     "kana": "",
@@ -13110,12 +13194,13 @@
       "kami_verbatim": "《主》須佐之男命",
       "historical_kami_verbatim": "《主》須佐之男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町平野75番地"
     },
     "directory": {
       "number": "H-21080",
-      "display_number": "39-01344",
+      "display_number": "39-01343",
       "index_name": "長野神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町平野75番地",
@@ -13138,6 +13223,7 @@
         "kami_verbatim": "《主》須佐之男命",
         "historical_kami_verbatim": "《主》須佐之男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町平野75番地"
       }
@@ -13145,7 +13231,7 @@
   },
   {
     "id": "39-history-c2a2134509b9b7",
-    "no": 1345,
+    "no": 1344,
     "prefecture_code": 39,
     "name": "黒石神社",
     "kana": "",
@@ -13232,12 +13318,13 @@
       "kami_verbatim": "《主》須佐之男命",
       "historical_kami_verbatim": "《主》須佐之男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町黒石210番地"
     },
     "directory": {
       "number": "H-21081",
-      "display_number": "39-01345",
+      "display_number": "39-01344",
       "index_name": "黒石神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町黒石210番地",
@@ -13260,6 +13347,7 @@
         "kami_verbatim": "《主》須佐之男命",
         "historical_kami_verbatim": "《主》須佐之男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町黒石210番地"
       }
@@ -13267,7 +13355,7 @@
   },
   {
     "id": "39-history-38519c9ab280dc",
-    "no": 1346,
+    "no": 1345,
     "prefecture_code": 39,
     "name": "槿花天神社",
     "kana": "",
@@ -13354,12 +13442,13 @@
       "kami_verbatim": "《主》万御領霊",
       "historical_kami_verbatim": "《主》万御領霊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町弘見523番地"
     },
     "directory": {
       "number": "H-21082",
-      "display_number": "39-01346",
+      "display_number": "39-01345",
       "index_name": "槿花天神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町弘見523番地",
@@ -13382,6 +13471,7 @@
         "kami_verbatim": "《主》万御領霊",
         "historical_kami_verbatim": "《主》万御領霊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町弘見523番地"
       }
@@ -13389,7 +13479,7 @@
   },
   {
     "id": "39-history-709dcdd976bb61",
-    "no": 1347,
+    "no": 1346,
     "prefecture_code": 39,
     "name": "?神社",
     "kana": "",
@@ -13491,12 +13581,13 @@
       "kami_verbatim": "《合》天香香世男神、天満大神、興津彦神、大山祇神、水波乃女神、天照皇大神、護国の英霊、《主》?大神",
       "historical_kami_verbatim": "《合》天香香世男神、天満大神、興津彦神、大山祇神、水波乃女神、天照皇大神、護国の英霊、《主》?大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡窪川町藤ﾉ川字森ﾉ山240番地3"
     },
     "directory": {
       "number": "H-21083",
-      "display_number": "39-01347",
+      "display_number": "39-01346",
       "index_name": "?神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡窪川町藤ﾉ川字森ﾉ山240番地3",
@@ -13519,6 +13610,7 @@
         "kami_verbatim": "《合》天香香世男神、天満大神、興津彦神、大山祇神、水波乃女神、天照皇大神、護国の英霊、《主》?大神",
         "historical_kami_verbatim": "《合》天香香世男神、天満大神、興津彦神、大山祇神、水波乃女神、天照皇大神、護国の英霊、《主》?大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡窪川町藤ﾉ川字森ﾉ山240番地3"
       }
@@ -13526,7 +13618,7 @@
   },
   {
     "id": "39-history-8198e6ce4a5589",
-    "no": 1348,
+    "no": 1347,
     "prefecture_code": 39,
     "name": "遠山天神宮",
     "kana": "",
@@ -13628,12 +13720,13 @@
       "kami_verbatim": "《合》豊受媛神、興津彦神、興津姫神、水波女神、底筒男神、中筒男神、上筒男神、《主》菅原道真",
       "historical_kami_verbatim": "《合》豊受媛神、興津彦神、興津姫神、水波女神、底筒男神、中筒男神、上筒男神、《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町数神850番地"
     },
     "directory": {
       "number": "H-21084",
-      "display_number": "39-01348",
+      "display_number": "39-01347",
       "index_name": "遠山天神宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町数神850番地",
@@ -13656,6 +13749,7 @@
         "kami_verbatim": "《合》豊受媛神、興津彦神、興津姫神、水波女神、底筒男神、中筒男神、上筒男神、《主》菅原道真",
         "historical_kami_verbatim": "《合》豊受媛神、興津彦神、興津姫神、水波女神、底筒男神、中筒男神、上筒男神、《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町数神850番地"
       }
@@ -13663,7 +13757,7 @@
   },
   {
     "id": "39-history-64835634beb5d3",
-    "no": 1349,
+    "no": 1348,
     "prefecture_code": 39,
     "name": "日吉神社",
     "kana": "",
@@ -13764,12 +13858,13 @@
       "kami_verbatim": "《合》六十余州神、澳津彦神、澳津姫神、豊受比売命、水波女命、弥都波能売命、《主》大山咋命",
       "historical_kami_verbatim": "《合》六十余州神、澳津彦神、澳津姫神、豊受比売命、水波女命、弥都波能売命、《主》大山咋命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町本堂1047番地"
     },
     "directory": {
       "number": "H-21085",
-      "display_number": "39-01349",
+      "display_number": "39-01348",
       "index_name": "日吉神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町本堂1047番地",
@@ -13792,6 +13887,7 @@
         "kami_verbatim": "《合》六十余州神、澳津彦神、澳津姫神、豊受比売命、水波女命、弥都波能売命、《主》大山咋命",
         "historical_kami_verbatim": "《合》六十余州神、澳津彦神、澳津姫神、豊受比売命、水波女命、弥都波能売命、《主》大山咋命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町本堂1047番地"
       }
@@ -13799,7 +13895,7 @@
   },
   {
     "id": "39-history-7205375007031b",
-    "no": 1350,
+    "no": 1349,
     "prefecture_code": 39,
     "name": "判官神社",
     "kana": "",
@@ -13905,12 +14001,13 @@
       "kami_verbatim": "《合》山内一豊、天照皇大神、須佐之男神、菅原道真、大山津見神、大己貴神、水波能売神、御井能神、鳴雷能神、八幡太郎義家、迦具突智神、《主》源義経",
       "historical_kami_verbatim": "《合》山内一豊、天照皇大神、須佐之男神、菅原道真、大山津見神、大己貴神、水波能売神、御井能神、鳴雷能神、八幡太郎義家、迦具突智神、《主》源義経",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町奈路150番地"
     },
     "directory": {
       "number": "H-21086",
-      "display_number": "39-01350",
+      "display_number": "39-01349",
       "index_name": "判官神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町奈路150番地",
@@ -13933,6 +14030,7 @@
         "kami_verbatim": "《合》山内一豊、天照皇大神、須佐之男神、菅原道真、大山津見神、大己貴神、水波能売神、御井能神、鳴雷能神、八幡太郎義家、迦具突智神、《主》源義経",
         "historical_kami_verbatim": "《合》山内一豊、天照皇大神、須佐之男神、菅原道真、大山津見神、大己貴神、水波能売神、御井能神、鳴雷能神、八幡太郎義家、迦具突智神、《主》源義経",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町奈路150番地"
       }
@@ -13940,7 +14038,7 @@
   },
   {
     "id": "39-history-7b4980fc045af9",
-    "no": 1351,
+    "no": 1350,
     "prefecture_code": 39,
     "name": "熊野神社",
     "kana": "",
@@ -14039,12 +14137,13 @@
       "kami_verbatim": "《合》水波女神、万御領霊、《主》与美津事解男神、伊邪那美神、月弓神",
       "historical_kami_verbatim": "《合》水波女神、万御領霊、《主》与美津事解男神、伊邪那美神、月弓神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町弘見298番地ﾉ4"
     },
     "directory": {
       "number": "H-21087",
-      "display_number": "39-01351",
+      "display_number": "39-01350",
       "index_name": "熊野神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町弘見298番地ﾉ4",
@@ -14067,6 +14166,7 @@
         "kami_verbatim": "《合》水波女神、万御領霊、《主》与美津事解男神、伊邪那美神、月弓神",
         "historical_kami_verbatim": "《合》水波女神、万御領霊、《主》与美津事解男神、伊邪那美神、月弓神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町弘見298番地ﾉ4"
       }
@@ -14074,7 +14174,7 @@
   },
   {
     "id": "39-history-3526c6e7bdc11e",
-    "no": 1352,
+    "no": 1351,
     "prefecture_code": 39,
     "name": "北野天神宮",
     "kana": "",
@@ -14161,12 +14261,13 @@
       "kami_verbatim": "《主》菅原道真",
       "historical_kami_verbatim": "《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡窪川町飯ﾉ川169番地"
     },
     "directory": {
       "number": "H-21088",
-      "display_number": "39-01352",
+      "display_number": "39-01351",
       "index_name": "北野天神宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡窪川町飯ﾉ川169番地",
@@ -14189,6 +14290,7 @@
         "kami_verbatim": "《主》菅原道真",
         "historical_kami_verbatim": "《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡窪川町飯ﾉ川169番地"
       }
@@ -14196,7 +14298,7 @@
   },
   {
     "id": "39-history-3cc06b4a4f74de",
-    "no": 1353,
+    "no": 1352,
     "prefecture_code": 39,
     "name": "平守神社",
     "kana": "",
@@ -14296,12 +14398,13 @@
       "kami_verbatim": "《合》綿積神、澳津日子神、火産霊神、須佐之男神、山積神、《主》天御中主神",
       "historical_kami_verbatim": "《合》綿積神、澳津日子神、火産霊神、須佐之男神、山積神、《主》天御中主神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町平野115番地"
     },
     "directory": {
       "number": "H-21089",
-      "display_number": "39-01353",
+      "display_number": "39-01352",
       "index_name": "平守神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町平野115番地",
@@ -14324,6 +14427,7 @@
         "kami_verbatim": "《合》綿積神、澳津日子神、火産霊神、須佐之男神、山積神、《主》天御中主神",
         "historical_kami_verbatim": "《合》綿積神、澳津日子神、火産霊神、須佐之男神、山積神、《主》天御中主神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町平野115番地"
       }
@@ -14331,7 +14435,7 @@
   },
   {
     "id": "39-history-5886fc151db84d",
-    "no": 1354,
+    "no": 1353,
     "prefecture_code": 39,
     "name": "河内神社",
     "kana": "",
@@ -14429,12 +14533,13 @@
       "kami_verbatim": "《合》澳津彦神、大己貴神、少彦那神、《主》天津彦根神",
       "historical_kami_verbatim": "《合》澳津彦神、大己貴神、少彦那神、《主》天津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町道徳394番地"
     },
     "directory": {
       "number": "H-21090",
-      "display_number": "39-01354",
+      "display_number": "39-01353",
       "index_name": "河内神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町道徳394番地",
@@ -14457,6 +14562,7 @@
         "kami_verbatim": "《合》澳津彦神、大己貴神、少彦那神、《主》天津彦根神",
         "historical_kami_verbatim": "《合》澳津彦神、大己貴神、少彦那神、《主》天津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町道徳394番地"
       }
@@ -14464,7 +14570,7 @@
   },
   {
     "id": "39-history-20a06751d82ab7",
-    "no": 1355,
+    "no": 1354,
     "prefecture_code": 39,
     "name": "海津見神社",
     "kana": "",
@@ -14560,12 +14666,13 @@
       "kami_verbatim": "《合》天照皇大神、《主》海津見神",
       "historical_kami_verbatim": "《合》天照皇大神、《主》海津見神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町数神993番地"
     },
     "directory": {
       "number": "H-21091",
-      "display_number": "39-01355",
+      "display_number": "39-01354",
       "index_name": "海津見神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町数神993番地",
@@ -14588,6 +14695,7 @@
         "kami_verbatim": "《合》天照皇大神、《主》海津見神",
         "historical_kami_verbatim": "《合》天照皇大神、《主》海津見神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町数神993番地"
       }
@@ -14595,7 +14703,7 @@
   },
   {
     "id": "39-history-f61d2ecd319664",
-    "no": 1356,
+    "no": 1355,
     "prefecture_code": 39,
     "name": "八幡宮",
     "kana": "",
@@ -14689,12 +14797,13 @@
       "kami_verbatim": "《主》応神天皇、田心姫神、湍津姫神、市杵島姫神、神功皇后、武内宿禰、味?高彦根命、三筒男神",
       "historical_kami_verbatim": "《主》応神天皇、田心姫神、湍津姫神、市杵島姫神、神功皇后、武内宿禰、味?高彦根命、三筒男神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町興津1604番地"
     },
     "directory": {
       "number": "H-21092",
-      "display_number": "39-01356",
+      "display_number": "39-01355",
       "index_name": "八幡宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町興津1604番地",
@@ -14717,6 +14826,7 @@
         "kami_verbatim": "《主》応神天皇、田心姫神、湍津姫神、市杵島姫神、神功皇后、武内宿禰、味?高彦根命、三筒男神",
         "historical_kami_verbatim": "《主》応神天皇、田心姫神、湍津姫神、市杵島姫神、神功皇后、武内宿禰、味?高彦根命、三筒男神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町興津1604番地"
       }
@@ -14724,7 +14834,7 @@
   },
   {
     "id": "39-history-660f3df8444e4f",
-    "no": 1357,
+    "no": 1356,
     "prefecture_code": 39,
     "name": "八坂神社",
     "kana": "",
@@ -14811,12 +14921,13 @@
       "kami_verbatim": "《主》素盞嗚命",
       "historical_kami_verbatim": "《主》素盞嗚命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町興津2335番地"
     },
     "directory": {
       "number": "H-21093",
-      "display_number": "39-01357",
+      "display_number": "39-01356",
       "index_name": "八坂神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町興津2335番地",
@@ -14839,6 +14950,7 @@
         "kami_verbatim": "《主》素盞嗚命",
         "historical_kami_verbatim": "《主》素盞嗚命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町興津2335番地"
       }
@@ -14846,7 +14958,7 @@
   },
   {
     "id": "39-history-22a460fed91711",
-    "no": 1358,
+    "no": 1357,
     "prefecture_code": 39,
     "name": "六十余尊神社",
     "kana": "",
@@ -14933,12 +15045,13 @@
       "kami_verbatim": "《主》祭神不詳",
       "historical_kami_verbatim": "《主》祭神不詳",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町日野地281番地ﾉロ"
     },
     "directory": {
       "number": "H-21094",
-      "display_number": "39-01358",
+      "display_number": "39-01357",
       "index_name": "六十余尊神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町日野地281番地ﾉロ",
@@ -14961,6 +15074,7 @@
         "kami_verbatim": "《主》祭神不詳",
         "historical_kami_verbatim": "《主》祭神不詳",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町日野地281番地ﾉロ"
       }
@@ -14968,7 +15082,7 @@
   },
   {
     "id": "39-history-42d0818c1a9b92",
-    "no": 1359,
+    "no": 1358,
     "prefecture_code": 39,
     "name": "須賀神社",
     "kana": "",
@@ -15055,12 +15169,13 @@
       "kami_verbatim": "《主》素盞嗚命",
       "historical_kami_verbatim": "《主》素盞嗚命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡窪川町川ﾉ内74番地"
     },
     "directory": {
       "number": "H-21095",
-      "display_number": "39-01359",
+      "display_number": "39-01358",
       "index_name": "須賀神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡窪川町川ﾉ内74番地",
@@ -15083,6 +15198,7 @@
         "kami_verbatim": "《主》素盞嗚命",
         "historical_kami_verbatim": "《主》素盞嗚命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡窪川町川ﾉ内74番地"
       }
@@ -15090,7 +15206,7 @@
   },
   {
     "id": "39-history-fbd0dfb05cf2d2",
-    "no": 1360,
+    "no": 1359,
     "prefecture_code": 39,
     "name": "河内神社",
     "kana": "",
@@ -15177,12 +15293,13 @@
       "kami_verbatim": "《主》天津彦根神",
       "historical_kami_verbatim": "《主》天津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町一斗俵36番地"
     },
     "directory": {
       "number": "H-21096",
-      "display_number": "39-01360",
+      "display_number": "39-01359",
       "index_name": "河内神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町一斗俵36番地",
@@ -15205,6 +15322,7 @@
         "kami_verbatim": "《主》天津彦根神",
         "historical_kami_verbatim": "《主》天津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町一斗俵36番地"
       }
@@ -15212,7 +15330,7 @@
   },
   {
     "id": "39-history-3cd1e735fea8dd",
-    "no": 1361,
+    "no": 1360,
     "prefecture_code": 39,
     "name": "河内五所神社",
     "kana": "",
@@ -15299,12 +15417,13 @@
       "kami_verbatim": "《主》水速姫命",
       "historical_kami_verbatim": "《主》水速姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町秋丸821番地"
     },
     "directory": {
       "number": "H-21097",
-      "display_number": "39-01361",
+      "display_number": "39-01360",
       "index_name": "河内五所神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町秋丸821番地",
@@ -15327,6 +15446,7 @@
         "kami_verbatim": "《主》水速姫命",
         "historical_kami_verbatim": "《主》水速姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町秋丸821番地"
       }
@@ -15334,7 +15454,7 @@
   },
   {
     "id": "39-history-855d6306d1c08d",
-    "no": 1362,
+    "no": 1361,
     "prefecture_code": 39,
     "name": "河内神社",
     "kana": "",
@@ -15421,12 +15541,13 @@
       "kami_verbatim": "《主》天津彦根神",
       "historical_kami_verbatim": "《主》天津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町窪川中津川53番地"
     },
     "directory": {
       "number": "H-21098",
-      "display_number": "39-01362",
+      "display_number": "39-01361",
       "index_name": "河内神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町窪川中津川53番地",
@@ -15449,6 +15570,7 @@
         "kami_verbatim": "《主》天津彦根神",
         "historical_kami_verbatim": "《主》天津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町窪川中津川53番地"
       }
@@ -15456,7 +15578,7 @@
   },
   {
     "id": "39-history-24a8aa461438ab",
-    "no": 1363,
+    "no": 1362,
     "prefecture_code": 39,
     "name": "六十余社",
     "kana": "",
@@ -15543,12 +15665,13 @@
       "kami_verbatim": "《主》六十六国一宮取祭神",
       "historical_kami_verbatim": "《主》六十六国一宮取祭神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町窪川中津川50番地ﾉロ"
     },
     "directory": {
       "number": "H-21099",
-      "display_number": "39-01363",
+      "display_number": "39-01362",
       "index_name": "六十余社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町窪川中津川50番地ﾉロ",
@@ -15571,6 +15694,7 @@
         "kami_verbatim": "《主》六十六国一宮取祭神",
         "historical_kami_verbatim": "《主》六十六国一宮取祭神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町窪川中津川50番地ﾉロ"
       }
@@ -15578,7 +15702,7 @@
   },
   {
     "id": "39-history-aa16effb05def3",
-    "no": 1364,
+    "no": 1363,
     "prefecture_code": 39,
     "name": "熊野神社",
     "kana": "",
@@ -15667,12 +15791,13 @@
       "kami_verbatim": "《主》伊弉諾尊、天照大神、月読尊",
       "historical_kami_verbatim": "《主》伊弉諾尊、天照大神、月読尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町窪川中津川179番地ﾉロ"
     },
     "directory": {
       "number": "H-21100",
-      "display_number": "39-01364",
+      "display_number": "39-01363",
       "index_name": "熊野神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町窪川中津川179番地ﾉロ",
@@ -15695,6 +15820,7 @@
         "kami_verbatim": "《主》伊弉諾尊、天照大神、月読尊",
         "historical_kami_verbatim": "《主》伊弉諾尊、天照大神、月読尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町窪川中津川179番地ﾉロ"
       }
@@ -15702,7 +15828,7 @@
   },
   {
     "id": "39-history-03a4c92c19853d",
-    "no": 1365,
+    "no": 1364,
     "prefecture_code": 39,
     "name": "河内神社",
     "kana": "",
@@ -15790,12 +15916,13 @@
       "kami_verbatim": "《主》天津彦根神、活津彦神",
       "historical_kami_verbatim": "《主》天津彦根神、活津彦神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町作屋39､40番地"
     },
     "directory": {
       "number": "H-21101",
-      "display_number": "39-01365",
+      "display_number": "39-01364",
       "index_name": "河内神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町作屋39､40番地",
@@ -15818,6 +15945,7 @@
         "kami_verbatim": "《主》天津彦根神、活津彦神",
         "historical_kami_verbatim": "《主》天津彦根神、活津彦神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町作屋39､40番地"
       }
@@ -15825,7 +15953,7 @@
   },
   {
     "id": "39-history-cdcf00d4c241f0",
-    "no": 1366,
+    "no": 1365,
     "prefecture_code": 39,
     "name": "河内神社",
     "kana": "",
@@ -15922,12 +16050,13 @@
       "kami_verbatim": "《合》須佐之男神、中西権七、《主》天津彦根神",
       "historical_kami_verbatim": "《合》須佐之男神、中西権七、《主》天津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町若井川528番地2"
     },
     "directory": {
       "number": "H-21102",
-      "display_number": "39-01366",
+      "display_number": "39-01365",
       "index_name": "河内神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町若井川528番地2",
@@ -15950,6 +16079,7 @@
         "kami_verbatim": "《合》須佐之男神、中西権七、《主》天津彦根神",
         "historical_kami_verbatim": "《合》須佐之男神、中西権七、《主》天津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町若井川528番地2"
       }
@@ -15957,7 +16087,7 @@
   },
   {
     "id": "39-history-e87e8e3b56a84f",
-    "no": 1367,
+    "no": 1366,
     "prefecture_code": 39,
     "name": "神原神社",
     "kana": "",
@@ -16045,12 +16175,13 @@
       "kami_verbatim": "《主》天津彦根神、国津彦根神",
       "historical_kami_verbatim": "《主》天津彦根神、国津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町根元原381番地"
     },
     "directory": {
       "number": "H-21103",
-      "display_number": "39-01367",
+      "display_number": "39-01366",
       "index_name": "神原神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町根元原381番地",
@@ -16073,6 +16204,7 @@
         "kami_verbatim": "《主》天津彦根神、国津彦根神",
         "historical_kami_verbatim": "《主》天津彦根神、国津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町根元原381番地"
       }
@@ -16080,7 +16212,7 @@
   },
   {
     "id": "39-history-425519062f2f24",
-    "no": 1368,
+    "no": 1367,
     "prefecture_code": 39,
     "name": "河内神社",
     "kana": "",
@@ -16180,12 +16312,13 @@
       "kami_verbatim": "《合》天之御中主神、国々一宮所祭神、大山祇神、大海童神、罔象女神、《主》天津彦根神",
       "historical_kami_verbatim": "《合》天之御中主神、国々一宮所祭神、大山祇神、大海童神、罔象女神、《主》天津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町南川口867番地2"
     },
     "directory": {
       "number": "H-21104",
-      "display_number": "39-01368",
+      "display_number": "39-01367",
       "index_name": "河内神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町南川口867番地2",
@@ -16208,6 +16341,7 @@
         "kami_verbatim": "《合》天之御中主神、国々一宮所祭神、大山祇神、大海童神、罔象女神、《主》天津彦根神",
         "historical_kami_verbatim": "《合》天之御中主神、国々一宮所祭神、大山祇神、大海童神、罔象女神、《主》天津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町南川口867番地2"
       }
@@ -16215,7 +16349,7 @@
   },
   {
     "id": "39-history-5c98d8c27081d4",
-    "no": 1369,
+    "no": 1368,
     "prefecture_code": 39,
     "name": "檜生原神社",
     "kana": "",
@@ -16302,12 +16436,13 @@
       "kami_verbatim": "《主》天津彦根命",
       "historical_kami_verbatim": "《主》天津彦根命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町桧生原546番地ﾉ16"
     },
     "directory": {
       "number": "H-21105",
-      "display_number": "39-01369",
+      "display_number": "39-01368",
       "index_name": "檜生原神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町桧生原546番地ﾉ16",
@@ -16330,6 +16465,7 @@
         "kami_verbatim": "《主》天津彦根命",
         "historical_kami_verbatim": "《主》天津彦根命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町桧生原546番地ﾉ16"
       }
@@ -16337,7 +16473,7 @@
   },
   {
     "id": "39-history-e2c30ca8500e43",
-    "no": 1370,
+    "no": 1369,
     "prefecture_code": 39,
     "name": "三島神社",
     "kana": "",
@@ -16415,12 +16551,13 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町宮内30番地"
     },
     "directory": {
       "number": "H-21106",
-      "display_number": "39-01370",
+      "display_number": "39-01369",
       "index_name": "三島神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町宮内30番地",
@@ -16443,6 +16580,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町宮内30番地"
       }
@@ -16450,7 +16588,7 @@
   },
   {
     "id": "39-history-86c133776db6c0",
-    "no": 1371,
+    "no": 1370,
     "prefecture_code": 39,
     "name": "河内神社",
     "kana": "",
@@ -16551,12 +16689,13 @@
       "kami_verbatim": "《合》大山祇神、多紀津姫神、市寸島姫神、多紀利姫神、品陀別天皇、影井某霊、《主》天津彦根神",
       "historical_kami_verbatim": "《合》大山祇神、多紀津姫神、市寸島姫神、多紀利姫神、品陀別天皇、影井某霊、《主》天津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町家地川108番地"
     },
     "directory": {
       "number": "H-21107",
-      "display_number": "39-01371",
+      "display_number": "39-01370",
       "index_name": "河内神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町家地川108番地",
@@ -16579,6 +16718,7 @@
         "kami_verbatim": "《合》大山祇神、多紀津姫神、市寸島姫神、多紀利姫神、品陀別天皇、影井某霊、《主》天津彦根神",
         "historical_kami_verbatim": "《合》大山祇神、多紀津姫神、市寸島姫神、多紀利姫神、品陀別天皇、影井某霊、《主》天津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町家地川108番地"
       }
@@ -16586,7 +16726,7 @@
   },
   {
     "id": "39-history-44226147f7c27b",
-    "no": 1372,
+    "no": 1371,
     "prefecture_code": 39,
     "name": "桧原神社",
     "kana": "",
@@ -16686,12 +16826,13 @@
       "kami_verbatim": "《合》誉田別天皇、諸国一宮所祭神、月弓神、大山祇神、《主》天津彦根神、活津彦根神",
       "historical_kami_verbatim": "《合》誉田別天皇、諸国一宮所祭神、月弓神、大山祇神、《主》天津彦根神、活津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町高野461番地"
     },
     "directory": {
       "number": "H-21108",
-      "display_number": "39-01372",
+      "display_number": "39-01371",
       "index_name": "桧原神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町高野461番地",
@@ -16714,6 +16855,7 @@
         "kami_verbatim": "《合》誉田別天皇、諸国一宮所祭神、月弓神、大山祇神、《主》天津彦根神、活津彦根神",
         "historical_kami_verbatim": "《合》誉田別天皇、諸国一宮所祭神、月弓神、大山祇神、《主》天津彦根神、活津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町高野461番地"
       }
@@ -16721,7 +16863,7 @@
   },
   {
     "id": "39-history-34f92baa63ee1b",
-    "no": 1373,
+    "no": 1372,
     "prefecture_code": 39,
     "name": "音無神社",
     "kana": "",
@@ -16820,12 +16962,13 @@
       "kami_verbatim": "《合》須佐之男命、国々一宮所祭神、少彦名神、大山祇神、《主》味?高彦根神",
       "historical_kami_verbatim": "《合》須佐之男命、国々一宮所祭神、少彦名神、大山祇神、《主》味?高彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡窪川町天ﾉ川178番地ﾉ4"
     },
     "directory": {
       "number": "H-21109",
-      "display_number": "39-01373",
+      "display_number": "39-01372",
       "index_name": "音無神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡窪川町天ﾉ川178番地ﾉ4",
@@ -16848,6 +16991,7 @@
         "kami_verbatim": "《合》須佐之男命、国々一宮所祭神、少彦名神、大山祇神、《主》味?高彦根神",
         "historical_kami_verbatim": "《合》須佐之男命、国々一宮所祭神、少彦名神、大山祇神、《主》味?高彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡窪川町天ﾉ川178番地ﾉ4"
       }
@@ -16855,7 +16999,7 @@
   },
   {
     "id": "39-history-86297c1555ea31",
-    "no": 1374,
+    "no": 1373,
     "prefecture_code": 39,
     "name": "天満宮",
     "kana": "",
@@ -16958,12 +17102,13 @@
       "kami_verbatim": "《合》春日大神、須佐之男神、興津彦神、興津姫神、大山祇神、水波女神、西原紀伊守、野崎勘助、《主》菅原道真",
       "historical_kami_verbatim": "《合》春日大神、須佐之男神、興津彦神、興津姫神、大山祇神、水波女神、西原紀伊守、野崎勘助、《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡窪川町峰ﾉ上61番地"
     },
     "directory": {
       "number": "H-21110",
-      "display_number": "39-01374",
+      "display_number": "39-01373",
       "index_name": "天満宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡窪川町峰ﾉ上61番地",
@@ -16986,6 +17131,7 @@
         "kami_verbatim": "《合》春日大神、須佐之男神、興津彦神、興津姫神、大山祇神、水波女神、西原紀伊守、野崎勘助、《主》菅原道真",
         "historical_kami_verbatim": "《合》春日大神、須佐之男神、興津彦神、興津姫神、大山祇神、水波女神、西原紀伊守、野崎勘助、《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡窪川町峰ﾉ上61番地"
       }
@@ -16993,7 +17139,7 @@
   },
   {
     "id": "39-history-fc1ac552206e32",
-    "no": 1375,
+    "no": 1374,
     "prefecture_code": 39,
     "name": "大元神社",
     "kana": "",
@@ -17092,12 +17238,13 @@
       "kami_verbatim": "《合》興津彦神、興津姫神、大山祇神、水波女神、《主》天御中主神",
       "historical_kami_verbatim": "《合》興津彦神、興津姫神、大山祇神、水波女神、《主》天御中主神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町根元原376番地"
     },
     "directory": {
       "number": "H-21111",
-      "display_number": "39-01375",
+      "display_number": "39-01374",
       "index_name": "大元神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町根元原376番地",
@@ -17120,6 +17267,7 @@
         "kami_verbatim": "《合》興津彦神、興津姫神、大山祇神、水波女神、《主》天御中主神",
         "historical_kami_verbatim": "《合》興津彦神、興津姫神、大山祇神、水波女神、《主》天御中主神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町根元原376番地"
       }
@@ -17127,7 +17275,7 @@
   },
   {
     "id": "39-history-964db05f2fe8c1",
-    "no": 1376,
+    "no": 1375,
     "prefecture_code": 39,
     "name": "秋丸神社",
     "kana": "",
@@ -17232,12 +17380,13 @@
       "kami_verbatim": "《合》大己貴命、少彦名命、天御中主神、高皇産霊神、神皇産霊神、須保大神、大山祇神、若宮八幡神、月弓命、《主》天津彦根神、活津彦根神",
       "historical_kami_verbatim": "《合》大己貴命、少彦名命、天御中主神、高皇産霊神、神皇産霊神、須保大神、大山祇神、若宮八幡神、月弓命、《主》天津彦根神、活津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町秋丸301番地ﾉロ"
     },
     "directory": {
       "number": "H-21112",
-      "display_number": "39-01376",
+      "display_number": "39-01375",
       "index_name": "秋丸神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町秋丸301番地ﾉロ",
@@ -17260,6 +17409,7 @@
         "kami_verbatim": "《合》大己貴命、少彦名命、天御中主神、高皇産霊神、神皇産霊神、須保大神、大山祇神、若宮八幡神、月弓命、《主》天津彦根神、活津彦根神",
         "historical_kami_verbatim": "《合》大己貴命、少彦名命、天御中主神、高皇産霊神、神皇産霊神、須保大神、大山祇神、若宮八幡神、月弓命、《主》天津彦根神、活津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町秋丸301番地ﾉロ"
       }
@@ -17267,7 +17417,7 @@
   },
   {
     "id": "39-history-8afc0414652a3f",
-    "no": 1377,
+    "no": 1376,
     "prefecture_code": 39,
     "name": "瀧山神社",
     "kana": "",
@@ -17367,12 +17517,13 @@
       "kami_verbatim": "《合》澳津彦神、澳津姫神、火産霊神、罔象女神、大山祇神、《主》磯城細姫命",
       "historical_kami_verbatim": "《合》澳津彦神、澳津姫神、火産霊神、罔象女神、大山祇神、《主》磯城細姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡窪川町神ﾉ西7番地"
     },
     "directory": {
       "number": "H-21113",
-      "display_number": "39-01377",
+      "display_number": "39-01376",
       "index_name": "瀧山神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡窪川町神ﾉ西7番地",
@@ -17395,6 +17546,7 @@
         "kami_verbatim": "《合》澳津彦神、澳津姫神、火産霊神、罔象女神、大山祇神、《主》磯城細姫命",
         "historical_kami_verbatim": "《合》澳津彦神、澳津姫神、火産霊神、罔象女神、大山祇神、《主》磯城細姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡窪川町神ﾉ西7番地"
       }
@@ -17402,7 +17554,7 @@
   },
   {
     "id": "39-history-ce37287ff815b1",
-    "no": 1378,
+    "no": 1377,
     "prefecture_code": 39,
     "name": "大井神社",
     "kana": "",
@@ -17500,12 +17652,13 @@
       "kami_verbatim": "《合》熊野大神、罔象女神、金香神、《主》笈神",
       "historical_kami_verbatim": "《合》熊野大神、罔象女神、金香神、《主》笈神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町大井野字堂ﾉ前404番地2"
     },
     "directory": {
       "number": "H-21114",
-      "display_number": "39-01378",
+      "display_number": "39-01377",
       "index_name": "大井神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町大井野字堂ﾉ前404番地2",
@@ -17528,6 +17681,7 @@
         "kami_verbatim": "《合》熊野大神、罔象女神、金香神、《主》笈神",
         "historical_kami_verbatim": "《合》熊野大神、罔象女神、金香神、《主》笈神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町大井野字堂ﾉ前404番地2"
       }
@@ -17535,7 +17689,7 @@
   },
   {
     "id": "39-history-ae348ca9899739",
-    "no": 1379,
+    "no": 1378,
     "prefecture_code": 39,
     "name": "須賀神社",
     "kana": "",
@@ -17622,12 +17776,13 @@
       "kami_verbatim": "《主》須佐之男神",
       "historical_kami_verbatim": "《主》須佐之男神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町見付148番地"
     },
     "directory": {
       "number": "H-21115",
-      "display_number": "39-01379",
+      "display_number": "39-01378",
       "index_name": "須賀神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町見付148番地",
@@ -17650,6 +17805,7 @@
         "kami_verbatim": "《主》須佐之男神",
         "historical_kami_verbatim": "《主》須佐之男神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町見付148番地"
       }
@@ -17657,7 +17813,7 @@
   },
   {
     "id": "39-history-00569c32dbcbfc",
-    "no": 1380,
+    "no": 1379,
     "prefecture_code": 39,
     "name": "大本神社",
     "kana": "",
@@ -17761,12 +17917,13 @@
       "kami_verbatim": "《合》天穂日神、品陀別天皇、彦火火出見命、市寸島姫神、大山祇神、興津彦神、興津姫神、水波女神、八柱山積神、《主》天御中主神",
       "historical_kami_verbatim": "《合》天穂日神、品陀別天皇、彦火火出見命、市寸島姫神、大山祇神、興津彦神、興津姫神、水波女神、八柱山積神、《主》天御中主神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町見付173番地"
     },
     "directory": {
       "number": "H-21116",
-      "display_number": "39-01380",
+      "display_number": "39-01379",
       "index_name": "大本神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町見付173番地",
@@ -17789,6 +17946,7 @@
         "kami_verbatim": "《合》天穂日神、品陀別天皇、彦火火出見命、市寸島姫神、大山祇神、興津彦神、興津姫神、水波女神、八柱山積神、《主》天御中主神",
         "historical_kami_verbatim": "《合》天穂日神、品陀別天皇、彦火火出見命、市寸島姫神、大山祇神、興津彦神、興津姫神、水波女神、八柱山積神、《主》天御中主神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町見付173番地"
       }
@@ -17796,7 +17954,7 @@
   },
   {
     "id": "39-history-a6e73b79a4e76b",
-    "no": 1381,
+    "no": 1380,
     "prefecture_code": 39,
     "name": "春日神社",
     "kana": "",
@@ -17897,12 +18055,13 @@
       "kami_verbatim": "《合》今代八幡神、興津彦神、興津姫神、《主》武甕槌神、経津主神、天児屋根神、比売神",
       "historical_kami_verbatim": "《合》今代八幡神、興津彦神、興津姫神、《主》武甕槌神、経津主神、天児屋根神、比売神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町仕出原217番地"
     },
     "directory": {
       "number": "H-21118",
-      "display_number": "39-01381",
+      "display_number": "39-01380",
       "index_name": "春日神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町仕出原217番地",
@@ -17925,6 +18084,7 @@
         "kami_verbatim": "《合》今代八幡神、興津彦神、興津姫神、《主》武甕槌神、経津主神、天児屋根神、比売神",
         "historical_kami_verbatim": "《合》今代八幡神、興津彦神、興津姫神、《主》武甕槌神、経津主神、天児屋根神、比売神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町仕出原217番地"
       }
@@ -17932,7 +18092,7 @@
   },
   {
     "id": "39-history-2e67745e8c5592",
-    "no": 1382,
+    "no": 1381,
     "prefecture_code": 39,
     "name": "礫石神社",
     "kana": "",
@@ -18031,12 +18191,13 @@
       "kami_verbatim": "《合》市寸島姫命、須佐乃男命、興津彦神、興津姫神、《主》礫神",
       "historical_kami_verbatim": "《合》市寸島姫命、須佐乃男命、興津彦神、興津姫神、《主》礫神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡窪川町根-崎4番地"
     },
     "directory": {
       "number": "H-21119",
-      "display_number": "39-01382",
+      "display_number": "39-01381",
       "index_name": "礫石神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡窪川町根-崎4番地",
@@ -18059,6 +18220,7 @@
         "kami_verbatim": "《合》市寸島姫命、須佐乃男命、興津彦神、興津姫神、《主》礫神",
         "historical_kami_verbatim": "《合》市寸島姫命、須佐乃男命、興津彦神、興津姫神、《主》礫神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡窪川町根-崎4番地"
       }
@@ -18066,7 +18228,7 @@
   },
   {
     "id": "39-history-8e7eca6326465f",
-    "no": 1383,
+    "no": 1382,
     "prefecture_code": 39,
     "name": "日吉神社",
     "kana": "",
@@ -18153,12 +18315,13 @@
       "kami_verbatim": "《主》大山咋神",
       "historical_kami_verbatim": "《主》大山咋神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町東川角957番地ﾉ1"
     },
     "directory": {
       "number": "H-21120",
-      "display_number": "39-01383",
+      "display_number": "39-01382",
       "index_name": "日吉神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町東川角957番地ﾉ1",
@@ -18181,6 +18344,7 @@
         "kami_verbatim": "《主》大山咋神",
         "historical_kami_verbatim": "《主》大山咋神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町東川角957番地ﾉ1"
       }
@@ -18188,7 +18352,7 @@
   },
   {
     "id": "39-history-1b54d1ad9d3f1b",
-    "no": 1384,
+    "no": 1383,
     "prefecture_code": 39,
     "name": "厳嶋神社",
     "kana": "",
@@ -18277,12 +18441,13 @@
       "kami_verbatim": "《主》澳津島姫神、中津島姫神、辺津島姫神",
       "historical_kami_verbatim": "《主》澳津島姫神、中津島姫神、辺津島姫神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町東川角乙708番地"
     },
     "directory": {
       "number": "H-21121",
-      "display_number": "39-01384",
+      "display_number": "39-01383",
       "index_name": "厳嶋神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町東川角乙708番地",
@@ -18305,6 +18470,7 @@
         "kami_verbatim": "《主》澳津島姫神、中津島姫神、辺津島姫神",
         "historical_kami_verbatim": "《主》澳津島姫神、中津島姫神、辺津島姫神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町東川角乙708番地"
       }
@@ -18312,7 +18478,7 @@
   },
   {
     "id": "39-history-c3c71598b5e7d0",
-    "no": 1385,
+    "no": 1384,
     "prefecture_code": 39,
     "name": "六十余社",
     "kana": "",
@@ -18399,12 +18565,13 @@
       "kami_verbatim": "《主》六十六国一宮取祭神",
       "historical_kami_verbatim": "《主》六十六国一宮取祭神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町東川角乙273番地"
     },
     "directory": {
       "number": "H-21122",
-      "display_number": "39-01385",
+      "display_number": "39-01384",
       "index_name": "六十余社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町東川角乙273番地",
@@ -18427,6 +18594,7 @@
         "kami_verbatim": "《主》六十六国一宮取祭神",
         "historical_kami_verbatim": "《主》六十六国一宮取祭神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町東川角乙273番地"
       }
@@ -18434,7 +18602,7 @@
   },
   {
     "id": "39-history-77e67f1ad68d6f",
-    "no": 1386,
+    "no": 1385,
     "prefecture_code": 39,
     "name": "三熊野神社",
     "kana": "",
@@ -18540,12 +18708,13 @@
       "kami_verbatim": "《合》六十余州一宮所祭神、誉田別天皇、倉稲魂神、大田神、大宮毘売神、水波女神、澳津彦神、澳津姫神、火産霊神、春日大神、西原紀伊守室万、《主》熊野大神",
       "historical_kami_verbatim": "《合》六十余州一宮所祭神、誉田別天皇、倉稲魂神、大田神、大宮毘売神、水波女神、澳津彦神、澳津姫神、火産霊神、春日大神、西原紀伊守室万、《主》熊野大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町西原698番地"
     },
     "directory": {
       "number": "H-21123",
-      "display_number": "39-01386",
+      "display_number": "39-01385",
       "index_name": "三熊野神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町西原698番地",
@@ -18568,6 +18737,7 @@
         "kami_verbatim": "《合》六十余州一宮所祭神、誉田別天皇、倉稲魂神、大田神、大宮毘売神、水波女神、澳津彦神、澳津姫神、火産霊神、春日大神、西原紀伊守室万、《主》熊野大神",
         "historical_kami_verbatim": "《合》六十余州一宮所祭神、誉田別天皇、倉稲魂神、大田神、大宮毘売神、水波女神、澳津彦神、澳津姫神、火産霊神、春日大神、西原紀伊守室万、《主》熊野大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町西原698番地"
       }
@@ -18575,7 +18745,7 @@
   },
   {
     "id": "39-history-e5c2c3fe8228cf",
-    "no": 1387,
+    "no": 1386,
     "prefecture_code": 39,
     "name": "金上野神社",
     "kana": "",
@@ -18674,12 +18844,13 @@
       "kami_verbatim": "《合》諸国一宮所祭神、大山積神、興津彦神、興津姫神、《主》菅原道真",
       "historical_kami_verbatim": "《合》諸国一宮所祭神、大山積神、興津彦神、興津姫神、《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町金上野1564番地"
     },
     "directory": {
       "number": "H-21124",
-      "display_number": "39-01387",
+      "display_number": "39-01386",
       "index_name": "金上野神社",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町金上野1564番地",
@@ -18702,6 +18873,7 @@
         "kami_verbatim": "《合》諸国一宮所祭神、大山積神、興津彦神、興津姫神、《主》菅原道真",
         "historical_kami_verbatim": "《合》諸国一宮所祭神、大山積神、興津彦神、興津姫神、《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町金上野1564番地"
       }
@@ -18709,7 +18881,7 @@
   },
   {
     "id": "39-history-9ad62502a196bb",
-    "no": 1388,
+    "no": 1387,
     "prefecture_code": 39,
     "name": "天神宮",
     "kana": "",
@@ -18796,12 +18968,13 @@
       "kami_verbatim": "《主》菅原道真",
       "historical_kami_verbatim": "《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": "高知県高岡郡四万十町西川角125番地"
     },
     "directory": {
       "number": "H-21125",
-      "display_number": "39-01388",
+      "display_number": "39-01387",
       "index_name": "天神宮",
       "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
       "listed_address": "高知県高岡郡四万十町西川角125番地",
@@ -18824,8 +18997,133 @@
         "kami_verbatim": "《主》菅原道真",
         "historical_kami_verbatim": "《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": "高知県高岡郡四万十町西川角125番地"
+      }
+    }
+  },
+  {
+    "id": "39-history-ca433748b5bca9",
+    "no": 1388,
+    "prefecture_code": 39,
+    "name": "春日神社",
+    "kana": "",
+    "area": "全域",
+    "municipality": "高岡郡四万十町",
+    "aliases": [],
+    "headline": "历史表 · 春日大神",
+    "tags": [
+      "研究会名录",
+      "历史资料待核",
+      "历史地址",
+      "未定位"
+    ],
+    "intro": "高知県高岡郡四万十町的来源记录；具体所在地与祭神保留逐项出处。",
+    "sources": [
+      {
+        "label": "神社史研究会｜高知県・条目21126",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=21126",
+        "kind": "研究会检索资料（含历史调查）",
+        "covers": "神社名、当前／平成5年当时地址栏及祭神原表，读取自该地区完整检索结果；详情入口由公开结果提供，未逐页确认现况。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "39"
+          }
+        },
+        "profile_fetched": false
+      }
+    ],
+    "kami": [
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "春日大神"
+        ],
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": "39-history-ca433748b5bca9:1",
+        "name": "春日神社",
+        "label": "春日神社",
+        "address": "高知県高岡郡四万十町大向10番地",
+        "lat": null,
+        "lon": null,
+        "sources": [
+          0
+        ],
+        "map_status": "not_published",
+        "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
+        "address_status": "legacy_only",
+        "legacy_address": "高知県高岡郡四万十町大向10番地"
+      }
+    ],
+    "facts": [
+      {
+        "label": "来源版本",
+        "text": "研究会结果页同时列示当前地址栏与平成5年当时地址栏；本项目保留来源原栏，不自动把旧地址更新为现址。",
+        "nature": "来源范围",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "note": "研究会检索资料包括平成5年（1993）调查及合并前地址。本条未与当地机构名录作可靠同址匹配，不能当作现今神社状态、现址或当前祭神确认。",
+    "noteSources": [
+      0
+    ],
+    "checked": "2026-10-30",
+    "media": [],
+    "record_status": "historical_directory",
+    "availability": {
+      "kami": "published",
+      "history": "not_independently_researched"
+    },
+    "source_fields": {
+      "kami_verbatim": "《主》春日大神",
+      "historical_kami_verbatim": "《主》春日大神",
+      "former_rank": "",
+      "listed_region": null,
+      "source_address_current": "",
+      "source_address_historical": "高知県高岡郡四万十町大向10番地"
+    },
+    "directory": {
+      "number": "H-21126",
+      "display_number": "39-01388",
+      "index_name": "春日神社",
+      "index_url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "listed_address": "高知県高岡郡四万十町大向10番地",
+      "original_detail_url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=21126",
+      "detail_url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=21126",
+      "detail_status": "result_link_not_individually_fetched",
+      "checked": "2026-10-30",
+      "source_sha256": "7e01ceb572f62d187ab3f75b70ada3bb55b495cc34b3dba1f6ee91175457d9fd"
+    },
+    "provenance": {
+      "agency_source_id": null,
+      "national_source_id": "21126",
+      "identity_match": "not_merged",
+      "historical_only": true,
+      "address_precision": null,
+      "source_vintage": null,
+      "coordinate_kind": null,
+      "source_field_anomalies": null,
+      "source_fields": {
+        "kami_verbatim": "《主》春日大神",
+        "historical_kami_verbatim": "《主》春日大神",
+        "former_rank": "",
+        "listed_region": null,
+        "source_address_current": "",
+        "source_address_historical": "高知県高岡郡四万十町大向10番地"
       }
     }
   }

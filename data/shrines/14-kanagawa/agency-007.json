@@ -6,14 +6,15 @@
     "name": "守公神社",
     "kana": "しゅこうじんじゃ",
     "area": "全域",
-    "municipality": "〒259-0111中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "手摩乳命（てなずちのみこと）・脚摩乳命（あしなずちのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒259-0111中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜守公神社",
@@ -22,6 +23,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85806",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85806",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -34,6 +52,16 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "脚摩乳命",
+          "手摩乳命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -41,7 +69,7 @@
         "id": "14-agency-74f21d136a9abd:1",
         "name": "守公神社",
         "label": "守公神社",
-        "address": "神奈川県〒259-0111 中郡 大磯町 国府本郷1120ｰ11",
+        "address": "神奈川県中郡 大磯町 国府本郷1120ｰ11",
         "lat": null,
         "lon": null,
         "sources": [
@@ -50,10 +78,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町国府本郷1120-11"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -67,17 +105,18 @@
     },
     "source_fields": {
       "kami_verbatim": "手摩乳命（てなずちのみこと）\n脚摩乳命（あしなずちのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》脚摩乳命、手摩乳命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-0111 中郡 大磯町 国府本郷1120ｰ11",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町国府本郷1120-11"
     },
     "directory": {
       "number": "A-1209244-000",
       "display_number": "14-00901",
       "index_name": "守公神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-0111 中郡 大磯町 国府本郷1120ｰ11",
+      "listed_address": "神奈川県中郡 大磯町 国府本郷1120ｰ11",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209244-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209244-000/",
       "detail_status": "published_agency_record",
@@ -86,8 +125,8 @@
     },
     "provenance": {
       "agency_source_id": "1209244-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85806",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -95,10 +134,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "手摩乳命（てなずちのみこと）\n脚摩乳命（あしなずちのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》脚摩乳命、手摩乳命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-0111 中郡 大磯町 国府本郷1120ｰ11",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町国府本郷1120-11"
       }
     }
   },
@@ -109,14 +149,15 @@
     "name": "高来神社",
     "kana": "たかくじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0001中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "天津彦穂迩迩伎尊（あまつひこほのににぎのみこと）・神皇産霊尊（かんみむすびのみこと）",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒255-0001中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜高来神社",
@@ -144,7 +185,7 @@
         "id": "14-agency-318fca76ed8920:1",
         "name": "高来神社",
         "label": "高来神社",
-        "address": "神奈川県〒255-0001 中郡 大磯町 高麗2-9-47",
+        "address": "神奈川県中郡 大磯町 高麗2-9-47",
         "lat": null,
         "lon": null,
         "sources": [
@@ -172,6 +213,7 @@
       "kami_verbatim": "天津彦穂迩迩伎尊（あまつひこほのににぎのみこと）\n神皇産霊尊（かんみむすびのみこと）",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0001 中郡 大磯町 高麗2-9-47",
       "source_address_historical": ""
     },
@@ -180,7 +222,7 @@
       "display_number": "14-00902",
       "index_name": "高来神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0001 中郡 大磯町 高麗2-9-47",
+      "listed_address": "神奈川県中郡 大磯町 高麗2-9-47",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209245-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209245-000/",
       "detail_status": "published_agency_record",
@@ -200,6 +242,7 @@
         "kami_verbatim": "天津彦穂迩迩伎尊（あまつひこほのににぎのみこと）\n神皇産霊尊（かんみむすびのみこと）",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0001 中郡 大磯町 高麗2-9-47",
         "source_address_historical": ""
       }
@@ -212,14 +255,15 @@
     "name": "白岩神社",
     "kana": "しらいわじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0005中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "伊弉冊命（いざなみのみこと）・伊弉諾命（いざなぎのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒255-0005中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜白岩神社",
@@ -228,6 +272,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目644",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=644",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -240,6 +301,16 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "伊弉諾命",
+          "伊弉冊命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -247,7 +318,7 @@
         "id": "14-agency-fc37bf30df9771:1",
         "name": "白岩神社",
         "label": "白岩神社",
-        "address": "神奈川県〒255-0005 中郡 大磯町 西小磯853",
+        "address": "神奈川県中郡 大磯町 西小磯853",
         "lat": null,
         "lon": null,
         "sources": [
@@ -256,10 +327,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町西小磯853"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -273,17 +354,18 @@
     },
     "source_fields": {
       "kami_verbatim": "伊弉冊命（いざなみのみこと）\n伊弉諾命（いざなぎのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》伊弉諾命、伊弉冊命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0005 中郡 大磯町 西小磯853",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町西小磯853"
     },
     "directory": {
       "number": "A-1209246-000",
       "display_number": "14-00903",
       "index_name": "白岩神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0005 中郡 大磯町 西小磯853",
+      "listed_address": "神奈川県中郡 大磯町 西小磯853",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209246-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209246-000/",
       "detail_status": "published_agency_record",
@@ -292,8 +374,8 @@
     },
     "provenance": {
       "agency_source_id": "1209246-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "644",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -301,10 +383,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "伊弉冊命（いざなみのみこと）\n伊弉諾命（いざなぎのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》伊弉諾命、伊弉冊命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0005 中郡 大磯町 西小磯853",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町西小磯853"
       }
     }
   },
@@ -315,14 +398,16 @@
     "name": "八坂神社",
     "kana": "やさかじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0005中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "素盞嗚命（すさのおのみこと）",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒255-0005中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜八坂神社",
@@ -331,6 +416,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85809",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85809",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -342,6 +444,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "素盞嗚命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -349,7 +460,7 @@
         "id": "14-agency-f205c8dafd1bce:1",
         "name": "八坂神社",
         "label": "八坂神社",
-        "address": "神奈川県〒255-0005 中郡 大磯町 西小磯279",
+        "address": "神奈川県中郡 大磯町 西小磯279",
         "lat": null,
         "lon": null,
         "sources": [
@@ -358,10 +469,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町西小磯279"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -375,17 +496,18 @@
     },
     "source_fields": {
       "kami_verbatim": "素盞嗚命（すさのおのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》素盞嗚命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0005 中郡 大磯町 西小磯279",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町西小磯279"
     },
     "directory": {
       "number": "A-1209247-000",
       "display_number": "14-00904",
       "index_name": "八坂神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0005 中郡 大磯町 西小磯279",
+      "listed_address": "神奈川県中郡 大磯町 西小磯279",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209247-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209247-000/",
       "detail_status": "published_agency_record",
@@ -394,8 +516,8 @@
     },
     "provenance": {
       "agency_source_id": "1209247-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85809",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -403,10 +525,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "素盞嗚命（すさのおのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》素盞嗚命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0005 中郡 大磯町 西小磯279",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町西小磯279"
       }
     }
   },
@@ -417,14 +540,15 @@
     "name": "宇賀神社",
     "kana": "うがじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0005中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "大食津姫命（おおみけつひめのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒255-0005中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜宇賀神社",
@@ -433,6 +557,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85810",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85810",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -444,6 +585,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "大食津姫命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -451,7 +601,7 @@
         "id": "14-agency-f38ea92cce6d33:1",
         "name": "宇賀神社",
         "label": "宇賀神社",
-        "address": "神奈川県〒255-0005 中郡 大磯町 西小磯11",
+        "address": "神奈川県中郡 大磯町 西小磯11",
         "lat": null,
         "lon": null,
         "sources": [
@@ -460,10 +610,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町西小磯11"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -477,17 +637,18 @@
     },
     "source_fields": {
       "kami_verbatim": "大食津姫命（おおみけつひめのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》大食津姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0005 中郡 大磯町 西小磯11",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町西小磯11"
     },
     "directory": {
       "number": "A-1209248-000",
       "display_number": "14-00905",
       "index_name": "宇賀神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0005 中郡 大磯町 西小磯11",
+      "listed_address": "神奈川県中郡 大磯町 西小磯11",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209248-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209248-000/",
       "detail_status": "published_agency_record",
@@ -496,8 +657,8 @@
     },
     "provenance": {
       "agency_source_id": "1209248-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85810",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -505,10 +666,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "大食津姫命（おおみけつひめのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》大食津姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0005 中郡 大磯町 西小磯11",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町西小磯11"
       }
     }
   },
@@ -519,14 +681,15 @@
     "name": "神明神社",
     "kana": "しんめいじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0003中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "天照皇大御神（あまてらすすめおおみかみ）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒255-0003中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜神明神社",
@@ -535,6 +698,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85811",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85811",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -546,6 +726,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "天照皇大御神"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -553,7 +742,7 @@
         "id": "14-agency-27d3352c5fc0dc:1",
         "name": "神明神社",
         "label": "神明神社",
-        "address": "神奈川県〒255-0003 中郡 大磯町 大磯978",
+        "address": "神奈川県中郡 大磯町 大磯978",
         "lat": null,
         "lon": null,
         "sources": [
@@ -562,10 +751,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町大磯978"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -579,17 +778,18 @@
     },
     "source_fields": {
       "kami_verbatim": "天照皇大御神（あまてらすすめおおみかみ）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》天照皇大御神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0003 中郡 大磯町 大磯978",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町大磯978"
     },
     "directory": {
       "number": "A-1209249-000",
       "display_number": "14-00906",
       "index_name": "神明神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0003 中郡 大磯町 大磯978",
+      "listed_address": "神奈川県中郡 大磯町 大磯978",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209249-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209249-000/",
       "detail_status": "published_agency_record",
@@ -598,8 +798,8 @@
     },
     "provenance": {
       "agency_source_id": "1209249-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85811",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -607,10 +807,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "天照皇大御神（あまてらすすめおおみかみ）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》天照皇大御神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0003 中郡 大磯町 大磯978",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町大磯978"
       }
     }
   },
@@ -621,14 +822,15 @@
     "name": "日枝神社",
     "kana": "ひえじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0003中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "大山祇命（おおやまつみのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒255-0003中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜日枝神社",
@@ -637,6 +839,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85812",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85812",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -648,6 +867,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "大山祇命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -655,7 +883,7 @@
         "id": "14-agency-c81bea7c085e94:1",
         "name": "日枝神社",
         "label": "日枝神社",
-        "address": "神奈川県〒255-0003 中郡 大磯町 大磯1825",
+        "address": "神奈川県中郡 大磯町 大磯1825",
         "lat": null,
         "lon": null,
         "sources": [
@@ -664,10 +892,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町大磯1825"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -681,17 +919,18 @@
     },
     "source_fields": {
       "kami_verbatim": "大山祇命（おおやまつみのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》大山祇命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0003 中郡 大磯町 大磯1825",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町大磯1825"
     },
     "directory": {
       "number": "A-1209250-000",
       "display_number": "14-00907",
       "index_name": "日枝神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0003 中郡 大磯町 大磯1825",
+      "listed_address": "神奈川県中郡 大磯町 大磯1825",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209250-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209250-000/",
       "detail_status": "published_agency_record",
@@ -700,8 +939,8 @@
     },
     "provenance": {
       "agency_source_id": "1209250-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85812",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -709,10 +948,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "大山祇命（おおやまつみのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》大山祇命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0003 中郡 大磯町 大磯1825",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町大磯1825"
       }
     }
   },
@@ -723,14 +963,16 @@
     "name": "御嶽神社",
     "kana": "おんたけじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0004中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "日本武尊（やまとたけるのみこと）",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒255-0004中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜御嶽神社",
@@ -739,6 +981,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85813",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85813",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -750,6 +1009,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "日本武尊"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -757,7 +1025,7 @@
         "id": "14-agency-d96f40cf83db8e:1",
         "name": "御嶽神社",
         "label": "御嶽神社",
-        "address": "神奈川県〒255-0004 中郡 大磯町 東小磯1006",
+        "address": "神奈川県中郡 大磯町 東小磯1006",
         "lat": null,
         "lon": null,
         "sources": [
@@ -766,10 +1034,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町東小磯1006"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -783,17 +1061,18 @@
     },
     "source_fields": {
       "kami_verbatim": "日本武尊（やまとたけるのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》日本武尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0004 中郡 大磯町 東小磯1006",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町東小磯1006"
     },
     "directory": {
       "number": "A-1209251-000",
       "display_number": "14-00908",
       "index_name": "御嶽神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0004 中郡 大磯町 東小磯1006",
+      "listed_address": "神奈川県中郡 大磯町 東小磯1006",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209251-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209251-000/",
       "detail_status": "published_agency_record",
@@ -802,8 +1081,8 @@
     },
     "provenance": {
       "agency_source_id": "1209251-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85813",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -811,10 +1090,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "日本武尊（やまとたけるのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》日本武尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0004 中郡 大磯町 東小磯1006",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町東小磯1006"
       }
     }
   },
@@ -825,14 +1105,15 @@
     "name": "賽神社",
     "kana": "さいじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0003中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "猿田彦命（さるたひこのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒255-0003中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜賽神社",
@@ -841,6 +1122,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目645",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=645",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -852,6 +1150,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "猿田彦命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -859,7 +1166,7 @@
         "id": "14-agency-59a5c81d2e1036:1",
         "name": "賽神社",
         "label": "賽神社",
-        "address": "神奈川県〒255-0003 中郡 大磯町 大磯1681",
+        "address": "神奈川県中郡 大磯町 大磯1681",
         "lat": null,
         "lon": null,
         "sources": [
@@ -868,10 +1175,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町大磯1681"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -885,17 +1202,18 @@
     },
     "source_fields": {
       "kami_verbatim": "猿田彦命（さるたひこのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》猿田彦命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0003 中郡 大磯町 大磯1681",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町大磯1681"
     },
     "directory": {
       "number": "A-1209252-000",
       "display_number": "14-00909",
       "index_name": "賽神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0003 中郡 大磯町 大磯1681",
+      "listed_address": "神奈川県中郡 大磯町 大磯1681",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209252-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209252-000/",
       "detail_status": "published_agency_record",
@@ -904,8 +1222,8 @@
     },
     "provenance": {
       "agency_source_id": "1209252-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "645",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -913,10 +1231,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "猿田彦命（さるたひこのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》猿田彦命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0003 中郡 大磯町 大磯1681",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町大磯1681"
       }
     }
   },
@@ -927,14 +1246,15 @@
     "name": "熊野神社",
     "kana": "くまのじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0003中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "素盞嗚命（すさのおのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒255-0003中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜熊野神社",
@@ -943,6 +1263,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85815",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85815",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -954,6 +1291,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "素盞嗚命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -961,7 +1307,7 @@
         "id": "14-agency-c8107cc630333e:1",
         "name": "熊野神社",
         "label": "熊野神社",
-        "address": "神奈川県〒255-0003 中郡 大磯町 大磯1532",
+        "address": "神奈川県中郡 大磯町 大磯1532",
         "lat": null,
         "lon": null,
         "sources": [
@@ -970,10 +1316,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町大磯1532"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -987,17 +1343,18 @@
     },
     "source_fields": {
       "kami_verbatim": "素盞嗚命（すさのおのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》素盞嗚命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0003 中郡 大磯町 大磯1532",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町大磯1532"
     },
     "directory": {
       "number": "A-1209253-000",
       "display_number": "14-00910",
       "index_name": "熊野神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0003 中郡 大磯町 大磯1532",
+      "listed_address": "神奈川県中郡 大磯町 大磯1532",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209253-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209253-000/",
       "detail_status": "published_agency_record",
@@ -1006,8 +1363,8 @@
     },
     "provenance": {
       "agency_source_id": "1209253-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85815",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -1015,10 +1372,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "素盞嗚命（すさのおのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》素盞嗚命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0003 中郡 大磯町 大磯1532",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町大磯1532"
       }
     }
   },
@@ -1029,14 +1387,15 @@
     "name": "浅間神社",
     "kana": "あさまじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0003中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "木花咲耶姫命（このはなさくやひめのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒255-0003中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜浅間神社",
@@ -1045,6 +1404,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85816",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85816",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -1056,6 +1432,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "木花咲耶姫命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -1063,7 +1448,7 @@
         "id": "14-agency-3a8770c1757270:1",
         "name": "浅間神社",
         "label": "浅間神社",
-        "address": "神奈川県〒255-0003 中郡 大磯町 大磯1592",
+        "address": "神奈川県中郡 大磯町 大磯1592",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1072,10 +1457,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町大磯1592"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -1089,17 +1484,18 @@
     },
     "source_fields": {
       "kami_verbatim": "木花咲耶姫命（このはなさくやひめのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》木花咲耶姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0003 中郡 大磯町 大磯1592",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町大磯1592"
     },
     "directory": {
       "number": "A-1209254-000",
       "display_number": "14-00911",
       "index_name": "浅間神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0003 中郡 大磯町 大磯1592",
+      "listed_address": "神奈川県中郡 大磯町 大磯1592",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209254-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209254-000/",
       "detail_status": "published_agency_record",
@@ -1108,8 +1504,8 @@
     },
     "provenance": {
       "agency_source_id": "1209254-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85816",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -1117,10 +1513,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "木花咲耶姫命（このはなさくやひめのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》木花咲耶姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0003 中郡 大磯町 大磯1592",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町大磯1592"
       }
     }
   },
@@ -1131,14 +1528,15 @@
     "name": "愛宕神社",
     "kana": "あたごじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0003中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "火具土神（かぐつちのかみ）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒255-0003中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜愛宕神社",
@@ -1147,6 +1545,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85817",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85817",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -1158,6 +1573,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "火具土神"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -1165,7 +1589,7 @@
         "id": "14-agency-430b1f03013995:1",
         "name": "愛宕神社",
         "label": "愛宕神社",
-        "address": "神奈川県〒255-0003 中郡 大磯町 大磯1146",
+        "address": "神奈川県中郡 大磯町 大磯1146",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1174,10 +1598,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町大磯1146"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -1191,17 +1625,18 @@
     },
     "source_fields": {
       "kami_verbatim": "火具土神（かぐつちのかみ）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》火具土神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0003 中郡 大磯町 大磯1146",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町大磯1146"
     },
     "directory": {
       "number": "A-1209255-000",
       "display_number": "14-00912",
       "index_name": "愛宕神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0003 中郡 大磯町 大磯1146",
+      "listed_address": "神奈川県中郡 大磯町 大磯1146",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209255-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209255-000/",
       "detail_status": "published_agency_record",
@@ -1210,8 +1645,8 @@
     },
     "provenance": {
       "agency_source_id": "1209255-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85817",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -1219,10 +1654,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "火具土神（かぐつちのかみ）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》火具土神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0003 中郡 大磯町 大磯1146",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町大磯1146"
       }
     }
   },
@@ -1233,14 +1669,15 @@
     "name": "白山神社",
     "kana": "はくさんじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0003中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "伊弉冊命（いざなみのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒255-0003中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜白山神社",
@@ -1249,6 +1686,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85818",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85818",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -1260,6 +1714,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "伊弉冊命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -1267,7 +1730,7 @@
         "id": "14-agency-b9539baab5a2e9:1",
         "name": "白山神社",
         "label": "白山神社",
-        "address": "神奈川県〒255-0003 中郡 大磯町 大磯1253",
+        "address": "神奈川県中郡 大磯町 大磯1253",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1276,10 +1739,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町大磯1253"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -1293,17 +1766,18 @@
     },
     "source_fields": {
       "kami_verbatim": "伊弉冊命（いざなみのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》伊弉冊命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0003 中郡 大磯町 大磯1253",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町大磯1253"
     },
     "directory": {
       "number": "A-1209256-000",
       "display_number": "14-00913",
       "index_name": "白山神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0003 中郡 大磯町 大磯1253",
+      "listed_address": "神奈川県中郡 大磯町 大磯1253",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209256-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209256-000/",
       "detail_status": "published_agency_record",
@@ -1312,8 +1786,8 @@
     },
     "provenance": {
       "agency_source_id": "1209256-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85818",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -1321,10 +1795,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "伊弉冊命（いざなみのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》伊弉冊命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0003 中郡 大磯町 大磯1253",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町大磯1253"
       }
     }
   },
@@ -1335,14 +1810,15 @@
     "name": "稲荷神社",
     "kana": "いなりじんじゃ",
     "area": "全域",
-    "municipality": "〒255-0004中郡大磯町",
+    "municipality": "中郡大磯町",
     "aliases": [],
     "headline": "大食津姫命（おおみけつひめのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒255-0004中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県中郡大磯町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜稲荷神社",
@@ -1351,6 +1827,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85819",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85819",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -1362,6 +1855,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "大食津姫命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -1369,7 +1871,7 @@
         "id": "14-agency-142d69e6876403:1",
         "name": "稲荷神社",
         "label": "稲荷神社",
-        "address": "神奈川県〒255-0004 中郡 大磯町 東小磯406",
+        "address": "神奈川県中郡 大磯町 東小磯406",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1378,10 +1880,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県中郡大磯町東小磯406"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -1395,17 +1907,18 @@
     },
     "source_fields": {
       "kami_verbatim": "大食津姫命（おおみけつひめのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》大食津姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒255-0004 中郡 大磯町 東小磯406",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県中郡大磯町東小磯406"
     },
     "directory": {
       "number": "A-1209257-000",
       "display_number": "14-00914",
       "index_name": "稲荷神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒255-0004 中郡 大磯町 東小磯406",
+      "listed_address": "神奈川県中郡 大磯町 東小磯406",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209257-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209257-000/",
       "detail_status": "published_agency_record",
@@ -1414,8 +1927,8 @@
     },
     "provenance": {
       "agency_source_id": "1209257-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85819",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -1423,10 +1936,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "大食津姫命（おおみけつひめのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》大食津姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒255-0004 中郡 大磯町 東小磯406",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県中郡大磯町東小磯406"
       }
     }
   },
@@ -1437,14 +1951,15 @@
     "name": "岩戸分神社",
     "kana": "いわとわけじんじゃ",
     "area": "全域",
-    "municipality": "〒254-0912平塚市",
+    "municipality": "平塚市",
     "aliases": [],
     "headline": "手力男命（たじからおのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒254-0912平塚市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県平塚市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜岩戸分神社",
@@ -1453,6 +1968,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85820",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85820",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -1464,6 +1996,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "手力男命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -1471,7 +2012,7 @@
         "id": "14-agency-24573fd13fdbac:1",
         "name": "岩戸分神社",
         "label": "岩戸分神社",
-        "address": "神奈川県〒254-0912 平塚市 高根116",
+        "address": "神奈川県平塚市 高根116",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1480,10 +2021,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県平塚市高根116"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -1497,17 +2048,18 @@
     },
     "source_fields": {
       "kami_verbatim": "手力男命（たじからおのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》手力男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒254-0912 平塚市 高根116",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県平塚市高根116"
     },
     "directory": {
       "number": "A-1209258-000",
       "display_number": "14-00915",
       "index_name": "岩戸分神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒254-0912 平塚市 高根116",
+      "listed_address": "神奈川県平塚市 高根116",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209258-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209258-000/",
       "detail_status": "published_agency_record",
@@ -1516,8 +2068,8 @@
     },
     "provenance": {
       "agency_source_id": "1209258-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85820",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -1525,10 +2077,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "手力男命（たじからおのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》手力男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒254-0912 平塚市 高根116",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県平塚市高根116"
       }
     }
   },
@@ -1539,14 +2092,15 @@
     "name": "相武国造神社",
     "kana": "そうぶこくぞうじんじゃ",
     "area": "全域",
-    "municipality": "〒254-0913平塚市",
+    "municipality": "平塚市",
     "aliases": [],
     "headline": "日本武尊（やまとたけるのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒254-0913平塚市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県平塚市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜相武国造神社",
@@ -1555,6 +2109,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85821",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85821",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -1566,6 +2137,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "日本武尊"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -1573,7 +2153,7 @@
         "id": "14-agency-3789d7b9715c37:1",
         "name": "相武国造神社",
         "label": "相武国造神社",
-        "address": "神奈川県〒254-0913 平塚市 万田816",
+        "address": "神奈川県平塚市 万田816",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1582,10 +2162,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県平塚市万田816"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -1599,17 +2189,18 @@
     },
     "source_fields": {
       "kami_verbatim": "日本武尊（やまとたけるのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》日本武尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒254-0913 平塚市 万田816",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県平塚市万田816"
     },
     "directory": {
       "number": "A-1209259-000",
       "display_number": "14-00916",
       "index_name": "相武国造神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒254-0913 平塚市 万田816",
+      "listed_address": "神奈川県平塚市 万田816",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209259-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209259-000/",
       "detail_status": "published_agency_record",
@@ -1618,8 +2209,8 @@
     },
     "provenance": {
       "agency_source_id": "1209259-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85821",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -1627,10 +2218,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "日本武尊（やまとたけるのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》日本武尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒254-0913 平塚市 万田816",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県平塚市万田816"
       }
     }
   },
@@ -1641,14 +2233,15 @@
     "name": "蔵王神社",
     "kana": "ざおうじんじゃ",
     "area": "全域",
-    "municipality": "〒254-0913平塚市",
+    "municipality": "平塚市",
     "aliases": [],
     "headline": "国造太刀命（こくぞうたちのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒254-0913平塚市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県平塚市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜蔵王神社",
@@ -1657,6 +2250,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85822",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85822",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -1668,6 +2278,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "国造太刀命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -1675,7 +2294,7 @@
         "id": "14-agency-73e9c31afd31c9:1",
         "name": "蔵王神社",
         "label": "蔵王神社",
-        "address": "神奈川県〒254-0913 平塚市 万田1029",
+        "address": "神奈川県平塚市 万田1029",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1684,10 +2303,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県平塚市万田1029"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -1701,17 +2330,18 @@
     },
     "source_fields": {
       "kami_verbatim": "国造太刀命（こくぞうたちのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》国造太刀命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒254-0913 平塚市 万田1029",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県平塚市万田1029"
     },
     "directory": {
       "number": "A-1209260-000",
       "display_number": "14-00917",
       "index_name": "蔵王神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒254-0913 平塚市 万田1029",
+      "listed_address": "神奈川県平塚市 万田1029",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209260-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209260-000/",
       "detail_status": "published_agency_record",
@@ -1720,8 +2350,8 @@
     },
     "provenance": {
       "agency_source_id": "1209260-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85822",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -1729,10 +2359,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "国造太刀命（こくぞうたちのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》国造太刀命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒254-0913 平塚市 万田1029",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県平塚市万田1029"
       }
     }
   },
@@ -1743,14 +2374,14 @@
     "name": "高森神社",
     "kana": "たかもりじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1114伊勢原市",
+    "municipality": "伊勢原市",
     "aliases": [],
     "headline": "味須岐高彦根命（あじすきたかひこねのみこと）",
     "tags": [
       "机构公开名录",
       "未定位"
     ],
-    "intro": "神奈川県〒259-1114伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜高森神社",
@@ -1777,7 +2408,7 @@
         "id": "14-agency-ed075d7c31e2df:1",
         "name": "高森神社",
         "label": "高森神社",
-        "address": "神奈川県〒259-1114 伊勢原市 高森527",
+        "address": "神奈川県伊勢原市 高森527",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1805,6 +2436,7 @@
       "kami_verbatim": "味須岐高彦根命（あじすきたかひこねのみこと）",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1114 伊勢原市 高森527",
       "source_address_historical": ""
     },
@@ -1813,7 +2445,7 @@
       "display_number": "14-00918",
       "index_name": "高森神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1114 伊勢原市 高森527",
+      "listed_address": "神奈川県伊勢原市 高森527",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209261-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209261-000/",
       "detail_status": "published_agency_record",
@@ -1833,6 +2465,7 @@
         "kami_verbatim": "味須岐高彦根命（あじすきたかひこねのみこと）",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1114 伊勢原市 高森527",
         "source_address_historical": ""
       }
@@ -1845,14 +2478,15 @@
     "name": "高部屋神社",
     "kana": "たかべやじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1143伊勢原市",
+    "municipality": "伊勢原市",
     "aliases": [],
     "headline": "誉田別命（ほむだわけのみこと）・神倭伊波礼彦命（かんやまといわれひこのみこと） 等",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒259-1143伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜高部屋神社",
@@ -1884,7 +2518,7 @@
         "id": "14-agency-995f5bfb9ca9cc:1",
         "name": "高部屋神社",
         "label": "高部屋神社",
-        "address": "神奈川県〒259-1143 伊勢原市 下糟屋2202",
+        "address": "神奈川県伊勢原市 下糟屋2202",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1912,6 +2546,7 @@
       "kami_verbatim": "誉田別命（ほむだわけのみこと）\n神倭伊波礼彦命（かんやまといわれひこのみこと）\n三筒男命（みつつおのみこと）\n大鷦鶺命（おおさざきのみこと）\n息気長足姫命（おきながたらしひめのみこと）\n磐之姫命（いわのひめのみこと）",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1143 伊勢原市 下糟屋2202",
       "source_address_historical": ""
     },
@@ -1920,7 +2555,7 @@
       "display_number": "14-00919",
       "index_name": "高部屋神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1143 伊勢原市 下糟屋2202",
+      "listed_address": "神奈川県伊勢原市 下糟屋2202",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209262-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209262-000/",
       "detail_status": "published_agency_record",
@@ -1940,6 +2575,7 @@
         "kami_verbatim": "誉田別命（ほむだわけのみこと）\n神倭伊波礼彦命（かんやまといわれひこのみこと）\n三筒男命（みつつおのみこと）\n大鷦鶺命（おおさざきのみこと）\n息気長足姫命（おきながたらしひめのみこと）\n磐之姫命（いわのひめのみこと）",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1143 伊勢原市 下糟屋2202",
         "source_address_historical": ""
       }
@@ -1952,14 +2588,15 @@
     "name": "粟窪神社",
     "kana": "あわくぼじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1113伊勢原市",
+    "municipality": "伊勢原市",
     "aliases": [],
     "headline": "健速須佐之男命（たけはやすさのおのみこと）・粟窪大神（あわくぼおおかみ）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒259-1113伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜粟窪神社",
@@ -1968,6 +2605,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85824",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85824",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -1980,6 +2634,16 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "粟窪大神",
+          "健速須佐之男命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -1987,7 +2651,7 @@
         "id": "14-agency-f87c207159b917:1",
         "name": "粟窪神社",
         "label": "粟窪神社",
-        "address": "神奈川県〒259-1113 伊勢原市 粟窪73",
+        "address": "神奈川県伊勢原市 粟窪73",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1996,10 +2660,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県伊勢原市粟窪73"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -2013,17 +2687,18 @@
     },
     "source_fields": {
       "kami_verbatim": "健速須佐之男命（たけはやすさのおのみこと）\n粟窪大神（あわくぼおおかみ）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》粟窪大神、健速須佐之男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1113 伊勢原市 粟窪73",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県伊勢原市粟窪73"
     },
     "directory": {
       "number": "A-1209263-000",
       "display_number": "14-00920",
       "index_name": "粟窪神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1113 伊勢原市 粟窪73",
+      "listed_address": "神奈川県伊勢原市 粟窪73",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209263-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209263-000/",
       "detail_status": "published_agency_record",
@@ -2032,8 +2707,8 @@
     },
     "provenance": {
       "agency_source_id": "1209263-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85824",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -2041,10 +2716,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "健速須佐之男命（たけはやすさのおのみこと）\n粟窪大神（あわくぼおおかみ）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》粟窪大神、健速須佐之男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1113 伊勢原市 粟窪73",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県伊勢原市粟窪73"
       }
     }
   },
@@ -2055,14 +2731,16 @@
     "name": "八幡神社",
     "kana": "はちまんじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1112伊勢原市",
+    "municipality": "伊勢原市",
     "aliases": [],
     "headline": "誉田別命（ほむだわけのみこと）",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒259-1112伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜八幡神社",
@@ -2071,6 +2749,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85825",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85825",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -2082,6 +2777,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -2089,7 +2793,7 @@
         "id": "14-agency-3730d9bb7f1b10:1",
         "name": "八幡神社",
         "label": "八幡神社",
-        "address": "神奈川県〒259-1112 伊勢原市 東富岡357",
+        "address": "神奈川県伊勢原市 東富岡357",
         "lat": null,
         "lon": null,
         "sources": [
@@ -2098,10 +2802,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県伊勢原市東富岡357"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -2115,17 +2829,18 @@
     },
     "source_fields": {
       "kami_verbatim": "誉田別命（ほむだわけのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1112 伊勢原市 東富岡357",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県伊勢原市東富岡357"
     },
     "directory": {
       "number": "A-1209264-000",
       "display_number": "14-00921",
       "index_name": "八幡神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1112 伊勢原市 東富岡357",
+      "listed_address": "神奈川県伊勢原市 東富岡357",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209264-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209264-000/",
       "detail_status": "published_agency_record",
@@ -2134,8 +2849,8 @@
     },
     "provenance": {
       "agency_source_id": "1209264-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85825",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -2143,10 +2858,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "誉田別命（ほむだわけのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1112 伊勢原市 東富岡357",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県伊勢原市東富岡357"
       }
     }
   },
@@ -2157,14 +2873,15 @@
     "name": "八幡神社",
     "kana": "はちまんじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1114伊勢原市",
+    "municipality": "伊勢原市",
     "aliases": [],
     "headline": "誉田別命（ほむだわけのみこと）",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒259-1114伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜八幡神社",
@@ -2191,7 +2908,7 @@
         "id": "14-agency-ebfdad4f002d78:1",
         "name": "八幡神社",
         "label": "八幡神社",
-        "address": "神奈川県〒259-1114 伊勢原市 高森1-22-11",
+        "address": "神奈川県伊勢原市 高森1-22-11",
         "lat": null,
         "lon": null,
         "sources": [
@@ -2219,6 +2936,7 @@
       "kami_verbatim": "誉田別命（ほむだわけのみこと）",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1114 伊勢原市 高森1-22-11",
       "source_address_historical": ""
     },
@@ -2227,7 +2945,7 @@
       "display_number": "14-00922",
       "index_name": "八幡神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1114 伊勢原市 高森1-22-11",
+      "listed_address": "神奈川県伊勢原市 高森1-22-11",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209265-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209265-000/",
       "detail_status": "published_agency_record",
@@ -2247,6 +2965,7 @@
         "kami_verbatim": "誉田別命（ほむだわけのみこと）",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1114 伊勢原市 高森1-22-11",
         "source_address_historical": ""
       }
@@ -2259,14 +2978,15 @@
     "name": "子安神社",
     "kana": "こやすじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1116伊勢原市",
+    "municipality": "伊勢原市",
     "aliases": [],
     "headline": "伊弉冊尊（いざなみのみこと）・伊弉諾尊（いざなぎのみこと）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒259-1116伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜子安神社",
@@ -2275,6 +2995,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85827",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85827",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -2287,6 +3024,16 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "伊弉諾尊",
+          "伊弉冊尊"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -2294,7 +3041,7 @@
         "id": "14-agency-0b67f131f14941:1",
         "name": "子安神社",
         "label": "子安神社",
-        "address": "神奈川県〒259-1116 伊勢原市 石田707",
+        "address": "神奈川県伊勢原市 石田707",
         "lat": null,
         "lon": null,
         "sources": [
@@ -2303,10 +3050,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県伊勢原市石田707"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -2320,17 +3077,18 @@
     },
     "source_fields": {
       "kami_verbatim": "伊弉冊尊（いざなみのみこと）\n伊弉諾尊（いざなぎのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》伊弉諾尊、伊弉冊尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1116 伊勢原市 石田707",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県伊勢原市石田707"
     },
     "directory": {
       "number": "A-1209266-000",
       "display_number": "14-00923",
       "index_name": "子安神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1116 伊勢原市 石田707",
+      "listed_address": "神奈川県伊勢原市 石田707",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209266-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209266-000/",
       "detail_status": "published_agency_record",
@@ -2339,8 +3097,8 @@
     },
     "provenance": {
       "agency_source_id": "1209266-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85827",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -2348,10 +3106,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "伊弉冊尊（いざなみのみこと）\n伊弉諾尊（いざなぎのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》伊弉諾尊、伊弉冊尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1116 伊勢原市 石田707",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県伊勢原市石田707"
       }
     }
   },
@@ -2362,14 +3121,16 @@
     "name": "八幡神社",
     "kana": "はちまんじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1118伊勢原市",
+    "municipality": "伊勢原市",
     "aliases": [],
     "headline": "誉田別命（ほむだわけのみこと）",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒259-1118伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜八幡神社",
@@ -2378,6 +3139,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85828",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85828",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -2389,6 +3167,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -2396,7 +3183,7 @@
         "id": "14-agency-7f9d23a239869a:1",
         "name": "八幡神社",
         "label": "八幡神社",
-        "address": "神奈川県〒259-1118 伊勢原市 見附島259",
+        "address": "神奈川県伊勢原市 見附島259",
         "lat": null,
         "lon": null,
         "sources": [
@@ -2405,10 +3192,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県伊勢原市見附島259"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -2422,17 +3219,18 @@
     },
     "source_fields": {
       "kami_verbatim": "誉田別命（ほむだわけのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1118 伊勢原市 見附島259",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県伊勢原市見附島259"
     },
     "directory": {
       "number": "A-1209267-000",
       "display_number": "14-00924",
       "index_name": "八幡神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1118 伊勢原市 見附島259",
+      "listed_address": "神奈川県伊勢原市 見附島259",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209267-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209267-000/",
       "detail_status": "published_agency_record",
@@ -2441,8 +3239,8 @@
     },
     "provenance": {
       "agency_source_id": "1209267-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85828",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -2450,10 +3248,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "誉田別命（ほむだわけのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1118 伊勢原市 見附島259",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県伊勢原市見附島259"
       }
     }
   },
@@ -2464,14 +3263,16 @@
     "name": "八幡神社",
     "kana": "はちまんじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1121伊勢原市",
+    "municipality": "伊勢原市",
     "aliases": [],
     "headline": "誉田別命（ほむだわけのみこと）",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒259-1121伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜八幡神社",
@@ -2480,6 +3281,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85829",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85829",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -2491,6 +3309,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -2498,7 +3325,7 @@
         "id": "14-agency-4b3f98bf2cd6a9:1",
         "name": "八幡神社",
         "label": "八幡神社",
-        "address": "神奈川県〒259-1121 伊勢原市 下落合16",
+        "address": "神奈川県伊勢原市 下落合16",
         "lat": null,
         "lon": null,
         "sources": [
@@ -2507,10 +3334,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県伊勢原市下落合16"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -2524,17 +3361,18 @@
     },
     "source_fields": {
       "kami_verbatim": "誉田別命（ほむだわけのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1121 伊勢原市 下落合16",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県伊勢原市下落合16"
     },
     "directory": {
       "number": "A-1209268-000",
       "display_number": "14-00925",
       "index_name": "八幡神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1121 伊勢原市 下落合16",
+      "listed_address": "神奈川県伊勢原市 下落合16",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209268-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209268-000/",
       "detail_status": "published_agency_record",
@@ -2543,8 +3381,8 @@
     },
     "provenance": {
       "agency_source_id": "1209268-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85829",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -2552,10 +3390,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "誉田別命（ほむだわけのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1121 伊勢原市 下落合16",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県伊勢原市下落合16"
       }
     }
   },
@@ -2566,14 +3405,15 @@
     "name": "若宮神社",
     "kana": "わかみやじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1143伊勢原市",
+    "municipality": "伊勢原市",
     "aliases": [],
     "headline": "若宮大神（わかみやおおかみ）",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒259-1143伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県伊勢原市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜若宮神社",
@@ -2600,7 +3440,7 @@
         "id": "14-agency-fadec718bdef42:1",
         "name": "若宮神社",
         "label": "若宮神社",
-        "address": "神奈川県〒259-1143 伊勢原市 下糟屋2357",
+        "address": "神奈川県伊勢原市 下糟屋2357",
         "lat": null,
         "lon": null,
         "sources": [
@@ -2628,6 +3468,7 @@
       "kami_verbatim": "若宮大神（わかみやおおかみ）",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1143 伊勢原市 下糟屋2357",
       "source_address_historical": ""
     },
@@ -2636,7 +3477,7 @@
       "display_number": "14-00926",
       "index_name": "若宮神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1143 伊勢原市 下糟屋2357",
+      "listed_address": "神奈川県伊勢原市 下糟屋2357",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209269-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209269-000/",
       "detail_status": "published_agency_record",
@@ -2656,6 +3497,7 @@
         "kami_verbatim": "若宮大神（わかみやおおかみ）",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1143 伊勢原市 下糟屋2357",
         "source_address_historical": ""
       }
@@ -2668,14 +3510,16 @@
     "name": "愛宕神社",
     "kana": "あたごじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1205平塚市",
+    "municipality": "平塚市",
     "aliases": [],
     "headline": "火産之命（ひむすびのみこと）",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "含历史祭神表",
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒259-1205平塚市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県平塚市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜愛宕神社",
@@ -2684,6 +3528,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目646",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=646",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -2695,6 +3556,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "火産之命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -2702,7 +3572,7 @@
         "id": "14-agency-83e1a2d82fbddf:1",
         "name": "愛宕神社",
         "label": "愛宕神社",
-        "address": "神奈川県〒259-1205 平塚市 土屋3963",
+        "address": "神奈川県平塚市 土屋3963",
         "lat": null,
         "lon": null,
         "sources": [
@@ -2711,10 +3581,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県平塚市土屋3963"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -2728,17 +3608,18 @@
     },
     "source_fields": {
       "kami_verbatim": "火産之命（ひむすびのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》火産之命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1205 平塚市 土屋3963",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県平塚市土屋3963"
     },
     "directory": {
       "number": "A-1209270-000",
       "display_number": "14-00927",
       "index_name": "愛宕神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1205 平塚市 土屋3963",
+      "listed_address": "神奈川県平塚市 土屋3963",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209270-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209270-000/",
       "detail_status": "published_agency_record",
@@ -2747,8 +3628,8 @@
     },
     "provenance": {
       "agency_source_id": "1209270-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "646",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -2756,10 +3637,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "火産之命（ひむすびのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》火産之命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1205 平塚市 土屋3963",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県平塚市土屋3963"
       }
     }
   },
@@ -2770,14 +3652,15 @@
     "name": "片岡神社",
     "kana": "かたおかじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1213平塚市",
+    "municipality": "平塚市",
     "aliases": [],
     "headline": "大山咋命（おおやまくいのみこと）・豊受比売命（とようけひめのみこと） 等",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒259-1213平塚市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県平塚市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜片岡神社",
@@ -2786,6 +3669,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目647",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=647",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -2799,6 +3699,25 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "別雷之命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "豊受比売命",
+          "大山咋命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -2806,7 +3725,7 @@
         "id": "14-agency-22e73946695023:1",
         "name": "片岡神社",
         "label": "片岡神社",
-        "address": "神奈川県〒259-1213 平塚市 片岡1241",
+        "address": "神奈川県平塚市 片岡1241",
         "lat": null,
         "lon": null,
         "sources": [
@@ -2815,10 +3734,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県平塚市片岡1241"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -2832,17 +3761,18 @@
     },
     "source_fields": {
       "kami_verbatim": "大山咋命（おおやまくいのみこと）\n豊受比売命（とようけひめのみこと）\n別雷之命（わけいかずちのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》別雷之命、《配》豊受比売命、大山咋命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1213 平塚市 片岡1241",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県平塚市片岡1241"
     },
     "directory": {
       "number": "A-1209271-000",
       "display_number": "14-00928",
       "index_name": "片岡神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1213 平塚市 片岡1241",
+      "listed_address": "神奈川県平塚市 片岡1241",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209271-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209271-000/",
       "detail_status": "published_agency_record",
@@ -2851,8 +3781,8 @@
     },
     "provenance": {
       "agency_source_id": "1209271-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "647",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -2860,10 +3790,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "大山咋命（おおやまくいのみこと）\n豊受比売命（とようけひめのみこと）\n別雷之命（わけいかずちのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》別雷之命、《配》豊受比売命、大山咋命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1213 平塚市 片岡1241",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県平塚市片岡1241"
       }
     }
   },
@@ -2874,14 +3805,15 @@
     "name": "熊野神社",
     "kana": "くまのじんじゃ",
     "area": "全域",
-    "municipality": "〒259-1205平塚市",
+    "municipality": "平塚市",
     "aliases": [],
     "headline": "伊邪那美命（いざなみのみこと）・速玉之男命（はやたまのおのみこと） 等",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "神奈川県〒259-1205平塚市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県平塚市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜熊野神社",
@@ -2890,6 +3822,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目85833",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=85833",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "14"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -2906,6 +3855,28 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《合》 · 历史检索表，非现况确认",
+        "names": [
+          "造化二社大神",
+          "十二社大神",
+          "須佐之男命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "伊邪那美命",
+          "速玉之男命",
+          "予母津事解之男命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -2913,7 +3884,7 @@
         "id": "14-agency-c8f8234c021bc8:1",
         "name": "熊野神社",
         "label": "熊野神社",
-        "address": "神奈川県〒259-1205 平塚市 土屋227",
+        "address": "神奈川県平塚市 土屋227",
         "lat": null,
         "lon": null,
         "sources": [
@@ -2922,10 +3893,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "神奈川県平塚市土屋227"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -2939,17 +3920,18 @@
     },
     "source_fields": {
       "kami_verbatim": "伊邪那美命（いざなみのみこと）\n速玉之男命（はやたまのおのみこと）\n予母津事解之男命（よもつことさかのおのみこと）\n造化二社大神（ぞうかにしゃのおおかみ）\n十二社大神（じゅうにしゃおおかみ）\n須佐之男命（すさのおのみこと）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《合》造化二社大神、十二社大神、須佐之男命、《主》伊邪那美命、速玉之男命、予母津事解之男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒259-1205 平塚市 土屋227",
-      "source_address_historical": ""
+      "source_address_historical": "神奈川県平塚市土屋227"
     },
     "directory": {
       "number": "A-1209272-000",
       "display_number": "14-00929",
       "index_name": "熊野神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/31/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒259-1205 平塚市 土屋227",
+      "listed_address": "神奈川県平塚市 土屋227",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209272-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209272-000/",
       "detail_status": "published_agency_record",
@@ -2958,8 +3940,8 @@
     },
     "provenance": {
       "agency_source_id": "1209272-000",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "85833",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -2967,10 +3949,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "伊邪那美命（いざなみのみこと）\n速玉之男命（はやたまのおのみこと）\n予母津事解之男命（よもつことさかのおのみこと）\n造化二社大神（ぞうかにしゃのおおかみ）\n十二社大神（じゅうにしゃおおかみ）\n須佐之男命（すさのおのみこと）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《合》造化二社大神、十二社大神、須佐之男命、《主》伊邪那美命、速玉之男命、予母津事解之男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒259-1205 平塚市 土屋227",
-        "source_address_historical": ""
+        "source_address_historical": "神奈川県平塚市土屋227"
       }
     }
   },
@@ -2981,14 +3964,15 @@
     "name": "八劔神社",
     "kana": "やつるぎじんじゃ",
     "area": "全域",
-    "municipality": "〒254-0904平塚市",
+    "municipality": "平塚市",
     "aliases": [],
     "headline": "倭建之命（やまとたけるのみこと）",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "神奈川県〒254-0904平塚市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "神奈川県平塚市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "神奈川県神社庁｜八劔神社",
@@ -3015,7 +3999,7 @@
         "id": "14-agency-2620b350f47ce3:1",
         "name": "八劔神社",
         "label": "八劔神社",
-        "address": "神奈川県〒254-0904 平塚市 根坂間466",
+        "address": "神奈川県平塚市 根坂間466",
         "lat": null,
         "lon": null,
         "sources": [
@@ -3043,6 +4027,7 @@
       "kami_verbatim": "倭建之命（やまとたけるのみこと）",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒254-0904 平塚市 根坂間466",
       "source_address_historical": ""
     },
@@ -3051,7 +4036,7 @@
       "display_number": "14-00930",
       "index_name": "八劔神社",
       "index_url": "https://www.kanagawa-jinja.or.jp/page/32/?search_element_2&s_keyword_3&csp=search_add&feadvns_max_line_3=4&fe_form_no=3",
-      "listed_address": "神奈川県〒254-0904 平塚市 根坂間466",
+      "listed_address": "神奈川県平塚市 根坂間466",
       "original_detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209273-000/",
       "detail_url": "https://www.kanagawa-jinja.or.jp/shrine/1209273-000/",
       "detail_status": "published_agency_record",
@@ -3071,6 +4056,7 @@
         "kami_verbatim": "倭建之命（やまとたけるのみこと）",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒254-0904 平塚市 根坂間466",
         "source_address_historical": ""
       }
@@ -3136,6 +4122,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -3164,6 +4151,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -3229,6 +4217,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -3257,6 +4246,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -3322,6 +4312,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -3350,6 +4341,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -3415,6 +4407,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -3443,6 +4436,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -3508,6 +4502,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -3536,6 +4531,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -3601,6 +4597,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -3629,6 +4626,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -3694,6 +4692,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -3722,6 +4721,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -3787,6 +4787,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -3815,6 +4816,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -3880,6 +4882,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -3908,6 +4911,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -3973,6 +4977,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4001,6 +5006,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4066,6 +5072,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4094,6 +5101,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4159,6 +5167,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4187,6 +5196,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4252,6 +5262,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4280,6 +5291,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4345,6 +5357,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4373,6 +5386,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4438,6 +5452,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4466,6 +5481,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4531,6 +5547,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4559,6 +5576,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4624,6 +5642,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4652,6 +5671,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4717,6 +5737,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4745,6 +5766,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4810,6 +5832,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4838,6 +5861,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4903,6 +5927,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -4931,6 +5956,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -4996,6 +6022,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5024,6 +6051,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -5089,6 +6117,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5117,6 +6146,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -5182,6 +6212,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5210,6 +6241,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -5275,6 +6307,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5303,6 +6336,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -5368,6 +6402,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5396,6 +6431,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -5461,6 +6497,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5489,6 +6526,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -5554,6 +6592,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5582,6 +6621,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -5647,6 +6687,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5675,6 +6716,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -5740,6 +6782,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5768,6 +6811,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -5833,6 +6877,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5861,6 +6906,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -5926,6 +6972,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -5954,6 +7001,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6019,6 +7067,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6047,6 +7096,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6112,6 +7162,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6140,6 +7191,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6205,6 +7257,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6233,6 +7286,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6298,6 +7352,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6326,6 +7381,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6391,6 +7447,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6419,6 +7476,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6484,6 +7542,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6512,6 +7571,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6577,6 +7637,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6605,6 +7666,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6670,6 +7732,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6698,6 +7761,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6763,6 +7827,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6791,6 +7856,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6856,6 +7922,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6884,6 +7951,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -6949,6 +8017,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -6977,6 +8046,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7042,6 +8112,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -7070,6 +8141,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7135,6 +8207,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -7163,6 +8236,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7228,6 +8302,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -7256,6 +8331,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7321,6 +8397,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -7349,6 +8426,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7414,6 +8492,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -7442,6 +8521,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7507,6 +8587,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -7535,6 +8616,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7600,6 +8682,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -7628,6 +8711,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7693,6 +8777,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -7721,6 +8806,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7786,6 +8872,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -7814,6 +8901,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7879,6 +8967,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -7907,6 +8996,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -7972,6 +9062,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8000,6 +9091,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8065,6 +9157,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8093,6 +9186,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8158,6 +9252,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8186,6 +9281,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8251,6 +9347,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8279,6 +9376,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8344,6 +9442,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8372,6 +9471,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8437,6 +9537,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8465,6 +9566,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8530,6 +9632,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8558,6 +9661,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8623,6 +9727,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8651,6 +9756,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8716,6 +9822,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8744,6 +9851,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8809,6 +9917,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8837,6 +9946,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8902,6 +10012,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -8930,6 +10041,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -8995,6 +10107,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9023,6 +10136,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -9088,6 +10202,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9116,6 +10231,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -9181,6 +10297,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9209,6 +10326,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -9274,6 +10392,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9302,6 +10421,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -9367,6 +10487,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9395,6 +10516,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -9460,6 +10582,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9488,6 +10611,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -9553,6 +10677,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9581,6 +10706,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -9646,6 +10772,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9674,6 +10801,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -9739,6 +10867,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9767,6 +10896,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -9832,6 +10962,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9860,6 +10991,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -9925,6 +11057,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -9953,6 +11086,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10018,6 +11152,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10046,6 +11181,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10111,6 +11247,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10139,6 +11276,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10204,6 +11342,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10232,6 +11371,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10297,6 +11437,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10325,6 +11466,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10390,6 +11532,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10418,6 +11561,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10483,6 +11627,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10511,6 +11656,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10576,6 +11722,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10604,6 +11751,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10669,6 +11817,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10697,6 +11846,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10762,6 +11912,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10790,6 +11941,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10855,6 +12007,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10883,6 +12036,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -10948,6 +12102,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -10976,6 +12131,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11041,6 +12197,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11069,6 +12226,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11134,6 +12292,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11162,6 +12321,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11227,6 +12387,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11255,6 +12416,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11320,6 +12482,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11348,6 +12511,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11413,6 +12577,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11441,6 +12606,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11506,6 +12672,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11534,6 +12701,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11599,6 +12767,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11627,6 +12796,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11692,6 +12862,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11720,6 +12891,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11785,6 +12957,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11813,6 +12986,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11878,6 +13052,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11906,6 +13081,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -11971,6 +13147,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -11999,6 +13176,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12064,6 +13242,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -12092,6 +13271,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12157,6 +13337,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -12185,6 +13366,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12250,6 +13432,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -12278,6 +13461,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12343,6 +13527,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -12371,6 +13556,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12436,6 +13622,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -12464,6 +13651,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12529,6 +13717,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -12557,6 +13746,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12622,6 +13812,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -12650,6 +13841,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12715,6 +13907,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -12743,6 +13936,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12808,6 +14002,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -12836,6 +14031,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12901,6 +14097,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -12929,6 +14126,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -12994,6 +14192,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13022,6 +14221,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -13087,6 +14287,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13115,6 +14316,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -13180,6 +14382,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13208,6 +14411,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -13273,6 +14477,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13301,6 +14506,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -13366,6 +14572,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13394,6 +14601,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -13459,6 +14667,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13487,6 +14696,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -13552,6 +14762,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13580,6 +14791,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -13645,6 +14857,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13673,6 +14886,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -13738,6 +14952,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13766,6 +14981,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -13831,6 +15047,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13859,6 +15076,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -13924,6 +15142,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -13952,6 +15171,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -14017,6 +15237,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -14045,6 +15266,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -14110,6 +15332,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -14138,6 +15361,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }
@@ -14203,6 +15427,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "",
       "source_address_historical": ""
     },
@@ -14231,6 +15456,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "",
         "source_address_historical": ""
       }

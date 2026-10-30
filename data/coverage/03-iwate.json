@@ -5,4371 +5,35 @@
   "checked": "2026-10-30",
   "scope": "岩手県・机构公开资料与研究会检索名录",
   "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
-  "directory_rows": 1711,
-  "records": 1711,
+  "directory_rows": 1538,
+  "records": 1538,
   "directory_indexes": 64,
   "baseline_rows": 857,
   "agency_rows": 857,
   "excluded_source_rows": [],
-  "matched_historical_rows": 3,
-  "historical_only_records": 854,
-  "with_deities": 1709,
+  "matched_historical_rows": 176,
+  "historical_only_records": 681,
+  "with_deities": 1536,
   "mapped_locations": 0,
   "enriched_records": 0,
   "details_matched": 0,
-  "records_with_detail_links": 1711,
+  "records_with_detail_links": 1538,
   "municipalities": [
-    {
-      "municipality": "020-0855〒盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "028-3452紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "029-0301一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0001盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0004盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0011盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0023盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0051盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0053盛岡市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒020-0054盛岡市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒020-0055盛岡市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒020-0061盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0111盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0116盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0142盛岡市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒020-0144盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0151滝沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0161滝沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0172滝沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0173滝沢市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒020-0201盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0202盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0203盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0311盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0312盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0313盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0402盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0404盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0526岩手郡雫石町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0528岩手郡雫石町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0542岩手郡雫石町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0572岩手郡雫石町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒020-0573岩手郡雫石町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒020-0574岩手郡雫石町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0581岩手郡雫石町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒020-0582岩手郡雫石町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0584岩手郡雫石町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0585岩手郡雫石町",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒020-0801盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0806盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0807盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0812盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0817盛岡市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒020-0822盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0823盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0831盛岡市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒020-0832盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0833盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0835盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0842盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0854岩手郡雫石町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0854盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0855盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0864盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0866盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0872盛岡市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒020-0875盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-0882盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒020-3207一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒021-0001一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒021-0002一関市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒021-0015一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒021-0041一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒021-0101一関市",
-      "area": "全域",
-      "records": 6,
-      "with_deities": 6,
-      "mapped_locations": 0,
-      "without_coordinates": 6
-    },
-    {
-      "municipality": "〒021-0102一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒021-0211一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒021-0221一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒021-0814一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒021-0821一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒021-0861一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒021-0894一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒021-0901一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒021-0902一関市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒021-1201一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒0210901一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒021一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒022-0001大船渡市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒022-0002大船渡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒022-0003大船渡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒022-0004大船渡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒022-0005大船渡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒022-0006大船渡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒022-0007大船渡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒022-0102大船渡市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒022-0211大船渡市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒022-2204陸前高田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0003奥州市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒023-0101奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0104奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0132奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0132奥州市水沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0171奥州市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒023-0171奥州市江刺区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0401奥州市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒023-0402奥州市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒023-0403奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0403奥州市胆沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0807奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0808奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0821奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-0831奥州市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒023-0841奥州市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒023-0857奥州市水沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-1101奥州市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒023-1101奥州市江刺区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-1112奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-1117奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-1131奥州市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒023-1131奥州市江刺区",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒023-1132奥州市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒023-1133奥州市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒023-1134奥州市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒023-1341奥州市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒023-1551奥州市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒023-1761奥州市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒023-1761奥州市江刺区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒023-1762奥州市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒024-0001北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0003北上市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒024-0004北上市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒024-0013北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0022北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0032北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0034北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0041北上市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒024-0042北上市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒024-0043北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0045北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0051北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0056北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0057北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0058北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0063北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0072北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0073北上市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒024-0074北上市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒024-0075北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0076北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0101北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0103北上市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒024-0104北上市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒024-0202一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0211北上市",
-      "area": "全域",
-      "records": 6,
-      "with_deities": 6,
-      "mapped_locations": 0,
-      "without_coordinates": 6
-    },
-    {
-      "municipality": "〒024-0321北上市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒024-0323北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0324北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0325北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0326北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0331北上市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒024-0332北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0333北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0334北上市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒024-0335北上市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒025-0002花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0004花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0005花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0006花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0007花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0011花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒025-0013花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0014花巻市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒025-0015花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒025-0016花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0022花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒025-0032花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0037花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0041花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0043花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0044花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0046花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0053花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0058花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0062花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0066花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒025-0067花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0071花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0076花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0084花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0095花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0131花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒025-0132花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒025-0133花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0134花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0135花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0136花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0137花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0253花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0301花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0302花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0303花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0305花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0312花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0321花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0322花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0323花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0324花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒025-0514遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒026-0001釜石市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒026-0013釜石市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒026-0021釜石市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒026-0026釜石市",
-      "area": "全域",
-      "records": 11,
-      "with_deities": 11,
-      "mapped_locations": 0,
-      "without_coordinates": 11
-    },
-    {
-      "municipality": "〒026-0055釜石市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒026-0121釜石市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒026-0301釜石市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒026-0302釜石市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒026-0303釜石市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒026-0304釜石市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒026-0411釜石市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒026-0412釜石市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒027-0005宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0008宮古市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒027-0021宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0024宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0031宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0032宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0033宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0034宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0035宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0036宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0037宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0038宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0043宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0045宮古市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒027-0046宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0047宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0052宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0055宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0056宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0063宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0067宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0088宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0091宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0111宮古市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒027-0112宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0202宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0203宮古市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒027-0300宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0321宮古市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒027-0384宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0421下閉伊郡岩泉町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0501下閉伊郡岩泉町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒027-0502下閉伊郡岩泉町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒027-0611下閉伊郡岩泉町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0001久慈市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒028-0011久慈市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0031久慈市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0041久慈市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0064久慈市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0071久慈市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0091久慈市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0102花巻市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒028-0105岩手県花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0105花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0107花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0111花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0113花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0114花巻市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒028-0115花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0116花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0121花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0122花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0123花巻市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒028-0131花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0132花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0133花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0134花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0135花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0136花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0143花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0144花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0151花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0152花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0153花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0154花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0155花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0156花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0171滝沢市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0301遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0304遠野市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒028-0305遠野市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒028-0335花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-03遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0481遠野市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0502遠野市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0514遠野市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒028-0517遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0523遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0525遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0531遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0532遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0533遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0534遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0541遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0542遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0543遠野市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0555遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0661遠野市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0663遠野市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒028-0771遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0772遠野市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-0774遠野市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-0775遠野市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-1101上閉伊郡大槌町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒028-1115上閉伊郡大槌町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-1131上閉伊郡大槌町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒028-1133上閉伊郡大槌町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-1302下閉伊郡山田町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-1311下閉伊郡山田町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-1321下閉伊郡山田町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-1331下閉伊郡山田町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-1341下閉伊郡山田町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-1371下閉伊郡山田町",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒028-2101宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2102宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2103宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2231下閉伊郡岩泉町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2232下閉伊郡岩泉町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2233下閉伊郡岩泉町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2302下閉伊郡川井村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2421宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2422宮古市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-2511宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2513宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2632宮古市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-2711盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3101花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-3111花巻市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-3133花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3135花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3151花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3163花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3171花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3172花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3183花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3201花巻市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒028-3202花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3203花巻市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3304紫波郡紫波町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-3305紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3307紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3308紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3311紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3312紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3313紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3314紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3315紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3316紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3317紫波郡紫波町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒028-3324紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3353紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3441紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3442紫波郡紫波町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-3444紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3446紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3447紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3452紫波郡紫波町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-3453紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3531紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3535紫波郡紫波町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3602紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3603紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3605紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3606紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3608紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3611紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3612紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3615紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3616紫波郡矢巾町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-3617紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3621紫波郡矢巾町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-3623紫波郡矢巾町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-3624紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3625紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3626紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-3627紫波郡矢巾町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-4123盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-4124盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-4125盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-4131盛岡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-4132盛岡市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-4134盛岡市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-4211岩手郡岩手町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒028-4301岩手郡岩手町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-4303岩手郡岩手町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-4304岩手郡岩手町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-4307岩手郡岩手町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-4421岩手郡岩手町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-4425岩手郡岩手町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-4426岩手郡岩手町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-5221二戸郡一戸町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-5222二戸郡一戸町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-5301二戸郡一戸町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-5311二戸郡一戸町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-5312二戸郡一戸町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-5401岩手郡葛巻町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-5402岩手郡葛巻町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-5403岩手郡葛巻町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-5711二戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-5713二戸市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-6101二戸市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒028-6102二戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6103二戸市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-6104二戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6105二戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6106二戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6107二戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6108二戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6221九戸郡軽米町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6222九戸郡軽米町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6301九戸郡軽米町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6302九戸郡軽米町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6303九戸郡軽米町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6411九戸郡軽米町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6413九戸郡軽米町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6502九戸郡九戸村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6504九戸郡九戸村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6505九戸郡九戸村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6506九戸郡九戸村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6612九戸郡九戸村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6721二戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6722二戸市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-6855二戸市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-7100岩手郡雫石町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7111八幡平市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒028-7112八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7113八幡平市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-7301八幡平市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-7302八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7401八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7402八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7403八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7404八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7405八幡平市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-7406八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7516八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7534八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7542八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7621八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7677八幡平市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7801久慈市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒028-7900九戸郡洋野町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7901九戸郡洋野町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7902九戸郡洋野町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-7903九戸郡洋野町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7905九戸郡洋野町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7912九戸郡洋野町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-7915九戸郡洋野町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-7917九戸郡洋野町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8111久慈市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8201九戸郡野田村",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-8202九戸郡野田村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8336下閉伊郡普代村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8362下閉伊郡普代村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8401下閉伊郡田野畑村",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒028-8405下閉伊郡田野畑村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8407下閉伊郡田野畑村",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8521久慈市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8602久慈市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8604久慈市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8713久慈市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8801九戸郡洋野町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒028-8802九戸郡洋野町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-0101大船渡市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-0132一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-0201一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-0202一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-0302一関市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒029-0303一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-0431一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-0522一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-0523一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-0601一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-0602一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-0603一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-0711一関市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒029-0801一関市",
-      "area": "全域",
-      "records": 6,
-      "with_deities": 6,
-      "mapped_locations": 0,
-      "without_coordinates": 6
-    },
-    {
-      "municipality": "〒029-0802一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-0803一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-0804一関市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒029-0901一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-1111一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-1201一関市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒029-1202一関市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒029-2201陸前高田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-2202陸前高田市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-2203陸前高田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-2204陸前高田市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒029-2205陸前高田市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-2206陸前高田市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-2207陸前高田市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒029-2208陸前高田市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-2311気仙郡住田町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-2501気仙郡住田町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-2502気仙郡住田町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-3101一関市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒029-3102一関市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒029-3103一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-3104一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-3205一関市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒029-3206一関市",
-      "area": "全域",
-      "records": 5,
-      "with_deities": 5,
-      "mapped_locations": 0,
-      "without_coordinates": 5
-    },
-    {
-      "municipality": "〒029-3207一関市",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒029-3311一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-3401一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-3402一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-3403一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-3404一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-3405一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-3406一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-3511一関市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-3522一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4101西磐井郡平泉町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒029-4102西磐井郡平泉町",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒029-4201奥州市",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒029-4202奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4203奥州市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-4204奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4205奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4208奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4307一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4364奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4384奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4386奥州市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4453奥州市",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-4501胆沢郡金ヶ崎町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4502胆沢郡金ヶ崎町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4503奥州市前沢区",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-4503胆沢郡金ヶ崎町",
-      "area": "全域",
-      "records": 4,
-      "with_deities": 4,
-      "mapped_locations": 0,
-      "without_coordinates": 4
-    },
-    {
-      "municipality": "〒029-4504胆沢郡金ヶ崎町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-5500和賀郡西和賀町",
-      "area": "全域",
-      "records": 9,
-      "with_deities": 9,
-      "mapped_locations": 0,
-      "without_coordinates": 9
-    },
-    {
-      "municipality": "〒029-5501和賀郡西和賀町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-5503和賀郡西和賀町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-5505和賀郡西和賀町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-5506和賀郡西和賀町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-5512和賀郡西和賀町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-5611和賀郡西和賀町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-5612和賀郡西和賀町",
-      "area": "全域",
-      "records": 2,
-      "with_deities": 2,
-      "mapped_locations": 0,
-      "without_coordinates": 2
-    },
-    {
-      "municipality": "〒029-5613和賀郡西和賀町",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029-5614和賀郡西和賀町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒029-5615和賀郡西和賀町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒029-5701和賀郡西和賀町",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "〒029ー0211一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
-    {
-      "municipality": "〒029ー3521一関市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 1,
-      "mapped_locations": 0,
-      "without_coordinates": 1
-    },
     {
       "municipality": "一関市",
       "area": "全域",
-      "records": 44,
-      "with_deities": 44,
+      "records": 131,
+      "with_deities": 131,
       "mapped_locations": 0,
-      "without_coordinates": 44
+      "without_coordinates": 131
     },
     {
       "municipality": "上閉伊郡大槌町",
       "area": "全域",
-      "records": 8,
-      "with_deities": 8,
+      "records": 12,
+      "with_deities": 12,
       "mapped_locations": 0,
-      "without_coordinates": 8
+      "without_coordinates": 12
     },
     {
       "municipality": "上閉伊郡宮守村",
@@ -4382,26 +46,26 @@
     {
       "municipality": "下閉伊郡山田町",
       "area": "全域",
-      "records": 13,
-      "with_deities": 13,
+      "records": 24,
+      "with_deities": 24,
       "mapped_locations": 0,
-      "without_coordinates": 13
+      "without_coordinates": 24
     },
     {
       "municipality": "下閉伊郡岩泉町",
       "area": "全域",
-      "records": 9,
-      "with_deities": 9,
+      "records": 16,
+      "with_deities": 16,
       "mapped_locations": 0,
-      "without_coordinates": 9
+      "without_coordinates": 16
     },
     {
       "municipality": "下閉伊郡川井村",
       "area": "全域",
-      "records": 7,
-      "with_deities": 7,
+      "records": 8,
+      "with_deities": 8,
       "mapped_locations": 0,
-      "without_coordinates": 7
+      "without_coordinates": 8
     },
     {
       "municipality": "下閉伊郡新里村",
@@ -4414,10 +78,10 @@
     {
       "municipality": "下閉伊郡普代村",
       "area": "全域",
-      "records": 2,
-      "with_deities": 2,
+      "records": 4,
+      "with_deities": 4,
       "mapped_locations": 0,
-      "without_coordinates": 2
+      "without_coordinates": 4
     },
     {
       "municipality": "下閉伊郡田老町",
@@ -4430,26 +94,26 @@
     {
       "municipality": "下閉伊郡田野畑村",
       "area": "全域",
-      "records": 4,
-      "with_deities": 4,
+      "records": 8,
+      "with_deities": 8,
       "mapped_locations": 0,
-      "without_coordinates": 4
+      "without_coordinates": 8
     },
     {
       "municipality": "久慈市",
       "area": "全域",
-      "records": 19,
-      "with_deities": 19,
+      "records": 39,
+      "with_deities": 39,
       "mapped_locations": 0,
-      "without_coordinates": 19
+      "without_coordinates": 39
     },
     {
       "municipality": "九戸郡九戸村",
       "area": "全域",
-      "records": 5,
-      "with_deities": 5,
+      "records": 10,
+      "with_deities": 10,
       "mapped_locations": 0,
-      "without_coordinates": 5
+      "without_coordinates": 10
     },
     {
       "municipality": "九戸郡大野村",
@@ -4468,6 +132,14 @@
       "without_coordinates": 3
     },
     {
+      "municipality": "九戸郡洋野町",
+      "area": "全域",
+      "records": 13,
+      "with_deities": 13,
+      "mapped_locations": 0,
+      "without_coordinates": 13
+    },
+    {
       "municipality": "九戸郡種市町",
       "area": "全域",
       "records": 10,
@@ -4478,34 +150,34 @@
     {
       "municipality": "九戸郡軽米町",
       "area": "全域",
-      "records": 7,
-      "with_deities": 7,
+      "records": 11,
+      "with_deities": 11,
       "mapped_locations": 0,
-      "without_coordinates": 7
+      "without_coordinates": 11
     },
     {
       "municipality": "九戸郡野田村",
       "area": "全域",
-      "records": 3,
-      "with_deities": 3,
+      "records": 6,
+      "with_deities": 6,
       "mapped_locations": 0,
-      "without_coordinates": 3
+      "without_coordinates": 6
     },
     {
       "municipality": "二戸市",
       "area": "全域",
-      "records": 17,
-      "with_deities": 17,
+      "records": 22,
+      "with_deities": 22,
       "mapped_locations": 0,
-      "without_coordinates": 17
+      "without_coordinates": 22
     },
     {
       "municipality": "二戸郡一戸町",
       "area": "全域",
-      "records": 5,
-      "with_deities": 5,
+      "records": 7,
+      "with_deities": 7,
       "mapped_locations": 0,
-      "without_coordinates": 5
+      "without_coordinates": 7
     },
     {
       "municipality": "二戸郡安代町",
@@ -4526,18 +198,18 @@
     {
       "municipality": "八幡平市",
       "area": "全域",
-      "records": 6,
-      "with_deities": 6,
+      "records": 29,
+      "with_deities": 29,
       "mapped_locations": 0,
-      "without_coordinates": 6
+      "without_coordinates": 29
     },
     {
       "municipality": "北上市",
       "area": "全域",
-      "records": 66,
-      "with_deities": 66,
+      "records": 120,
+      "with_deities": 120,
       "mapped_locations": 0,
-      "without_coordinates": 66
+      "without_coordinates": 120
     },
     {
       "municipality": "和賀郡東和町",
@@ -4564,23 +236,31 @@
       "without_coordinates": 16
     },
     {
+      "municipality": "和賀郡西和賀町",
+      "area": "全域",
+      "records": 29,
+      "with_deities": 29,
+      "mapped_locations": 0,
+      "without_coordinates": 29
+    },
+    {
       "municipality": "大船渡市",
       "area": "全域",
-      "records": 9,
-      "with_deities": 9,
+      "records": 15,
+      "with_deities": 15,
       "mapped_locations": 0,
-      "without_coordinates": 9
+      "without_coordinates": 15
+    },
+    {
+      "municipality": "奥州市",
+      "area": "全域",
+      "records": 70,
+      "with_deities": 70,
+      "mapped_locations": 0,
+      "without_coordinates": 70
     },
     {
       "municipality": "奥州市前沢区",
-      "area": "全域",
-      "records": 3,
-      "with_deities": 3,
-      "mapped_locations": 0,
-      "without_coordinates": 3
-    },
-    {
-      "municipality": "奥州市水沢区",
       "area": "全域",
       "records": 4,
       "with_deities": 4,
@@ -4588,12 +268,28 @@
       "without_coordinates": 4
     },
     {
+      "municipality": "奥州市水沢区",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
+      "municipality": "奥州市江刺区",
+      "area": "全域",
+      "records": 5,
+      "with_deities": 5,
+      "mapped_locations": 0,
+      "without_coordinates": 5
+    },
+    {
       "municipality": "奥州市胆沢区",
       "area": "全域",
-      "records": 2,
-      "with_deities": 2,
+      "records": 3,
+      "with_deities": 3,
       "mapped_locations": 0,
-      "without_coordinates": 2
+      "without_coordinates": 3
     },
     {
       "municipality": "奥州市衣川区",
@@ -4606,18 +302,18 @@
     {
       "municipality": "宮古市",
       "area": "全域",
-      "records": 34,
-      "with_deities": 34,
+      "records": 79,
+      "with_deities": 79,
       "mapped_locations": 0,
-      "without_coordinates": 34
+      "without_coordinates": 79
     },
     {
       "municipality": "岩手郡岩手町",
       "area": "全域",
-      "records": 13,
-      "with_deities": 13,
+      "records": 25,
+      "with_deities": 25,
       "mapped_locations": 0,
-      "without_coordinates": 13
+      "without_coordinates": 25
     },
     {
       "municipality": "岩手郡松尾村",
@@ -4646,10 +342,10 @@
     {
       "municipality": "岩手郡葛巻町",
       "area": "全域",
-      "records": 5,
-      "with_deities": 5,
+      "records": 9,
+      "with_deities": 9,
       "mapped_locations": 0,
-      "without_coordinates": 5
+      "without_coordinates": 9
     },
     {
       "municipality": "岩手郡西根町",
@@ -4662,10 +358,10 @@
     {
       "municipality": "岩手郡雫石町",
       "area": "全域",
-      "records": 22,
-      "with_deities": 22,
+      "records": 43,
+      "with_deities": 43,
       "mapped_locations": 0,
-      "without_coordinates": 22
+      "without_coordinates": 43
     },
     {
       "municipality": "所在地未详",
@@ -4734,10 +430,10 @@
     {
       "municipality": "気仙郡住田町",
       "area": "全域",
-      "records": 4,
-      "with_deities": 4,
+      "records": 5,
+      "with_deities": 5,
       "mapped_locations": 0,
-      "without_coordinates": 4
+      "without_coordinates": 5
     },
     {
       "municipality": "水沢市",
@@ -4756,12 +452,20 @@
       "without_coordinates": 41
     },
     {
+      "municipality": "滝沢市",
+      "area": "全域",
+      "records": 6,
+      "with_deities": 6,
+      "mapped_locations": 0,
+      "without_coordinates": 6
+    },
+    {
       "municipality": "盛岡市",
       "area": "全域",
-      "records": 49,
-      "with_deities": 48,
+      "records": 93,
+      "with_deities": 92,
       "mapped_locations": 0,
-      "without_coordinates": 49
+      "without_coordinates": 93
     },
     {
       "municipality": "盛岡市玉山区",
@@ -4790,18 +494,18 @@
     {
       "municipality": "紫波郡矢巾町",
       "area": "全域",
-      "records": 19,
-      "with_deities": 19,
+      "records": 38,
+      "with_deities": 38,
       "mapped_locations": 0,
-      "without_coordinates": 19
+      "without_coordinates": 38
     },
     {
       "municipality": "紫波郡紫波町",
       "area": "全域",
-      "records": 28,
-      "with_deities": 28,
+      "records": 34,
+      "with_deities": 34,
       "mapped_locations": 0,
-      "without_coordinates": 28
+      "without_coordinates": 34
     },
     {
       "municipality": "胆沢郡前沢町",
@@ -4836,20 +540,28 @@
       "without_coordinates": 7
     },
     {
+      "municipality": "胆沢郡金ヶ崎町",
+      "area": "全域",
+      "records": 7,
+      "with_deities": 7,
+      "mapped_locations": 0,
+      "without_coordinates": 7
+    },
+    {
       "municipality": "花巻市",
       "area": "全域",
-      "records": 60,
-      "with_deities": 59,
+      "records": 154,
+      "with_deities": 153,
       "mapped_locations": 0,
-      "without_coordinates": 60
+      "without_coordinates": 154
     },
     {
       "municipality": "西磐井郡平泉町",
       "area": "全域",
-      "records": 6,
-      "with_deities": 6,
+      "records": 9,
+      "with_deities": 9,
       "mapped_locations": 0,
-      "without_coordinates": 6
+      "without_coordinates": 9
     },
     {
       "municipality": "西磐井郡花泉町",
@@ -4862,26 +574,26 @@
     {
       "municipality": "遠野市",
       "area": "全域",
-      "records": 33,
-      "with_deities": 33,
+      "records": 66,
+      "with_deities": 66,
       "mapped_locations": 0,
-      "without_coordinates": 33
+      "without_coordinates": 66
     },
     {
       "municipality": "釜石市",
       "area": "全域",
-      "records": 29,
-      "with_deities": 29,
+      "records": 42,
+      "with_deities": 42,
       "mapped_locations": 0,
-      "without_coordinates": 29
+      "without_coordinates": 42
     },
     {
       "municipality": "陸前高田市",
       "area": "全域",
-      "records": 18,
-      "with_deities": 18,
+      "records": 23,
+      "with_deities": 23,
       "mapped_locations": 0,
-      "without_coordinates": 18
+      "without_coordinates": 23
     }
   ],
   "collections": [
@@ -4895,8 +607,7 @@
     "data/shrines/03-iwate/history-002.json",
     "data/shrines/03-iwate/history-003.json",
     "data/shrines/03-iwate/history-004.json",
-    "data/shrines/03-iwate/history-005.json",
-    "data/shrines/03-iwate/history-006.json"
+    "data/shrines/03-iwate/history-005.json"
   ],
   "indexes": [
     {
@@ -5277,6 +988,65 @@
   "duplicate_candidates": [
     {
       "ids": [
+        "03-agency-247a6c1405b97e",
+        "03-history-8fbebe322ff3cc"
+      ],
+      "name": "吾勝神社",
+      "municipality": "一関市"
+    },
+    {
+      "ids": [
+        "03-agency-499ec91472773f",
+        "03-agency-e4a2b1bd8ed7f2",
+        "03-agency-9b34980993b072",
+        "03-agency-ba51a1add30bb9",
+        "03-agency-05e966a2299aff",
+        "03-agency-ec79ce3a3ff3cf",
+        "03-agency-f439eb10103960",
+        "03-agency-c5c0884f9528e8",
+        "03-agency-928666bed114f6",
+        "03-agency-97520bb873a99c",
+        "03-agency-6f147a04f92a13",
+        "03-agency-4ae6f9a898a56a",
+        "03-agency-93f4f85ff39083",
+        "03-history-8b177713754b49"
+      ],
+      "name": "八幡神社",
+      "municipality": "一関市"
+    },
+    {
+      "ids": [
+        "03-agency-55793abc1ace85",
+        "03-agency-80994586cb37f0",
+        "03-history-307107aef447e1"
+      ],
+      "name": "御嶽神社",
+      "municipality": "一関市"
+    },
+    {
+      "ids": [
+        "03-agency-12cbafd002023d",
+        "03-history-8788d389feebfd"
+      ],
+      "name": "温泉神社",
+      "municipality": "一関市"
+    },
+    {
+      "ids": [
+        "03-agency-495c7a5edef365",
+        "03-agency-48d182f570d4f2",
+        "03-agency-bb949d98e4281d",
+        "03-agency-2c811be2871ebc",
+        "03-agency-b8c5341cfe9424",
+        "03-agency-1899eb6d93a969",
+        "03-history-9b5746dc43cbfb",
+        "03-history-6d4fcf4a9d2883"
+      ],
+      "name": "八雲神社",
+      "municipality": "一関市"
+    },
+    {
+      "ids": [
         "03-agency-2c91292ca2379e",
         "03-agency-32a0e3ea3a9954",
         "03-history-1cf622e99982b9"
@@ -5286,25 +1056,474 @@
     },
     {
       "ids": [
-        "03-agency-6f147a04f92a13",
-        "03-agency-4ae6f9a898a56a",
-        "03-history-f323a7ed0dba8e",
-        "03-history-e017cb520a9ec2",
-        "03-history-6e316402239bd6",
-        "03-history-8b177713754b49",
-        "03-history-b8a7518b0e1158"
+        "03-agency-85163bd0773178",
+        "03-history-b8dc6ec32a0c6d"
       ],
-      "name": "八幡神社",
+      "name": "三島神社",
       "municipality": "一関市"
     },
     {
       "ids": [
+        "03-agency-bd547e3f6739dd",
+        "03-agency-bb8e44bccb8a68",
+        "03-agency-6238094aa29092",
+        "03-agency-9dc5c90a65f9fb",
+        "03-agency-6d2863b7a3a97e",
+        "03-agency-d444b675ed8761",
+        "03-agency-2d2fcbea350478",
+        "03-agency-f35376ef4f89d6",
+        "03-agency-a491d6a2515c30",
+        "03-history-b52a8ae4fd8856"
+      ],
+      "name": "熊野神社",
+      "municipality": "一関市"
+    },
+    {
+      "ids": [
+        "03-agency-c85f4c08cf6d45",
+        "03-agency-d42ad81783db7d",
+        "03-agency-40b563855fa05e",
+        "03-agency-c9f93a928599c9",
+        "03-agency-58435c30d7f92e",
+        "03-agency-4ccea17605fe7f",
+        "03-agency-ed78f18f44dba3",
+        "03-history-c51900bf027a35"
+      ],
+      "name": "愛宕神社",
+      "municipality": "一関市"
+    },
+    {
+      "ids": [
+        "03-agency-f548c919d0b943",
+        "03-history-57729ff529eb7f"
+      ],
+      "name": "機織神社",
+      "municipality": "一関市"
+    },
+    {
+      "ids": [
+        "03-agency-3c40b1cb26084f",
+        "03-history-db66a333b8cbf0"
+      ],
+      "name": "日吉神社",
+      "municipality": "一関市"
+    },
+    {
+      "ids": [
+        "03-agency-98947900cd2233",
+        "03-history-32e9a5ba10689b"
+      ],
+      "name": "八幡宮",
+      "municipality": "二戸郡一戸町"
+    },
+    {
+      "ids": [
+        "03-agency-3c90ec015a9dc8",
+        "03-history-374e93209a4f42"
+      ],
+      "name": "日吉神社",
+      "municipality": "二戸郡一戸町"
+    },
+    {
+      "ids": [
+        "03-agency-329f4082b0722d",
+        "03-history-b0058fa89f647b"
+      ],
+      "name": "大神宮",
+      "municipality": "下閉伊郡岩泉町"
+    },
+    {
+      "ids": [
+        "03-agency-0e158bc9635974",
+        "03-agency-d94653814ef3d3",
+        "03-history-70c516b1da420c"
+      ],
+      "name": "出羽神社",
+      "municipality": "下閉伊郡岩泉町"
+    },
+    {
+      "ids": [
+        "03-agency-c9d40b95f8ebb9",
+        "03-history-82dc13befe0d69"
+      ],
+      "name": "熊野神社",
+      "municipality": "下閉伊郡岩泉町"
+    },
+    {
+      "ids": [
+        "03-agency-eeb18fb75f5511",
+        "03-history-503ed4b8a90a8b"
+      ],
+      "name": "赤平神社",
+      "municipality": "下閉伊郡岩泉町"
+    },
+    {
+      "ids": [
+        "03-agency-ae2b28d2f77b0d",
+        "03-history-58224ea0de6f02"
+      ],
+      "name": "岡山神社",
+      "municipality": "下閉伊郡岩泉町"
+    },
+    {
+      "ids": [
+        "03-agency-6d5224fab70ae1",
+        "03-history-b3880454f371f1"
+      ],
+      "name": "春日神社",
+      "municipality": "下閉伊郡岩泉町"
+    },
+    {
+      "ids": [
+        "03-agency-d82ea458f86bbd",
+        "03-history-9a0a8f798c40c8"
+      ],
+      "name": "豊城稲荷神社",
+      "municipality": "岩手郡岩手町"
+    },
+    {
+      "ids": [
+        "03-agency-50197fe36bb025",
+        "03-history-6d4ee53ea3dbbe"
+      ],
+      "name": "愛宕神社",
+      "municipality": "岩手郡岩手町"
+    },
+    {
+      "ids": [
+        "03-agency-21b83f2e60551b",
+        "03-history-1cb4190f3b9987"
+      ],
+      "name": "松長峯神社",
+      "municipality": "岩手郡岩手町"
+    },
+    {
+      "ids": [
+        "03-agency-76414743d8d4c6",
+        "03-history-af4d622e5d4fd4"
+      ],
+      "name": "鞍掛八幡神社",
+      "municipality": "岩手郡岩手町"
+    },
+    {
+      "ids": [
+        "03-agency-af01f47102aa49",
+        "03-history-d6f785bfa9196b"
+      ],
+      "name": "日枝神社",
+      "municipality": "岩手郡岩手町"
+    },
+    {
+      "ids": [
+        "03-agency-6bef4e5d75f7d3",
+        "03-agency-051a20ed267ca5",
+        "03-history-7e3b734fc22a77",
+        "03-history-1e9fae1aa7c41f"
+      ],
+      "name": "天満宮",
+      "municipality": "岩手郡岩手町"
+    },
+    {
+      "ids": [
+        "03-agency-a87f8b94855e0f",
+        "03-history-8feb3eaf0fa601"
+      ],
+      "name": "久保稲荷神社",
+      "municipality": "岩手郡岩手町"
+    },
+    {
+      "ids": [
+        "03-agency-6c71d50cfe6962",
+        "03-agency-37d43678f60492",
+        "03-history-f588e3091bbabc",
+        "03-history-b7103029b11367"
+      ],
+      "name": "八幡宮",
+      "municipality": "岩手郡岩手町"
+    },
+    {
+      "ids": [
+        "03-agency-9605cbecd42248",
+        "03-history-8ef71c139ffcf0"
+      ],
+      "name": "駒形神社",
+      "municipality": "奥州市水沢区"
+    },
+    {
+      "ids": [
+        "03-agency-78cb050857485b",
+        "03-history-b3b8f771d838df"
+      ],
+      "name": "小鎚神社",
+      "municipality": "上閉伊郡大槌町"
+    },
+    {
+      "ids": [
+        "03-agency-99a33f6cae518c",
+        "03-agency-c111bdeab3cfb8",
+        "03-history-4efb604bb9771a"
+      ],
+      "name": "八幡神社",
+      "municipality": "上閉伊郡大槌町"
+    },
+    {
+      "ids": [
+        "03-agency-97149dc5d316e8",
+        "03-history-7f5eb97638434d"
+      ],
+      "name": "稲荷神社",
+      "municipality": "上閉伊郡大槌町"
+    },
+    {
+      "ids": [
+        "03-agency-dd146ca04fa67f",
+        "03-history-dd86f2c547bcce"
+      ],
+      "name": "鯨山神社",
+      "municipality": "上閉伊郡大槌町"
+    },
+    {
+      "ids": [
+        "03-agency-48f73eaa4a35c4",
+        "03-agency-05449e018b2fa6",
+        "03-agency-a927c07491ab4b",
+        "03-history-8646caa93a143e"
+      ],
+      "name": "天照御祖神社",
+      "municipality": "大船渡市"
+    },
+    {
+      "ids": [
+        "03-agency-f0a4899d01e60a",
+        "03-history-c86919f19ecb60"
+      ],
+      "name": "尾崎神社",
+      "municipality": "大船渡市"
+    },
+    {
+      "ids": [
+        "03-agency-a1cc62a2830682",
+        "03-history-24d61b231e7047"
+      ],
+      "name": "大神宮",
+      "municipality": "九戸郡軽米町"
+    },
+    {
+      "ids": [
+        "03-agency-569af587560c25",
+        "03-history-f5a6d4ee68c88a"
+      ],
+      "name": "八坂神社",
+      "municipality": "九戸郡軽米町"
+    },
+    {
+      "ids": [
+        "03-agency-152e2572c57f68",
+        "03-history-961e8de58619d7"
+      ],
+      "name": "天照御祖神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-fa8b40407ed20b",
+        "03-history-ee530ba7191818"
+      ],
+      "name": "稲葉神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-65fdf5d3ce85a2",
+        "03-agency-334758056c0950",
+        "03-agency-bba8d3a10c976c",
+        "03-agency-cbf68ab76308bf",
+        "03-agency-71e314a8616bfa",
+        "03-agency-9b35844cf94d56",
+        "03-history-1fd133efd921f1",
+        "03-history-f353c77d5ee6f3",
+        "03-history-b0d38157969efd",
+        "03-history-2e943b984e8117",
+        "03-history-e411fe1705ed4f",
+        "03-history-e80aca3eeec6fc",
+        "03-history-09995afda763e8"
+      ],
+      "name": "八幡神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-3683f42185d471",
         "03-agency-7d53083055566a",
+        "03-agency-6779f99729c2a9",
         "03-history-f05caf3cab6ddb",
         "03-history-7eaefe7ea853d2",
         "03-history-25a3d0d4bf0d62"
       ],
       "name": "白山神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-1440402f47b3ee",
+        "03-history-2135ce180cd07e"
+      ],
+      "name": "江釣子神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-d8e1af1b7f8952",
+        "03-history-75ea5f86d8bb14"
+      ],
+      "name": "岩崎二前神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-8bada2e00944a7",
+        "03-agency-93c038c6f7956c",
+        "03-agency-ed832140ad76e2",
+        "03-history-9b468880546450"
+      ],
+      "name": "菅原神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-016bb9bd486605",
+        "03-history-531aa4d4c010d6"
+      ],
+      "name": "白鳥神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-f4c238074ef990",
+        "03-agency-1a8c9660ba267c",
+        "03-agency-bf846cc886b714",
+        "03-history-06d6a07db74529",
+        "03-history-2185e28f8551fd",
+        "03-history-8c1e53de7323ca"
+      ],
+      "name": "八坂神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-e65f26f6133d14",
+        "03-history-44424eef4089bb"
+      ],
+      "name": "駒形神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-2cd943388b1c81",
+        "03-history-5c7f7d00552f7f"
+      ],
+      "name": "雷神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-5a4e931038c382",
+        "03-history-cc078ba29844b9"
+      ],
+      "name": "後藤野稲荷神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-30654278ff07f4",
+        "03-agency-349319d8419a6f",
+        "03-history-2211067d176d7b"
+      ],
+      "name": "新山神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-fda18a9b7f5241",
+        "03-agency-6cb774f8d42f22",
+        "03-history-5d4a734b194bf3"
+      ],
+      "name": "古舘神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-da68d84e57e7fd",
+        "03-history-30714187769b25"
+      ],
+      "name": "見渡神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-40cee825d469de",
+        "03-agency-8e8f298d5ee550",
+        "03-agency-696e49a665f894",
+        "03-agency-cc25920189a750",
+        "03-agency-ed2e7b4a78fa8f",
+        "03-history-62ef64f4c847f7",
+        "03-history-4a1802783325e4",
+        "03-history-ed74913c7e19de",
+        "03-history-414a4467c732b3",
+        "03-history-0ab8a04f1b9a45"
+      ],
+      "name": "稲荷神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-704a2a3ed41121",
+        "03-agency-7c27be069600a8",
+        "03-history-4c2394ab587624"
+      ],
+      "name": "大神宮",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-a0430e45470c41",
+        "03-history-917b6303c5aec6"
+      ],
+      "name": "多岐神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-1cb4134d9c327f",
+        "03-history-e017f758a6eded"
+      ],
+      "name": "平澤神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-e67c324705c463",
+        "03-history-025256508fb6d7"
+      ],
+      "name": "八森神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-b20592cc610770",
+        "03-agency-3d2482b7bfcc22",
+        "03-history-8021304f0eb5a8",
+        "03-history-550ee11bd2dfd7"
+      ],
+      "name": "八幡宮",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-004dfcd96d4d14",
+        "03-history-6f0ad078a6ce9a"
+      ],
+      "name": "白髭神社",
       "municipality": "北上市"
     },
     {
@@ -5317,14 +1536,1700 @@
     },
     {
       "ids": [
+        "03-agency-4b0804881c060b",
+        "03-history-b69d7817528160"
+      ],
+      "name": "秋葉神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-5a19d6455eb1c5",
+        "03-agency-db3e896ef0f7e4",
+        "03-agency-07dd67372c40c5",
+        "03-history-4d427baf9d7909",
+        "03-history-d6288f5fef58ab",
+        "03-history-04fb7ef8b87240"
+      ],
+      "name": "愛宕神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-cae82df4bad818",
+        "03-history-3bf07124740e7a"
+      ],
+      "name": "塚稲荷神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-be92927c6dbeab",
+        "03-history-8dd3c228358d80"
+      ],
+      "name": "戸田神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-f55cb0df2c997f",
+        "03-history-98ff41acdb4dbc"
+      ],
+      "name": "岩崎神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-2d2242430b37c9",
+        "03-agency-f7266490e43ed5",
+        "03-history-4afe36edf65d53",
+        "03-history-23be8817dee4d4"
+      ],
+      "name": "久那斗神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-35fa6d0ce70722",
+        "03-history-c11c0d9fb861d6"
+      ],
+      "name": "高岡神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-61c620fad7fb53",
+        "03-history-730c05751904d9"
+      ],
+      "name": "住吉神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-3809137b3a08a6",
+        "03-history-c75c898b43a48e"
+      ],
+      "name": "若宮八幡神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-9b09eb05a1eee3",
+        "03-history-dce99b9f43fdf6"
+      ],
+      "name": "麓山神社",
+      "municipality": "北上市"
+    },
+    {
+      "ids": [
+        "03-agency-8019ff52f250a6",
+        "03-history-b9d14d5ac14526"
+      ],
+      "name": "大神宮",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-49138c550d51b3",
+        "03-agency-16d0086851309c",
+        "03-history-d30cc08f217e71",
+        "03-history-0bbf8e9ce02513"
+      ],
+      "name": "若宮八幡宮",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-295299f7f3a554",
+        "03-history-27bda89d281950"
+      ],
+      "name": "金刀比羅神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-48c1ee5eb7a891",
+        "03-history-bf296e436a67e6"
+      ],
+      "name": "諏訪神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-bc357ce7219ae6",
+        "03-agency-f358209675bcef",
+        "03-history-98f416edacfd55"
+      ],
+      "name": "八幡宮",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-44cf03e755d6e7",
+        "03-history-d1405949c20e9d"
+      ],
+      "name": "稲荷神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-3d9eaa42fd19d5",
+        "03-history-3e6128e2368b1d"
+      ],
+      "name": "巽山稲荷神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-cb45ed2d3bd766",
+        "03-history-02f3ae71f9d315"
+      ],
+      "name": "厳島神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-5f6f827f5a0da4",
+        "03-agency-baeddf739bedac",
+        "03-history-389a82eba17938",
+        "03-history-e01a15890f3692"
+      ],
+      "name": "丹内神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-01b48dacf49828",
+        "03-history-3c86bcc3d39e02"
+      ],
+      "name": "大宮神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-f3bbeff0702979",
+        "03-history-2cb65e27dc018c"
+      ],
+      "name": "蛭子神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-58ca1274140c00",
+        "03-history-89efff571eac18"
+      ],
+      "name": "本波神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-93590e52bcd17e",
+        "03-history-1b4db6712173c2"
+      ],
+      "name": "天満天神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-761ff66ff000b5",
+        "03-history-78a53f0471db3a"
+      ],
+      "name": "熊野神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-af0d586b9b83d0",
+        "03-history-f67b1aaf34244c"
+      ],
+      "name": "日吉神社",
+      "municipality": "久慈市"
+    },
+    {
+      "ids": [
+        "03-agency-2cef7b54e8877e",
+        "03-history-cdc38e840ad3c6"
+      ],
+      "name": "白山神社",
+      "municipality": "岩手郡葛巻町"
+    },
+    {
+      "ids": [
+        "03-agency-1ad6fd8b9ae9a6",
+        "03-history-053f1f5c1c2f0d"
+      ],
+      "name": "眞山神社",
+      "municipality": "岩手郡葛巻町"
+    },
+    {
+      "ids": [
+        "03-agency-f89a98057de6a6",
+        "03-history-e8dc30e2567ff3"
+      ],
+      "name": "加茂神社",
+      "municipality": "岩手郡葛巻町"
+    },
+    {
+      "ids": [
+        "03-agency-04d3fd3cb0b239",
+        "03-history-e15bf2cd438168"
+      ],
+      "name": "九戸神社",
+      "municipality": "九戸郡九戸村"
+    },
+    {
+      "ids": [
+        "03-agency-3e6b931f37a2aa",
+        "03-history-8ad33bf0956b0e"
+      ],
+      "name": "新山神社",
+      "municipality": "九戸郡九戸村"
+    },
+    {
+      "ids": [
+        "03-agency-f27152278c7f13",
+        "03-history-b5fa16c4e67c4a"
+      ],
+      "name": "熊野神社",
+      "municipality": "九戸郡九戸村"
+    },
+    {
+      "ids": [
+        "03-agency-afdcc3e65d3559",
+        "03-history-1552235bf8fa68"
+      ],
+      "name": "神明宮",
+      "municipality": "九戸郡九戸村"
+    },
+    {
+      "ids": [
+        "03-agency-66191ea1363466",
+        "03-history-0c90a048776b84"
+      ],
+      "name": "月山神社",
+      "municipality": "九戸郡九戸村"
+    },
+    {
+      "ids": [
+        "03-agency-13e2c5d7ce871b",
+        "03-history-b63baff27de38d"
+      ],
+      "name": "三社座神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-7beed821e74960",
+        "03-history-d5e3641ba956f6"
+      ],
+      "name": "岩手山神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-fe0ce748cb7453",
+        "03-history-b3b67a62fc520b"
+      ],
+      "name": "多賀神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-7f3167d3bfc44a",
+        "03-agency-b0cbc3f0f0dc0b",
+        "03-agency-5299760406402e",
+        "03-history-70331ea7a35623",
+        "03-history-e0cbf81e71b757",
+        "03-history-37b35a7987f8d8"
+      ],
+      "name": "大神宮",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-d9afeb022fac5c",
+        "03-history-fdf8e568b73712"
+      ],
+      "name": "雫石神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-a1805219dd0462",
+        "03-history-bc9e53990b8537"
+      ],
+      "name": "大宮神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-0dad34ee2f8f70",
+        "03-history-67cdce82c19821"
+      ],
+      "name": "温泉神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-e5db45d39c78aa",
+        "03-history-090682d5e68abe"
+      ],
+      "name": "沼田神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-899d3dc4c4ed0d",
+        "03-history-cd7acd69e844c4"
+      ],
+      "name": "熊野神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-a8f210f49546ce",
+        "03-history-927ecd14dfc1ed"
+      ],
+      "name": "堀合神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-05004b50a89742",
+        "03-history-7eb0b3dff52fc2"
+      ],
+      "name": "三柱神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-b5a007272bceb4",
+        "03-history-0413dd633bd0bf"
+      ],
+      "name": "瀧原神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-6a4982c866b7b5",
+        "03-history-d81a34a2c3716d"
+      ],
+      "name": "八幡宮",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-5ba881c3c38631",
+        "03-history-ef211d15c5e3d7"
+      ],
+      "name": "北浦稲荷神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-737bb3fb5cfa0a",
+        "03-history-9c02b70038a357"
+      ],
+      "name": "赤瀧神社",
+      "municipality": "岩手郡雫石町"
+    },
+    {
+      "ids": [
+        "03-agency-30fc844fdec485",
+        "03-history-f8d2d0a4e14d7a"
+      ],
+      "name": "志和古稲荷神社",
+      "municipality": "紫波郡紫波町"
+    },
+    {
+      "ids": [
+        "03-agency-fe2b94037a628f",
+        "03-agency-f3c60994349848",
+        "03-history-fd0cbfbc9abb79"
+      ],
+      "name": "八坂神社",
+      "municipality": "紫波郡紫波町"
+    },
+    {
+      "ids": [
+        "03-agency-60411511440731",
+        "03-history-c91bb4856a2abb"
+      ],
+      "name": "走湯神社",
+      "municipality": "紫波郡紫波町"
+    },
+    {
+      "ids": [
+        "03-agency-ee384ce47829e1",
+        "03-history-22116e1da72889"
+      ],
+      "name": "蜂神社",
+      "municipality": "紫波郡紫波町"
+    },
+    {
+      "ids": [
+        "03-agency-8a679d2769b2e5",
+        "03-history-d10655d84839cb"
+      ],
+      "name": "堤島神社",
+      "municipality": "紫波郡紫波町"
+    },
+    {
+      "ids": [
+        "03-agency-8ab3681c549066",
+        "03-agency-dc8b294263e63b",
+        "03-history-fed26dbc88c52e"
+      ],
+      "name": "尾崎神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-1173226f3b34c7",
+        "03-history-348a249e8125c5"
+      ],
+      "name": "天照御祖神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-6b1d52a4876759",
+        "03-history-115c41ddbba8b3"
+      ],
+      "name": "松原神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-d0417348f5c0d8",
+        "03-history-251571b95bdd7d"
+      ],
+      "name": "八坂神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-5e6491565e0a2d",
+        "03-history-04909ea30ae770"
+      ],
+      "name": "菅原神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-10e7d66d4d8d84",
+        "03-agency-205f7fd18e27f1",
+        "03-agency-1d8599d9089e86",
+        "03-agency-708dec9049709e",
+        "03-history-4c794bb488ef5c",
+        "03-history-86d2c8d5dd4e00"
+      ],
+      "name": "稲荷神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-b55c5c22ec9c38",
+        "03-history-e303a97f05fd70"
+      ],
+      "name": "瀧祭神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-c03cdb4be5101d",
+        "03-history-021bf494251e0a"
+      ],
+      "name": "山住神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-6c4ee42aa00d01",
+        "03-history-40d496658d9cf4"
+      ],
+      "name": "今滝神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-e4700c59a6ea7f",
+        "03-history-8ca1f6a691e36e"
+      ],
+      "name": "許登比良神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-2d576c7156540e",
+        "03-history-b939a3c1c177b9"
+      ],
+      "name": "白山神社",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-a1273fc7f83553",
+        "03-history-9d21ccae309a60"
+      ],
+      "name": "八幡宮",
+      "municipality": "釜石市"
+    },
+    {
+      "ids": [
+        "03-agency-7ca664c2b07bda",
+        "03-history-1c1d0acd99c728"
+      ],
+      "name": "立石稲荷神社",
+      "municipality": "気仙郡住田町"
+    },
+    {
+      "ids": [
+        "03-agency-e358d714d71954",
+        "03-history-1f81100782e9c7"
+      ],
+      "name": "八雲神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-5f1f343cf6d85a",
+        "03-agency-84165ed2281251",
+        "03-agency-a2544627855ba3",
+        "03-agency-8bcd45206b9d98",
+        "03-agency-4d06350635eb50",
+        "03-agency-10b7f56d50c245",
+        "03-agency-1f457dd82b7ca7",
+        "03-agency-4caedfa3326f66",
+        "03-agency-3545efc509113c",
+        "03-agency-d4d1c5d974e0b8",
+        "03-agency-db6e5afc16072a",
+        "03-agency-55f9b8d64075c0",
+        "03-history-edd56c53b1613f",
+        "03-history-c8a2289ff12502",
+        "03-history-6c725bef4310a6",
+        "03-history-3bbd111792ddbd",
+        "03-history-edfe4d1e817c38",
+        "03-history-240a767d0d1f64"
+      ],
+      "name": "熊野神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-a4f7f4f6ebd979",
+        "03-history-1e5385f17d581a"
+      ],
+      "name": "胡四王神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-afb018d48c0722",
         "03-agency-0418d1e609c456",
+        "03-agency-9e867a3eb6e3ad",
+        "03-agency-a770464c4c68cb",
+        "03-agency-f3e06bc6ba0a03",
+        "03-agency-2b4e0d72541320",
         "03-history-d0436963d325a7",
-        "03-history-4abf959fc506a3",
-        "03-history-8063050c63b846",
-        "03-history-1ec2a2ff137be8"
+        "03-history-8063050c63b846"
       ],
       "name": "八坂神社",
       "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-b59f28b97c06f3",
+        "03-agency-cdccef595618b4",
+        "03-agency-0c3ce4665d8bd5",
+        "03-agency-7422f50a13d5db",
+        "03-history-53e263fcfcbf94",
+        "03-history-11dbb2f02b2b19"
+      ],
+      "name": "諏訪神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-eaf52354365d60",
+        "03-history-20edad8f37b383"
+      ],
+      "name": "高木岡神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-afac8caaed24eb",
+        "03-history-810ec97773658f"
+      ],
+      "name": "羽山神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-1ea64761f54b75",
+        "03-agency-da2168730dd762",
+        "03-agency-62de8affc8dd42",
+        "03-agency-c26998b6f95d52",
+        "03-history-d65e7b143644ea",
+        "03-history-86cf961da7dd2a"
+      ],
+      "name": "八幡宮",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-eb95576f0add02",
+        "03-history-3fdfd6fc2c9c30"
+      ],
+      "name": "矢澤八幡宮",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-c3343550b0cc7d",
+        "03-history-7922da3ca62551"
+      ],
+      "name": "神明社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-372c3fbb3d31ee",
+        "03-agency-5c5f2c076023ff",
+        "03-agency-a50bf66a1d0b70",
+        "03-agency-279db0616cc304",
+        "03-history-6e359002b952a7",
+        "03-history-a64e82ba772496"
+      ],
+      "name": "山祇神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-a8dabf7bb7e503",
+        "03-agency-a2fc3584dfd81f",
+        "03-agency-87eaf4781bc814",
+        "03-agency-39ccb90d56ffdd",
+        "03-agency-ff3f07fe08149d",
+        "03-agency-91e227311216fd",
+        "03-agency-fe0e453ed96eaa",
+        "03-agency-c2fe3a22755bc4",
+        "03-agency-932417cbd65f70",
+        "03-agency-27ae9f4d117ba6",
+        "03-agency-2aeac7ca826f84",
+        "03-agency-9f0b1ff5fb6e44",
+        "03-agency-fdef4c461ecd04",
+        "03-history-76293aa911b1f1",
+        "03-history-6b5adf25d91ce0",
+        "03-history-f6187c7391bc46",
+        "03-history-78ed067167440b",
+        "03-history-a25f94c076a8dc",
+        "03-history-d705d7e4d86caa"
+      ],
+      "name": "稲荷神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-03505eacbf54ea",
+        "03-history-7b9e383dce42e3"
+      ],
+      "name": "太田神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-491b8ba41d4a08",
+        "03-history-a78b3e9505928f"
+      ],
+      "name": "金谷神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-a7a64e136586b9",
+        "03-history-6d3988004f970b"
+      ],
+      "name": "春日神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-402cb9b8104929",
+        "03-history-10e9968d86f20c"
+      ],
+      "name": "温泉神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-c0d0dcb02c9000",
+        "03-history-3fbb60d0650076"
+      ],
+      "name": "安野稲荷神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-191ab13df03ebc",
+        "03-agency-8356f45abb8c98",
+        "03-history-d7c0fa8333185f"
+      ],
+      "name": "白山神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-d9bf6e64b921a6",
+        "03-history-9719c988cb99ed"
+      ],
+      "name": "鏑八幡神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-4280471aa74930",
+        "03-history-d5f0e32834d9a5"
+      ],
+      "name": "丹内山神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-77e14f03ab3670",
+        "03-history-77be375dd77418"
+      ],
+      "name": "内室稲荷神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-0609e8aa030527",
+        "03-agency-4980d2fd0e2cff",
+        "03-history-f7e37eedbea273",
+        "03-history-191a923f98c1ca"
+      ],
+      "name": "天満宮",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-5f6b1d60f1ab44",
+        "03-history-787c35d0a42411"
+      ],
+      "name": "水分神社",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-8c6fb93b660984",
+        "03-history-9cf7ab7b797e3a",
+        "03-history-2457f6cb98bd1c"
+      ],
+      "name": "大神宮",
+      "municipality": "花巻市"
+    },
+    {
+      "ids": [
+        "03-agency-ff37c0b28498d4",
+        "03-history-4b83e55da39d0c"
+      ],
+      "name": "大宮神社",
+      "municipality": "下閉伊郡田野畑村"
+    },
+    {
+      "ids": [
+        "03-agency-0701d118fd1fa3",
+        "03-history-34f7942ed8b0db"
+      ],
+      "name": "大神宮",
+      "municipality": "下閉伊郡田野畑村"
+    },
+    {
+      "ids": [
+        "03-agency-9f88ef2193cd6d",
+        "03-history-496fe456b26b51"
+      ],
+      "name": "出羽神社",
+      "municipality": "下閉伊郡田野畑村"
+    },
+    {
+      "ids": [
+        "03-agency-4d3c80856c58bd",
+        "03-history-1cb4157bf6497e"
+      ],
+      "name": "八坂神社",
+      "municipality": "下閉伊郡田野畑村"
+    },
+    {
+      "ids": [
+        "03-agency-7780e96ea77a78",
+        "03-history-a4060dbba99912"
+      ],
+      "name": "南部神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-ca042f61fdc165",
+        "03-history-f79f70e7db256d"
+      ],
+      "name": "六神石神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-751fe611c73514",
+        "03-history-2ef68ff0a18bd6"
+      ],
+      "name": "倭文神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-f800b086b72e93",
+        "03-history-66d855830254a6"
+      ],
+      "name": "日枝神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-6747001b5a5eb0",
+        "03-agency-9cf66a6598da9b",
+        "03-history-9e4790160ee438"
+      ],
+      "name": "伊勢両宮神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-fb8fd77e1f66fc",
+        "03-history-5d2dc7891a1c20"
+      ],
+      "name": "石上神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-570cf6eb5330f8",
+        "03-agency-94e6889190e2d7",
+        "03-agency-54bfd85ee6bd7d",
+        "03-agency-20fcad55d648b9",
+        "03-agency-7c4aa589849aef",
+        "03-agency-ae4e685a9fded9",
+        "03-agency-afb048f9932f35",
+        "03-agency-266303daab2e6c",
+        "03-history-77fa1e33bc34e4",
+        "03-history-c2546997def804",
+        "03-history-d9a9434d271614",
+        "03-history-7211dd4fc66b02"
+      ],
+      "name": "稲荷神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-9e1ebeb06ae99e",
+        "03-agency-b48fa5138f47a9",
+        "03-agency-466719f1b21eb1",
+        "03-agency-42de3aa91088d9",
+        "03-history-27880cac360900"
+      ],
+      "name": "駒形神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-3a7c6bd8adee1b",
+        "03-agency-742780ae6819c1",
+        "03-history-90d1314b21e1a6",
+        "03-history-81c86b2fc4d73f"
+      ],
+      "name": "八坂神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-966f94d7d3e1b0",
+        "03-agency-fcf0448416f96a",
+        "03-agency-cd61ddaedec24b",
+        "03-agency-7aa7d4abf4003f",
+        "03-history-e6cb2d446bdb0b",
+        "03-history-8c893788e76158"
+      ],
+      "name": "愛宕神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-a85476ab33eaeb",
+        "03-history-7084b59ae9032d"
+      ],
+      "name": "加茂神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-19b604bfb9f7bb",
+        "03-agency-2a63e1b221096a",
+        "03-history-1f464704ab97dc"
+      ],
+      "name": "宇迦神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-cf83c382712214",
+        "03-agency-4a4986e31dc3ee",
+        "03-history-199e2c58ca3d38"
+      ],
+      "name": "熊野神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-04873fcbec601c",
+        "03-history-3c8972316b1803"
+      ],
+      "name": "伊豆神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-35b3f6cdde3e62",
+        "03-history-63fd929b4c8897"
+      ],
+      "name": "菅原神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-851b63eb45bbaa",
+        "03-history-a18e3d404ea73d"
+      ],
+      "name": "多賀神社",
+      "municipality": "遠野市"
+    },
+    {
+      "ids": [
+        "03-agency-c0ec8c49b6a78b",
+        "03-history-b1cde0779f7c74"
+      ],
+      "name": "八坂神社",
+      "municipality": "八幡平市"
+    },
+    {
+      "ids": [
+        "03-agency-9d64538e13713e",
+        "03-agency-1d13d52f230331",
+        "03-agency-573f3682314de7",
+        "03-history-0e5b1585cd9f78"
+      ],
+      "name": "八幡宮",
+      "municipality": "八幡平市"
+    },
+    {
+      "ids": [
+        "03-agency-eb3b112267fc7f",
+        "03-history-8d57d1df43f51c"
+      ],
+      "name": "長嶺神社",
+      "municipality": "八幡平市"
+    },
+    {
+      "ids": [
+        "03-agency-24ca2e68988ec7",
+        "03-history-036e0065a3e4d5"
+      ],
+      "name": "大更稲荷神社",
+      "municipality": "八幡平市"
+    },
+    {
+      "ids": [
+        "03-agency-18208a6ab247d8",
+        "03-history-4343be62404510"
+      ],
+      "name": "駒形神社",
+      "municipality": "八幡平市"
+    },
+    {
+      "ids": [
+        "03-agency-586bba58520260",
+        "03-agency-ca580074185f7c",
+        "03-history-f6fb4202dd1a82"
+      ],
+      "name": "白山神社",
+      "municipality": "西磐井郡平泉町"
+    },
+    {
+      "ids": [
+        "03-agency-3880159e59c1c7",
+        "03-history-ebe8d8679acd20"
+      ],
+      "name": "八坂神社",
+      "municipality": "西磐井郡平泉町"
+    },
+    {
+      "ids": [
+        "03-agency-28b23c88d7e2ff",
+        "03-history-f88c62f422716c"
+      ],
+      "name": "鵜鳥神社",
+      "municipality": "下閉伊郡普代村"
+    },
+    {
+      "ids": [
+        "03-agency-b090ba9fd9252d",
+        "03-history-c1a65ebaeee181"
+      ],
+      "name": "北股神社",
+      "municipality": "下閉伊郡普代村"
+    },
+    {
+      "ids": [
+        "03-agency-2191b086aaabc3",
+        "03-history-7300cafd2e8e16"
+      ],
+      "name": "深山神社",
+      "municipality": "二戸市"
+    },
+    {
+      "ids": [
+        "03-agency-121508c1a542a0",
+        "03-history-3ec0cfbc833c38"
+      ],
+      "name": "八幡神社",
+      "municipality": "二戸市"
+    },
+    {
+      "ids": [
+        "03-agency-fb16c754863999",
+        "03-history-812ad1b42b662c"
+      ],
+      "name": "秋葉神社",
+      "municipality": "二戸市"
+    },
+    {
+      "ids": [
+        "03-agency-63692d038c42a8",
+        "03-history-00281b85e49ef6"
+      ],
+      "name": "天満宮",
+      "municipality": "二戸市"
+    },
+    {
+      "ids": [
+        "03-agency-392919e3b3bc43",
+        "03-history-70acbf1e44754a"
+      ],
+      "name": "愛宕神社",
+      "municipality": "九戸郡野田村"
+    },
+    {
+      "ids": [
+        "03-agency-94d9ea62f9e299",
+        "03-history-a1c5335448c3c9"
+      ],
+      "name": "綿津海神社",
+      "municipality": "九戸郡野田村"
+    },
+    {
+      "ids": [
+        "03-agency-180edb27a464a2",
+        "03-history-88863b57dd6b57"
+      ],
+      "name": "玉川神社",
+      "municipality": "九戸郡野田村"
+    },
+    {
+      "ids": [
+        "03-agency-00fec202b2a126",
+        "03-history-460e655430f018"
+      ],
+      "name": "横山八幡宮",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-a4db358ca94876",
+        "03-history-304da115066e20"
+      ],
+      "name": "黒森神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-d5923a54f3b4a0",
+        "03-history-cdc4cacfe1e0de"
+      ],
+      "name": "黒崎神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-2436a8ac8a0789",
+        "03-history-e3be4a5d3ced88"
+      ],
+      "name": "小山田神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-e210d3b107fd29",
+        "03-agency-29651e55b11710",
+        "03-history-d701f8178f9e16",
+        "03-history-80dde280ca2238"
+      ],
+      "name": "大神宮",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-99ffbf83ff089c",
+        "03-history-59d12a7c14aa21"
+      ],
+      "name": "八木澤神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-326bde09251da9",
+        "03-agency-5f95e93b78048b",
+        "03-agency-afea879c5eb7c2",
+        "03-agency-c13e567bd3ab6b",
+        "03-history-00c1f3fc267c6c",
+        "03-history-2c22d1c6b344a8",
+        "03-history-c330368b3e6423",
+        "03-history-cfc2a8b25b276c"
+      ],
+      "name": "八幡宮",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-fe04300a5bec28",
+        "03-agency-893f0217a8d4ca",
+        "03-agency-40890229d8800f",
+        "03-agency-095b16bc0cea68",
+        "03-agency-84f82f3632ecd2",
+        "03-agency-8b1f991d8c6d32",
+        "03-history-6ba221f42263e7",
+        "03-history-3118bbe93b768e",
+        "03-history-d0fb38bdd72eca",
+        "03-history-770e1191416966"
+      ],
+      "name": "稲荷神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-4d61626ad55017",
+        "03-agency-9458cb4c1c4d78",
+        "03-history-b6347289d133e4",
+        "03-history-952d9f4e282242"
+      ],
+      "name": "愛宕神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-67147b20eebea9",
+        "03-history-088ab075fc7e61"
+      ],
+      "name": "米山神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-f89047b9a91729",
+        "03-history-2ac9f8262f66a1"
+      ],
+      "name": "駒形神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-cda289d71e53f3",
+        "03-history-e9fba686f45131"
+      ],
+      "name": "神祠神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-b6fda62f12d2b5",
+        "03-history-849c0473705d71"
+      ],
+      "name": "千鶏神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-91c8fae883c026",
+        "03-agency-c8942dda5f4fd1",
+        "03-history-20f0119ca1b7bd"
+      ],
+      "name": "出羽神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-ea1fa425fbaf71",
+        "03-history-33e91576bea149"
+      ],
+      "name": "小山神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-39ed93e41dc94a",
+        "03-history-a487baca56f3d0"
+      ],
+      "name": "華森神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-03b73160bad2f9",
+        "03-history-072d763ec47f26"
+      ],
+      "name": "石浜神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-2fcde6bf36a0ff",
+        "03-history-313cc8147fc095"
+      ],
+      "name": "青猿神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-a6c5fb7bb9f29d",
+        "03-history-543da14eb02c1f"
+      ],
+      "name": "近内神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-2fcf74f44c1dc6",
+        "03-history-c911d77d098b0a"
+      ],
+      "name": "大立石神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-a947789d7bc67c",
+        "03-history-979ccd28569612"
+      ],
+      "name": "田鎖神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-ebfb9abbed57ff",
+        "03-history-708de6f2b05086"
+      ],
+      "name": "金刀比羅神社",
+      "municipality": "宮古市"
+    },
+    {
+      "ids": [
+        "03-agency-8d7141a4fa5eb3",
+        "03-history-e578b0254ae1cb",
+        "03-history-48222a896cdb3a",
+        "03-history-001716e7d1161b"
+      ],
+      "name": "八幡神社",
+      "municipality": "下閉伊郡川井村"
+    },
+    {
+      "ids": [
+        "03-agency-f0acc6787112e8",
+        "03-agency-98422f131bc976",
+        "03-agency-a81f0387da532a",
+        "03-history-57b8313d113721",
+        "03-history-b9566c4dacf519"
+      ],
+      "name": "薬師神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-bc4f43d123170e",
+        "03-history-8c1c0afa09f1c1"
+      ],
+      "name": "岩谷稲荷神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-a360d0ffd1cbc1",
+        "03-agency-bd76500ba62bfe",
+        "03-history-b0ca356bfb8e2a",
+        "03-history-eb60228dc310f0"
+      ],
+      "name": "諏訪神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-b7591551583ccc",
+        "03-history-63219651874d29"
+      ],
+      "name": "鹿妻神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-bea4d590c4fe29",
+        "03-agency-06222794db2756",
+        "03-history-592834a118741c"
+      ],
+      "name": "川留稲荷神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-886a2f5d587f0d",
+        "03-history-505f945aa03d84"
+      ],
+      "name": "熊野神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-2de801927b9b7d",
+        "03-agency-6f254927d74798",
+        "03-agency-8e517719455078",
+        "03-history-a5d3a0135da597",
+        "03-history-95a47887514782"
+      ],
+      "name": "金刀比羅神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-551f9f1878a294",
+        "03-agency-d65bd38976c5fd",
+        "03-agency-c1e396c780159f",
+        "03-history-bf3cb13ab33405",
+        "03-history-c2e991f6c1ad48"
+      ],
+      "name": "八幡神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-ffd96b86779750",
+        "03-history-4947c40dd09927"
+      ],
+      "name": "藤倉神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-2f9db8043f6b00",
+        "03-history-9bfaf89d49a495"
+      ],
+      "name": "天満宮",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-3c14abc2c4604f",
+        "03-history-0efb3b0ba2dc8f"
+      ],
+      "name": "川目御中神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-e3577e3384bee6",
+        "03-history-769447e1077e1a"
+      ],
+      "name": "長洞神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-6c3a4eab88b49e",
+        "03-agency-5511cc21b3b325",
+        "03-history-dfc5fbf16d10e8",
+        "03-history-9d519aaad0a8ca"
+      ],
+      "name": "山祇神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-250dd5c91ad1f4",
+        "03-history-c7bffd42ec9cf6"
+      ],
+      "name": "根田茂神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-d17dfbb8329661",
+        "03-agency-ec9e38b53c07b1",
+        "03-history-6590627d5626b3"
+      ],
+      "name": "愛宕神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-e95287705cbd73",
+        "03-history-010357c54bb7b7"
+      ],
+      "name": "大屋敷稲荷神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-3e62855cb63092",
+        "03-history-deb34fb99ea577"
+      ],
+      "name": "駒形神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-996d80a0f9633b",
+        "03-history-b6c5c01ac9b2b6"
+      ],
+      "name": "平野神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-4de67310535716",
+        "03-history-f2cf3f8143cc21"
+      ],
+      "name": "秋葉神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-8524e4dd8316d8",
+        "03-history-9f4ab14a00cdd6"
+      ],
+      "name": "北野神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-d6ff4f82ba7d6f",
+        "03-history-16ba43e2de58bf"
+      ],
+      "name": "大國神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-179b672ff317ff",
+        "03-history-bf19d76d4f1045"
+      ],
+      "name": "多賀神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-d9caf4b1fd0a53",
+        "03-history-ba85925190072d"
+      ],
+      "name": "今宮神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-f43b63d8072fac",
+        "03-history-40a0e017701ba9"
+      ],
+      "name": "雀神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-d718655e383554",
+        "03-history-b22407752fffc1"
+      ],
+      "name": "板橋神社",
+      "municipality": "盛岡市"
+    },
+    {
+      "ids": [
+        "03-agency-d1c4406500f6fc",
+        "03-history-0e61f19b81cb19"
+      ],
+      "name": "三島神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-3da7c9ef2260d9",
+        "03-agency-f8224ff02e8c2c",
+        "03-agency-ff6dfc25f3b509",
+        "03-history-f501d956b52566",
+        "03-history-b6550dd42d3eb0",
+        "03-history-95e0660f99471c"
+      ],
+      "name": "熊野神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-e62f05aa3e6475",
+        "03-history-2af1a8420f5782"
+      ],
+      "name": "徳田神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-86d6f07264b8c0",
+        "03-history-637be8c0146c75"
+      ],
+      "name": "太田神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-1522d8deb9cc0b",
+        "03-history-4f45b5d14dfb8c"
+      ],
+      "name": "木宮神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-aeb232f932f85a",
+        "03-history-7b9000ec51b5d0"
+      ],
+      "name": "秋津神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-b74cf153b50426",
+        "03-history-56d5a050277b31"
+      ],
+      "name": "八坂神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-ad7cb33aeca105",
+        "03-history-c473ff5b167a88"
+      ],
+      "name": "稲荷神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-23378e3f143d16",
+        "03-history-a983b2c20401f7"
+      ],
+      "name": "八幡神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-d78486629393a7",
+        "03-history-1f606b1f613c0c"
+      ],
+      "name": "大木神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-8da2e8af5a4712",
+        "03-agency-151f98f5db946f",
+        "03-history-2328dfb0bf20d1",
+        "03-history-0ba8efbe44922c"
+      ],
+      "name": "白山神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-f762875cd69e82",
+        "03-history-3c92bb7e7fdabb"
+      ],
+      "name": "諏訪神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-01e13bda61fb93",
+        "03-history-bc8226a8f87fef"
+      ],
+      "name": "廣宮神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-351a534e8aa580",
+        "03-history-0edbe2034992f0"
+      ],
+      "name": "水分神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-61eb40e299d909",
+        "03-history-b812221df0280e"
+      ],
+      "name": "南昌山神社",
+      "municipality": "紫波郡矢巾町"
+    },
+    {
+      "ids": [
+        "03-agency-5b93bfef05e3a1",
+        "03-history-26fca7548f8f37"
+      ],
+      "name": "関口神社",
+      "municipality": "下閉伊郡山田町"
+    },
+    {
+      "ids": [
+        "03-agency-92ecab60886df6",
+        "03-history-ab373352cd39dd"
+      ],
+      "name": "荒神社",
+      "municipality": "下閉伊郡山田町"
+    },
+    {
+      "ids": [
+        "03-agency-10f26ade58359b",
+        "03-agency-468eeccd8ca580",
+        "03-history-55ecc14dacdafd",
+        "03-history-1368b609a54ca2"
+      ],
+      "name": "八幡宮",
+      "municipality": "下閉伊郡山田町"
+    },
+    {
+      "ids": [
+        "03-agency-1d8fc9f9fbde16",
+        "03-history-c4dcf18768f1e8"
+      ],
+      "name": "大杉神社",
+      "municipality": "下閉伊郡山田町"
+    },
+    {
+      "ids": [
+        "03-agency-ff9c5db7afee43",
+        "03-history-1c8c349f4bf541"
+      ],
+      "name": "魚賀波間神社",
+      "municipality": "下閉伊郡山田町"
     },
     {
       "ids": [
@@ -5333,11 +3238,94 @@
       ],
       "name": "織笠八幡宮",
       "municipality": "下閉伊郡山田町"
+    },
+    {
+      "ids": [
+        "03-agency-15cf29550e671d",
+        "03-history-bc08ac9a2b98fc"
+      ],
+      "name": "白山神社",
+      "municipality": "下閉伊郡山田町"
+    },
+    {
+      "ids": [
+        "03-agency-5350e2974b981b",
+        "03-history-64cdaf9f5ed6db"
+      ],
+      "name": "諏訪神社",
+      "municipality": "下閉伊郡山田町"
+    },
+    {
+      "ids": [
+        "03-agency-ecbf26b8e65470",
+        "03-history-5e5e48ce928b4f"
+      ],
+      "name": "霞露嶽神社",
+      "municipality": "下閉伊郡山田町"
+    },
+    {
+      "ids": [
+        "03-agency-71026c54739387",
+        "03-history-8ed0344536b405"
+      ],
+      "name": "稲荷神社",
+      "municipality": "下閉伊郡山田町"
+    },
+    {
+      "ids": [
+        "03-agency-2b848e84f14579",
+        "03-history-0e0a232e3ad6db"
+      ],
+      "name": "小谷鳥神社",
+      "municipality": "下閉伊郡山田町"
+    },
+    {
+      "ids": [
+        "03-agency-4e509995c2a3ff",
+        "03-agency-de2440eb8ebfa1",
+        "03-agency-6bbc9e99147ca1",
+        "03-history-0c36bef6888c49"
+      ],
+      "name": "天照御祖神社",
+      "municipality": "陸前高田市"
+    },
+    {
+      "ids": [
+        "03-agency-a032fb73230ae9",
+        "03-agency-2f5ab0b9a3a9d3",
+        "03-history-bb127a1a9c6e1d"
+      ],
+      "name": "熊野神社",
+      "municipality": "陸前高田市"
+    },
+    {
+      "ids": [
+        "03-agency-d51bcb9b944375",
+        "03-history-ecbcd6a08d2473"
+      ],
+      "name": "鹿島神社",
+      "municipality": "陸前高田市"
+    },
+    {
+      "ids": [
+        "03-agency-f1f195c071a511",
+        "03-history-a514d85f9aafe2"
+      ],
+      "name": "蛇ケ崎神社",
+      "municipality": "陸前高田市"
+    },
+    {
+      "ids": [
+        "03-agency-1d364d00afe9c8",
+        "03-history-a2f2b8f79db961"
+      ],
+      "name": "山神社",
+      "municipality": "陸前高田市"
     }
   ],
   "link_corrections": [],
   "missing_fields_summary": {
     "deities": 2,
-    "unmapped_records": 1711
+    "unmapped_records": 1538
   }
 }

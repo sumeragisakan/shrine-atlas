@@ -106,6 +106,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大己貴命、《配》武甕槌命、猿田彦命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町槙野地815番地",
       "source_address_historical": "茨城県久慈郡大子町槙野地815"
     },
@@ -134,6 +135,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大己貴命、《配》武甕槌命、猿田彦命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町槙野地815番地",
         "source_address_historical": "茨城県久慈郡大子町槙野地815"
       }
@@ -238,6 +240,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》素盞嗚尊、大己貴命、金山彦命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町中郷1888番地",
       "source_address_historical": "茨城県久慈郡大子町中郷1888"
     },
@@ -266,6 +269,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》素盞嗚尊、大己貴命、金山彦命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町中郷1888番地",
         "source_address_historical": "茨城県久慈郡大子町中郷1888"
       }
@@ -377,6 +381,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》後醍醐天皇、《配》楠木正勝",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町上郷1705番地1",
       "source_address_historical": "茨城県久慈郡大子町上郷1705-1"
     },
@@ -405,6 +410,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》後醍醐天皇、《配》楠木正勝",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町上郷1705番地1",
         "source_address_historical": "茨城県久慈郡大子町上郷1705-1"
       }
@@ -508,6 +514,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》伊弉諾尊、伊弉冉尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町北吉沢1841番地",
       "source_address_historical": "茨城県久慈郡大子町北吉沢1841"
     },
@@ -536,6 +543,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》伊弉諾尊、伊弉冉尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町北吉沢1841番地",
         "source_address_historical": "茨城県久慈郡大子町北吉沢1841"
       }
@@ -640,6 +648,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》級長津彦命、面足命、惶根尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町町付1218番地",
       "source_address_historical": "茨城県久慈郡大子町町付1218"
     },
@@ -668,6 +677,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》級長津彦命、面足命、惶根尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町町付1218番地",
         "source_address_historical": "茨城県久慈郡大子町町付1218"
       }
@@ -680,14 +690,15 @@
     "name": "諏訪神社",
     "kana": "すわじんじゃ",
     "area": "全域",
-    "municipality": "〒319-3512久慈郡大子町",
+    "municipality": "久慈郡大子町",
     "aliases": [],
     "headline": "健御名方命 八坂刀売命",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "茨城県〒319-3512久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜諏訪神社",
@@ -696,6 +707,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目1266",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=1266",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "8"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -707,6 +735,24 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "健御名方命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "八坂刀売命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -714,7 +760,7 @@
         "id": "08-agency-200b4f26b86a62:1",
         "name": "諏訪神社",
         "label": "諏訪神社",
-        "address": "茨城県〒319-3512 久慈郡大子町小生瀬2848番地",
+        "address": "茨城県久慈郡大子町小生瀬2848番地",
         "lat": null,
         "lon": null,
         "sources": [
@@ -723,10 +769,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "茨城県久慈郡大子町小生瀬2848"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -740,17 +796,18 @@
     },
     "source_fields": {
       "kami_verbatim": "健御名方命 八坂刀売命",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》健御名方命、《配》八坂刀売命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒319-3512 久慈郡大子町小生瀬2848番地",
-      "source_address_historical": ""
+      "source_address_historical": "茨城県久慈郡大子町小生瀬2848"
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/daigo.html#row-6",
       "display_number": "08-00006",
       "index_name": "諏訪神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/daigo.html",
-      "listed_address": "茨城県〒319-3512 久慈郡大子町小生瀬2848番地",
+      "listed_address": "茨城県久慈郡大子町小生瀬2848番地",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/05104.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/05104.html",
       "detail_status": "published_agency_record",
@@ -759,8 +816,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/daigo.html#row-6",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "1266",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -768,10 +825,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "健御名方命 八坂刀売命",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》健御名方命、《配》八坂刀売命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒319-3512 久慈郡大子町小生瀬2848番地",
-        "source_address_historical": ""
+        "source_address_historical": "茨城県久慈郡大子町小生瀬2848"
       }
     }
   },
@@ -876,6 +934,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》句句廼馳命、軻遇突智命、埴山姫命、金山彦命、罔象命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町高柴1522番地",
       "source_address_historical": "茨城県久慈郡大子町高柴1522"
     },
@@ -904,6 +963,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》句句廼馳命、軻遇突智命、埴山姫命、金山彦命、罔象命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町高柴1522番地",
         "source_address_historical": "茨城県久慈郡大子町高柴1522"
       }
@@ -1006,6 +1066,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》天合命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町内大野2138番地",
       "source_address_historical": "茨城県久慈郡大子町内大野2138"
     },
@@ -1034,6 +1095,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》天合命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町内大野2138番地",
         "source_address_historical": "茨城県久慈郡大子町内大野2138"
       }
@@ -1136,6 +1198,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》豊城入彦命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町北田気1025番地",
       "source_address_historical": "茨城県久慈郡大子町北田気1025"
     },
@@ -1164,6 +1227,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》豊城入彦命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町北田気1025番地",
         "source_address_historical": "茨城県久慈郡大子町北田気1025"
       }
@@ -1266,6 +1330,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》倉稲魂命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町下津原1179番地",
       "source_address_historical": "茨城県久慈郡大子町下津原1179"
     },
@@ -1294,6 +1359,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》倉稲魂命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町下津原1179番地",
         "source_address_historical": "茨城県久慈郡大子町下津原1179"
       }
@@ -1396,6 +1462,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》天香権山命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町南田気1番地",
       "source_address_historical": "茨城県久慈郡大子町南田気1"
     },
@@ -1424,6 +1491,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》天香権山命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町南田気1番地",
         "source_address_historical": "茨城県久慈郡大子町南田気1"
       }
@@ -1442,8 +1510,7 @@
     "tags": [
       "机构公开名录",
       "含历史祭神表",
-      "未定位",
-      "同名条目待核"
+      "未定位"
     ],
     "intro": "茨城県久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -1527,6 +1594,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》健御名方命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町袋田1338番地",
       "source_address_historical": "茨城県久慈郡大子町袋田1338"
     },
@@ -1555,6 +1623,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》健御名方命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町袋田1338番地",
         "source_address_historical": "茨城県久慈郡大子町袋田1338"
       }
@@ -1573,8 +1642,7 @@
     "tags": [
       "机构公开名录",
       "含历史祭神表",
-      "未定位",
-      "同名条目待核"
+      "未定位"
     ],
     "intro": "茨城県久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -1658,6 +1726,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》健御名方命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町久野瀬220番地",
       "source_address_historical": "茨城県久慈郡大子町久野瀬220"
     },
@@ -1686,6 +1755,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》健御名方命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町久野瀬220番地",
         "source_address_historical": "茨城県久慈郡大子町久野瀬220"
       }
@@ -1805,6 +1875,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》国常立尊、豊斟渟尊、泥土煮尊、沙土煮尊、角杙尊、活杙尊、大戸道尊、大苫辺尊、面足尊、惶根尊、伊弉冊尊、伊弉諾尊、天照大神、忍穂耳尊、瓊瓊杵尊、彦火火出見尊、??草葺不合尊、軻遇突智尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町大子458番地",
       "source_address_historical": "茨城県久慈郡大子町大子458"
     },
@@ -1833,6 +1904,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》国常立尊、豊斟渟尊、泥土煮尊、沙土煮尊、角杙尊、活杙尊、大戸道尊、大苫辺尊、面足尊、惶根尊、伊弉冊尊、伊弉諾尊、天照大神、忍穂耳尊、瓊瓊杵尊、彦火火出見尊、??草葺不合尊、軻遇突智尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町大子458番地",
         "source_address_historical": "茨城県久慈郡大子町大子458"
       }
@@ -1845,14 +1917,15 @@
     "name": "鹿嶋神社",
     "kana": "かしまじんじゃ",
     "area": "全域",
-    "municipality": "〒319-3542久慈郡大子町",
+    "municipality": "久慈郡大子町",
     "aliases": [],
     "headline": "武甕槌大神（鹿島神宮の 御分社）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "茨城県〒319-3542久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜鹿嶋神社",
@@ -1861,6 +1934,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目76846",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=76846",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "8"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -1872,6 +1962,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "武甕槌命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -1879,7 +1978,7 @@
         "id": "08-agency-4f6cef0095f45a:1",
         "name": "鹿嶋神社",
         "label": "鹿嶋神社",
-        "address": "茨城県〒319-3542 久慈郡大子町大字初原329番地",
+        "address": "茨城県久慈郡大子町大字初原329番地",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1888,10 +1987,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "茨城県久慈郡大子町初原329"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -1905,17 +2014,18 @@
     },
     "source_fields": {
       "kami_verbatim": "武甕槌大神（鹿島神宮の 御分社）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》武甕槌命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒319-3542 久慈郡大子町大字初原329番地",
-      "source_address_historical": ""
+      "source_address_historical": "茨城県久慈郡大子町初原329"
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/daigo.html#row-15",
       "display_number": "08-00015",
       "index_name": "鹿嶋神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/daigo.html",
-      "listed_address": "茨城県〒319-3542 久慈郡大子町大字初原329番地",
+      "listed_address": "茨城県久慈郡大子町大字初原329番地",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/05113.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/05113.html",
       "detail_status": "published_agency_record",
@@ -1924,8 +2034,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/daigo.html#row-15",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "76846",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -1933,10 +2043,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "武甕槌大神（鹿島神宮の 御分社）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》武甕槌命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒319-3542 久慈郡大子町大字初原329番地",
-        "source_address_historical": ""
+        "source_address_historical": "茨城県久慈郡大子町初原329"
       }
     }
   },
@@ -2001,6 +2112,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町芦野倉872番地",
       "source_address_historical": ""
     },
@@ -2029,6 +2141,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町芦野倉872番地",
         "source_address_historical": ""
       }
@@ -2132,6 +2245,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》天神七代神、地神五代神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町上岡653番地",
       "source_address_historical": "茨城県久慈郡大子町上岡653"
     },
@@ -2160,6 +2274,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》天神七代神、地神五代神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町上岡653番地",
         "source_address_historical": "茨城県久慈郡大子町上岡653"
       }
@@ -2263,6 +2378,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》闇?命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町上岡1996番地",
       "source_address_historical": "茨城県久慈郡大子町上岡1996"
     },
@@ -2291,6 +2407,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》闇?命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町上岡1996番地",
         "source_address_historical": "茨城県久慈郡大子町上岡1996"
       }
@@ -2303,14 +2420,15 @@
     "name": "八龍神社",
     "kana": "はちりゅうじんじゃ",
     "area": "全域",
-    "municipality": "〒319-3556久慈郡大子町",
+    "municipality": "久慈郡大子町",
     "aliases": [],
     "headline": "高靇神(たかおかみ) 闇靇神(くらおかみ)",
     "tags": [
       "机构公开名录",
-      "未定位"
+      "未定位",
+      "同名条目待核"
     ],
-    "intro": "茨城県〒319-3556久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜八龍神社",
@@ -2337,7 +2455,7 @@
         "id": "08-agency-de4eb644d6efab:1",
         "name": "八龍神社",
         "label": "八龍神社",
-        "address": "茨城県〒319-3556 久慈郡大子町川山470",
+        "address": "茨城県久慈郡大子町川山470",
         "lat": null,
         "lon": null,
         "sources": [
@@ -2365,6 +2483,7 @@
       "kami_verbatim": "高靇神(たかおかみ) 闇靇神(くらおかみ)",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒319-3556 久慈郡大子町川山470",
       "source_address_historical": ""
     },
@@ -2373,7 +2492,7 @@
       "display_number": "08-00019",
       "index_name": "八龍神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/daigo.html",
-      "listed_address": "茨城県〒319-3556 久慈郡大子町川山470",
+      "listed_address": "茨城県久慈郡大子町川山470",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/05117.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/05117.html",
       "detail_status": "published_agency_record",
@@ -2393,6 +2512,7 @@
         "kami_verbatim": "高靇神(たかおかみ) 闇靇神(くらおかみ)",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒319-3556 久慈郡大子町川山470",
         "source_address_historical": ""
       }
@@ -2459,6 +2579,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町矢田824番地,833番地",
       "source_address_historical": ""
     },
@@ -2487,6 +2608,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町矢田824番地,833番地",
         "source_address_historical": ""
       }
@@ -2590,6 +2712,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》天照大神、月読神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町冥賀1644番地",
       "source_address_historical": "茨城県久慈郡大子町冥賀1644"
     },
@@ -2618,6 +2741,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》天照大神、月読神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町冥賀1644番地",
         "source_address_historical": "茨城県久慈郡大子町冥賀1644"
       }
@@ -2721,6 +2845,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》伊弉那岐尊、伊弉那美尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町高田512番地",
       "source_address_historical": "茨城県久慈郡大子町高田512"
     },
@@ -2749,6 +2874,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》伊弉那岐尊、伊弉那美尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町高田512番地",
         "source_address_historical": "茨城県久慈郡大子町高田512"
       }
@@ -2851,6 +2977,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》手力雄命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町池田598番地",
       "source_address_historical": "茨城県久慈郡大子町池田598"
     },
@@ -2879,6 +3006,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》手力雄命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町池田598番地",
         "source_address_historical": "茨城県久慈郡大子町池田598"
       }
@@ -2982,6 +3110,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》日本武尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町池田1582番地",
       "source_address_historical": "茨城県久慈郡大子町池田1582"
     },
@@ -3010,6 +3139,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》日本武尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町池田1582番地",
         "source_address_historical": "茨城県久慈郡大子町池田1582"
       }
@@ -3121,6 +3251,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《合》伊弉冊命、《主》軻遇突智命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町大生瀬5051番地",
       "source_address_historical": "茨城県久慈郡大子町大生瀬5051"
     },
@@ -3149,6 +3280,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《合》伊弉冊命、《主》軻遇突智命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町大生瀬5051番地",
         "source_address_historical": "茨城県久慈郡大子町大生瀬5051"
       }
@@ -3251,6 +3383,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》木花開耶姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町佐貫931番地",
       "source_address_historical": "茨城県久慈郡大子町佐貫931"
     },
@@ -3279,6 +3412,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》木花開耶姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町佐貫931番地",
         "source_address_historical": "茨城県久慈郡大子町佐貫931"
       }
@@ -3291,14 +3425,15 @@
     "name": "関戸神社",
     "kana": "せきどじんじゃ",
     "area": "全域",
-    "municipality": "〒319-3361久慈郡大子町",
+    "municipality": "久慈郡大子町",
     "aliases": [],
     "headline": "天津彦根命(あまつひこねのみこと)",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "茨城県〒319-3361久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜関戸神社",
@@ -3307,6 +3442,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目76858",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=76858",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "8"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -3318,6 +3470,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "天津彦根神"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -3325,7 +3486,7 @@
         "id": "08-agency-a8731a7d7291fe:1",
         "name": "関戸神社",
         "label": "関戸神社",
-        "address": "茨城県〒319-3361 久慈郡大子町頃藤6506",
+        "address": "茨城県久慈郡大子町頃藤6506",
         "lat": null,
         "lon": null,
         "sources": [
@@ -3334,10 +3495,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "茨城県久慈郡大子町頃藤6506"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -3351,17 +3522,18 @@
     },
     "source_fields": {
       "kami_verbatim": "天津彦根命(あまつひこねのみこと)",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》天津彦根神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒319-3361 久慈郡大子町頃藤6506",
-      "source_address_historical": ""
+      "source_address_historical": "茨城県久慈郡大子町頃藤6506"
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/daigo.html#row-27",
       "display_number": "08-00027",
       "index_name": "関戸神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/daigo.html",
-      "listed_address": "茨城県〒319-3361 久慈郡大子町頃藤6506",
+      "listed_address": "茨城県久慈郡大子町頃藤6506",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/05125.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/05125.html",
       "detail_status": "published_agency_record",
@@ -3370,8 +3542,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/daigo.html#row-27",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "76858",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -3379,10 +3551,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "天津彦根命(あまつひこねのみこと)",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》天津彦根神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒319-3361 久慈郡大子町頃藤6506",
-        "source_address_historical": ""
+        "source_address_historical": "茨城県久慈郡大子町頃藤6506"
       }
     }
   },
@@ -3483,6 +3656,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大己貴命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町大沢406番地",
       "source_address_historical": "茨城県久慈郡大子町大沢406"
     },
@@ -3511,6 +3685,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大己貴命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町大沢406番地",
         "source_address_historical": "茨城県久慈郡大子町大沢406"
       }
@@ -3529,8 +3704,7 @@
     "tags": [
       "机构公开名录",
       "含历史祭神表",
-      "未定位",
-      "同名条目待核"
+      "未定位"
     ],
     "intro": "茨城県久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -3614,6 +3788,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》武甕槌命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町栃原434番地",
       "source_address_historical": "茨城県久慈郡大子町栃原434"
     },
@@ -3642,6 +3817,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》武甕槌命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町栃原434番地",
         "source_address_historical": "茨城県久慈郡大子町栃原434"
       }
@@ -3660,8 +3836,7 @@
     "tags": [
       "机构公开名录",
       "含历史祭神表",
-      "未定位",
-      "同名条目待核"
+      "未定位"
     ],
     "intro": "茨城県久慈郡大子町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -3745,6 +3920,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》建御名方命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町西金249番地",
       "source_address_historical": "茨城県久慈郡大子町西金249"
     },
@@ -3773,6 +3949,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》建御名方命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町西金249番地",
         "source_address_historical": "茨城県久慈郡大子町西金249"
       }
@@ -3876,6 +4053,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》伊弉諾命、伊弉冊命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町頃藤3154番地",
       "source_address_historical": "茨城県久慈郡大子町頃藤3154"
     },
@@ -3904,6 +4082,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》伊弉諾命、伊弉冊命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町頃藤3154番地",
         "source_address_historical": "茨城県久慈郡大子町頃藤3154"
       }
@@ -4007,6 +4186,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大己貴命、事代主命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町上野宮2129番地",
       "source_address_historical": "茨城県久慈郡大子町上野宮2129"
     },
@@ -4035,6 +4215,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大己貴命、事代主命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町上野宮2129番地",
         "source_address_historical": "茨城県久慈郡大子町上野宮2129"
       }
@@ -4139,6 +4320,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》面足尊、惶根尊、級長津彦命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町下野宮1626番地",
       "source_address_historical": "茨城県久慈郡大子町下野宮1626"
     },
@@ -4167,6 +4349,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》面足尊、惶根尊、級長津彦命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町下野宮1626番地",
         "source_address_historical": "茨城県久慈郡大子町下野宮1626"
       }
@@ -4271,6 +4454,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》面足尊、惶根尊、級長津彦命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町上野宮3208番地",
       "source_address_historical": "茨城県久慈郡大子町上野宮3208"
     },
@@ -4299,6 +4483,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》面足尊、惶根尊、級長津彦命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町上野宮3208番地",
         "source_address_historical": "茨城県久慈郡大子町上野宮3208"
       }
@@ -4401,6 +4586,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大己貴命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町塙1438番地",
       "source_address_historical": "茨城県久慈郡大子町塙1438"
     },
@@ -4429,6 +4615,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大己貴命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町塙1438番地",
         "source_address_historical": "茨城県久慈郡大子町塙1438"
       }
@@ -4531,6 +4718,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》伊弉冊命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町浅川3903番地",
       "source_address_historical": "茨城県久慈郡大子町浅川3903"
     },
@@ -4559,6 +4747,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》伊弉冊命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町浅川3903番地",
         "source_address_historical": "茨城県久慈郡大子町浅川3903"
       }
@@ -4663,6 +4852,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》国常立尊、伊弉諾尊、事解男尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町山田879番地",
       "source_address_historical": "茨城県久慈郡大子町山田879"
     },
@@ -4691,6 +4881,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》国常立尊、伊弉諾尊、事解男尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町山田879番地",
         "source_address_historical": "茨城県久慈郡大子町山田879"
       }
@@ -4756,6 +4947,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町浅川2881番地",
       "source_address_historical": ""
     },
@@ -4784,6 +4976,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町浅川2881番地",
         "source_address_historical": ""
       }
@@ -4886,6 +5079,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》倉稲魂命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町上金沢128番地",
       "source_address_historical": "茨城県久慈郡大子町上金沢128"
     },
@@ -4914,6 +5108,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》倉稲魂命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町上金沢128番地",
         "source_address_historical": "茨城県久慈郡大子町上金沢128"
       }
@@ -5031,6 +5226,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》国常立尊、国狭槌尊、豊斟渟尊、泥土煮尊、大戸道尊、面足尊、伊弉諾尊、伊弉冊尊、沙土煮尊、大苫辺尊、惶根尊、天照大神、忍穂耳尊、瓊瓊杵尊、彦火火出見尊、??羽草葺不合尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町下金沢1068番地",
       "source_address_historical": "茨城県久慈郡大子町下金沢1068"
     },
@@ -5059,6 +5255,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》国常立尊、国狭槌尊、豊斟渟尊、泥土煮尊、大戸道尊、面足尊、伊弉諾尊、伊弉冊尊、沙土煮尊、大苫辺尊、惶根尊、天照大神、忍穂耳尊、瓊瓊杵尊、彦火火出見尊、??羽草葺不合尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町下金沢1068番地",
         "source_address_historical": "茨城県久慈郡大子町下金沢1068"
       }
@@ -5162,6 +5359,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》経津主命、大己貴命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町相川1101番地",
       "source_address_historical": "茨城県久慈郡大子町相川1101"
     },
@@ -5190,6 +5388,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》経津主命、大己貴命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町相川1101番地",
         "source_address_historical": "茨城県久慈郡大子町相川1101"
       }
@@ -5292,6 +5491,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》素盞嗚尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "久慈郡大子町田野沢570番地",
       "source_address_historical": "茨城県久慈郡大子町田野沢570"
     },
@@ -5320,6 +5520,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》素盞嗚尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "久慈郡大子町田野沢570番地",
         "source_address_historical": "茨城県久慈郡大子町田野沢570"
       }
@@ -5386,6 +5587,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市大みか町六丁目16番1号",
       "source_address_historical": ""
     },
@@ -5414,6 +5616,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市大みか町六丁目16番1号",
         "source_address_historical": ""
       }
@@ -5480,6 +5683,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市南高野町36番地1",
       "source_address_historical": ""
     },
@@ -5508,6 +5712,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市南高野町36番地1",
         "source_address_historical": ""
       }
@@ -5574,6 +5779,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市石名坂町1497番地",
       "source_address_historical": ""
     },
@@ -5602,6 +5808,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市石名坂町1497番地",
         "source_address_historical": ""
       }
@@ -5714,6 +5921,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》日本武尊、《配》誉田別尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市森山町1016番地",
       "source_address_historical": "茨城県日立市森山町1016"
     },
@@ -5742,6 +5950,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》日本武尊、《配》誉田別尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市森山町1016番地",
         "source_address_historical": "茨城県日立市森山町1016"
       }
@@ -5808,6 +6017,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市久慈町三丁目3番16号",
       "source_address_historical": ""
     },
@@ -5836,6 +6046,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市久慈町三丁目3番16号",
         "source_address_historical": ""
       }
@@ -5939,6 +6150,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》木花開耶姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市久慈町926番地",
       "source_address_historical": "茨城県日立市久慈町926"
     },
@@ -5967,6 +6179,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》木花開耶姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市久慈町926番地",
         "source_address_historical": "茨城県日立市久慈町926"
       }
@@ -6033,6 +6246,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市久慈町一丁目36番13号",
       "source_address_historical": ""
     },
@@ -6061,6 +6275,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市久慈町一丁目36番13号",
         "source_address_historical": ""
       }
@@ -6127,6 +6342,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市久慈町一丁目6番",
       "source_address_historical": ""
     },
@@ -6155,6 +6371,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市久慈町一丁目6番",
         "source_address_historical": ""
       }
@@ -6257,6 +6474,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大日?貴命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市金沢町126番地",
       "source_address_historical": "茨城県日立市金沢町126"
     },
@@ -6285,6 +6503,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大日?貴命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市金沢町126番地",
         "source_address_historical": "茨城県日立市金沢町126"
       }
@@ -6396,6 +6615,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大山祇命、《配》日本武尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市大沼町2326番地",
       "source_address_historical": "茨城県日立市大沼町2326"
     },
@@ -6424,6 +6644,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大山祇命、《配》日本武尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市大沼町2326番地",
         "source_address_historical": "茨城県日立市大沼町2326"
       }
@@ -6490,6 +6711,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市田尻町二丁目23番20号",
       "source_address_historical": ""
     },
@@ -6518,6 +6740,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市田尻町二丁目23番20号",
         "source_address_historical": ""
       }
@@ -6584,6 +6807,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市滑川本町一丁目10番1号",
       "source_address_historical": ""
     },
@@ -6612,6 +6836,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市滑川本町一丁目10番1号",
         "source_address_historical": ""
       }
@@ -6714,6 +6939,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》軻遇突智命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市田尻町字屋敷803番地",
       "source_address_historical": "茨城県日立市田尻町字屋敷803"
     },
@@ -6742,6 +6968,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》軻遇突智命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市田尻町字屋敷803番地",
         "source_address_historical": "茨城県日立市田尻町字屋敷803"
       }
@@ -6808,6 +7035,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市川尻町2377番地",
       "source_address_historical": ""
     },
@@ -6836,6 +7064,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市川尻町2377番地",
         "source_address_historical": ""
       }
@@ -6938,6 +7167,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市砂沢町635番地",
       "source_address_historical": "茨城県日立市砂沢町635"
     },
@@ -6966,6 +7196,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市砂沢町635番地",
         "source_address_historical": "茨城県日立市砂沢町635"
       }
@@ -7077,6 +7308,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大山祇命、《配》伊弉冊尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市川尻町2374番地",
       "source_address_historical": "茨城県日立市川尻町2374"
     },
@@ -7105,6 +7337,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大山祇命、《配》伊弉冊尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市川尻町2374番地",
         "source_address_historical": "茨城県日立市川尻町2374"
       }
@@ -7171,6 +7404,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市十王町伊師2951番地",
       "source_address_historical": ""
     },
@@ -7199,6 +7433,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市十王町伊師2951番地",
         "source_address_historical": ""
       }
@@ -7264,6 +7499,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市十王町伊師2952番地1",
       "source_address_historical": ""
     },
@@ -7292,6 +7528,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市十王町伊師2952番地1",
         "source_address_historical": ""
       }
@@ -7358,6 +7595,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市入四間町1215番地1",
       "source_address_historical": ""
     },
@@ -7386,6 +7624,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市入四間町1215番地1",
         "source_address_historical": ""
       }
@@ -7488,6 +7727,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》立速日男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市入四間町1215番地2",
       "source_address_historical": "茨城県日立市入四間町1215-2"
     },
@@ -7516,6 +7756,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》立速日男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市入四間町1215番地2",
         "source_address_historical": "茨城県日立市入四間町1215-2"
       }
@@ -7582,6 +7823,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市河原子町三丁目15番18号",
       "source_address_historical": ""
     },
@@ -7610,6 +7852,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市河原子町三丁目15番18号",
         "source_address_historical": ""
       }
@@ -7676,6 +7919,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市日高町二丁目3番1号",
       "source_address_historical": ""
     },
@@ -7704,6 +7948,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市日高町二丁目3番1号",
         "source_address_historical": ""
       }
@@ -7770,6 +8015,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市折笠町122番地",
       "source_address_historical": ""
     },
@@ -7798,6 +8044,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市折笠町122番地",
         "source_address_historical": ""
       }
@@ -7864,6 +8111,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市十王町高原341番地1",
       "source_address_historical": ""
     },
@@ -7892,6 +8140,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市十王町高原341番地1",
         "source_address_historical": ""
       }
@@ -7958,6 +8207,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市小木津町1792番地",
       "source_address_historical": ""
     },
@@ -7986,6 +8236,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市小木津町1792番地",
         "source_address_historical": ""
       }
@@ -8052,6 +8303,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市小木津町888番地",
       "source_address_historical": ""
     },
@@ -8080,6 +8332,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市小木津町888番地",
         "source_address_historical": ""
       }
@@ -8146,6 +8399,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市小木津町854番地",
       "source_address_historical": ""
     },
@@ -8174,6 +8428,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市小木津町854番地",
         "source_address_historical": ""
       }
@@ -8240,6 +8495,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市成沢町二丁目8番1号",
       "source_address_historical": ""
     },
@@ -8268,6 +8524,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市成沢町二丁目8番1号",
         "source_address_historical": ""
       }
@@ -8334,6 +8591,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市諏訪町一丁目16番9号",
       "source_address_historical": ""
     },
@@ -8362,6 +8620,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市諏訪町一丁目16番9号",
         "source_address_historical": ""
       }
@@ -8428,6 +8687,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市鮎川町二丁目7番9号",
       "source_address_historical": ""
     },
@@ -8456,6 +8716,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市鮎川町二丁目7番9号",
         "source_address_historical": ""
       }
@@ -8522,6 +8783,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市白銀町一丁目1番3号",
       "source_address_historical": ""
     },
@@ -8550,6 +8812,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市白銀町一丁目1番3号",
         "source_address_historical": ""
       }
@@ -8616,6 +8879,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市会瀬町351番地",
       "source_address_historical": ""
     },
@@ -8644,6 +8908,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市会瀬町351番地",
         "source_address_historical": ""
       }
@@ -8656,14 +8921,15 @@
     "name": "神峰神社",
     "kana": "かみみねじんじゃ",
     "area": "全域",
-    "municipality": "〒317-0055日立市",
+    "municipality": "日立市",
     "aliases": [],
     "headline": "伊邪那岐大 神 伊邪那美大神 熊野櫲樟日大神",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "茨城県〒317-0055日立市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県日立市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜神峰神社",
@@ -8672,6 +8938,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目76936",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=76936",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "8"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -8683,6 +8966,17 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "伊邪那岐命",
+          "伊邪那美命",
+          "熊野?樟日命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -8690,7 +8984,7 @@
         "id": "08-agency-7c4cf7ad097768:1",
         "name": "神峰神社",
         "label": "神峰神社",
-        "address": "茨城県〒317-0055 日立市宮田町5-1-1",
+        "address": "茨城県日立市宮田町5-1-1",
         "lat": null,
         "lon": null,
         "sources": [
@@ -8699,10 +8993,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "茨城県日立市宮田町5-1-1"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -8716,17 +9020,18 @@
     },
     "source_fields": {
       "kami_verbatim": "伊邪那岐大 神 伊邪那美大神 熊野櫲樟日大神",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》伊邪那岐命、伊邪那美命、熊野?樟日命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒317-0055 日立市宮田町5-1-1",
-      "source_address_historical": ""
+      "source_address_historical": "茨城県日立市宮田町5-1-1"
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitati.html#row-33",
       "display_number": "08-00075",
       "index_name": "神峰神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitati.html",
-      "listed_address": "茨城県〒317-0055 日立市宮田町5-1-1",
+      "listed_address": "茨城県日立市宮田町5-1-1",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/06045.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/06045.html",
       "detail_status": "published_agency_record",
@@ -8735,8 +9040,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitati.html#row-33",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "76936",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -8744,10 +9049,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "伊邪那岐大 神 伊邪那美大神 熊野櫲樟日大神",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》伊邪那岐命、伊邪那美命、熊野?樟日命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒317-0055 日立市宮田町5-1-1",
-        "source_address_historical": ""
+        "source_address_historical": "茨城県日立市宮田町5-1-1"
       }
     }
   },
@@ -8812,6 +9118,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市鹿島町二丁目4番4号",
       "source_address_historical": ""
     },
@@ -8840,6 +9147,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市鹿島町二丁目4番4号",
         "source_address_historical": ""
       }
@@ -8906,6 +9214,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市大久保町二丁目2番11号",
       "source_address_historical": ""
     },
@@ -8934,6 +9243,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市大久保町二丁目2番11号",
         "source_address_historical": ""
       }
@@ -9000,6 +9310,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市水木町二丁目22番1号",
       "source_address_historical": ""
     },
@@ -9028,6 +9339,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市水木町二丁目22番1号",
         "source_address_historical": ""
       }
@@ -9094,6 +9406,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市多賀町一丁目3番7号",
       "source_address_historical": ""
     },
@@ -9122,6 +9435,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市多賀町一丁目3番7号",
         "source_address_historical": ""
       }
@@ -9188,6 +9502,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市水木町一丁目12番13号",
       "source_address_historical": ""
     },
@@ -9216,6 +9531,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市水木町一丁目12番13号",
         "source_address_historical": ""
       }
@@ -9282,6 +9598,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市水木町一丁目24番26号",
       "source_address_historical": ""
     },
@@ -9310,6 +9627,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市水木町一丁目24番26号",
         "source_address_historical": ""
       }
@@ -9376,6 +9694,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市水木町一丁目35番1号",
       "source_address_historical": ""
     },
@@ -9404,6 +9723,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市水木町一丁目35番1号",
         "source_address_historical": ""
       }
@@ -9470,6 +9790,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市大みか町二丁目24番10号",
       "source_address_historical": ""
     },
@@ -9498,6 +9819,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市大みか町二丁目24番10号",
         "source_address_historical": ""
       }
@@ -9510,14 +9832,15 @@
     "name": "羽黒神社",
     "kana": "はぐろじんじゃ",
     "area": "全域",
-    "municipality": "〒319-1234茨城県日立市",
+    "municipality": "日立市",
     "aliases": [],
     "headline": "木花開耶姫命",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "茨城県〒319-1234茨城県日立市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県日立市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜羽黒神社",
@@ -9526,6 +9849,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目76945",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=76945",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "8"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -9537,6 +9877,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "木花開耶姫命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -9544,7 +9893,7 @@
         "id": "08-agency-50f16ec86c2c56:1",
         "name": "羽黒神社",
         "label": "羽黒神社",
-        "address": "茨城県〒319-1234 茨城県日立市大和田町2970",
+        "address": "茨城県日立市大和田町2970",
         "lat": null,
         "lon": null,
         "sources": [
@@ -9553,10 +9902,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "茨城県日立市大和田町2970"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -9570,17 +9929,18 @@
     },
     "source_fields": {
       "kami_verbatim": "木花開耶姫命",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》木花開耶姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒319-1234 茨城県日立市大和田町2970",
-      "source_address_historical": ""
+      "source_address_historical": "茨城県日立市大和田町2970"
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitati.html#row-42",
       "display_number": "08-00084",
       "index_name": "羽黒神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitati.html",
-      "listed_address": "茨城県〒319-1234 茨城県日立市大和田町2970",
+      "listed_address": "茨城県日立市大和田町2970",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/06054.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/06054.html",
       "detail_status": "published_agency_record",
@@ -9589,8 +9949,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitati.html#row-42",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "76945",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -9598,10 +9958,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "木花開耶姫命",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》木花開耶姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒319-1234 茨城県日立市大和田町2970",
-        "source_address_historical": ""
+        "source_address_historical": "茨城県日立市大和田町2970"
       }
     }
   },
@@ -9704,6 +10065,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》伊弉諾尊、伊弉冊尊、武甕槌命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市留町1745番地",
       "source_address_historical": "茨城県日立市留町1745"
     },
@@ -9732,6 +10094,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》伊弉諾尊、伊弉冊尊、武甕槌命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市留町1745番地",
         "source_address_historical": "茨城県日立市留町1745"
       }
@@ -9798,6 +10161,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市下土木内町290番地",
       "source_address_historical": ""
     },
@@ -9826,6 +10190,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市下土木内町290番地",
         "source_address_historical": ""
       }
@@ -9929,6 +10294,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》武甕槌命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市神田町1番地",
       "source_address_historical": "茨城県日立市神田町1"
     },
@@ -9957,6 +10323,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》武甕槌命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市神田町1番地",
         "source_address_historical": "茨城県日立市神田町1"
       }
@@ -10023,6 +10390,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市大和田町一丁目6番27号",
       "source_address_historical": ""
     },
@@ -10051,6 +10419,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市大和田町一丁目6番27号",
         "source_address_historical": ""
       }
@@ -10157,6 +10526,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》伊弉諾尊、伊弉冊尊、速玉男命、事解男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市茂宮町1567番地",
       "source_address_historical": "茨城県日立市茂宮町1567"
     },
@@ -10185,6 +10555,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》伊弉諾尊、伊弉冊尊、速玉男命、事解男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市茂宮町1567番地",
         "source_address_historical": "茨城県日立市茂宮町1567"
       }
@@ -10287,6 +10658,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大物主命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市大和田町1953番地",
       "source_address_historical": "茨城県日立市大和田町1953"
     },
@@ -10315,6 +10687,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大物主命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市大和田町1953番地",
         "source_address_historical": "茨城県日立市大和田町1953"
       }
@@ -10381,6 +10754,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市十王町山部964番地",
       "source_address_historical": ""
     },
@@ -10409,6 +10783,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市十王町山部964番地",
         "source_address_historical": ""
       }
@@ -10474,6 +10849,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市十王町山部2232番地",
       "source_address_historical": ""
     },
@@ -10502,6 +10878,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市十王町山部2232番地",
         "source_address_historical": ""
       }
@@ -10514,14 +10891,15 @@
     "name": "艫神社",
     "kana": "ともじんじゃ",
     "area": "全域",
-    "municipality": "〒319-1303茨城県日立市",
+    "municipality": "日立市",
     "aliases": [],
     "headline": "本社 建甕槌命（たけみかづちのみこと） 天満宮 菅原道真公 八坂神社 須佐之男命",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "茨城県〒319-1303茨城県日立市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県日立市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜艫神社",
@@ -10530,6 +10908,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目1287",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=1287",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "8"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -10541,6 +10936,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "武甕槌命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -10548,7 +10952,7 @@
         "id": "08-agency-bb1298fa9ca465:1",
         "name": "艫神社",
         "label": "艫神社",
-        "address": "茨城県〒319-1303 茨城県日立市十王町友部東4-1-2",
+        "address": "茨城県日立市十王町友部東4-1-2",
         "lat": null,
         "lon": null,
         "sources": [
@@ -10557,10 +10961,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "茨城県日立市十王町友部東4-1-2"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -10574,17 +10988,18 @@
     },
     "source_fields": {
       "kami_verbatim": "本社 建甕槌命（たけみかづちのみこと） 天満宮 菅原道真公 八坂神社 須佐之男命",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》武甕槌命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒319-1303 茨城県日立市十王町友部東4-1-2",
-      "source_address_historical": ""
+      "source_address_historical": "茨城県日立市十王町友部東4-1-2"
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitati.html#row-51",
       "display_number": "08-00093",
       "index_name": "艫神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitati.html",
-      "listed_address": "茨城県〒319-1303 茨城県日立市十王町友部東4-1-2",
+      "listed_address": "茨城県日立市十王町友部東4-1-2",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/06108.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/06108.html",
       "detail_status": "published_agency_record",
@@ -10593,8 +11008,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitati.html#row-51",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "1287",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -10602,10 +11017,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "本社 建甕槌命（たけみかづちのみこと） 天満宮 菅原道真公 八坂神社 須佐之男命",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》武甕槌命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒319-1303 茨城県日立市十王町友部東4-1-2",
-        "source_address_historical": ""
+        "source_address_historical": "茨城県日立市十王町友部東4-1-2"
       }
     }
   },
@@ -10669,6 +11085,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市十王町伊師本郷409番地",
       "source_address_historical": ""
     },
@@ -10697,6 +11114,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市十王町伊師本郷409番地",
         "source_address_historical": ""
       }
@@ -10810,6 +11228,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》事代主命、《配》素盞嗚命、倉稲魂神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市十王町伊師805番地1",
       "source_address_historical": "茨城県日立市十王町伊師805-1"
     },
@@ -10838,6 +11257,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》事代主命、《配》素盞嗚命、倉稲魂神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市十王町伊師805番地1",
         "source_address_historical": "茨城県日立市十王町伊師805-1"
       }
@@ -10903,6 +11323,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市十王町黒坂762番地",
       "source_address_historical": ""
     },
@@ -10931,6 +11352,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市十王町黒坂762番地",
         "source_address_historical": ""
       }
@@ -11034,6 +11456,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大日霊貴命、月読命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市東河内町324番地",
       "source_address_historical": "茨城県日立市東河内町324"
     },
@@ -11062,6 +11485,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大日霊貴命、月読命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市東河内町324番地",
         "source_address_historical": "茨城県日立市東河内町324"
       }
@@ -11168,6 +11592,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》保食命、武甕槌命、大山祇命、稚雷命、大雷命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市下深荻町3121番地",
       "source_address_historical": "茨城県日立市下深荻町3121"
     },
@@ -11196,6 +11621,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》保食命、武甕槌命、大山祇命、稚雷命、大雷命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市下深荻町3121番地",
         "source_address_historical": "茨城県日立市下深荻町3121"
       }
@@ -11262,6 +11688,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市深荻町727番地5",
       "source_address_historical": ""
     },
@@ -11290,6 +11717,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市深荻町727番地5",
         "source_address_historical": ""
       }
@@ -11393,6 +11821,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》高皇産霊神、興津彦神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "日立市東河内町1156番地",
       "source_address_historical": "茨城県日立市東河内町1156"
     },
@@ -11421,6 +11850,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》高皇産霊神、興津彦神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "日立市東河内町1156番地",
         "source_address_historical": "茨城県日立市東河内町1156"
       }
@@ -11433,14 +11863,14 @@
     "name": "橿原神宮",
     "kana": "かしわらじんぐう",
     "area": "全域",
-    "municipality": "〒311-1218ひたちなか市",
+    "municipality": "ひたちなか市",
     "aliases": [],
     "headline": "神武天皇 (じんむてんのう) 桓武天皇(かんむてんのう) 崇道天皇(すどうてんのう・桓武天皇の皇太子)",
     "tags": [
       "机构公开名录",
       "未定位"
     ],
-    "intro": "茨城県〒311-1218ひたちなか市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県ひたちなか市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜橿原神宮",
@@ -11467,7 +11897,7 @@
         "id": "08-agency-3743076b8ee324:1",
         "name": "橿原神宮",
         "label": "橿原神宮",
-        "address": "茨城県〒311-1218 ひたちなか市富士ノ上2-1",
+        "address": "茨城県ひたちなか市富士ノ上2-1",
         "lat": null,
         "lon": null,
         "sources": [
@@ -11495,6 +11925,7 @@
       "kami_verbatim": "神武天皇 (じんむてんのう) 桓武天皇(かんむてんのう) 崇道天皇(すどうてんのう・桓武天皇の皇太子)",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒311-1218 ひたちなか市富士ノ上2-1",
       "source_address_historical": ""
     },
@@ -11503,7 +11934,7 @@
       "display_number": "08-00101",
       "index_name": "橿原神宮",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitatinaka.html",
-      "listed_address": "茨城県〒311-1218 ひたちなか市富士ノ上2-1",
+      "listed_address": "茨城県ひたちなか市富士ノ上2-1",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/04001.htm",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/04001.htm",
       "detail_status": "published_agency_record",
@@ -11523,6 +11954,7 @@
         "kami_verbatim": "神武天皇 (じんむてんのう) 桓武天皇(かんむてんのう) 崇道天皇(すどうてんのう・桓武天皇の皇太子)",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒311-1218 ひたちなか市富士ノ上2-1",
         "source_address_historical": ""
       }
@@ -11588,6 +12020,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市牛久保町一丁目11番5号",
       "source_address_historical": ""
     },
@@ -11616,6 +12049,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市牛久保町一丁目11番5号",
         "source_address_historical": ""
       }
@@ -11681,6 +12115,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市湊中央一丁目2番1号",
       "source_address_historical": ""
     },
@@ -11709,6 +12144,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市湊中央一丁目2番1号",
         "source_address_historical": ""
       }
@@ -11774,6 +12210,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市中根3409番地",
       "source_address_historical": ""
     },
@@ -11802,6 +12239,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市中根3409番地",
         "source_address_historical": ""
       }
@@ -11867,6 +12305,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市八幡町11番12号",
       "source_address_historical": ""
     },
@@ -11895,6 +12334,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市八幡町11番12号",
         "source_address_historical": ""
       }
@@ -11960,6 +12400,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市殿山町二丁目13番13号",
       "source_address_historical": ""
     },
@@ -11988,6 +12429,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市殿山町二丁目13番13号",
         "source_address_historical": ""
       }
@@ -12053,6 +12495,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市平磯町986番地",
       "source_address_historical": ""
     },
@@ -12081,6 +12524,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市平磯町986番地",
         "source_address_historical": ""
       }
@@ -12146,6 +12590,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市平磯町983番地",
       "source_address_historical": ""
     },
@@ -12174,6 +12619,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市平磯町983番地",
         "source_address_historical": ""
       }
@@ -12239,6 +12685,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市和田町二丁目12番22号",
       "source_address_historical": ""
     },
@@ -12267,6 +12714,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市和田町二丁目12番22号",
         "source_address_historical": ""
       }
@@ -12332,6 +12780,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市田彦972番地",
       "source_address_historical": ""
     },
@@ -12360,6 +12809,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市田彦972番地",
         "source_address_historical": ""
       }
@@ -12425,6 +12875,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市高場1番地",
       "source_address_historical": ""
     },
@@ -12453,6 +12904,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市高場1番地",
         "source_address_historical": ""
       }
@@ -12518,6 +12970,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市平磯町2999番地",
       "source_address_historical": ""
     },
@@ -12546,6 +12999,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市平磯町2999番地",
         "source_address_historical": ""
       }
@@ -12558,14 +13012,14 @@
     "name": "酒列磯前神社",
     "kana": "さかつらいそさきじんじゃ",
     "area": "全域",
-    "municipality": "〒311-1202ひたちなか市",
+    "municipality": "ひたちなか市",
     "aliases": [],
     "headline": "主祭神 少 彦名命(えびすさま) 配祀神 大名持命(だいこくさま)",
     "tags": [
       "机构公开名录",
       "未定位"
     ],
-    "intro": "茨城県〒311-1202ひたちなか市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県ひたちなか市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜酒列磯前神社",
@@ -12592,7 +13046,7 @@
         "id": "08-agency-d9725a0c74f262:1",
         "name": "酒列磯前神社",
         "label": "酒列磯前神社",
-        "address": "茨城県〒311-1202 ひたちなか市磯崎町4607-2",
+        "address": "茨城県ひたちなか市磯崎町4607-2",
         "lat": null,
         "lon": null,
         "sources": [
@@ -12620,6 +13074,7 @@
       "kami_verbatim": "主祭神 少 彦名命(えびすさま) 配祀神 大名持命(だいこくさま)",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒311-1202 ひたちなか市磯崎町4607-2",
       "source_address_historical": ""
     },
@@ -12628,7 +13083,7 @@
       "display_number": "08-00113",
       "index_name": "酒列磯前神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitatinaka.html",
-      "listed_address": "茨城県〒311-1202 ひたちなか市磯崎町4607-2",
+      "listed_address": "茨城県ひたちなか市磯崎町4607-2",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/04013.htm",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/04013.htm",
       "detail_status": "published_agency_record",
@@ -12648,6 +13103,7 @@
         "kami_verbatim": "主祭神 少 彦名命(えびすさま) 配祀神 大名持命(だいこくさま)",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒311-1202 ひたちなか市磯崎町4607-2",
         "source_address_historical": ""
       }
@@ -12713,6 +13169,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市磯崎町4563番地",
       "source_address_historical": ""
     },
@@ -12741,6 +13198,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市磯崎町4563番地",
         "source_address_historical": ""
       }
@@ -12806,6 +13264,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市阿字ケ浦町178番地",
       "source_address_historical": ""
     },
@@ -12834,6 +13293,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市阿字ケ浦町178番地",
         "source_address_historical": ""
       }
@@ -12846,14 +13306,14 @@
     "name": "稲荷神社",
     "kana": "いなりじんじゃ",
     "area": "全域",
-    "municipality": "〒311-1229ひたちなか市",
+    "municipality": "ひたちなか市",
     "aliases": [],
     "headline": "宇賀魂命(うかのみたまのみこと)",
     "tags": [
       "机构公开名录",
       "未定位"
     ],
-    "intro": "茨城県〒311-1229ひたちなか市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県ひたちなか市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜稲荷神社",
@@ -12880,7 +13340,7 @@
         "id": "08-agency-26083ca2a8ab28:1",
         "name": "稲荷神社",
         "label": "稲荷神社",
-        "address": "茨城県〒311-1229 ひたちなか市湊中央2-2-25",
+        "address": "茨城県ひたちなか市湊中央2-2-25",
         "lat": null,
         "lon": null,
         "sources": [
@@ -12908,6 +13368,7 @@
       "kami_verbatim": "宇賀魂命(うかのみたまのみこと)",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒311-1229 ひたちなか市湊中央2-2-25",
       "source_address_historical": ""
     },
@@ -12916,7 +13377,7 @@
       "display_number": "08-00116",
       "index_name": "稲荷神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitatinaka.html",
-      "listed_address": "茨城県〒311-1229 ひたちなか市湊中央2-2-25",
+      "listed_address": "茨城県ひたちなか市湊中央2-2-25",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/04016.htm",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/04016.htm",
       "detail_status": "published_agency_record",
@@ -12936,6 +13397,7 @@
         "kami_verbatim": "宇賀魂命(うかのみたまのみこと)",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒311-1229 ひたちなか市湊中央2-2-25",
         "source_address_historical": ""
       }
@@ -13001,6 +13463,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市釈迦町9番23号",
       "source_address_historical": ""
     },
@@ -13029,6 +13492,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市釈迦町9番23号",
         "source_address_historical": ""
       }
@@ -13094,6 +13558,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市湊本町23番19号",
       "source_address_historical": ""
     },
@@ -13122,6 +13587,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市湊本町23番19号",
         "source_address_historical": ""
       }
@@ -13134,14 +13600,14 @@
     "name": "新宮素鵞神社",
     "kana": "しんぐうそがじんじゃ",
     "area": "全域",
-    "municipality": "〒312-0021ひたちなか市",
+    "municipality": "ひたちなか市",
     "aliases": [],
     "headline": "大日孁貴尊(おおひるめむちのみこと) 素盞鳴尊(すさのおのみこと)",
     "tags": [
       "机构公开名录",
       "未定位"
     ],
-    "intro": "茨城県〒312-0021ひたちなか市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県ひたちなか市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜新宮素鵞神社",
@@ -13168,7 +13634,7 @@
         "id": "08-agency-2e1b3dad4ba1be:1",
         "name": "新宮素鵞神社",
         "label": "新宮素鵞神社",
-        "address": "茨城県〒312-0021 ひたちなか市三反田2795",
+        "address": "茨城県ひたちなか市三反田2795",
         "lat": null,
         "lon": null,
         "sources": [
@@ -13196,6 +13662,7 @@
       "kami_verbatim": "大日孁貴尊(おおひるめむちのみこと) 素盞鳴尊(すさのおのみこと)",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒312-0021 ひたちなか市三反田2795",
       "source_address_historical": ""
     },
@@ -13204,7 +13671,7 @@
       "display_number": "08-00119",
       "index_name": "新宮素鵞神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/hitatinaka.html",
-      "listed_address": "茨城県〒312-0021 ひたちなか市三反田2795",
+      "listed_address": "茨城県ひたちなか市三反田2795",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/04019.htm",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenhoku/jinja/04019.htm",
       "detail_status": "published_agency_record",
@@ -13224,6 +13691,7 @@
         "kami_verbatim": "大日孁貴尊(おおひるめむちのみこと) 素盞鳴尊(すさのおのみこと)",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒312-0021 ひたちなか市三反田2795",
         "source_address_historical": ""
       }
@@ -13289,6 +13757,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市金上773番地",
       "source_address_historical": ""
     },
@@ -13317,6 +13786,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市金上773番地",
         "source_address_historical": ""
       }
@@ -13382,6 +13852,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市東石川2番5号",
       "source_address_historical": ""
     },
@@ -13410,6 +13881,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市東石川2番5号",
         "source_address_historical": ""
       }
@@ -13475,6 +13947,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市東石川三丁目2番3号",
       "source_address_historical": ""
     },
@@ -13503,6 +13976,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市東石川三丁目2番3号",
         "source_address_historical": ""
       }
@@ -13568,6 +14042,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市柳沢289番地",
       "source_address_historical": ""
     },
@@ -13596,6 +14071,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市柳沢289番地",
         "source_address_historical": ""
       }
@@ -13661,6 +14137,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市部田野1762番地",
       "source_address_historical": ""
     },
@@ -13689,6 +14166,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市部田野1762番地",
         "source_address_historical": ""
       }
@@ -13754,6 +14232,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市平磯町3512番地",
       "source_address_historical": ""
     },
@@ -13782,6 +14261,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市平磯町3512番地",
         "source_address_historical": ""
       }
@@ -13847,6 +14327,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市平磯町980番地",
       "source_address_historical": ""
     },
@@ -13875,6 +14356,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市平磯町980番地",
         "source_address_historical": ""
       }
@@ -13940,6 +14422,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市平磯町1973番地",
       "source_address_historical": ""
     },
@@ -13968,6 +14451,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市平磯町1973番地",
         "source_address_historical": ""
       }
@@ -14033,6 +14517,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市平磯町1283番地",
       "source_address_historical": ""
     },
@@ -14061,6 +14546,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市平磯町1283番地",
         "source_address_historical": ""
       }
@@ -14126,6 +14612,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市平磯町1471番地",
       "source_address_historical": ""
     },
@@ -14154,6 +14641,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市平磯町1471番地",
         "source_address_historical": ""
       }
@@ -14219,6 +14707,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市平磯町975番地",
       "source_address_historical": ""
     },
@@ -14247,6 +14736,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市平磯町975番地",
         "source_address_historical": ""
       }
@@ -14312,6 +14802,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市平磯町982番地",
       "source_address_historical": ""
     },
@@ -14340,6 +14831,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市平磯町982番地",
         "source_address_historical": ""
       }
@@ -14405,6 +14897,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市馬渡1番地",
       "source_address_historical": ""
     },
@@ -14433,6 +14926,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市馬渡1番地",
         "source_address_historical": ""
       }
@@ -14498,6 +14992,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市中根2735番地",
       "source_address_historical": ""
     },
@@ -14526,6 +15021,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市中根2735番地",
         "source_address_historical": ""
       }
@@ -14591,6 +15087,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市足崎1766番地",
       "source_address_historical": ""
     },
@@ -14619,6 +15116,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市足崎1766番地",
         "source_address_historical": ""
       }
@@ -14684,6 +15182,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市佐和１番地",
       "source_address_historical": ""
     },
@@ -14712,6 +15211,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市佐和１番地",
         "source_address_historical": ""
       }
@@ -14777,6 +15277,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市津田936番地1",
       "source_address_historical": ""
     },
@@ -14805,6 +15306,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市津田936番地1",
         "source_address_historical": ""
       }
@@ -14870,6 +15372,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市市毛981番地",
       "source_address_historical": ""
     },
@@ -14898,6 +15401,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市市毛981番地",
         "source_address_historical": ""
       }
@@ -14963,6 +15467,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市堀口1番地",
       "source_address_historical": ""
     },
@@ -14991,6 +15496,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市堀口1番地",
         "source_address_historical": ""
       }
@@ -15056,6 +15562,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市稲田1050番地",
       "source_address_historical": ""
     },
@@ -15084,6 +15591,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市稲田1050番地",
         "source_address_historical": ""
       }
@@ -15149,6 +15657,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市枝川961番地",
       "source_address_historical": ""
     },
@@ -15177,6 +15686,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市枝川961番地",
         "source_address_historical": ""
       }
@@ -15242,6 +15752,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市高揚1560番地",
       "source_address_historical": ""
     },
@@ -15270,6 +15781,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市高揚1560番地",
         "source_address_historical": ""
       }
@@ -15335,6 +15847,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市関戸8181番地",
       "source_address_historical": ""
     },
@@ -15363,6 +15876,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市関戸8181番地",
         "source_address_historical": ""
       }
@@ -15428,6 +15942,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市勝倉1368番地",
       "source_address_historical": ""
     },
@@ -15456,6 +15971,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市勝倉1368番地",
         "source_address_historical": ""
       }
@@ -15521,6 +16037,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市武田584番地",
       "source_address_historical": ""
     },
@@ -15549,6 +16066,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市武田584番地",
         "source_address_historical": ""
       }
@@ -15614,6 +16132,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市勝倉3010番地",
       "source_address_historical": ""
     },
@@ -15642,6 +16161,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市勝倉3010番地",
         "source_address_historical": ""
       }
@@ -15707,6 +16227,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "ひたちなか市海門町１丁目1番8号",
       "source_address_historical": ""
     },
@@ -15735,6 +16256,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "ひたちなか市海門町１丁目1番8号",
         "source_address_historical": ""
       }
@@ -15800,6 +16322,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常陸大宮市野口2011番地",
       "source_address_historical": ""
     },
@@ -15828,6 +16351,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常陸大宮市野口2011番地",
         "source_address_historical": ""
       }
@@ -15846,8 +16370,7 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布",
-      "同名条目待核"
+      "祭神未公布"
     ],
     "intro": "茨城県常陸大宮市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -15894,6 +16417,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常陸大宮市門井116番地",
       "source_address_historical": ""
     },
@@ -15922,6 +16446,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常陸大宮市門井116番地",
         "source_address_historical": ""
       }
@@ -15987,6 +16512,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常陸大宮市下伊勢畑2352番地",
       "source_address_historical": ""
     },
@@ -16015,6 +16541,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常陸大宮市下伊勢畑2352番地",
         "source_address_historical": ""
       }
@@ -16080,6 +16607,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常陸大宮市長倉1020番地",
       "source_address_historical": ""
     },
@@ -16108,6 +16636,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常陸大宮市長倉1020番地",
         "source_address_historical": ""
       }

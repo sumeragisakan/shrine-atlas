@@ -59,6 +59,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "小美玉市栗又四箇987番地",
       "source_address_historical": ""
     },
@@ -87,6 +88,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "小美玉市栗又四箇987番地",
         "source_address_historical": ""
       }
@@ -99,14 +101,15 @@
     "name": "大洗磯前神社",
     "kana": "おおあらいいそさきじんじゃ",
     "area": "全域",
-    "municipality": "〒311-1301東茨城郡大洗町",
+    "municipality": "東茨城郡大洗町",
     "aliases": [],
     "headline": "大己貴命 少彦名命",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "茨城県〒311-1301東茨城郡大洗町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県東茨城郡大洗町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜大洗磯前神社",
@@ -115,6 +118,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目1216",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=1216",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "8"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -126,6 +146,16 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "大己貴命",
+          "少彦名命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -133,7 +163,7 @@
         "id": "08-agency-8ec143b07fecff:1",
         "name": "大洗磯前神社",
         "label": "大洗磯前神社",
-        "address": "茨城県〒311-1301 東茨城郡大洗町磯浜町6890",
+        "address": "茨城県東茨城郡大洗町磯浜町6890",
         "lat": null,
         "lon": null,
         "sources": [
@@ -142,10 +172,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "茨城県東茨城郡大洗町磯浜町6890"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -159,17 +199,18 @@
     },
     "source_fields": {
       "kami_verbatim": "大己貴命 少彦名命",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》大己貴命、少彦名命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒311-1301 東茨城郡大洗町磯浜町6890",
-      "source_address_historical": ""
+      "source_address_historical": "茨城県東茨城郡大洗町磯浜町6890"
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/ooarai.html#row-1",
       "display_number": "08-01502",
       "index_name": "大洗磯前神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/ooarai.html",
-      "listed_address": "茨城県〒311-1301 東茨城郡大洗町磯浜町6890",
+      "listed_address": "茨城県東茨城郡大洗町磯浜町6890",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/jinja/02001.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/jinja/02001.html",
       "detail_status": "published_agency_record",
@@ -178,8 +219,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/ooarai.html#row-1",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "1216",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -187,10 +228,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "大己貴命 少彦名命",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》大己貴命、少彦名命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒311-1301 東茨城郡大洗町磯浜町6890",
-        "source_address_historical": ""
+        "source_address_historical": "茨城県東茨城郡大洗町磯浜町6890"
       }
     }
   },
@@ -291,6 +333,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》猿田彦命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町磯浜町1130番地",
       "source_address_historical": "茨城県東茨城郡大洗町磯浜町1130"
     },
@@ -319,6 +362,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》猿田彦命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町磯浜町1130番地",
         "source_address_historical": "茨城県東茨城郡大洗町磯浜町1130"
       }
@@ -443,6 +487,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《合》猿田彦命、大己貴命、少彦名命、《主》大日?貴命、《配》倉稲魂命、経津主命、市杵島姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町成田町2065番地",
       "source_address_historical": "茨城県東茨城郡大洗町成田町2065"
     },
@@ -471,6 +516,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《合》猿田彦命、大己貴命、少彦名命、《主》大日?貴命、《配》倉稲魂命、経津主命、市杵島姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町成田町2065番地",
         "source_address_historical": "茨城県東茨城郡大洗町成田町2065"
       }
@@ -483,14 +529,14 @@
     "name": "諏訪神社",
     "kana": "すわじんじゃ",
     "area": "全域",
-    "municipality": "〒311-1311東茨城郡大洗大貫町",
+    "municipality": "東茨城郡大洗大貫町",
     "aliases": [],
     "headline": "建御名方命大國主命の子 古事記の国譲り物語に出て来る神豪腕の持ち主山・風水源(田の神)狩猟・農耕・生産を見守って来た神",
     "tags": [
       "机构公开名录",
       "未定位"
     ],
-    "intro": "茨城県〒311-1311東茨城郡大洗大貫町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県東茨城郡大洗大貫町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜諏訪神社",
@@ -518,7 +564,7 @@
         "id": "08-agency-aab8e2cbfe798f:1",
         "name": "諏訪神社",
         "label": "諏訪神社",
-        "address": "茨城県〒311-1311 東茨城郡大洗大貫町295",
+        "address": "茨城県東茨城郡大洗大貫町295",
         "lat": null,
         "lon": null,
         "sources": [
@@ -546,6 +592,7 @@
       "kami_verbatim": "建御名方命大國主命の子 古事記の国譲り物語に出て来る神豪腕の持ち主山、風水源(田の神)狩猟・農耕・生産を見守って来た神",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒311-1311 東茨城郡大洗大貫町295",
       "source_address_historical": ""
     },
@@ -554,7 +601,7 @@
       "display_number": "08-01505",
       "index_name": "諏訪神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/ooarai.html",
-      "listed_address": "茨城県〒311-1311 東茨城郡大洗大貫町295",
+      "listed_address": "茨城県東茨城郡大洗大貫町295",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/jinja/02007.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/jinja/02007.html",
       "detail_status": "published_agency_record",
@@ -574,6 +621,7 @@
         "kami_verbatim": "建御名方命大國主命の子 古事記の国譲り物語に出て来る神豪腕の持ち主山、風水源(田の神)狩猟・農耕・生産を見守って来た神",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒311-1311 東茨城郡大洗大貫町295",
         "source_address_historical": ""
       }
@@ -676,6 +724,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》木花咲耶姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町大貫町1818番地",
       "source_address_historical": "茨城県東茨城郡大洗町大貫町1818"
     },
@@ -704,6 +753,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》木花咲耶姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町大貫町1818番地",
         "source_address_historical": "茨城県東茨城郡大洗町大貫町1818"
       }
@@ -722,8 +772,7 @@
     "tags": [
       "机构公开名录",
       "含历史祭神表",
-      "未定位",
-      "同名条目待核"
+      "未定位"
     ],
     "intro": "茨城県東茨城郡大洗町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -807,6 +856,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》宇迦之御魂命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町大貫町261番地",
       "source_address_historical": "茨城県東茨城郡大洗町大貫町261"
     },
@@ -835,6 +885,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》宇迦之御魂命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町大貫町261番地",
         "source_address_historical": "茨城県東茨城郡大洗町大貫町261"
       }
@@ -937,6 +988,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》誉田別尊",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町神山町2140番地",
       "source_address_historical": "茨城県東茨城郡大洗町神山町2140"
     },
@@ -965,6 +1017,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》誉田別尊",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町神山町2140番地",
         "source_address_historical": "茨城県東茨城郡大洗町神山町2140"
       }
@@ -1067,6 +1120,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大物主命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町磯浜町5299番地",
       "source_address_historical": "茨城県東茨城郡大洗町磯浜町5299"
     },
@@ -1095,6 +1149,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大物主命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町磯浜町5299番地",
         "source_address_historical": "茨城県東茨城郡大洗町磯浜町5299"
       }
@@ -1197,6 +1252,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》須佐之男命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町永町磯鼻918番地",
       "source_address_historical": "茨城県東茨城郡大洗町永町磯鼻918"
     },
@@ -1225,6 +1281,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》須佐之男命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町永町磯鼻918番地",
         "source_address_historical": "茨城県東茨城郡大洗町永町磯鼻918"
       }
@@ -1243,8 +1300,7 @@
     "tags": [
       "机构公开名录",
       "含历史祭神表",
-      "未定位",
-      "同名条目待核"
+      "未定位"
     ],
     "intro": "茨城県東茨城郡大洗町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -1328,6 +1384,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》保食神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町永町磯鼻2844番地3",
       "source_address_historical": "茨城県東茨城郡大洗町永町磯鼻2844-3"
     },
@@ -1356,6 +1413,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》保食神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町永町磯鼻2844番地3",
         "source_address_historical": "茨城県東茨城郡大洗町永町磯鼻2844-3"
       }
@@ -1467,6 +1525,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《合》豊御食津大神、《主》弟橘比売命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町祝町7985番地",
       "source_address_historical": "茨城県東茨城郡大洗町祝町7985"
     },
@@ -1495,6 +1554,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《合》豊御食津大神、《主》弟橘比売命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町祝町7985番地",
         "source_address_historical": "茨城県東茨城郡大洗町祝町7985"
       }
@@ -1507,14 +1567,15 @@
     "name": "稲荷神社",
     "kana": "いなりじんじゃ",
     "area": "全域",
-    "municipality": "〒311-1313茨城県東茨城郡大洗町",
+    "municipality": "東茨城郡大洗町",
     "aliases": [],
     "headline": "倉稲魂命",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "茨城県〒311-1313茨城県東茨城郡大洗町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県東茨城郡大洗町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜稲荷神社",
@@ -1523,6 +1584,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目76283",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=76283",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "8"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -1534,6 +1612,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "倉稲魂命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -1541,7 +1628,7 @@
         "id": "08-agency-12a53c0fd7bede:1",
         "name": "稲荷神社",
         "label": "稲荷神社",
-        "address": "茨城県〒311-1313 茨城県東茨城郡大洗町成田町3502",
+        "address": "茨城県東茨城郡大洗町成田町3502",
         "lat": null,
         "lon": null,
         "sources": [
@@ -1550,10 +1637,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "茨城県東茨城郡大洗町成田町3502"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -1567,17 +1664,18 @@
     },
     "source_fields": {
       "kami_verbatim": "倉稲魂命",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》倉稲魂命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒311-1313 茨城県東茨城郡大洗町成田町3502",
-      "source_address_historical": ""
+      "source_address_historical": "茨城県東茨城郡大洗町成田町3502"
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/ooarai.html#row-12",
       "display_number": "08-01513",
       "index_name": "稲荷神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/ooarai.html",
-      "listed_address": "茨城県〒311-1313 茨城県東茨城郡大洗町成田町3502",
+      "listed_address": "茨城県東茨城郡大洗町成田町3502",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/jinja/02032.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/jinja/02032.html",
       "detail_status": "published_agency_record",
@@ -1586,8 +1684,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/ooarai.html#row-12",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "76283",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -1595,10 +1693,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "倉稲魂命",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》倉稲魂命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒311-1313 茨城県東茨城郡大洗町成田町3502",
-        "source_address_historical": ""
+        "source_address_historical": "茨城県東茨城郡大洗町成田町3502"
       }
     }
   },
@@ -1662,6 +1761,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町神山町3467番地",
       "source_address_historical": ""
     },
@@ -1690,6 +1790,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町神山町3467番地",
         "source_address_historical": ""
       }
@@ -1792,6 +1893,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》木花咲耶姫命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町諏訪町2883番地",
       "source_address_historical": "茨城県東茨城郡大洗町諏訪町2883"
     },
@@ -1820,6 +1922,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》木花咲耶姫命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町諏訪町2883番地",
         "source_address_historical": "茨城県東茨城郡大洗町諏訪町2883"
       }
@@ -1922,6 +2025,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》保食神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町磯浜町81番地",
       "source_address_historical": "茨城県東茨城郡大洗町磯浜町81"
     },
@@ -1950,6 +2054,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》保食神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町磯浜町81番地",
         "source_address_historical": "茨城県東茨城郡大洗町磯浜町81"
       }
@@ -1968,8 +2073,7 @@
     "tags": [
       "机构公开名录",
       "含历史祭神表",
-      "未定位",
-      "同名条目待核"
+      "未定位"
     ],
     "intro": "茨城県東茨城郡大洗町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -2053,6 +2157,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》保食神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡大洗町磯浜町392番地",
       "source_address_historical": "茨城県東茨城郡大洗町磯浜町392"
     },
@@ -2081,6 +2186,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》保食神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡大洗町磯浜町392番地",
         "source_address_historical": "茨城県東茨城郡大洗町磯浜町392"
       }
@@ -2146,6 +2252,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町上圷199番地",
       "source_address_historical": ""
     },
@@ -2174,6 +2281,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町上圷199番地",
         "source_address_historical": ""
       }
@@ -2239,6 +2347,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町阿波山664番地",
       "source_address_historical": ""
     },
@@ -2267,6 +2376,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町阿波山664番地",
         "source_address_historical": ""
       }
@@ -2332,6 +2442,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町北方1483番地",
       "source_address_historical": ""
     },
@@ -2360,6 +2471,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町北方1483番地",
         "source_address_historical": ""
       }
@@ -2425,6 +2537,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町高久754番地",
       "source_address_historical": ""
     },
@@ -2453,6 +2566,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町高久754番地",
         "source_address_historical": ""
       }
@@ -2518,6 +2632,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町錫高野2288番地",
       "source_address_historical": ""
     },
@@ -2546,6 +2661,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町錫高野2288番地",
         "source_address_historical": ""
       }
@@ -2611,6 +2727,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町孫根443番地",
       "source_address_historical": ""
     },
@@ -2639,6 +2756,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町孫根443番地",
         "source_address_historical": ""
       }
@@ -2704,6 +2822,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町岩船606番地",
       "source_address_historical": ""
     },
@@ -2732,6 +2851,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町岩船606番地",
         "source_address_historical": ""
       }
@@ -2797,6 +2917,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町高根184番地",
       "source_address_historical": ""
     },
@@ -2825,6 +2946,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町高根184番地",
         "source_address_historical": ""
       }
@@ -2890,6 +3012,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町赤沢1332番地",
       "source_address_historical": ""
     },
@@ -2918,6 +3041,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町赤沢1332番地",
         "source_address_historical": ""
       }
@@ -2983,6 +3107,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町下阿野沢1319番地",
       "source_address_historical": ""
     },
@@ -3011,6 +3136,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町下阿野沢1319番地",
         "source_address_historical": ""
       }
@@ -3076,6 +3202,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町上古内238番地",
       "source_address_historical": ""
     },
@@ -3104,6 +3231,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町上古内238番地",
         "source_address_historical": ""
       }
@@ -3169,6 +3297,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町上入野2187番地",
       "source_address_historical": ""
     },
@@ -3197,6 +3326,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町上入野2187番地",
         "source_address_historical": ""
       }
@@ -3262,6 +3392,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町増井1087番地",
       "source_address_historical": ""
     },
@@ -3290,6 +3421,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町増井1087番地",
         "source_address_historical": ""
       }
@@ -3355,6 +3487,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町磯野637番地",
       "source_address_historical": ""
     },
@@ -3383,6 +3516,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町磯野637番地",
         "source_address_historical": ""
       }
@@ -3448,6 +3582,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町石塚1088番地",
       "source_address_historical": ""
     },
@@ -3476,6 +3611,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町石塚1088番地",
         "source_address_historical": ""
       }
@@ -3541,6 +3677,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町春園507番地",
       "source_address_historical": ""
     },
@@ -3569,6 +3706,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町春園507番地",
         "source_address_historical": ""
       }
@@ -3581,14 +3719,14 @@
     "name": "小坂神社",
     "kana": "こさかじんじゃ",
     "area": "全域",
-    "municipality": "〒311-4316城里町",
+    "municipality": "城里町",
     "aliases": [],
     "headline": "天手力雄命・倉稲魂命",
     "tags": [
       "机构公开名录",
       "未定位"
     ],
-    "intro": "茨城県〒311-4316城里町的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県城里町的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜小坂神社",
@@ -3615,7 +3753,7 @@
         "id": "08-agency-39353e35f19ca6:1",
         "name": "小坂神社",
         "label": "小坂神社",
-        "address": "茨城県〒311-4316 城里町小坂838",
+        "address": "茨城県城里町小坂838",
         "lat": null,
         "lon": null,
         "sources": [
@@ -3643,6 +3781,7 @@
       "kami_verbatim": "天手力雄命・倉稲魂命",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒311-4316 城里町小坂838",
       "source_address_historical": ""
     },
@@ -3651,7 +3790,7 @@
       "display_number": "08-01534",
       "index_name": "小坂神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/sirosato.html",
-      "listed_address": "茨城県〒311-4316 城里町小坂838",
+      "listed_address": "茨城県城里町小坂838",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/jinja/02139.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kenou/jinja/02139.html",
       "detail_status": "published_agency_record",
@@ -3671,6 +3810,7 @@
         "kami_verbatim": "天手力雄命・倉稲魂命",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒311-4316 城里町小坂838",
         "source_address_historical": ""
       }
@@ -3773,6 +3913,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》五十猛命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町上青山229番地",
       "source_address_historical": "茨城県東茨城郡城里町上青山229"
     },
@@ -3801,6 +3942,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》五十猛命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町上青山229番地",
         "source_address_historical": "茨城県東茨城郡城里町上青山229"
       }
@@ -3866,6 +4008,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町勝見沢87番地",
       "source_address_historical": ""
     },
@@ -3894,6 +4037,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町勝見沢87番地",
         "source_address_historical": ""
       }
@@ -3959,6 +4103,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町那珂西1484番地",
       "source_address_historical": ""
     },
@@ -3987,6 +4132,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町那珂西1484番地",
         "source_address_historical": ""
       }
@@ -4052,6 +4198,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町下古内207番地",
       "source_address_historical": ""
     },
@@ -4080,6 +4227,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町下古内207番地",
         "source_address_historical": ""
       }
@@ -4145,6 +4293,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町下古内1133番地",
       "source_address_historical": ""
     },
@@ -4173,6 +4322,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町下古内1133番地",
         "source_address_historical": ""
       }
@@ -4238,6 +4388,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町粟379番地",
       "source_address_historical": ""
     },
@@ -4266,6 +4417,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町粟379番地",
         "source_address_historical": ""
       }
@@ -4331,6 +4483,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町上赤沢198番地",
       "source_address_historical": ""
     },
@@ -4359,6 +4512,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町上赤沢198番地",
         "source_address_historical": ""
       }
@@ -4424,6 +4578,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町徳蔵879番地",
       "source_address_historical": ""
     },
@@ -4452,6 +4607,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町徳蔵879番地",
         "source_address_historical": ""
       }
@@ -4517,6 +4673,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町大網196番地",
       "source_address_historical": ""
     },
@@ -4545,6 +4702,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町大網196番地",
         "source_address_historical": ""
       }
@@ -4610,6 +4768,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町真端196番地",
       "source_address_historical": ""
     },
@@ -4638,6 +4797,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町真端196番地",
         "source_address_historical": ""
       }
@@ -4703,6 +4863,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町下赤沢150番地",
       "source_address_historical": ""
     },
@@ -4731,6 +4892,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町下赤沢150番地",
         "source_address_historical": ""
       }
@@ -4796,6 +4958,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町小勝1255番地1",
       "source_address_historical": ""
     },
@@ -4824,6 +4987,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町小勝1255番地1",
         "source_address_historical": ""
       }
@@ -4889,6 +5053,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "東茨城郡城里町塩子2852番地",
       "source_address_historical": ""
     },
@@ -4917,6 +5082,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "東茨城郡城里町塩子2852番地",
         "source_address_historical": ""
       }
@@ -4931,11 +5097,12 @@
     "area": "全域",
     "municipality": "坂東市",
     "aliases": [],
-    "headline": "历史表 · 経津主命",
+    "headline": "祭神未公布",
     "tags": [
       "机构公开名录",
-      "含历史祭神表",
-      "未定位"
+      "未定位",
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -4946,45 +5113,9 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
-      },
-      {
-        "label": "神社史研究会｜历史对应条目1344",
-        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=1344",
-        "kind": "研究会历史对应资料",
-        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
-        "checked": "2026-10-30",
-        "published": null,
-        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
-        "request": {
-          "method": "POST",
-          "parameters": {
-            "data_item": "shibu",
-            "data_choice": "8"
-          }
-        },
-        "profile_fetched": false
       }
     ],
-    "kami": [
-      {
-        "role": "原表《主》 · 历史检索表，非现况确认",
-        "names": [
-          "経津主命"
-        ],
-        "sources": [
-          1
-        ]
-      },
-      {
-        "role": "原表《配》 · 历史检索表，非现况确认",
-        "names": [
-          "軻遇突智命"
-        ],
-        "sources": [
-          1
-        ]
-      }
-    ],
+    "kami": [],
     "locations": [
       {
         "id": "08-agency-9fe1721050dded:1",
@@ -4999,20 +5130,10 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": "茨城県坂東市沓掛4124"
+        "legacy_address": null
       }
     ],
-    "facts": [
-      {
-        "label": "历史检索表对应",
-        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
-        "nature": "资料对应",
-        "sources": [
-          1,
-          0
-        ]
-      }
-    ],
+    "facts": [],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -5021,15 +5142,16 @@
     "media": [],
     "record_status": "directory_imported",
     "availability": {
-      "kami": "published",
+      "kami": "not_published",
       "history": "not_independently_researched"
     },
     "source_fields": {
       "kami_verbatim": "",
-      "historical_kami_verbatim": "《主》経津主命、《配》軻遇突智命",
+      "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市沓掛4124番地",
-      "source_address_historical": "茨城県坂東市沓掛4124"
+      "source_address_historical": ""
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/bandou.html#row-1",
@@ -5045,8 +5167,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/bandou.html#row-1",
-      "national_source_id": "1344",
-      "identity_match": "unique_name_address",
+      "national_source_id": null,
+      "identity_match": "not_merged",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -5054,10 +5176,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "",
-        "historical_kami_verbatim": "《主》経津主命、《配》軻遇突智命",
+        "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市沓掛4124番地",
-        "source_address_historical": "茨城県坂東市沓掛4124"
+        "source_address_historical": ""
       }
     }
   },
@@ -5121,6 +5244,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市大口新田41番地",
       "source_address_historical": ""
     },
@@ -5149,6 +5273,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市大口新田41番地",
         "source_address_historical": ""
       }
@@ -5214,6 +5339,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市幸田新田319番地4",
       "source_address_historical": ""
     },
@@ -5242,6 +5368,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市幸田新田319番地4",
         "source_address_historical": ""
       }
@@ -5307,6 +5434,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市平八新田41番地",
       "source_address_historical": ""
     },
@@ -5335,6 +5463,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市平八新田41番地",
         "source_address_historical": ""
       }
@@ -5400,6 +5529,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市神田山新田155番地",
       "source_address_historical": ""
     },
@@ -5428,6 +5558,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市神田山新田155番地",
         "source_address_historical": ""
       }
@@ -5493,6 +5624,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市勘助新田83番地",
       "source_address_historical": ""
     },
@@ -5521,6 +5653,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市勘助新田83番地",
         "source_address_historical": ""
       }
@@ -5586,6 +5719,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市生子3229番地",
       "source_address_historical": ""
     },
@@ -5614,6 +5748,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市生子3229番地",
         "source_address_historical": ""
       }
@@ -5679,6 +5814,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市生子新田152番地2",
       "source_address_historical": ""
     },
@@ -5707,6 +5843,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市生子新田152番地2",
         "source_address_historical": ""
       }
@@ -5772,6 +5909,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市生子3730番地",
       "source_address_historical": ""
     },
@@ -5800,6 +5938,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市生子3730番地",
         "source_address_historical": ""
       }
@@ -5865,6 +6004,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市生子1465番地",
       "source_address_historical": ""
     },
@@ -5893,6 +6033,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市生子1465番地",
         "source_address_historical": ""
       }
@@ -5958,6 +6099,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市生子1772番地",
       "source_address_historical": ""
     },
@@ -5986,6 +6128,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市生子1772番地",
         "source_address_historical": ""
       }
@@ -6051,6 +6194,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市生子2220番地",
       "source_address_historical": ""
     },
@@ -6079,6 +6223,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市生子2220番地",
         "source_address_historical": ""
       }
@@ -6144,6 +6289,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市生子632番地",
       "source_address_historical": ""
     },
@@ -6172,6 +6318,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市生子632番地",
         "source_address_historical": ""
       }
@@ -6190,7 +6337,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -6237,6 +6385,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市菅谷994番地",
       "source_address_historical": ""
     },
@@ -6265,6 +6414,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市菅谷994番地",
         "source_address_historical": ""
       }
@@ -6283,7 +6433,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -6330,6 +6481,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市山1番地",
       "source_address_historical": ""
     },
@@ -6358,6 +6510,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市山1番地",
         "source_address_historical": ""
       }
@@ -6423,6 +6576,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市内野山919番地",
       "source_address_historical": ""
     },
@@ -6451,6 +6605,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市内野山919番地",
         "source_address_historical": ""
       }
@@ -6516,6 +6671,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市沓掛3262番地1",
       "source_address_historical": ""
     },
@@ -6544,6 +6700,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市沓掛3262番地1",
         "source_address_historical": ""
       }
@@ -6609,6 +6766,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市沓掛844番地",
       "source_address_historical": ""
     },
@@ -6637,6 +6795,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市沓掛844番地",
         "source_address_historical": ""
       }
@@ -6702,6 +6861,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市沓掛4011番地",
       "source_address_historical": ""
     },
@@ -6730,6 +6890,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市沓掛4011番地",
         "source_address_historical": ""
       }
@@ -6748,7 +6909,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -6795,6 +6957,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市半谷455番地",
       "source_address_historical": ""
     },
@@ -6823,6 +6986,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市半谷455番地",
         "source_address_historical": ""
       }
@@ -6888,6 +7052,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市逆井1348番地",
       "source_address_historical": ""
     },
@@ -6916,6 +7081,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市逆井1348番地",
         "source_address_historical": ""
       }
@@ -6934,7 +7100,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -6981,6 +7148,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市逆井1044番地",
       "source_address_historical": ""
     },
@@ -7009,6 +7177,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市逆井1044番地",
         "source_address_historical": ""
       }
@@ -7074,6 +7243,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市長須1574番地",
       "source_address_historical": ""
     },
@@ -7102,6 +7272,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市長須1574番地",
         "source_address_historical": ""
       }
@@ -7120,7 +7291,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -7167,6 +7339,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市寺久114番地",
       "source_address_historical": ""
     },
@@ -7195,6 +7368,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市寺久114番地",
         "source_address_historical": ""
       }
@@ -7213,7 +7387,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -7260,6 +7435,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市みむら1632番地",
       "source_address_historical": ""
     },
@@ -7288,6 +7464,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市みむら1632番地",
         "source_address_historical": ""
       }
@@ -7353,6 +7530,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市法師戸327番地",
       "source_address_historical": ""
     },
@@ -7381,6 +7559,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市法師戸327番地",
         "source_address_historical": ""
       }
@@ -7446,6 +7625,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市下小泉795番地",
       "source_address_historical": ""
     },
@@ -7474,6 +7654,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市下小泉795番地",
         "source_address_historical": ""
       }
@@ -7539,6 +7720,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市矢作522番地",
       "source_address_historical": ""
     },
@@ -7567,6 +7749,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市矢作522番地",
         "source_address_historical": ""
       }
@@ -7585,7 +7768,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -7632,6 +7816,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市下出島205番地",
       "source_address_historical": ""
     },
@@ -7660,6 +7845,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市下出島205番地",
         "source_address_historical": ""
       }
@@ -7725,6 +7911,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市大崎793番地",
       "source_address_historical": ""
     },
@@ -7753,6 +7940,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市大崎793番地",
         "source_address_historical": ""
       }
@@ -7818,6 +8006,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市矢作3671番地4",
       "source_address_historical": ""
     },
@@ -7846,6 +8035,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市矢作3671番地4",
         "source_address_historical": ""
       }
@@ -7911,6 +8101,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市矢作2701番地",
       "source_address_historical": ""
     },
@@ -7939,6 +8130,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市矢作2701番地",
         "source_address_historical": ""
       }
@@ -8004,6 +8196,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市矢作2511番地",
       "source_address_historical": ""
     },
@@ -8032,6 +8225,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市矢作2511番地",
         "source_address_historical": ""
       }
@@ -8097,6 +8291,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市下大谷口708番地",
       "source_address_historical": ""
     },
@@ -8125,6 +8320,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市下大谷口708番地",
         "source_address_historical": ""
       }
@@ -8143,7 +8339,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -8190,6 +8387,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市中里1013番地",
       "source_address_historical": ""
     },
@@ -8218,6 +8416,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市中里1013番地",
         "source_address_historical": ""
       }
@@ -8283,6 +8482,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市神田山1375番地",
       "source_address_historical": ""
     },
@@ -8311,6 +8511,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市神田山1375番地",
         "source_address_historical": ""
       }
@@ -8376,6 +8577,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市神田山163番地",
       "source_address_historical": ""
     },
@@ -8404,6 +8606,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市神田山163番地",
         "source_address_historical": ""
       }
@@ -8469,6 +8672,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市猫実1415番地",
       "source_address_historical": ""
     },
@@ -8497,6 +8701,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市猫実1415番地",
         "source_address_historical": ""
       }
@@ -8515,7 +8720,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -8562,6 +8768,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市大口2197番地",
       "source_address_historical": ""
     },
@@ -8590,6 +8797,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市大口2197番地",
         "source_address_historical": ""
       }
@@ -8701,6 +8909,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》経津主命、《配》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市弓田273番地",
       "source_address_historical": "茨城県坂東市弓田273"
     },
@@ -8729,6 +8938,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》経津主命、《配》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市弓田273番地",
         "source_address_historical": "茨城県坂東市弓田273"
       }
@@ -8794,6 +9004,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市幸田349番地",
       "source_address_historical": ""
     },
@@ -8822,6 +9033,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市幸田349番地",
         "source_address_historical": ""
       }
@@ -8840,7 +9052,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -8887,6 +9100,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市駒跿44番地",
       "source_address_historical": ""
     },
@@ -8915,6 +9129,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市駒跿44番地",
         "source_address_historical": ""
       }
@@ -8933,7 +9148,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -8980,6 +9196,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市富田661番地",
       "source_address_historical": ""
     },
@@ -9008,6 +9225,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市富田661番地",
         "source_address_historical": ""
       }
@@ -9026,7 +9244,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -9073,6 +9292,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市借宿78番地",
       "source_address_historical": ""
     },
@@ -9101,6 +9321,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市借宿78番地",
         "source_address_historical": ""
       }
@@ -9166,6 +9387,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市馬立84番地",
       "source_address_historical": ""
     },
@@ -9194,6 +9416,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市馬立84番地",
         "source_address_historical": ""
       }
@@ -9259,6 +9482,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市神田山2736番地",
       "source_address_historical": ""
     },
@@ -9287,6 +9511,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市神田山2736番地",
         "source_address_historical": ""
       }
@@ -9390,6 +9615,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》大己貴命、平将門",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市岩井951番地",
       "source_address_historical": "茨城県坂東市岩井951"
     },
@@ -9418,6 +9644,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》大己貴命、平将門",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市岩井951番地",
         "source_address_historical": "茨城県坂東市岩井951"
       }
@@ -9483,6 +9710,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市岩井4754番地",
       "source_address_historical": ""
     },
@@ -9511,6 +9739,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市岩井4754番地",
         "source_address_historical": ""
       }
@@ -9576,6 +9805,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市上出島1280番地",
       "source_address_historical": ""
     },
@@ -9604,6 +9834,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市上出島1280番地",
         "source_address_historical": ""
       }
@@ -9622,7 +9853,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -9669,6 +9901,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市上出島1193番地",
       "source_address_historical": ""
     },
@@ -9697,6 +9930,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市上出島1193番地",
         "source_address_historical": ""
       }
@@ -9762,6 +9996,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市上出島429番地",
       "source_address_historical": ""
     },
@@ -9790,6 +10025,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市上出島429番地",
         "source_address_historical": ""
       }
@@ -9808,7 +10044,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -9855,6 +10092,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市辺田687番地",
       "source_address_historical": ""
     },
@@ -9883,6 +10121,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市辺田687番地",
         "source_address_historical": ""
       }
@@ -9948,6 +10187,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市岩井3456番地",
       "source_address_historical": ""
     },
@@ -9976,6 +10216,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市岩井3456番地",
         "source_address_historical": ""
       }
@@ -10041,6 +10282,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市鵠戸904番地",
       "source_address_historical": ""
     },
@@ -10069,6 +10311,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市鵠戸904番地",
         "source_address_historical": ""
       }
@@ -10134,6 +10377,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市岩井1584番地",
       "source_address_historical": ""
     },
@@ -10162,6 +10406,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市岩井1584番地",
         "source_address_historical": ""
       }
@@ -10180,7 +10425,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -10227,6 +10473,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市長谷3069番地",
       "source_address_historical": ""
     },
@@ -10255,6 +10502,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市長谷3069番地",
         "source_address_historical": ""
       }
@@ -10273,7 +10521,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -10320,6 +10569,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市莚打746番地",
       "source_address_historical": ""
     },
@@ -10348,6 +10598,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市莚打746番地",
         "source_address_historical": ""
       }
@@ -10366,7 +10617,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -10413,6 +10665,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市桐ノ木270番地",
       "source_address_historical": ""
     },
@@ -10441,6 +10694,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市桐ノ木270番地",
         "source_address_historical": ""
       }
@@ -10459,7 +10713,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -10506,6 +10761,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市小山989番地",
       "source_address_historical": ""
     },
@@ -10534,6 +10790,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市小山989番地",
         "source_address_historical": ""
       }
@@ -10552,7 +10809,8 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布"
+      "祭神未公布",
+      "同名条目待核"
     ],
     "intro": "茨城県坂東市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -10599,6 +10857,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "坂東市庄右衛門新田188番地",
       "source_address_historical": ""
     },
@@ -10627,6 +10886,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "坂東市庄右衛門新田188番地",
         "source_address_historical": ""
       }
@@ -10692,6 +10952,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町小手指75番地",
       "source_address_historical": ""
     },
@@ -10720,6 +10981,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町小手指75番地",
         "source_address_historical": ""
       }
@@ -10785,6 +11047,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町小福田58番地",
       "source_address_historical": ""
     },
@@ -10813,6 +11076,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町小福田58番地",
         "source_address_historical": ""
       }
@@ -10878,6 +11142,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町川妻116番地",
       "source_address_historical": ""
     },
@@ -10906,6 +11171,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町川妻116番地",
         "source_address_historical": ""
       }
@@ -10971,6 +11237,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町元栗橋184番地",
       "source_address_historical": ""
     },
@@ -10999,6 +11266,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町元栗橋184番地",
         "source_address_historical": ""
       }
@@ -11064,6 +11332,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町元栗橋5107番地",
       "source_address_historical": ""
     },
@@ -11092,6 +11361,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町元栗橋5107番地",
         "source_address_historical": ""
       }
@@ -11157,6 +11427,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町元栗橋2943番地",
       "source_address_historical": ""
     },
@@ -11185,6 +11456,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町元栗橋2943番地",
         "source_address_historical": ""
       }
@@ -11250,6 +11522,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町元栗橋2904番地",
       "source_address_historical": ""
     },
@@ -11278,6 +11551,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町元栗橋2904番地",
         "source_address_historical": ""
       }
@@ -11343,6 +11617,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町元栗橋1404番地",
       "source_address_historical": ""
     },
@@ -11371,6 +11646,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町元栗橋1404番地",
         "source_address_historical": ""
       }
@@ -11436,6 +11712,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町幸主215番地",
       "source_address_historical": ""
     },
@@ -11464,6 +11741,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町幸主215番地",
         "source_address_historical": ""
       }
@@ -11529,6 +11807,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町幸主34番地",
       "source_address_historical": ""
     },
@@ -11557,6 +11836,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町幸主34番地",
         "source_address_historical": ""
       }
@@ -11622,6 +11902,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町山王289番地",
       "source_address_historical": ""
     },
@@ -11650,6 +11931,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町山王289番地",
         "source_address_historical": ""
       }
@@ -11715,6 +11997,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町山王山707番地",
       "source_address_historical": ""
     },
@@ -11743,6 +12026,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町山王山707番地",
         "source_address_historical": ""
       }
@@ -11808,6 +12092,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町新幸谷74番地",
       "source_address_historical": ""
     },
@@ -11836,6 +12121,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町新幸谷74番地",
         "source_address_historical": ""
       }
@@ -11901,6 +12187,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町大福田947番地1",
       "source_address_historical": ""
     },
@@ -11929,6 +12216,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町大福田947番地1",
         "source_address_historical": ""
       }
@@ -11994,6 +12282,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町元栗橋166番地",
       "source_address_historical": ""
     },
@@ -12022,6 +12311,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町元栗橋166番地",
         "source_address_historical": ""
       }
@@ -12087,6 +12377,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町江川1618番地",
       "source_address_historical": ""
     },
@@ -12115,6 +12406,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町江川1618番地",
         "source_address_historical": ""
       }
@@ -12180,6 +12472,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町江川1616番地",
       "source_address_historical": ""
     },
@@ -12208,6 +12501,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町江川1616番地",
         "source_address_historical": ""
       }
@@ -12273,6 +12567,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町江川1699番地",
       "source_address_historical": ""
     },
@@ -12301,6 +12596,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町江川1699番地",
         "source_address_historical": ""
       }
@@ -12366,6 +12662,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "猿島郡五霞町冬木1458番地",
       "source_address_historical": ""
     },
@@ -12394,6 +12691,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "猿島郡五霞町冬木1458番地",
         "source_address_historical": ""
       }
@@ -12496,6 +12794,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》菅原道真",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市大生郷町1234番地",
       "source_address_historical": "茨城県常総市大生郷町1234"
     },
@@ -12524,6 +12823,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》菅原道真",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市大生郷町1234番地",
         "source_address_historical": "茨城県常総市大生郷町1234"
       }
@@ -12636,6 +12936,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》菅原道真、《配》紅梅姫命、須佐之雄命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市水海道天満町2487番地",
       "source_address_historical": "茨城県常総市水海道天満町2487"
     },
@@ -12664,6 +12965,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》菅原道真、《配》紅梅姫命、須佐之雄命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市水海道天満町2487番地",
         "source_address_historical": "茨城県常総市水海道天満町2487"
       }
@@ -12676,14 +12978,15 @@
     "name": "一言主神社",
     "kana": "ひとことぬしじんじゃ",
     "area": "全域",
-    "municipality": "〒300-0045常総市",
+    "municipality": "常総市",
     "aliases": [],
     "headline": "一言主大神（事代主之神 ことしろぬ しのかみ）",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "茨城県〒300-0045常総市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県常総市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜一言主神社",
@@ -12692,6 +12995,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目1327",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=1327",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "8"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -12703,6 +13023,15 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "一言主大神"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -12710,7 +13039,7 @@
         "id": "08-agency-ee4a30ce6e4f5e:1",
         "name": "一言主神社",
         "label": "一言主神社",
-        "address": "茨城県〒300-0045 常総市大塚戸町875",
+        "address": "茨城県常総市大塚戸町875",
         "lat": null,
         "lon": null,
         "sources": [
@@ -12719,10 +13048,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "茨城県常総市大塚戸町875"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -12736,17 +13075,18 @@
     },
     "source_fields": {
       "kami_verbatim": "一言主大神（事代主之神 ことしろぬ しのかみ）",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》一言主大神",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒300-0045 常総市大塚戸町875",
-      "source_address_historical": ""
+      "source_address_historical": "茨城県常総市大塚戸町875"
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/joso.html#row-3",
       "display_number": "08-01629",
       "index_name": "一言主神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/joso.html",
-      "listed_address": "茨城県〒300-0045 常総市大塚戸町875",
+      "listed_address": "茨城県常総市大塚戸町875",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/jinja/13049.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/jinja/13049.html",
       "detail_status": "published_agency_record",
@@ -12755,8 +13095,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/joso.html#row-3",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "1327",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -12764,10 +13104,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "一言主大神（事代主之神 ことしろぬ しのかみ）",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》一言主大神",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒300-0045 常総市大塚戸町875",
-        "source_address_historical": ""
+        "source_address_historical": "茨城県常総市大塚戸町875"
       }
     }
   },
@@ -12784,8 +13125,7 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布",
-      "同名条目待核"
+      "祭神未公布"
     ],
     "intro": "茨城県常総市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -12832,6 +13172,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市坂手町1174番地",
       "source_address_historical": ""
     },
@@ -12860,6 +13201,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市坂手町1174番地",
         "source_address_historical": ""
       }
@@ -12925,6 +13267,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市坂手町1719番地",
       "source_address_historical": ""
     },
@@ -12953,6 +13296,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市坂手町1719番地",
         "source_address_historical": ""
       }
@@ -13018,6 +13362,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市坂手町2284番地",
       "source_address_historical": ""
     },
@@ -13046,6 +13391,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市坂手町2284番地",
         "source_address_historical": ""
       }
@@ -13058,14 +13404,15 @@
     "name": "八幡神社",
     "kana": "はちまんじんじゃ",
     "area": "全域",
-    "municipality": "〒303-0003常総市",
+    "municipality": "常総市",
     "aliases": [],
     "headline": "誉田別命（応神天皇） 配祀 大己貴命 建速須佐之男命 宇賀魂命",
     "tags": [
       "机构公开名录",
+      "含历史祭神表",
       "未定位"
     ],
-    "intro": "茨城県〒303-0003常総市的来源记录；具体所在地与祭神保留逐项出处。",
+    "intro": "茨城県常総市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
       {
         "label": "茨城県神社庁｜八幡神社",
@@ -13074,6 +13421,23 @@
         "covers": "对应公开字段；不推断来源未公布的祭神、现况或坐标。",
         "checked": "2026-10-30",
         "published": null
+      },
+      {
+        "label": "神社史研究会｜历史对应条目1328",
+        "url": "https://jinja-net.jp/jinja-all/jsearch3all.php?jinjya=1328",
+        "kind": "研究会历史对应资料",
+        "covers": "按唯一的社名及规范化地址对应；保留旧表祭神及地址，不能自动解释为当前奉祀。",
+        "checked": "2026-10-30",
+        "published": null,
+        "retrieved_from": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+        "request": {
+          "method": "POST",
+          "parameters": {
+            "data_item": "shibu",
+            "data_choice": "8"
+          }
+        },
+        "profile_fetched": false
       }
     ],
     "kami": [
@@ -13085,6 +13449,26 @@
         "sources": [
           0
         ]
+      },
+      {
+        "role": "原表《主》 · 历史检索表，非现况确认",
+        "names": [
+          "誉田別命"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "role": "原表《配》 · 历史检索表，非现况确认",
+        "names": [
+          "大己貴命",
+          "建速須佐之男命",
+          "宇賀魂命"
+        ],
+        "sources": [
+          1
+        ]
       }
     ],
     "locations": [
@@ -13092,7 +13476,7 @@
         "id": "08-agency-1c5feca0fb5ebf:1",
         "name": "八幡神社",
         "label": "八幡神社",
-        "address": "茨城県〒303-0003 常総市水海道橋本町3329",
+        "address": "茨城県常総市水海道橋本町3329",
         "lat": null,
         "lon": null,
         "sources": [
@@ -13101,10 +13485,20 @@
         "map_status": "not_published",
         "precision": "未取得来源实际公布的经纬度；不将地址查询地图转为估算点。",
         "address_status": "published",
-        "legacy_address": null
+        "legacy_address": "茨城県常総市水海道橋本町3329"
       }
     ],
-    "facts": [],
+    "facts": [
+      {
+        "label": "历史检索表对应",
+        "text": "同一地区结果中社名与地址可唯一对应；历史表与机构字段分别保留，不把来源间的差异直接订正为统一结论。",
+        "nature": "资料对应",
+        "sources": [
+          1,
+          0
+        ]
+      }
+    ],
     "note": "本条依据机构公开名录字段整理。收录范围以该机构实际公开目录为限，未独立逐社核验全部由绪或祭祀现况。",
     "noteSources": [
       0
@@ -13118,17 +13512,18 @@
     },
     "source_fields": {
       "kami_verbatim": "誉田別命（応神天皇） 配祀 大己貴命 建速須佐之男命 宇賀魂命",
-      "historical_kami_verbatim": "",
+      "historical_kami_verbatim": "《主》誉田別命、《配》大己貴命、建速須佐之男命、宇賀魂命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "〒303-0003 常総市水海道橋本町3329",
-      "source_address_historical": ""
+      "source_address_historical": "茨城県常総市水海道橋本町3329"
     },
     "directory": {
       "number": "A-https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/joso.html#row-7",
       "display_number": "08-01633",
       "index_name": "八幡神社",
       "index_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/joso.html",
-      "listed_address": "茨城県〒303-0003 常総市水海道橋本町3329",
+      "listed_address": "茨城県常総市水海道橋本町3329",
       "original_detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/jinja/13053.html",
       "detail_url": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/jinja/13053.html",
       "detail_status": "published_agency_record",
@@ -13137,8 +13532,8 @@
     },
     "provenance": {
       "agency_source_id": "https://www.ibarakiken-jinjacho.or.jp/ibaraki/kensei/joso.html#row-7",
-      "national_source_id": null,
-      "identity_match": "not_merged",
+      "national_source_id": "1328",
+      "identity_match": "unique_name_address",
       "historical_only": false,
       "address_precision": null,
       "source_vintage": null,
@@ -13146,10 +13541,11 @@
       "source_field_anomalies": null,
       "source_fields": {
         "kami_verbatim": "誉田別命（応神天皇） 配祀 大己貴命 建速須佐之男命 宇賀魂命",
-        "historical_kami_verbatim": "",
+        "historical_kami_verbatim": "《主》誉田別命、《配》大己貴命、建速須佐之男命、宇賀魂命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "〒303-0003 常総市水海道橋本町3329",
-        "source_address_historical": ""
+        "source_address_historical": "茨城県常総市水海道橋本町3329"
       }
     }
   },
@@ -13213,6 +13609,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市水海道淵頭町4580番地",
       "source_address_historical": ""
     },
@@ -13241,6 +13638,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市水海道淵頭町4580番地",
         "source_address_historical": ""
       }
@@ -13307,6 +13705,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市三坂町892番地,891番地1,886番地1",
       "source_address_historical": ""
     },
@@ -13335,6 +13734,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市三坂町892番地,891番地1,886番地1",
         "source_address_historical": ""
       }
@@ -13400,6 +13800,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市原298番地",
       "source_address_historical": ""
     },
@@ -13428,6 +13829,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市原298番地",
         "source_address_historical": ""
       }
@@ -13539,6 +13941,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》天熊大人命、《配》稚彦命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市国生1186番地",
       "source_address_historical": "茨城県常総市国生1186"
     },
@@ -13567,6 +13970,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》天熊大人命、《配》稚彦命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市国生1186番地",
         "source_address_historical": "茨城県常総市国生1186"
       }
@@ -13681,6 +14085,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》武甕槌命、《配》別雷神、軻遇突知命、素盞嗚命、倉稲魂命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市若宮戸144番地",
       "source_address_historical": "茨城県常総市若宮戸144"
     },
@@ -13709,6 +14114,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》武甕槌命、《配》別雷神、軻遇突知命、素盞嗚命、倉稲魂命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市若宮戸144番地",
         "source_address_historical": "茨城県常総市若宮戸144"
       }
@@ -13820,6 +14226,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "《主》菅原道真、《配》素盞嗚命",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市原宿345番地",
       "source_address_historical": "茨城県常総市原宿345"
     },
@@ -13848,6 +14255,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "《主》菅原道真、《配》素盞嗚命",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市原宿345番地",
         "source_address_historical": "茨城県常総市原宿345"
       }
@@ -13913,6 +14321,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市小俣川1338番地",
       "source_address_historical": ""
     },
@@ -13941,6 +14350,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市小俣川1338番地",
         "source_address_historical": ""
       }
@@ -13959,8 +14369,7 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布",
-      "同名条目待核"
+      "祭神未公布"
     ],
     "intro": "茨城県常総市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -14007,6 +14416,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市本石下100番地,101番地,102番地",
       "source_address_historical": ""
     },
@@ -14035,6 +14445,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市本石下100番地,101番地,102番地",
         "source_address_historical": ""
       }
@@ -14100,6 +14511,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市新石下219番地",
       "source_address_historical": ""
     },
@@ -14128,6 +14540,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市新石下219番地",
         "source_address_historical": ""
       }
@@ -14146,8 +14559,7 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布",
-      "同名条目待核"
+      "祭神未公布"
     ],
     "intro": "茨城県常総市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -14194,6 +14606,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市本石下2071番地",
       "source_address_historical": ""
     },
@@ -14222,6 +14635,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市本石下2071番地",
         "source_address_historical": ""
       }
@@ -14287,6 +14701,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市新石下137番地",
       "source_address_historical": ""
     },
@@ -14315,6 +14730,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市新石下137番地",
         "source_address_historical": ""
       }
@@ -14333,8 +14749,7 @@
     "tags": [
       "机构公开名录",
       "未定位",
-      "祭神未公布",
-      "同名条目待核"
+      "祭神未公布"
     ],
     "intro": "茨城県常総市的来源记录；具体所在地与祭神保留逐项出处。",
     "sources": [
@@ -14381,6 +14796,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市大房9番地",
       "source_address_historical": ""
     },
@@ -14409,6 +14825,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市大房9番地",
         "source_address_historical": ""
       }
@@ -14474,6 +14891,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市新石下1362番地",
       "source_address_historical": ""
     },
@@ -14502,6 +14920,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市新石下1362番地",
         "source_address_historical": ""
       }
@@ -14567,6 +14986,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市蔵持588番地",
       "source_address_historical": ""
     },
@@ -14595,6 +15015,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市蔵持588番地",
         "source_address_historical": ""
       }
@@ -14660,6 +15081,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市篠山76番地",
       "source_address_historical": ""
     },
@@ -14688,6 +15110,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市篠山76番地",
         "source_address_historical": ""
       }
@@ -14753,6 +15176,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市杉山226番地",
       "source_address_historical": ""
     },
@@ -14781,6 +15205,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市杉山226番地",
         "source_address_historical": ""
       }
@@ -14846,6 +15271,7 @@
       "kami_verbatim": "",
       "historical_kami_verbatim": "",
       "former_rank": "",
+      "listed_region": null,
       "source_address_current": "常総市岡田584番地",
       "source_address_historical": ""
     },
@@ -14874,6 +15300,7 @@
         "kami_verbatim": "",
         "historical_kami_verbatim": "",
         "former_rank": "",
+        "listed_region": null,
         "source_address_current": "常総市岡田584番地",
         "source_address_historical": ""
       }

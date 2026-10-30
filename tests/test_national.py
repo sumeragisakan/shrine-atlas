@@ -8,7 +8,7 @@ import unittest
 
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
-from import_prefecture import kami_groups,published,office
+from import_prefecture import kami_groups,published,office,clean_address,address_key,municipality
 
 class NationwideCatalogTests(unittest.TestCase):
     @classmethod
@@ -25,6 +25,17 @@ class NationwideCatalogTests(unittest.TestCase):
             self.assertEqual(len({r['id']for r in rows}),len(rows))
             self.assertTrue(all(r['prefecture_code']==region['code']for r in rows))
             self.assertTrue((ROOT/region['offline']).is_file())
+    def test_postal_prefix_is_formatting_not_a_locality_or_identity_difference(self):
+        raw='〒 021-0015 一関市山目字舘５６番地'
+        self.assertEqual(clean_address(raw),'一関市山目字舘５６番地')
+        self.assertEqual(clean_address('〒0210901 一関市'),'一関市')
+        self.assertEqual(clean_address('029-0301 一関市'),'一関市')
+        self.assertEqual(clean_address('(本宮)〒010-0063 秋田市'),'秋田市')
+        self.assertEqual(municipality(clean_address(raw),'岩手県'),'一関市')
+        self.assertEqual(address_key(raw,'岩手県'),address_key('岩手県一関市山目字舘56番地','岩手県'))
+        self.assertEqual(municipality('所在地未公布','熊本県','球磨郡球磨村一勝地'),'所在地未详')
+        self.assertEqual(clean_address('高知県護国神社 〒781-8126 高知県高知市吸江213','高知県護国神社'),'高知県高知市吸江213')
+
     def test_source_role_markers_and_unknown_values_do_not_become_invented_deities(self):
         groups=kami_groups('《合》倉稲魂命、《主》大山祇命、《配》木花咲耶姫命',0,True)
         self.assertEqual([g['names']for g in groups],[['倉稲魂命'],['大山祇命'],['木花咲耶姫命']])

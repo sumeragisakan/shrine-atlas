@@ -5,19 +5,19 @@
   "checked": "2026-10-30",
   "scope": "高知県・机构公开资料与研究会检索名录",
   "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
-  "directory_rows": 2202,
-  "records": 2202,
+  "directory_rows": 2201,
+  "records": 2201,
   "directory_indexes": 2,
   "baseline_rows": 2178,
   "agency_rows": 38,
   "excluded_source_rows": [],
-  "matched_historical_rows": 14,
-  "historical_only_records": 2164,
+  "matched_historical_rows": 15,
+  "historical_only_records": 2163,
   "with_deities": 1881,
   "mapped_locations": 0,
   "enriched_records": 0,
   "details_matched": 0,
-  "records_with_detail_links": 2202,
+  "records_with_detail_links": 2201,
   "municipalities": [
     {
       "municipality": "中村市",
@@ -298,14 +298,6 @@
       "with_deities": 14,
       "mapped_locations": 0,
       "without_coordinates": 57
-    },
-    {
-      "municipality": "護国神社〒781-8126高知県高知市",
-      "area": "全域",
-      "records": 1,
-      "with_deities": 0,
-      "mapped_locations": 0,
-      "without_coordinates": 1
     },
     {
       "municipality": "長岡郡大豊町",
@@ -770,7 +762,7 @@
   ],
   "link_corrections": [],
   "missing_fields_summary": {
-    "deities": 321,
-    "unmapped_records": 2202
+    "deities": 320,
+    "unmapped_records": 2201
   }
 }
