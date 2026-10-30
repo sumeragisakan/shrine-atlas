@@ -1586,16 +1586,21 @@
       "code": 47,
       "name": "沖縄県",
       "slug": "okinawa",
-      "status": "pending",
-      "records": 0,
+      "status": "ready",
+      "records": 20,
       "mapped_locations": 0,
-      "with_deities": 0,
-      "collections": [],
-      "coverage": null,
-      "database": null,
-      "offline": null,
-      "historical_only_records": 0,
-      "agency_rows": 0
+      "with_deities": 19,
+      "collections": [
+        "data/shrines/47-okinawa/agency-001.json",
+        "data/shrines/47-okinawa/history-001.json"
+      ],
+      "coverage": "data/coverage/47-okinawa.json",
+      "database": "database/prefectures/47-okinawa.sqlite.gz",
+      "offline": "offline/prefectures/47-okinawa.html",
+      "historical_only_records": 10,
+      "agency_rows": 10,
+      "checked": "2026-10-30",
+      "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。"
     }
   ],
   "collections": [
@@ -2347,14 +2352,16 @@
     "data/shrines/46-kagoshima/history-005.json",
     "data/shrines/46-kagoshima/history-006.json",
     "data/shrines/46-kagoshima/history-007.json",
-    "data/shrines/46-kagoshima/history-008.json"
+    "data/shrines/46-kagoshima/history-008.json",
+    "data/shrines/47-okinawa/agency-001.json",
+    "data/shrines/47-okinawa/history-001.json"
   ],
   "coverage_note": "机构公开名录与明确标记的研究会历史条目；不同来源的范围和缺失字段逐地区说明。",
   "totals": {
-    "regions": 46,
-    "records": 104560,
+    "regions": 47,
+    "records": 104580,
     "mapped_locations": 14839,
-    "with_deities": 86005,
-    "historical_only_records": 53810
+    "with_deities": 86024,
+    "historical_only_records": 53820
   }
 }

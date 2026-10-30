@@ -1,0 +1,167 @@
+{
+  "code": 47,
+  "name": "沖縄県",
+  "slug": "okinawa",
+  "checked": "2026-10-30",
+  "scope": "沖縄県・机构公开资料与研究会检索名录",
+  "scope_note": "按来源实际公开范围整理。历史资料与机构名录分开标示；仅将唯一同名同址记录对应，其他可能重复条目保留待核。不能据此推断现今全部实存神社或全数现址。",
+  "directory_rows": 20,
+  "records": 20,
+  "directory_indexes": 2,
+  "baseline_rows": 11,
+  "agency_rows": 10,
+  "excluded_source_rows": [],
+  "matched_historical_rows": 1,
+  "historical_only_records": 10,
+  "with_deities": 19,
+  "mapped_locations": 0,
+  "enriched_records": 0,
+  "details_matched": 0,
+  "records_with_detail_links": 20,
+  "municipalities": [
+    {
+      "municipality": "宜野湾市",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "宮古島市",
+      "area": "全域",
+      "records": 2,
+      "with_deities": 2,
+      "mapped_locations": 0,
+      "without_coordinates": 2
+    },
+    {
+      "municipality": "波上宮内沖縄県那覇市",
+      "area": "全域",
+      "records": 1,
+      "with_deities": 1,
+      "mapped_locations": 0,
+      "without_coordinates": 1
+    },
+    {
+      "municipality": "那覇市",
+      "area": "全域",
+      "records": 15,
+      "with_deities": 15,
+      "mapped_locations": 0,
+      "without_coordinates": 15
+    }
+  ],
+  "collections": [
+    "data/shrines/47-okinawa/agency-001.json",
+    "data/shrines/47-okinawa/history-001.json"
+  ],
+  "indexes": [
+    {
+      "label": "神社史研究会・地区检索（POST）",
+      "url": "https://jinja-net.jp/jinja-all/jsearch4all.php",
+      "entries": 11,
+      "request": {
+        "method": "POST",
+        "parameters": {
+          "data_item": "shibu",
+          "data_choice": "47"
+        }
+      }
+    },
+    {
+      "label": "沖縄県神社庁",
+      "url": "https://jinjacho.naminouegu.jp/",
+      "entries": null
+    }
+  ],
+  "agency_scopes": [
+    {
+      "provider": "沖縄県神社庁",
+      "label": "沖縄県神社庁",
+      "scope_note": "The ten shrines explicitly listed as affiliated by the official Okinawa agency. All ten directory entries captured; six agency profiles and linked shrine-owned websites supply factual deity sections. Other Okinawa shrines outside this affiliation list are outside scope. Explicit profile shrine address used where it differs from the directory office/contact address. Map viewport coordinates were not treated as shrine coordinates.",
+      "expected_rows": 10,
+      "pagination_complete": true,
+      "failures": [],
+      "profile_counts": null,
+      "detail_completion": null,
+      "source_vintage": null,
+      "historical_source": null,
+      "profile_publication_dates": null,
+      "profile_field_coverage": null,
+      "collection_interruption": null,
+      "supplemental_api_access": null,
+      "detail_pages_total": null,
+      "detail_pages_loaded": null,
+      "detail_pages_complete": null,
+      "detail_scope_note": null,
+      "collection_stopped_reason": null,
+      "warnings": null,
+      "potential_duplicate_profile_groups": null
+    }
+  ],
+  "coordinate_quarantine": [],
+  "duplicate_candidates": [
+    {
+      "ids": [
+        "47-agency-87982fe68e184f",
+        "47-history-d1d55927b7ca5a"
+      ],
+      "name": "識名宮",
+      "municipality": "那覇市"
+    },
+    {
+      "ids": [
+        "47-agency-14ead202bf0ec5",
+        "47-history-00946576dbe002"
+      ],
+      "name": "八幡宮",
+      "municipality": "那覇市"
+    },
+    {
+      "ids": [
+        "47-agency-f8fde1164b2d29",
+        "47-history-cde604b12bbfb4"
+      ],
+      "name": "末吉宮",
+      "municipality": "那覇市"
+    },
+    {
+      "ids": [
+        "47-agency-2bb2bc02ab5e96",
+        "47-history-153cc80435b41c"
+      ],
+      "name": "天久宮",
+      "municipality": "那覇市"
+    },
+    {
+      "ids": [
+        "47-agency-f5827a801b008f",
+        "47-history-5834f64d198cff"
+      ],
+      "name": "宮古神社",
+      "municipality": "宮古島市"
+    },
+    {
+      "ids": [
+        "47-agency-636b535f2c2a04",
+        "47-history-69ff8dea8cc153"
+      ],
+      "name": "浮島神社",
+      "municipality": "那覇市"
+    },
+    {
+      "ids": [
+        "47-agency-1684066ea2d5e4",
+        "47-history-e4d731551917d2"
+      ],
+      "name": "沖縄神社",
+      "municipality": "那覇市"
+    }
+  ],
+  "link_corrections": [],
+  "missing_fields_summary": {
+    "deities": 1,
+    "unmapped_records": 20
+  }
+}
